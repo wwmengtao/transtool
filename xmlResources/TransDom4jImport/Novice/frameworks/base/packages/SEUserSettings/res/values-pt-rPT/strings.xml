@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"Definições"</string>
+    <string name="user_setup_button_setup_later">"Agora não"</string>
+    <string name="user_set_lock_button">Definir bloqueio</string>
+    <string name="done_button">"Concluído"</string>
+    <string name="user_restrictions_controlled_by">Controlado por <xliff:g id="app">%1$s</xliff:g></string>
+    <string name="help_label">"ajuda"</string>
+    <string name="user_normal_mode">Abrir a zona</string>
+    <string name="user_privacy_mgt_summary">Restringir as aplicações, impedindo-as de aceder aos contatos, mensagens e registo de chamadas.</string>
+    <string name="user_config_apps_for_seuser">Configurações de aplicações na zona atual</string>
+    <string name="user_auto_start_user">Iniciar no arranque</string>
+    <string name="user_guide_desc_1">A zona segura permite-lhe configurar as aplicações, contas, padrões de fundo e palavras-passe de bloqueio de ecrã que são diferentes das apresentadas na zona atual. Toque no ícone de \"Zona segura\" na barra de estado para mudar rapidamente entre zonas.</string>
+    <string name="user_bgapp_mgt_summary">Bloqueie o arranque automático de aplicações e termine os processos em segundo plano.</string>
+    <string name="user_guide_desc_2">Prima continuamente o ícone de \"Zona segura\" na barra de estado para aceder à interface de configuração da zona atual. Pode configurar a aplicação que necessita de instalar na zona atual.</string>
+    <string name="user_guide_desc_3">Na zona aberta, todas as notificações de aplicações na zona segura também serão apresentadas na barra de estado. Aparece um ponto vermelho no ícone de notificação para o diferenciar das notificações na zona atual. Mude as zonas para ver as notificações.</string>
+    <string name="user_remove_secure_user_msg">Todos os dados de aplicações, fotografias e ficheiros na zona segura serão eliminados. Eliminar?</string>
+    <string name="user_need_lockscreen_for_seuser_msg">É necessário definir o bloqueio do ecrã para proteger as aplicações e os dados na zona segura.</string>
+    <string name="user_guide_desc_4">Os dados e os documentos da aplicação nas duas zonas são mantidos completamente isolados. Os conteúdos do armazenamento interno da zona aberta podem ser visualizados no diretório OpenUserData do armazenamento interno da zona segura, mas não o inverso. O registo de chamadas, o registo de mensagens e os contactos são partilhados entre as duas zonas, para garantir o funcionamento normal das funções de chamada e de mensagens em ambas as zonas.</string>
+    <string name="user_share_data_summary">Partilhar contactos, mensagens de texto, registos de chamadas e outros dados nas duas zonas só se torna efetivo após reiniciar</string>
+    <string name="user_share_data">Partilha de dados</string>
+    <string name="user_uninstall_app_msg">Pretende desinstalar esta aplicação na zona atual?</string>
+    <string name="user_security_mode">Zona segura</string>
+    <string name="user_auto_start_user_summary">Iniciar automaticamente a zona segura em segundo plano no arranque</string>
+    <string name="user_guide_title_2">Configurar zona atual </string>
+    <string name="user_setup_seuser_msg">Zona segura ativada. Pretende configurá-la agora?</string>
+    <string name="user_guide_title_3">Notificações da zona cruzada</string>
+    <string name="user_remove_secure_user">Eliminar zona segura</string>
+    <string name="user_guide_title_1">Introdução à zona segura</string>
+    <string name="user_bgapp_mgt">Restringir aplicações em segundo plano</string>
+    <string name="user_add_seuser_msg">Ativar zona segura?</string>
+    <string name="user_guide_title_4">Isolamento e partilha de dados </string>
+    <string name="user_privacy_mgt_msg">Bloquear as aplicações, impedindo-as de aceder aos contactos, mensagens e registo de chamadas.</string>
+    <string name="user_privacy_mgt">Controlo de acesso de privacidade</string>
+    <string name="user_remove_secure_user_reboot_msg">Todos os dados de aplicações, fotografias e ficheiros na zona segura serão eliminados. O sistema reiniciará automaticamente para aplicar as alterações. Eliminar?</string>
+    <string name="user_float_switch_button_summary">Botão flutuante de visualização no ecrã para facilitar a transição entre zonas</string>
+    <string name="user_bgapp_mgt_msg">Bloqueie o arranque automático da aplicação e termine os processos em segundo plano. Não se aplica a aplicações que necessitam de ser executadas em segundo plano, como o e-mail e WhatsApp.</string>
+    <string name="user_float_switch_button">Botão flutuante</string>
+    <string name="user_uninstall_app_for_all_user_msg">A aplicação não está instalada em outras zonas e será totalmente eliminada do telefone após a desinstalação. Desinstalar?</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_cancel">"Отказ"</string>
+<string name="wifi_p2p_delete_group_message">"Да се забрави ли тази група?"</string>
+<string name="dlg_ok">"Потвърждение"</string>
+<string name="wifi_p2p_menu_rename">"Преименуване на устройството"</string>
+<string name="wifi_p2p_remembered_groups">"Запомнени групи"</string>
+<string name="help_label">"Помощ"</string>
+<string name="wifi_p2p_disconnect_title">"Да се изключи ли?"</string>
+<string name="wifi_p2p_cancel_connect_title">"Да се анулира ли поканата?"</string>
+    <string name="dlg_open_wifi_message">WLAN трябва да е активиран, за да се позволи споделяне с WLAN, искате ли да активирате WLAN?</string>
+    <string name="socketchannel_busy">Работи. Опитайте отново по-късно!</string>
+    <string name="wifi_p2p_cancel_connect_message">Искате ли да отмените покана за свързване?</string>
+    <string name="sending_file_notification">Споделяне на WLAN: Изпращане на документ</string>
+    <string name="received_file_fail_dialog">Документът не е получен!</string>
+    <string name="dlg_received_file_fail_notification_message">Документът не е получен. Опитайте отново.</string>
+    <string name="wifi_p2p_disconnect_multiple_message">Ако приключите връзката, всички устройства ще бъдат също изключени.</string>
+    <string name="toast_no_send_files">Моля, изберете един или повече документа, които да бъдат споделени преди свързване!</string>
+    <string name="dlg_close_bt_then_send_file">Моля, затворете Bluetooth, преди да изпратите документа!</string>
+    <string name="app_name">"Споделяне на WLAN"</string>
+    <string name="dlg_received_file_confirm_notification_message">Сигурни ли сте, че искате да отмените текущо прехвърляните документи?</string>
+    <string name="dlg_request_if_send_file">
+	       Искате ли да изпратите документа: <xliff:g id="id_2">%2$s</xliff:g> до <xliff:g id="id_1">%1$s</xliff:g>?
+    </string>
+    <string name="wifi_p2p_failed_connect_message">Невъзможно свързване.</string>
+    <string name="dlg_request_if_receive_file">Приемане </string>
+    <string name="dlg_go_to_file_browser_message">Моля, проверете документа във файловете Document Manager/WlanShare!</string>
+    <string name="connect_info_one2one">Поддържа само директна връзка. Моля, излезте от всички други връзки, преди да опитате отново.</string>
+    <string name="dlg_airplane_open_message">Моля, излезте от самолетен режим, след което използвайте WlanShare!</string>
+    <string name="dlg_sent_file_fail_notification_message">Документът не е изпратен. Моля, изпратете повторно.</string>
+    <string name="received_file_result_notification">"Споделяне на WLAN: Получен документ"</string>
+    <string name="lock_settings_picker_title">Изберете режим на заключване на екрана</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> успешно, <xliff:g id="unsuccessful_number">%2$s</xliff:g> неуспешно.
+    </string>
+    <string name="dlg_open_wifi_message_tel">Не можете да използвате споделяне на WLAN в самолетен режим.</string>
+    <string name="receiving_file_notification">Споделяне на WLAN: Получаване на документ</string>
+    <string name="sent_file_fail_dialog">Документът не е изпратен!</string>
+    <string name="wifi_p2p_disconnect_message">Ако приключите връзката, всички останали връзки също ще приключат.</string>
+    <string name="wifi_p2p_menu_searching">Търсене…</string>
+    <string name="dlg_sdcard_not_mounted_message">Устройството за съхранение е недостъпно. Моля, затворете USB устройството за съхранение, преди да опитате.</string>
+    <string name="sent_file_dialog">Документът е изпратен успешно (документът е запаметен като: /WlanShare на мобилния телефон на получателя):</string>
+    <string name="open_file_fail_dialog">Отварянето на този тип файл е невъзможно, моля, инсталирайте необходимия софтуер!</string>
+    <string name="wifi_p2p_failed_rename_message">Преименуването на устройството е невъзможно.</string>
+    <string name="dlg_received_file_success_notification_message">Документът е получен успешно. Моля, докоснете за преглед.</string>
+    <string name="wifi_p2p_peer_devices">Пряко свързани устройства</string>
+    <string name="wifi_p2p_menu_search">Търсене на устройство</string>
+    <string name="received_file_dialog">Документът е успешно получен (запаметен в:/WlanShare):</string>
+    <string name="sent_file_result_notification">"Споделяне на WLAN: Изпратен документ"</string>
+    <string name="dlg_sent_file_confirm_notification_message">Сигурни ли сте, че искате да отмените текущо прехвърляните документи?</string>
+    <string name="dlg_sent_file_success_notification_message">Документът е изпратен успешно. Моля, вижте мобилния телефон на получателя.</string>
+  <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Установена е връзка"</item>
+    <item msgid="3189211552661432651">"Има покана"</item>
+    <item msgid="3206450250360237549">"Неуспешно"</item>
+    <item msgid="7785896708926971207">"Налице"</item>
+    <item msgid="2330782789550628803">"Извън обхват"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">Няма съдържание</string>
+</resources>

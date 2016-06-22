@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">Общий режим</string>
+<string name="user_auto_start_user_summary">Автозапуск безопасной среды в фоне при загрузке устройства</string>
+<string name="user_setup_seuser_msg">Безопасный режим активирован. Завершить настройку?</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"Под управлением приложения \"<xliff:g id="APP">%1$s</xliff:g>\""</string>
+<string name="user_config_apps_for_seuser">Доступные в текущем режиме приложения</string>
+<string name="user_add_seuser_msg">Безопасный режим не активен. Включить безопасный режим?</string>
+<string name="user_auto_start_user">Автозапуск безопасного режима при включении</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"Отмена"</string>
+<string name="user_need_lockscreen_for_seuser_msg">Настройте блокировку экрана для защиты данных в безопасном режиме.</string>
+<string name="user_share_data_summary">Общий доступ к контактам, сообщениям, журналам звонков и другим данным в двух средах. Вступает в силу после перезагрузки</string>
+<string name="app_name" msgid="1626402585530130914">"Настройки"</string>
+<string name="done_button" msgid="1991471253042622230">"Готово"</string>
+<string name="user_share_data">Общий доступ к данным</string>
+<string name="user_float_switch_button_summary">Отображать плавающую кнопку для быстрого переключения между режимами</string>
+<string name="user_security_mode">Безопасный режим</string>
+<string name="user_float_switch_button">Плавающая кнопка</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"Настроить"</string>
+    <string name="user_guide_title_2">Настройка текущего режима</string>
+    <string name="user_guide_title_3">Перекрестные уведомления</string>
+    <string name="user_guide_title_1">Назначение безопасного режима</string>
+    <string name="user_guide_title_4">Разделение данных </string>
+    <string name="user_guide_desc_1">Безопасный режим позволяет разграничить доступ и персонализировать устройство для нескольких пользователей, в том числе изменить оформление, настроить доступ к приложениям и выбрать собственный пароль. Для быстрого переключения между режимами нажмите значок «Безопасный режим» в панели уведомлений.</string>
+    <string name="user_guide_desc_2">Для настройки текущего режима нажмите и удерживайте значок «Безопасный режим» в панели уведомлений. Вы можете настроить доступ к приложениям для текущего режима.</string>
+    <string name="user_guide_desc_3">Если безопасный режим включен, но не активен, то в общем режиме работы уведомления будут отображаться в строке состояния по-разному. Уведомления, полученные в неактивном режиме будут помечаться красной точкой. </string>
+    <string name="user_guide_desc_4">Данные приложений и документы в каждом из режимов абсолютно изолированы друг от друга. Содержимое накопителя общего режима можно просмотреть в директории OpenUserData из безопасного режима, но не наоборот. Контакты, журналы вызовов и сообщений не разделены, для обеспечения нормальной работы функций телефонии в обоих режимах.</string>
+    <string name="user_remove_secure_user">Очистить безопасную среду</string>
+    <string name="user_privacy_mgt_summary">Ограничивает доступ приложений к контактам, сообщениям и журналу звонков.</string>
+    <string name="user_remove_secure_user_reboot_msg">Все данные, фото и файлы приложения будут удалены из безопасной среды. Система автоматически перезагрузится, чтобы применить изменения. Очистить?</string>
+    <string name="user_bgapp_mgt">Ограничить фоновые приложения</string>
+    <string name="user_privacy_mgt">Управление частным доступом</string>
+    <string name="user_privacy_mgt_msg">Блокирует доступ приложения к контактам, сообщениям и журналу звонков.</string>
+    <string name="user_bgapp_mgt_summary">Предотвращает автоматический запуск и завершение фоновых процессов приложений.</string>
+    <string name="user_remove_secure_user_msg">Все данные, фото и файлы приложения будут удалены из безопасной среды. Очистить?</string>
+    <string name="user_bgapp_mgt_msg">Предотвращает автоматический запуск и завершение фоновых процессов приложения. Не применяется к приложениям, работающим в фоновом режиме, таким как эл. почта и WhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">Приложение не установлено в других средах и будет безвозвратно удалено с вашего телефона. Удалить?</string>
+<string name="help_label">"справка"</string>
+    <string name="user_uninstall_app_msg">Удалить это приложение из текущей среды?</string>
+</resources>

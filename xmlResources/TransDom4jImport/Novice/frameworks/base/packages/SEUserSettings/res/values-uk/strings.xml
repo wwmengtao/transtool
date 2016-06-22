@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">Загальне середовище</string>
+<string name="user_auto_start_user_summary">Автоматичний запуск безпечного середовища у фоні під час завантаження</string>
+<string name="user_setup_seuser_msg">Безпечне середовище ввімкнено. Увійти зараз і завершити налаштування?</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"Керується програмою <xliff:g id="APP">%1$s</xliff:g>"</string>
+<string name="user_config_apps_for_seuser">Оберіть програму, яку потрібно встановити в поточному середовищі</string>
+<string name="user_add_seuser_msg">Безпечне середовище ще не ввімкнено. Увімкнути зараз?</string>
+<string name="user_auto_start_user">Запуск безпечного середовища під час завантаження</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"Не зараз"</string>
+<string name="user_need_lockscreen_for_seuser_msg">Потрібно встановити блокування екрана, щоб захистити програми й дані в безпечному режимі.</string>
+<string name="user_share_data_summary">Надавайте доступ до контактів, текстових повідомлень, журналів викликів та інших даних у цих двох середовищах. Налаштування набуває сили після перезавантаження</string>
+<string name="app_name" msgid="1626402585530130914">"Налаштування"</string>
+<string name="done_button" msgid="1991471253042622230">"Готово"</string>
+<string name="user_share_data">Надання доступу до даних</string>
+<string name="user_float_switch_button_summary">Відобразьте кнопку переходу на екрані, щоб спростити перехід від одного середовища до іншого</string>
+<string name="user_security_mode">Безпечне середовище</string>
+<string name="user_float_switch_button">Кнопка переходу</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"Налаштувати блокування"</string>
+    <string name="user_guide_title_2">Налаштувати поточний режим </string>
+    <string name="user_guide_title_3">Сповіщення, актуальні для різних режимів</string>
+    <string name="user_guide_title_1">Перехід у безпечний режим</string>
+    <string name="user_guide_title_4">Ізоляція даних та обмін ними </string>
+    <string name="user_guide_desc_1">Безпечний режим дозволяє налаштовувати програми, облікові записи, шпалери та паролі екрана блокування, що відрізняються від відповідних значень у поточному режимі. Торкніться значка безпечного режиму в рядку стану, щоб швидко змінити режим.</string>
+    <string name="user_guide_desc_2">Торкніться значка безпечного режиму в рядку стану і утримуйте його, щоб перейти до інтерфейсу налаштування для поточного режиму. Можна налаштувати програму, яку потрібно встановити в поточному режимі.</string>
+    <string name="user_guide_desc_3">У звичайному режимі всі сповіщення від програм у безпечному режимі також відображатимуться в рядку стану. На значку сповіщення буде червона крапка, щоб його можна було відрізнити від сповіщень поточного режиму. Для перегляду сповіщень потрібно змінити режим.</string>
+    <string name="user_guide_desc_4">Дані програм і документи у двох режимах зберігаються повністю ізольовано. Уміст картки SD звичайного режиму можна переглянути в каталозі OpenUserData картки SD безпечного режиму, але не навпаки. Для забезпечення нормальної роботи функцій викликів та обміну повідомленнями в обох режимах журнали викликів і повідомлень, а також контакти є спільними для обох режимів.</string>
+    <string name="user_remove_secure_user">Видалити безпечне середовище</string>
+    <string name="user_privacy_mgt_summary">Обмежити доступ додатків до контактів, повідомлень та журналу дзвінків.</string>
+    <string name="user_remove_secure_user_reboot_msg">Усі дані додатків, фотографії та файли в безпечному середовищі буде стерто. Система перезапуститься автоматично, щоб застосувати зміни. Видалити?</string>
+    <string name="user_bgapp_mgt">Обмежити фонові додатки</string>
+    <string name="user_privacy_mgt">Керування доступом до особистих даних</string>
+    <string name="user_privacy_mgt_msg">Заблокувати доступ додатку до контактів, повідомлень та журналу дзвінків.</string>
+    <string name="user_bgapp_mgt_summary">Заблокувати автоматичний запуск додатків та їхні фонові процеси.</string>
+    <string name="user_remove_secure_user_msg">Усі дані додатків, фотографії та файли в безпечному середовищі буде стерто. Видалити?</string>
+    <string name="user_bgapp_mgt_msg">Заблокувати автоматичний запуск додатку та його фонових процесів. Не застосовуйте до додатків, що мають працювати у фоновому режимі, як-от пошта чи WhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">Додаток не встановлений в інших середовищах і буде повністю видалений із телефону після стирання. Видалити?</string>
+<string name="help_label">"довідка"</string>
+    <string name="user_uninstall_app_msg">Бажаєте видалити цю програму за цих умов?</string>
+</resources>

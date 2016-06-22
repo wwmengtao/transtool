@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Hiển thị không dây"</string>
+    <string name="miracast_app_name">"Hiển thị không dây"</string>
+    <string name="welcome_version">Phiên bản <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"Kết nối với thiết bị"</string>
+    <string name="item_device_mode_audio_only_title">Âm thanh</string>
+    <string name="item_device_mode_video_only_title">Video</string>
+    <string name="item_device_mode_meeting_title">Hội nghị</string>
+    <string name="item_device_mode_connect_title">"Kết nối"</string>
+    <string name="item_device_mode_disconnect_title">"Ngắt kết nối"</string>
+    <string name="item_device_mode_rename_title">Đổi tên</string>
+    <string name="item_device_mode_forget_title">Quên</string>
+    <string name="activity_settings_title">"Cài đặt"</string>
+    <string name="preference_settings_resolution_title">Độ phân giải</string>
+    <string name="preference_settings_update_title">"Giới thiệu"</string>
+    <string name="dlg_confirm_switch_av_message">Trước tiên phải ngắt kết nối hiện thời để chuyển chế độ.\nBạn có muốn chuyển ngay không?</string>
+    <string name="dlg_loading_scan_device_message">Đang quét thiết bị ...</string>
+    <string name="dlg_loading_enable_wifi_message">Đang bật WLAN ...</string>
+    <string name="dlg_loading_reconnect_message">Chuyển chế độ, đang kết nối lại ...</string>
+    <string name="toast_connecting">Đang kết nối, hãy thử lại sau</string>
+    <string name="toast_already_connected">Một thiết bị đã kết nối, hãy ngắt kết nối trước</string>
+    <string name="toast_device_not_available">Không thể kết nối, thiết bị không có sẵn</string>
+    <string name="tutor_message_1">Kết nối dongle AllShare Cast với một thiết bị HDMI sử dụng cáp HDMI A-TO-A.</string>
+    <string name="tutor_message_2">Khi chỉ báo màu đỏ bắt đầu nhấp nháy, hãy nhấp vào nút đặt lại. Chờ chỉ báo chuyển sang màu xanh da trời. Không cần nhấp lại vào nó khi kết nối lại.</string>
+    <string name="tutor_message_4">Nếu kết nối thành công, bạn có thể chia sẻ màn hình của mình với một thiết bị khác.</string>
+    <string name="tutor_message_audioonly">Nếu ngõ ra âm thanh được dongle hỗ trợ, bạn có thể thử chế độ Chỉ âm thanh để trải nghiệm nhạc không dây.</string>
+    <string name="tutor_message_videoonly">Nếu muốn kết nối với một dongle bằng giao diện DVI hoặc VGA, bạn nên sử dụng chế độ Chỉ video.</string>
+    <string name="activity_meeting_mode_title">Chế độ Cuộc họp</string>
+    <string name="tutor_message_3">Vào Miracast, sau đó chuyển nút Kích hoạt sang vị trí Bật. Tên các thiết bị có thể kết nối sẽ xuất hiện sau đó trong danh sách các thiết bị sẵn có</string>
+    <string name="dlg_select_resolution_title">Chọn độ phân giải</string>
+    <string name="dlg_confirm_switch_video_message">Chế độ Video chỉ chia sẻ nội dung màn hình qua dongle . \nPhải ngắt kết nối hiện tại để chuyển chế độ. \nTiếp tục?</string>
+    <string name="dlg_rename_title">Đổi tên thiết bị</string>
+    <string name="dlg_confirm_disconnect_message">Ngắt kết nối?</string>
+    <string name="toast_not_paired">Hoạt động chỉ dành cho các thiết bị đã kết nối</string>
+    <string name="dlg_confirm_switch_audio_message">Chế độ Âm thanh chỉ chia sẻ âm thanh qua dongle. Trước khi chuyển sang chế độ âm thanh, hãy đảm bảo nó được hỗ trợ bởi dongle, nếu không kết nối sẽ không thành công. \nPhải ngắt kết nối hiện tại để chuyển chế độ. \nTiếp tục?</string>
+    <string name="dlg_confirm_forget_message">Xóa thiết bị này khỏi danh sách các thiết bị đã kết nối?</string>
+    <string name="preference_settings_meeting_mode_title">Chế độ Cuộc họp</string>
+    <string name="preference_settings_tutor_title">Hướng dẫn</string>
+    <string name="dlg_confirm_meeting_mode_message">Cuộc gọi bị hạn chế ở chế độ cuộc họp và SMS được hiển thị tự động trên màn hình. Bật chế độ cuộc họp?</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="menu_settings">"تنظیمات"</string>
+    <string name="open">"باز کردن"</string>
+    <string name="exit">خروج</string>
+    <string name="add">افزودن</string>
+    <string name="close">بستن</string>
+    <string name="confirm">"تأیید"</string>
+    <string name="cancle">"لغو"</string>
+    <string name="hello_world">سلام دنیا!</string>
+    <string name="authorization_message">آیا این برنامه را با حالت چند پنجره باز می‌کنید؟</string>
+    <string name="tips">برای ایجاد چند پنجره بکشید</string>
+    <string name="app_browser_title">برنامه چند پنجره</string>
+    <string name="authorization_notication">اعلان مچوز</string>
+</resources>

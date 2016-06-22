@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+
+
+    <string name="phoneAppLabel" product="tablet" msgid="8576272342240415145">"Перед. даних"</string>
+    <string name="phoneAppLabel" product="default" msgid="906161039445636857">"Телефон"</string>
+    <string name="emergencyDialerIconLabel" msgid="7812140032168171053">"Аварійний телефон"</string>
+    <string name="phoneIconLabel" msgid="2331230813161304895">"Телефон"</string>
+    <string name="fdnListLabel" msgid="8630418672279521003">"Список FDN"</string>
+    <string name="unknown" msgid="6878797917991465859">"Невідомий"</string>
+    <string name="private_num" msgid="6713286113000232309">"Приватний номер"</string>
+    <string name="payphone" msgid="1931775086311769314">"Таксофон"</string>
+    <string name="onHold" msgid="9035493194749959955">"Очікує"</string>
+    <string name="mmiStarted" msgid="6347869857061147003">"Код MMI запущено"</string>
+    <string name="ussdRunning" msgid="485588686340541690">"Запуск. код USSD..."</string>
+    <string name="mmiCancelled" msgid="2771923949751842276">"Код MMI скасовано"</string>
+    <string name="cancel" msgid="5044513931633602634">"Скасувати"</string>
+    <string name="enter_input">Необхідно ввести дані. Повторіть спробу!</string>
+    <string name="manageConferenceLabel" msgid="4691922394301969053">"Керувати конференц-викликом"</string>
+    <string name="ok" msgid="3811371167865772377">"OK"</string>
+    <string name="audio_mode_speaker" msgid="27649582100085266">"Динамік"</string>
+    <string name="audio_mode_earpiece" msgid="4156527186373869107">"Гарнітура"</string>
+    <string name="audio_mode_wired_headset" msgid="1465350758489175975">"Дротова гарнітура"</string>
+    <string name="audio_mode_bluetooth" msgid="3047641300848211128">"Bluetooth"</string>
+    <string name="wait_prompt_str" msgid="7601815427707856238">"Надісл. наступні сигнали?"\n</string>
+    <string name="pause_prompt_str" msgid="1789964702154314806">"Надсилання сигналів"\n</string>
+    <string name="send_button" msgid="4106860097497818751">"Надісл."</string>
+    <string name="pause_prompt_yes" msgid="3564467212025151797">"Так"</string>
+    <string name="pause_prompt_no" msgid="6686238803236884877">"Ні"</string>
+    <string name="wild_prompt_str" msgid="5543521676355533577">"Замінити довільний символ на"</string>
+    <string name="no_vm_number" msgid="4164780423805688336">"Відстун. номер голос. пошти"</string>
+    <string name="no_vm_number_msg" msgid="1300729501030053828">"На SIM-карті немає збереж. номерів голос. пошти."</string>
+    <string name="add_vm_number_str" msgid="4676479471644687453">"Додати номер"</string>
+    <string name="puk_unlocked" msgid="2284912838477558454">"Вашу SIM-карту розблоковано. Ваш телефон розблоковується..."</string>
+    <string name="label_ndp" msgid="780479633159517250">"Розбл. PIN-код мережі SIM"</string>
+    <string name="sim_ndp_unlock_text" msgid="683628237760543009">"Розблок."</string>
+    <string name="sim_ndp_dismiss_text" msgid="1604823375752456947">"Відхилити"</string>
+    <string name="requesting_unlock" msgid="6412629401033249351">"Запитув. розблок. мережі..."</string>
+    <string name="unlock_failed" msgid="6490531697031504225">"Не здійсн. запит розблокування мережі"</string>
+    <string name="unlock_success" msgid="6770085622238180152">"Мережу успішно розблоковано."</string>
+    <string name="labelGSMMore" msgid="5930842194056092106">"Налашт. виклику GSM"</string>
+    <string name="labelCDMAMore" msgid="1630676740428229339">"Налашт. викл. в CDMA"</string>
+    <string name="apn_settings" msgid="9043423184895642077">"Точки доступу (APN)"</string>
+    <string name="settings_label" msgid="3876743539816984008">"Налаштування мережі"</string>
+    <string name="voicemail" msgid="8693759337917898954">"Голосова пошта"</string>
+    <string name="voicemail_abbreviated" msgid="2215592488517217448">"ГП:"</string>
+    <string name="networks" msgid="8873030692174541976">"Оператори мережі"</string>
+    <string name="call_settings" msgid="6112441768261754562">"Налаштування виклику"</string>
+    <string name="additional_gsm_call_settings" msgid="1391795981938800617">"Додаткові налашт-ння"</string>
+    <string name="sum_gsm_call_settings" msgid="4076647190996778012">"Лише додаткові налаштування GSM"</string>
+    <string name="additional_cdma_call_settings" msgid="8628958775721886909">"Додат. налашт-ння виклику в CDMA"</string>
+    <string name="sum_cdma_call_settings" msgid="284753265979035549">"Лише додат. налашт-ння виклику в CDMA"</string>
+    <string name="labelNwService" msgid="4699970172021870983">"Налашт-ня мережевої служби"</string>
+    <string name="labelCallerId" msgid="3888899447379069198">"Відображення номеру"</string>
+    <string name="sum_loading_settings" msgid="1826692909391168620">"Завантаження налаштувань…"</string>
+    <string name="sum_hide_caller_id" msgid="1071407020290873782">"Номер приховано у вихідних дзвінках"</string>
+    <string name="sum_show_caller_id" msgid="6768534125447290401">"Номер відображ. у вихідних дзвінках"</string>
+    <string name="sum_default_caller_id" msgid="1954518825510901365">"Використовувати налаштування оператора для відображення мого номеру при вихідних викликів"</string>
+    <string name="labelCW" msgid="6120513814915920200">"Паралельний виклик"</string>
+    <string name="sum_cw_enabled" msgid="8083061901633671397">"Оповіщувати про інші вхідні виклики під час дзвінка"</string>
+    <string name="sum_cw_disabled" msgid="3648693907300104575">"Оповіщувати про інші вхідні виклики під час дзвінка"</string>
+    <string name="call_forwarding_settings" msgid="3378927671091537173">"Налаштування переадресації"</string>
+    <string name="labelCF" msgid="2574386948026924737">"Переадресація викликів"</string>
+    <string name="labelCFU" msgid="8147177368148660600">"Завжди переадресовувати"</string>
+    <string name="messageCFU" msgid="3560082430662923687">"Переадресовувати на номер:"</string>
+    <string name="sum_cfu_enabled_indicator" msgid="4014187342724130197">"Пересил. всіх викликів"</string>
+    <string name="sum_cfu_enabled" msgid="2450052502198827927">"Пересилання всіх викликів на <xliff:g id="PHONENUMBER">{0}</xliff:g>"</string>
+    <string name="sum_cfu_enabled_no_number" msgid="6591985777096823616">"Номер недоступний"</string>
+    <string name="sum_cfu_disabled" msgid="3698472522160364904">"Вимкнено"</string>
+    <string name="labelCFB" msgid="218938523102207587">"Переадресовувати, коли зайнято"</string>
+    <string name="messageCFB" msgid="3711089705936187129">"Переадресовувати на номер:"</string>
+    <string name="sum_cfb_enabled" msgid="5984198104833116690">"Пересилання на <xliff:g id="PHONENUMBER">{0}</xliff:g>"</string>
+    <string name="sum_cfb_disabled" msgid="227440009979537651">"Вимкнено"</string>
+    <string name="disable_cfb_forbidden" msgid="3506984333877998061">"Ваш оператор не підтримує вимкнення переадресації викликів, коли телефон зайнятий."</string>
+    <string name="labelCFNRy" msgid="3646316323834351390">"Переадресовувати, якщо не відпов."</string>
+    <string name="messageCFNRy" msgid="672317899884380374">"Переадресовувати на номер:"</string>
+    <string name="sum_cfnry_enabled" msgid="6955775691317662910">"Пересилання на <xliff:g id="PHONENUMBER">{0}</xliff:g>"</string>
+    <string name="sum_cfnry_disabled" msgid="8422350929957344729">"Вимкнено"</string>
+    <string name="disable_cfnry_forbidden" msgid="4308233959150658058">"Ваш оператор не підтримує вимкнення переадресації викликів, коли телефон не відповідає."</string>
+    <string name="labelCFNRc" msgid="47183615370850000">"Переадресовувати, коли недоступ"</string>
+    <string name="messageCFNRc" msgid="6380695421020295119">"Переадресовувати на номер:"</string>
+    <string name="sum_cfnrc_enabled" msgid="7010898346095497421">"Пересилання на <xliff:g id="PHONENUMBER">{0}</xliff:g>"</string>
+    <string name="sum_cfnrc_disabled" msgid="7222141261321276464">"Вимкнено"</string>
+    <string name="disable_cfnrc_forbidden" msgid="5646361343094064333">"Ваш оператор не підтримує вимкнення переадресації викликів, коли телефон недосяжний."</string>
+    <string name="updating_title" msgid="6146755386174019046">"Налаштування виклику"</string>
+    <string name="error_updating_title" msgid="7970259216988931777">"Помилка налашт. виклику"</string>
+    <string name="reading_settings" msgid="1920291699287055284">"Завантаження налаштувань…"</string>
+    <string name="updating_settings" msgid="8171225533884883252">"Оновлення налаштувань…"</string>
+    <string name="reverting_settings" msgid="4752151682666912828">"Відновл. налашт-нь…"</string>
+    <string name="response_error" msgid="6674110501330139405">"Неочікувана відповідь від мережі"</string>
+    <string name="exception_error" msgid="7027667130619518211">"Помилка мережі чи SIM-карти."</string>
+    <string name="fdn_check_failure" msgid="18200614306525434">"Налаштування номерів фіксованого набору програми \"Телефон\" увімкнено. Унаслідок цього деякі функції, пов’язані з викликами, не працюють."</string>
+    <string name="radio_off_error" msgid="2304459933248513376">"Увімкніть радіо, перш ніж переглядати ці налаштування."</string>
+    <string name="close_dialog" msgid="2365884406356986917">"OK"</string>
+    <string name="enable" msgid="1059008390636773574">"Увімкнути"</string>
+    <string name="disable" msgid="7274240979164762320">"Вимкнути"</string>
+    <string name="change_num" msgid="239476305819844391">"Оновити"</string>
+  <string-array name="clir_display_values">
+    <item msgid="5560134294467334594">"Мережа за умовч."</item>
+    <item msgid="7876195870037833661">"Сховати номер"</item>
+    <item msgid="1108394741608734023">"Показ. номер"</item>
+  </string-array>
+    <string name="vm_changed" msgid="380744030726254139">"Номер голос. пошти змінено."</string>
+    <string name="vm_change_failed" msgid="3352934863246208918">"Не вдалося змінити номер голосової пошти."\n"Зв’яжіться зі своїм оператором, якщо проблема не зникне."</string>
+    <string name="fw_change_failed" msgid="5298103228470214665">"Не вдалося змінити номер переадресації."\n"Зв’яжіться зі своїм оператором, якщо проблема не зникне."</string>
+    <string name="fw_get_in_vm_failed" msgid="8862896836093833973">"Не вдалося отримати та зберегти поточні налаштування номера переадресації."\n"Усе одно переключитися на нового оператора?"</string>
+    <string name="no_change" msgid="3186040086622435212">"Не здійсн. жодних змін."</string>
+    <string name="sum_voicemail_choose_provider" msgid="59911196126278922">"Вибер. службу голос. пошти"</string>
+    <string name="voicemail_default" msgid="5902099213882352338">"Служба оператора"</string>
+    <string name="mobile_networks" msgid="5540397602919106177">"Налаштування моб. мережі"</string>
+    <string name="label_available" msgid="1181658289009300430">"Доступні мережі"</string>
+    <string name="load_networks_progress" msgid="5230707536168902952">"Пошук…"</string>
+    <string name="empty_networks_list" msgid="4249426905018815316">"Не знайд. жодних мереж."</string>
+    <string name="search_networks" msgid="1601136049300882441">"Пошук мереж"</string>
+    <string name="network_query_error" msgid="6828516148953325006">"Помилка під час пошуку мереж."</string>
+    <string name="register_on_network" msgid="9055203954040805084">"Реєстрування у <xliff:g id="NETWORK">%s</xliff:g>…"</string>
+    <string name="not_allowed" msgid="5613353860205691579">"Ваша SIM-карта не дозволяє під’єднання до цієї мережі."</string>
+    <string name="connect_later" msgid="2308119155752343975">"Зараз неможливо під’єднатися до цієї мережі. Повторіть спробу пізніше."</string>
+    <string name="registration_done" msgid="495135664535876612">"Зареєстровано у мережі"</string>
+    <string name="sum_carrier_select" msgid="3494252551249882718">"Вибрати оператора мережі"</string>
+    <string name="sum_search_networks" msgid="2921092249873272715">"Пошук усіх доступних мереж"</string>
+    <string name="select_automatically" msgid="5628402124471810174">"Вибирати автоматично"</string>
+    <string name="sum_select_automatically" msgid="5614890115123292400">"Автоматично вибирати основну мережу"</string>
+    <string name="register_automatically" msgid="6017849844573519637">"Автоматична реєстрація..."</string>
+  <string-array name="preferred_network_mode_choices">
+    <item msgid="5543794538185064048">"LTE/CDMA"</item>
+    <item msgid="3273348576277144124">"Лише EvDo"</item>
+    <item msgid="454610224530856274">"CDMA без EvDo"</item>
+    <item msgid="648505122852496166">"Авто CDMA/EvDo"</item>
+    <item msgid="7148247646407324800">"Авто GSM/WCDMA"</item>
+    <item msgid="5189164180446264504">"Лише WCDMA"</item>
+    <item msgid="5714714953966979187">"Лише GSM"</item>
+    <item msgid="8508331239546115206">"Бажано GSM/WCDMA"</item>
+  </string-array>
+    <string name="data_enabled" msgid="5972538663568715366">"Дані увімкнено"</string>
+    <string name="data_enable_summary" msgid="5022018967714633874">"Увімкн. перед. даних у мобільній мережі"</string>
+    <string name="roaming" msgid="8871412572928323707">"Роумінг даних"</string>
+    <string name="roaming_enable" msgid="7331106985174381987">"Підключ. до служб даних під час роумінгу"</string>
+    <string name="roaming_disable" msgid="1843417228755568110">"Підключ. до служб даних під час роумінгу"</string>
+    <string name="roaming_reenable_message" msgid="8913735676127858115">"Доступ до даних утрачено, оскільки ви вийшли з домашньої мережі з вимкненим роумінгом даних."</string>
+    <string name="roaming_warning" msgid="7820963598559553967">"Дозвол. роумінг даних? З вас можуть стягн. значну плату за нього!"</string>
+    <string name="gsm_umts_options" msgid="6538311689850981686">"Параметри GSM/UMTS"</string>
+    <string name="cdma_options" msgid="4016822858172249884">"Параметри CDMA"</string>
+    <string name="throttle_data_usage" msgid="3715677828160555808">"Викор. даних"</string>
+    <string name="throttle_current_usage" msgid="8762280193043815361">"Дані, вик. під час поточ. пер."</string>
+    <string name="throttle_time_frame" msgid="1915198770363734685">"Період викор. даних"</string>
+    <string name="throttle_rate" msgid="4710388992676803508">"Пол. шв. перед. дан."</string>
+    <string name="throttle_help" msgid="243651091785169900">"Докладніше"</string>
+    <string name="throttle_status_subtext" msgid="1657318943142085170">"<xliff:g id="USED_0">%1$s</xliff:g> (<xliff:g id="USED_1">%2$d</xliff:g>٪) з <xliff:g id="USED_2">%3$s</xliff:g> макс. пеірод"\n"Наступний період поч. через <xliff:g id="USED_3">%4$d</xliff:g> дн. (<xliff:g id="USED_4">%5$s</xliff:g>)"</string>
+    <string name="throttle_data_usage_subtext" msgid="6029276011123694701">"<xliff:g id="USED_0">%1$s</xliff:g> (<xliff:g id="USED_1">%2$d</xliff:g>٪) з<xliff:g id="USED_2">%3$s</xliff:g> максим. періоду"</string>
+    <string name="throttle_data_rate_reduced_subtext" msgid="7492763592720107737">"<xliff:g id="USED_0">%1$s</xliff:g> макс. перевищ."\n"Шв. перед. дан. скор. до <xliff:g id="USED_1">%2$d</xliff:g> КБ/сек"</string>
+    <string name="throttle_time_frame_subtext" msgid="7732763021560399960">"<xliff:g id="USED_0">%1$d</xliff:g>٪ з циклу здійсн."\n"Наст. період почин. через <xliff:g id="USED_1">%2$d</xliff:g> дн. (<xliff:g id="USED_2">%3$s</xliff:g>)"</string>
+    <string name="throttle_rate_subtext" msgid="2149102656120726855">"Шв. перед. скор. до <xliff:g id="USED">%1$d</xliff:g> КБ/сек, якщо перев. ліміт викор. даних"</string>
+    <string name="throttle_help_subtext" msgid="5217706521499010816">"Докладніше про політику викор. даних мобільної мережі вашого оператора"</string>
+    <string name="cell_broadcast_sms" msgid="5584192824053625842">"Ф-ц. Cell Broadcast SMS"</string>
+    <string name="enable_disable_cell_bc_sms" msgid="4851147873691392255">"Ф-ц. Cell Broadcast SMS"</string>
+    <string name="cell_bc_sms_enable" msgid="6441688565738921084">"Ф-ц/ Cell Broadcast SMS увімк."</string>
+    <string name="cell_bc_sms_disable" msgid="3398365088309408749">"Ф-цію Cell Broadcast SMS вимк."</string>
+    <string name="cb_sms_settings" msgid="651715019785107312">"Налашт. ф-ц. Cell Broadcast SMS"</string>
+    <string name="enable_disable_emergency_broadcast" msgid="2157014609041245335">"Аварійний зв\'язок"</string>
+    <string name="emergency_broadcast_enable" msgid="2645980025414010211">"Аварійний зв\'язок увімкнено"</string>
+    <string name="emergency_broadcast_disable" msgid="3665199821267569426">"Аварійне зв\'язок вимкнено"</string>
+    <string name="enable_disable_administrative" msgid="6501582322182059412">"Адміністрування"</string>
+    <string name="administrative_enable" msgid="1750086122962032235">"Адміністрування увімк."</string>
+    <string name="administrative_disable" msgid="8433273857248698539">"Адміністрування вимкн."</string>
+    <string name="enable_disable_maintenance" msgid="1819693083025106678">"Обслуговування"</string>
+    <string name="maintenance_enable" msgid="8566636458770971189">"Обслуговування увімкн."</string>
+    <string name="maintenance_disable" msgid="7340189100885066077">"Обслуговування вимк."</string>
+    <string name="general_news_settings" msgid="4968779723948432978">"Загальні новини"</string>
+    <string name="bf_news_settings" msgid="3935593091894685267">"Бізнесові та фінансові новини"</string>
+    <string name="sports_news_settings" msgid="7649399631270052835">"Новини спорту"</string>
+    <string name="entertainment_news_settings" msgid="5051153952959405035">"Новини шоу-бізнесу"</string>
+    <string name="enable_disable_local" msgid="7890281063123416120">"Місц."</string>
+    <string name="local_enable" msgid="6370463247609136359">"Місцеві новини увімк."</string>
+    <string name="local_disable" msgid="4405691986943795798">"Місцеві новини вимкнено"</string>
+    <string name="enable_disable_regional" msgid="4905652414535565872">"Регіонал."</string>
+    <string name="regional_enable" msgid="4434680415437834759">"Регіонал. новини увімк."</string>
+    <string name="regional_disable" msgid="5359325527213850077">"Регіональні новини вимкн."</string>
+    <string name="enable_disable_national" msgid="236278090206880734">"Націон."</string>
+    <string name="national_enable" msgid="1172443648912246952">"Нац. новини увімкн."</string>
+    <string name="national_disable" msgid="326018148178601166">"Нац. новини вимкнено"</string>
+    <string name="enable_disable_international" msgid="7535348799604565592">"Міжнародні"</string>
+    <string name="international_enable" msgid="5855356769925044927">"Міжнародні новини увімкнено"</string>
+    <string name="international_disable" msgid="2850648591041088931">"Міжнародні новини вимкнуто"</string>
+    <string name="list_language_title" msgid="2841683501919760043">"Мова"</string>
+    <string name="list_language_summary" msgid="8109546531071241601">"Виберіть мову для новин"</string>
+  <string-array name="list_language_entries">
+    <item msgid="6137851079727305485">"Англійська"</item>
+    <item msgid="1151988412809572526">"Французька"</item>
+    <item msgid="577840534704312665">"Іспанська"</item>
+    <item msgid="8385712091143148180">"Японська"</item>
+    <item msgid="1858401628368130638">"Корейська"</item>
+    <item msgid="1933212028684529632">"Китайська"</item>
+    <item msgid="1908428006803639064">"Іврит"</item>
+  </string-array>
+  <string-array name="list_language_values">
+    <item msgid="1804908636436467150">"1"</item>
+    <item msgid="289708030346890334">"2"</item>
+    <item msgid="1121469729692402684">"3"</item>
+    <item msgid="2614093115912897722">"4"</item>
+    <item msgid="2411164639857960614">"5"</item>
+    <item msgid="5884448729274543324">"6"</item>
+    <item msgid="5511864807618312598">"7"</item>
+  </string-array>
+    <string name="list_language_dtitle" msgid="5442908726538951934">"Мови"</string>
+    <string name="enable_disable_local_weather" msgid="986967454867219114">"Місцева погода"</string>
+    <string name="local_weather_enable" msgid="6199315114382448922">"Місц. погоду увімк."</string>
+    <string name="local_weather_disable" msgid="2510158089142626480">"Місцеву погоду вимкнено"</string>
+    <string name="enable_disable_atr" msgid="8339572391278872343">"Звіти про дор. рух в місц."</string>
+    <string name="atr_enable" msgid="5541757457789181799">"Звіти про дор. рух в місц."</string>
+    <string name="atr_disable" msgid="7085558154727596455">"Звіти про дор. рух в місц. вимк."</string>
+    <string name="enable_disable_lafs" msgid="668189073721277199">"Розклади польотів місц. аеропорту"</string>
+    <string name="lafs_enable" msgid="2791978667205137052">"Розклади польотів місц. аеропорту увімк."</string>
+    <string name="lafs_disable" msgid="2391212397725495350">"Розклади польотів місц. аеропорту вимк."</string>
+    <string name="enable_disable_restaurants" msgid="6240381945336814024">"Ресторани"</string>
+    <string name="restaurants_enable" msgid="5137657479469118847">"Ресторани увімкнено"</string>
+    <string name="restaurants_disable" msgid="3678480270938424092">"Ресторани вимкнено"</string>
+    <string name="enable_disable_lodgings" msgid="1822029172658551202">"Винайм житла"</string>
+    <string name="lodgings_enable" msgid="3230042508992850322">"Винайм житла увімк."</string>
+    <string name="lodgings_disable" msgid="3387879742320682391">"Винайм житла вимк."</string>
+    <string name="enable_disable_retail_directory" msgid="1357809784475660303">"Каталог роздріб. торг."</string>
+    <string name="retail_directory_enable" msgid="3280626290436111496">"Каталог роздр. торг. ввімк."</string>
+    <string name="retail_directory_disable" msgid="6479739816662879027">"Каталог роздріб. торг. вимк."</string>
+    <string name="enable_disable_advertisements" msgid="5999495926176182128">"Реклама"</string>
+    <string name="advertisements_enable" msgid="2050305021264683786">"Рекламу увімкнено"</string>
+    <string name="advertisements_disable" msgid="8350985908788707935">"Рекламу вимкнено."</string>
+    <string name="enable_disable_stock_quotes" msgid="6397810445293533603">"Біржові котирув."</string>
+    <string name="stock_quotes_enable" msgid="4384802470887170543">"Біржові котирув. ввімк."</string>
+    <string name="stock_quotes_disable" msgid="4781450084565594998">"Біржові котирув. вимкн."</string>
+    <string name="enable_disable_eo" msgid="4863043263443942494">"Кар\'єрні можливості"</string>
+    <string name="eo_enable" msgid="8623559062015685813">"Кар\'єрні можливості увімкнено"</string>
+    <string name="eo_disable" msgid="3863812478090907609">"Кар\'єрні можливості вимкнено"</string>
+    <string name="enable_disable_mhh" msgid="908214593528968522">"Медицина, здоров’я та лікарні"</string>
+    <string name="mhh_enable" msgid="5544500632306446815">"Медицина, здоров’я та лікарні – увімкнено"</string>
+    <string name="mhh_disable" msgid="8998210550117117437">"Медицина, здоров’я та лікарні – вимкнено"</string>
+    <string name="enable_disable_technology_news" msgid="3517184627114999149">"Новини технології"</string>
+    <string name="technology_news_enable" msgid="7995209394210455181">"Новини техніки увімкнено"</string>
+    <string name="technology_news_disable" msgid="5483490380561851946">"Новини технологій"</string>
+    <string name="enable_disable_multi_category" msgid="626771003122899280">"Мультикатегорія"</string>
+    <string name="multi_category_enable" msgid="1179299804641721768">"Мультикатегорію увімкн."</string>
+    <string name="multi_category_disable" msgid="880104702904139505">"Мультикатегорію вимкнено"</string>
+    <string name="network_lte" msgid="7702681952521375754">"LTE (рекомендується)"</string>
+    <string name="network_4G" msgid="2723512640529983138">"4G (рекомендується)"</string>
+    <string name="network_global" msgid="1323190488685355309">"Усі"</string>
+    <string name="cdma_system_select_title" msgid="5757657769327732833">"Вибір системи"</string>
+    <string name="cdma_system_select_summary" msgid="60460043745797517">"Змінити режим CDMA-роумінгу"</string>
+    <string name="cdma_system_select_dialogtitle" msgid="6083355415165359075">"Вибір системи"</string>
+  <string-array name="cdma_system_select_choices">
+    <item msgid="176474317493999285">"Лише Головна"</item>
+    <item msgid="1205664026446156265">"Автоматично"</item>
+  </string-array>
+    <string name="cdma_subscription_title" msgid="1162564010076763284">"Підписка CDMA"</string>
+    <string name="cdma_subscription_summary" msgid="2530890766115781140">"Змінити RUIM/SIM-карту на NV"</string>
+    <string name="cdma_subscription_dialogtitle" msgid="2699527950523333110">"підписка"</string>
+  <string-array name="cdma_subscription_choices">
+    <item msgid="2258014151300708431">"RUIM/SIM"</item>
+    <item msgid="5127722015571873880">"NV"</item>
+  </string-array>
+  <string-array name="cdma_subscription_values">
+    <item msgid="7494167883478914080">"0"</item>
+    <item msgid="6043847456049107742">"1"</item>
+  </string-array>
+    <string name="cdma_activate_device" msgid="3793805892364814518">"Активувати пристрій"</string>
+    <string name="cdma_lte_data_service" msgid="4255018217292548962">"Налашт. службу пересил. даних"</string>
+    <!-- no translation found for carrier_settings_title (9028166176523012300) -->
+    <skip/>
+    <string name="carrier_settings_title" msgid="9028166176523012300">"Налаштування оператора"</string>
+    <string name="fdn" msgid="7878832555095183202">"Номери фіксованого набору"</string>
+    <string name="manage_fdn_list" msgid="8777755791892122369">"Список FDN"</string>
+    <string name="fdn_activation" msgid="2156479741307463576">"Активація FDN"</string>
+    <string name="fdn_enabled" msgid="5238109009915521240">"Номери фіксованого набору увімкнено"</string>
+    <string name="fdn_disabled" msgid="4700049736675368279">"Номери фіксованого набору вимкнено"</string>
+    <string name="enable_fdn" msgid="3740191529180493851">"Увімкнути FDN"</string>
+    <string name="disable_fdn" msgid="7944020890722540616">"Вимк. FDN"</string>
+    <string name="change_pin2" msgid="2153563695382176676">"Змінити PIN2"</string>
+    <string name="enable_fdn_ok" msgid="7215588870329688132">"Вимк. FDN"</string>
+    <string name="disable_fdn_ok" msgid="5727046928930740173">"Увімк. FDN"</string>
+    <string name="sum_fdn" msgid="1959399454900272878">"Налаштувати номери фіксованого набору"</string>
+    <string name="sum_fdn_change_pin" msgid="6666549734792827932">"Змінити PIN-код для доступу FDN"</string>
+    <string name="sum_fdn_manage_list" msgid="8431088265332628316">"Налаштувати список номерів FDN"</string>
+    <string name="voice_privacy" msgid="3776841382844614716">"Конфіденційність Voice"</string>
+    <string name="voice_privacy_summary" msgid="3159383389833516214">"Увімкн. режим розшир. конфіденц."</string>
+    <string name="tty_mode_option_title" msgid="9033098925144434669">"Режим TTY"</string>
+    <string name="tty_mode_option_summary" msgid="1073835131534808732">"Устан. режим TTY"</string>
+    <string name="auto_retry_mode_title" msgid="4073265511427813322">"Автоматичний набір"</string>
+    <string name="auto_retry_mode_summary" msgid="4973886004067532288">"Увімкнути режим автоповтору"</string>
+    <string name="menu_add" msgid="1882023737425114762">"Додати контакт"</string>
+    <string name="menu_edit" msgid="7143003705504672374">"Змінити контакт"</string>
+    <string name="menu_delete" msgid="3977150783449642851">"Видалити контакт"</string>
+    <string name="get_pin2" msgid="8204677063922225311">"Введіть PIN2-код"</string>
+    <string name="name" msgid="7329028332786872378">"Ім\'я"</string>
+    <string name="number" msgid="7905950798349903858">"Номер"</string>
+    <string name="save" msgid="4094274636321939086">"Зберегти"</string>
+    <string name="add_fdn_contact" msgid="2481915899633353976">"Додати номер фіксов. набору"</string>
+    <string name="adding_fdn_contact" msgid="7627379633721940991">"Додавання номеру фікс. набору…"</string>
+    <string name="fdn_contact_added" msgid="7458335758501736665">"Номер фікс. набору додано."</string>
+    <string name="edit_fdn_contact" msgid="7976936035587081480">"Редаг. номер фіксов. набору"</string>
+    <string name="updating_fdn_contact" msgid="8370929876849803600">"Оновлення номеру фікс. набору…"</string>
+    <string name="fdn_contact_updated" msgid="5497828782609005017">"Номер фікс. набору оновлено."</string>
+    <string name="delete_fdn_contact" msgid="6668958073074151717">"Видалити номер фікс. набору"</string>
+    <string name="deleting_fdn_contact" msgid="5669163206349319969">"Видалення номеру фікс. набору…"</string>
+    <string name="fdn_contact_deleted" msgid="7154162327112259569">"Номер фікс. набору видалено."</string>
+    <string name="pin2_invalid" msgid="5470854099230755944">"Фіксований номер (FDN) не оновлено, оскільки введено неправильний PIN-код."</string>
+    <string name="fdn_invalid_number" msgid="1494755047900009147">"Фіксований номер (FDN) не оновлено, оскільки кількість цифр не може перевищувати 20."</string>
+    <string name="pin2_or_fdn_invalid" msgid="6025144083384701197">"Фіксований номер (FDN) не оновлено. PIN2-код неправильний або номер телефону відхилено."</string>
+    <string name="fdn_failed">Операцію FDN не виконано.</string>
+    <string name="simContacts_emptyLoading" msgid="2203331234764498011">"Читання з SIM-карти…"</string>
+    <string name="simContacts_empty" msgid="5270660846489561932">"У SIM-карті немає контактів."</string>
+    <string name="simContacts_title" msgid="1861472842524839921">"Виберіть контакти для імпорту"</string>
+    <string name="simContacts_airplaneMode" msgid="1846161429087789936">"Щоб імпортувати контакти із SIM-карти, спершу вимкніть режим польоту."</string>
+    <string name="enable_pin" msgid="5422767284133234860">"Увімк./вимк. PIN-код SIM"</string>
+    <string name="change_pin" msgid="9174186126330785343">"Змін. PIN-код SIM"</string>
+    <string name="enter_pin_text" msgid="8532615714751931951">"PIN-код SIM:"</string>
+    <string name="oldPinLabel" msgid="5287773661246368314">"Старий PIN"</string>
+    <string name="newPinLabel" msgid="207488227285336897">"Новий PIN"</string>
+    <string name="confirmPinLabel" msgid="257597715098070206">"Підтверд. новий PIN"</string>
+    <string name="badPin" msgid="8955102849303984935">"Введений попередній PIN-код не правильний. Повторіть спробу."</string>
+    <string name="mismatchPin" msgid="5923253370683071889">"Введені PIN-коди не збігаються. Повторіть спробу."</string>
+    <string name="invalidPin" msgid="5981171102258684792">"Введіть PIN-код з цифр від 4 до 8."</string>
+    <string name="disable_sim_pin" msgid="3992926931620188855">"Вимк. PIN-код SIM"</string>
+    <string name="enable_sim_pin" msgid="5803702443844458831">"Вимк. PIN-код SIM"</string>
+    <string name="enable_in_progress" msgid="3695303775100109650">"Зачекайте…"</string>
+    <string name="enable_pin_ok" msgid="9166061915030865848">"PIN-код SIM-карти ввімкнено."</string>
+    <string name="disable_pin_ok" msgid="5596999379593924850">"PIN-код SIM-карти вимкнено."</string>
+    <string name="pin_failed" msgid="2298841192582192277">"Введений PIN-код не правильний."</string>
+    <string name="pin_changed" msgid="4365538014588501049">"PIN-код SIM-карти змінено."</string>
+    <string name="puk_requested" msgid="3898394204193202803">"Пароль неправильний, SIM-картку заблок! Необх. PUK2."</string>
+    <string name="enter_pin2_text" msgid="8339444124477720345">"PIN2"</string>
+    <string name="oldPin2Label" msgid="8559146795026261502">"Старий PIN2"</string>
+    <string name="newPin2Label" msgid="4573956902204349054">"Новий PIN2"</string>
+    <string name="confirmPin2Label" msgid="8100319484454787708">"Підтверд. новий PIN2"</string>
+    <string name="badPuk2" msgid="4851734468010000418">"Введений PUK2 не правильний. Повторіть спробу."</string>
+    <string name="badPin2" msgid="1041576234483629991">"Введений попередній PIN2-код не правильний. Повторіть спробу."</string>
+    <string name="mismatchPin2" msgid="523029155918113440">"Введені PIN2-коди не збігаються. Повторіть спробу."</string>
+    <string name="invalidPin2" msgid="8237110107480395938">"Введіть PIN2-код з цифр від 4 до 8."</string>
+    <string name="invalidPuk2" msgid="1290977391033057871">"Введіть PUK2 з 8 чисел."</string>
+    <string name="pin2_changed" msgid="1639666438836544393">"PIN2-код змінено."</string>
+    <string name="label_puk2_code" msgid="302845876240219560">"Введіть PUK2-код"</string>
+    <string name="fdn_enable_puk2_requested" msgid="4262894949634885773">"Пароль не правильний. Змініть PIN2-код і повторіть спробу."</string>
+    <string name="puk2_requested" msgid="8909278021238716877">"Пароль не правильний. SIM-карту заблоковано. Потрібен PUK2."</string>
+    <string name="puk2_blocked">Код PUK2 остаточно заблоковано.</string>
+    <string name="pin2_attempts">\nЗалишилося спроб: <xliff:g id="NUMBER">%d</xliff:g></string>
+    <string name="pin2_unblocked">PIN2 розблокований!</string>
+    <string name="doneButton" msgid="2859593360997984240">"Готово"</string>
+    <string name="caller_manage_header" msgid="3231519674734638786">"Конференц-виклик <xliff:g id="CONF_CALL_TIME">%s</xliff:g>"</string>
+    <string name="voicemail_settings_number_label" msgid="8524164258691887790">"Номер голос. пошти"</string>
+    <string name="card_title_dialing" msgid="5769417478498348054">"Набір"</string>
+    <string name="card_title_redialing" msgid="4831412164303596395">"Повт. підкл."</string>
+    <string name="card_title_conf_call" msgid="1162980346189744501">"Конференц-виклик"</string>
+    <string name="card_title_incoming_call" msgid="7364539451234646909">"Вхідний дзвінок"</string>
+    <string name="card_title_call_ended" msgid="5544730338889702298">"Виклик заверш."</string>
+    <string name="card_title_on_hold" msgid="821463117892339942">"Очікує"</string>
+    <string name="card_title_hanging_up" msgid="3999101620995182450">"Класти слухавку"</string>
+    <string name="card_title_in_call" msgid="6346543933068225205">"Вхід. викл."</string>
+    <string name="card_title_my_phone_number" msgid="112428362494434191">"Мій номер: <xliff:g id="MY_PHONE_NUMBER">%s</xliff:g>"</string>
+    <string name="notification_dialing" msgid="2107666444937350731">"Набір"</string>
+    <string name="notification_missedCallTitle" msgid="7554385905572364535">"Пропущ. виклик"</string>
+    <string name="notification_missedCallsTitle" msgid="1361677948941502522">"Пропущ. дзвінки"</string>
+    <string name="notification_missedCallsMsg" msgid="4575787816055205600">"Пропущ. дзвінк: <xliff:g id="NUM_MISSED_CALLS">%s</xliff:g>"</string>
+    <string name="notification_missedCallTicker" msgid="504686252427747209">"Пропущ. виклик від <xliff:g id="MISSED_CALL_FROM">%s</xliff:g>"</string>
+    <string name="notification_ongoing_call" msgid="7068688957273482989">"Поточний виклик"</string>
+    <string name="notification_on_hold" msgid="3480694969511790465">"Очікує"</string>
+    <string name="notification_incoming_call" msgid="2820429205043529642">"Вхідний дзвінок"</string>
+    <string name="notification_voicemail_title" msgid="8933468752045550523">"Нова голос. пошта"</string>
+    <string name="notification_voicemail_title_count" msgid="4366360747660929916">"Нова голос. пошта (<xliff:g id="COUNT">%d</xliff:g>)"</string>
+    <string name="notification_voicemail_text_format" msgid="4447323569453981685">"Набрати <xliff:g id="VOICEMAIL_NUMBER">%s</xliff:g>"</string>
+    <string name="notification_voicemail_no_vm_number" msgid="760963466895609716">"Невідомий номер голос. пошти"</string>
+    <string name="notification_network_selection_title" msgid="4224455487793492772">"Нема служби"</string>
+    <string name="notification_network_selection_text" msgid="2607085729661923269">"Вибрана мережа (<xliff:g id="OPERATOR_NAME">%s</xliff:g>) недоступна"</string>
+    <string name="notification_action_end_call" msgid="6069460915123531620">"Завершити виклик"</string>
+    <string name="notification_missedCall_call_back" msgid="2684890353590890187">"Передзвонити"</string>
+    <string name="notification_missedCall_message" msgid="3049928912736917988">"Повідомлення"</string>
+    <string name="incall_error_power_off" msgid="6550191216405193368">"Щоб установ. з\'єднання, споч. вимк. режим польоту."</string>
+    <string name="incall_error_emergency_only" msgid="4678640422710818317">"Не зареєстровано в мережі."</string>
+    <string name="incall_error_out_of_service" msgid="8587993036435080418">"Мобільна мережа недоступна."</string>
+    <string name="incall_error_no_phone_number_supplied" msgid="4197432103471807739">"Виклик не надіслано, не збережено дійсний номер."</string>
+    <string name="incall_error_call_failed" msgid="4313552620858880999">"Виклик не надісл."</string>
+    <string name="incall_status_dialed_mmi" msgid="3672498861336189563">"Запуск ряду MMI..."</string>
+    <string name="incall_error_supp_service_unknown" msgid="2991054870745666038">"Непідтримувана служба"</string>
+    <string name="incall_error_supp_service_switch" msgid="3503552565745872241">"Неможл. переключ. виклики."</string>
+    <string name="incall_error_supp_service_separate" msgid="914362338192301746">"Неможл. розділити дзвінок."</string>
+    <string name="incall_error_supp_service_transfer" msgid="2509871374644921632">"Неможл. переслати дзвінок."</string>
+    <string name="incall_error_supp_service_conference" msgid="2505727299596357312">"Неможл. створ. конференц-викл."</string>
+    <string name="incall_error_supp_service_reject" msgid="7055164130563826216">"Неможл. відхилити дзвінок."</string>
+    <string name="incall_error_supp_service_hangup" msgid="7417583238334762737">"Неможл. роз\'єднати виклики."</string>
+    <string name="incall_call_type_label_sip" msgid="2310958283037924371">"Інтернет-дзвінок"</string>
+    <string name="emergency_enable_radio_dialog_title" msgid="4627849966634578257">"Аварійний виклик"</string>
+    <string name="emergency_enable_radio_dialog_message" msgid="207613549344420291">"Увімкнення радіо…"</string>
+    <string name="emergency_enable_radio_dialog_retry" msgid="3724423402363063736">"Поза межами дії служби, повтор..."</string>
+    <string name="dial_emergency_error" msgid="7969515493359619960">"Виклик не надіслано. <xliff:g id="NON_EMERGENCY_NUMBER">%s</xliff:g> не є екстреним номером!"</string>
+    <string name="dial_emergency_empty_error" msgid="5556166819619323893">"Виклик не надіслано. Наберіть екстрений номер!"</string>
+    <string name="dialerKeyboardHintText" msgid="9192914825413747792">"Викор. клав. для набору"</string>
+    <string name="onscreenHoldText" msgid="2285258239691145872">"Утримувати"</string>
+    <string name="onscreenEndCallText" msgid="4403855834875398585">"Закінч."</string>
+    <string name="onscreenShowDialpadText" msgid="8561805492659639893">"Клавіатура"</string>
+    <string name="onscreenMuteText" msgid="5011369181754261374">"Вимкн. мікроф."</string>
+    <string name="onscreenAddCallText" msgid="5140385634712287403">"Дод. виклик"</string>
+    <string name="onscreenMergeCallsText" msgid="6640195098064538950">"Об’єдн. дзвінки"</string>
+    <string name="onscreenSwapCallsText" msgid="1602990689244030047">"Поміняти"</string>
+    <string name="onscreenManageCallsText" msgid="5473231160123254154">"Керув. викликами"</string>
+    <string name="onscreenManageConferenceText" msgid="6485935856534311346">"Керувати конференц."</string>
+    <string name="onscreenAudioText" msgid="1710087112800041743">"Звук"</string>
+    <string name="onscreenVideoCallText" msgid="4800924186056115442">"Відеодзвінок"</string>
+    <string name="importSimEntry" msgid="6614358325359736031">"Імпорт."</string>
+    <string name="importAllSimEntries" msgid="1503181169636198673">"Імпорт. всі"</string>
+    <string name="importingSimContacts" msgid="7374056215462575769">"Імпорт контактів SIM-карти"</string>
+    <string name="importToFDNfromContacts" msgid="2130620207013368580">"Імпортув. з контактів"</string>
+    <string name="hac_mode_title" msgid="8740268574688743289">"Слухові апарати"</string>
+    <string name="hac_mode_summary" msgid="6833851160514929341">"Увімкнути функцію НАС"</string>
+  <string-array name="tty_mode_entries">
+    <item msgid="512950011423868021">"TTY вимк."</item>
+    <item msgid="3971695875449640648">"TTY повн."</item>
+    <item msgid="1937509904407445684">"HCO TTY"</item>
+    <item msgid="5644925873488772224">"TTY VCO"</item>
+  </string-array>
+    <string name="dtmf_tones_title" msgid="5163153771291340803">"Сигнали DTMF"</string>
+    <string name="dtmf_tones_summary" msgid="3351820372864020331">"Установити довжину сигналів DTMF"</string>
+  <string-array name="dtmf_tone_entries">
+    <item msgid="899650777817315681">"Звичайний"</item>
+    <item msgid="2883365539347850535">"Довгий"</item>
+  </string-array>
+    <string name="network_message" msgid="4483886461245213802">"Повідомлення мережі"</string>
+    <string name="ota_title_activate" msgid="8616918561356194398">"Активуйте свій телефон"</string>
+    <string name="ota_touch_activate" msgid="6553212803262586244">"Щоб активувати службу вашого тел., треба зробити спеціальний дзвінок. "\n\n"Натиснувши \"Активувати\", прослухайте інструкції, надані для активації телефону."</string>
+    <string name="ota_hfa_activation_title" msgid="2234246934160473981">"Активація…"</string>
+    <string name="ota_hfa_activation_dialog_message" msgid="8092479227918463415">"Телефон активує службу мобільного передавання даних.\n\nЦе може тривати до 5 хвилин."</string>
+    <string name="ota_skip_activation_dialog_title" msgid="2943366608272261306">"Пропуст. активацію?"</string>
+    <string name="ota_skip_activation_dialog_message" msgid="2440770373498870550">"Якщо ви пропустите активацію, то не зможете розміщ. виклик чи підключ. до даних моб. мереж (хоча можете підключ. до мереж WLAN). Вас проситимуть активувати тел. щоразу, коли ви його вмикаєте, поки це не викон."</string>
+    <string name="ota_skip_activation_dialog_skip_label" msgid="3458532775091563208">"Пропуст."</string>
+    <string name="ota_activate" msgid="1368528132525626264">"Активувати"</string>
+    <string name="ota_title_activate_success" msgid="6570240212263372046">"Телефон активовано."</string>
+    <string name="ota_title_problem_with_activation" msgid="7095824491970084367">"Проблема з активацією"</string>
+    <string name="ota_listen" msgid="162923839877584937">"Виконайте голосові інструкції доки не почуєте, що активацію не буде завершено."</string>
+    <string name="ota_speaker" msgid="6904589278542719647">"Промовець"</string>
+    <string name="ota_progress" msgid="3420314892609254729">"Зачекайте, поки ваш телефон програмується."</string>
+    <string name="ota_failure" msgid="4311299546379674378">"Помилка програмування"</string>
+    <string name="ota_successful" msgid="1880780692887077407">"Телефон тепер активовано. Для запуску сервісу може знадобитися до 15 хвилин."</string>
+    <string name="ota_unsuccessful" msgid="8072141612635635357">"Ваш телефон не активовано. "\n"Можливо, потрібно знайти місце з кращим покриттям (біля вікна чи надворі). "\n\n"Повторіть спробу чи подзвоніть у службу обслуговування, щоб дізнатися про інші варіанти."</string>
+    <string name="ota_spc_failure" msgid="3909983542575030796">"ПОМИЛКИ НАДЛИШКУ SPC"</string>
+    <string name="ota_call_end" msgid="4537279738134612388">"Назад"</string>
+    <string name="ota_try_again" msgid="7685477206465902290">"Повтор."</string>
+    <string name="ota_next" msgid="3904945374358235910">"Далі"</string>
+    <string name="ecm_exit_dialog" msgid="4448531867763097533">"EcmExitDialog"</string>
+    <string name="phone_entered_ecm_text" msgid="6266424252578731203">"Увійд. в реж. авар. зворот. виклику"</string>
+    <string name="phone_in_ecm_notification_title" msgid="3226896828951687085">"Реж. авар. зворот. виклику"</string>
+    <string name="phone_in_ecm_call_notification_text" msgid="4611608947314729773">"Передавання даних вимкнено"</string>
+  <plurals name="phone_in_ecm_notification_time">
+    <item quantity="one" msgid="4866221796252472622">"Немає передав. даних протягом <xliff:g id="COUNT">%s</xliff:g> хв."</item>
+    <item quantity="other" msgid="3122217344579273583">"Немає передав. даних протягом <xliff:g id="COUNT">%s</xliff:g> хв."</item>
+  </plurals>
+  <plurals name="alert_dialog_exit_ecm">
+    <item quantity="one" msgid="8060210887681426682">"Телефон буде в режимі екстреного зворотного виклику <xliff:g id="COUNT">%s</xliff:g> хв. У цьому режимі неможливо користуватися програмами, які використовують передавання даних. Вийти зараз?"</item>
+    <item quantity="other" msgid="8617116564023933114">"Телефон буде в режимі екстреного зворотного виклику <xliff:g id="COUNT">%s</xliff:g> хв. У цьому режимі неможливо користуватися програмами, які використовують передавання даних. Вийти зараз?"</item>
+  </plurals>
+  <plurals name="alert_dialog_not_avaialble_in_ecm">
+    <item quantity="one" msgid="2585506997024726599">"Вибрана дія не доступна в режимі екстреного зворотного виклику. Телефон буде в цьому режимі <xliff:g id="COUNT">%s</xliff:g> хв. Вийти зараз?"</item>
+    <item quantity="other" msgid="6115622137771382224">"Вибрана дія не доступна в режимі екстреного зворотного виклику. Телефон буде у цьому режимі <xliff:g id="COUNT">%s</xliff:g> хв. Вийти зараз?"</item>
+  </plurals>
+    <string name="alert_dialog_in_ecm_call" msgid="1886723687211887104">"Вибрана дія не доступна під час екстреного виклику."</string>
+    <string name="progress_dialog_exiting_ecm" msgid="4835734101617817074">"Вихід із режиму екстреного зворотного виклику"</string>
+    <string name="alert_dialog_yes" msgid="6674268047820703974">"Так"</string>
+    <string name="alert_dialog_no" msgid="1476091437797628703">"Ні"</string>
+    <string name="alert_dialog_dismiss" msgid="2491494287075907171">"Відхилити"</string>
+    <string name="voicemail_provider" msgid="5135942703327136909">"Служба"</string>
+    <string name="voicemail_settings" msgid="72448049107749316">"Налаштування"</string>
+    <string name="voicemail_number_not_set" msgid="6724904736891087856">"&lt;Не встановлено&gt;"</string>
+    <string name="other_settings" msgid="3672912580359716394">"Додаткові налаштування"</string>
+    <string name="calling_via_template" msgid="4839419581866928142">"Виклик здійснюється за допомогою <xliff:g id="PROVIDER_NAME">%s</xliff:g>"</string>
+    <string name="contactPhoto" msgid="4713193418046639466">"фото контакта"</string>
+    <string name="goPrivate" msgid="865837794424530980">"конфіденц."</string>
+    <string name="selectContact" msgid="781975788478987237">"вибрати контакт"</string>
+    <string name="sip_settings" msgid="6699045718560859691">"Налаштування Інтернет-дзвінків"</string>
+    <string name="sip_accounts" msgid="2097054001288457163">"Облікові записи для Інтернет-дзвінків (SIP)"</string>
+    <string name="sip_accounts_title" msgid="1212889069281054570">"Облікові записи"</string>
+    <string name="sip_receive_calls" msgid="5635685570889971559">"Отримувати вхідні дзвінки"</string>
+    <string name="sip_receive_calls_summary" msgid="8403613238633679184">"Скорочує час роботи батареї"</string>
+    <string name="sip_call_options_title" msgid="27433718808839672">"Використовувати Інтернет-дзвінки"</string>
+    <string name="sip_call_options_wifi_only_title" msgid="145572394529090811">"Використовувати Інтернет-дзвінки (лише WLAN)"</string>
+    <string name="sip_call_options_entry_1" msgid="6556668894178520760">"Для всіх дзвінків, коли доступна мережа передавання даних"</string>
+    <string name="sip_call_options_entry_2" msgid="6789764029719494361">"Лише для Інтернет-дзвінків"</string>
+    <string name="sip_call_options_entry_3" msgid="7474809001402649185">"Запитувати для кожного дзвінка"</string>
+    <string name="sip_call_options_wifi_only_entry_1" msgid="7423523864471650069">"Для всіх дзвінк."</string>
+    <string name="pick_outgoing_call_phone_type" msgid="5622916534828338675">"Здійснити дзвінок"</string>
+    <string name="pick_outgoing_sip_phone" msgid="7012322118236208875">"Використовувати обліковий запис для Інтернет-дзвінків:"</string>
+    <string name="remember_my_choice" msgid="7058059586169290705">"Завжди використовувати для здійснення Інтернет-дзвінків"</string>
+    <string name="reset_my_choice_hint" msgid="5523030209803567922">"Обліковий запис для інтернет-викликів можна змінити на екрані Телефон &gt; Налаштування &gt; Налаштування інтернет-викликів &gt; Облікові записи, щоб використовувати його за умовчанням."</string>
+    <string name="pstn_phone" msgid="8782554491484326429">"Дзвінок з мобільного телефону"</string>
+    <string name="internet_phone" msgid="1147922660195095810">"Інтернет-дзвінок"</string>
+    <string name="no_sip_account_found_title" msgid="6266249392379373628">"Немає облікового запису для Інтернет-дзвінків"</string>
+    <string name="no_sip_account_found" msgid="724325811961769997">"У цьому телефоні немає облікових записів для інтернет-викликів. Додати зараз?"</string>
+    <string name="sip_menu_add" msgid="8757508498518881500">"Додати"</string>
+    <string name="add_sip_account" msgid="5904858426290097611">"Додати обліковий запис"</string>
+    <string name="remove_sip_account" msgid="7645900420385682570">"Видалити обліковий запис"</string>
+    <string name="sip_account_list" msgid="5480058210652194306">"Облікові записи SIP"</string>
+    <string name="saving_account" msgid="52903398217017954">"Збереження облікового запису..."</string>
+    <string name="removing_account" msgid="7183999896088628100">"Видалення облікового запису..."</string>
+    <string name="sip_menu_save" msgid="5842531129356014943">"Зберегти"</string>
+    <string name="sip_menu_discard" msgid="524075892158789701">"Відхилити"</string>
+    <string name="alert_dialog_close" msgid="7759635137627626235">"Закрити профіль"</string>
+    <string name="alert_dialog_ok" msgid="3580379406983564080">"OK"</string>
+    <string name="close_profile" msgid="6886968271423155284">"Закрити"</string>
+    <string name="primary_account_summary_with" msgid="1633960536212343187">"Основний обліковий запис. <xliff:g id="REGISTRATION_STATUS">%s</xliff:g>"</string>
+    <string name="registration_status_checking_status" msgid="3381868307694056727">"Перевірка стану..."</string>
+    <string name="registration_status_registering" msgid="4288401139400232968">"Реєстрація..."</string>
+    <string name="registration_status_still_trying" msgid="3185581992666091911">"Повторна спроба..."</string>
+    <string name="registration_status_not_receiving" msgid="4185572774980557758">"Виклики не отримуються."</string>
+    <string name="registration_status_no_data" msgid="4901476962360656611">"Реєстрацію облікового запису зупинено, оскільки відсутнє з’єднання з Інтернетом."</string>
+    <string name="registration_status_no_wifi_data" msgid="4038976374713018067">"Реєстрацію облікового запису зупинено, оскільки відсутнє з’єднання з мережею WLAN."</string>
+    <string name="registration_status_not_running" msgid="4824867184446232131">"Обліковий запис не зареєстровано."</string>
+    <string name="registration_status_done" msgid="884630717456439280">"Виклики отримуються."</string>
+    <string name="registration_status_failed_try_later" msgid="5214474354451220581">"Обліковий запис не зареєстровано: (<xliff:g id="REGISTRATION_ERROR_MESSAGE">%s</xliff:g>). Спробуємо пізніше"</string>
+    <string name="registration_status_invalid_credentials" msgid="4908446367559341757">"Обліковий запис не зареєстровано: неправильне ім’я користувача чи пароль."</string>
+    <string name="registration_status_server_unreachable" msgid="5733421582468991276">"Обліковий запис не зареєстровано: перевірте ім’я сервера."</string>
+    <string name="third_party_account_summary" msgid="2532526738862533028">"Зараз цей обліковий запис використовується програмою <xliff:g id="ACCOUNT_OWNER">%s</xliff:g>."</string>
+    <string name="sip_edit_title" msgid="489288416435014385">"Деталі облікового запису SIP"</string>
+    <string name="sip_edit_new_title" msgid="3659149255856520385">"Деталі облікового запису SIP"</string>
+    <string name="domain_address_title" msgid="9071787581316160480">"Сервер"</string>
+    <string name="username_title" msgid="2479375923477682328">"Ім’я користувача"</string>
+    <string name="password_title" msgid="3323555249068171531">"Пароль"</string>
+    <string name="display_name_title" msgid="2459768196312249937">"Відображуване ім\'я"</string>
+    <string name="proxy_address_title" msgid="4828301345351614273">"Адреса проксі-сервера вихідних дзвінків"</string>
+    <string name="port_title" msgid="5952939408078626657">"Номер порту"</string>
+    <string name="transport_title" msgid="8253139511847746640">"Тип транспортування"</string>
+    <string name="send_keepalive_title" msgid="7533342573918645113">"Надсилання для підтримки з\'єднання"</string>
+    <string name="set_primary_title" msgid="5351892327447571451">"Установити як основний обліковий запис"</string>
+    <string name="set_primary_summary" msgid="2219064654523258577">"Використовується для вихідних дзвінків"</string>
+    <string name="advanced_settings" msgid="8350631795335495338">"Додаткові налаштування"</string>
+    <string name="auth_username_title" msgid="851473016307947120">"Ім\'я користувача для автентифікації"</string>
+    <string name="auth_username_summary" msgid="6782012405225938629">"Ім\'я користувача, використане для автентифікації"</string>
+    <string name="default_preference_summary" msgid="868766740121667450">"&lt;Не налаштовано&gt;"</string>
+    <string name="display_name_summary" msgid="8636377460518225523">"&lt;Таке саме, як ім\'я користувача&gt;"</string>
+    <string name="optional_summary" msgid="1464058793789832411">"&lt;Додатково&gt;"</string>
+    <string name="advanced_settings_show" msgid="4668880308290857597">"▷ Торкніться, щоб показати всі"</string>
+    <string name="advanced_settings_hide" msgid="217398292824758079">"▽ Торкніться, щоб сховати всі"</string>
+    <string name="empty_alert" msgid="6839103946505432390">"Поле <xliff:g id="INPUT_FIELD_NAME">%s</xliff:g> обов’язкове, воно не може бути порожнім."</string>
+    <string name="not_a_valid_port" msgid="4796149266434630292">"Номер порту має бути між 1000 і 65534."</string>
+    <string name="no_internet_available_title" msgid="3327109242858406165">"Відсутнє з\'єднання з Інтернетом"</string>
+    <string name="no_wifi_available_title" msgid="747881033089378758">"Відсутнє з\'єднання WLAN"</string>
+    <string name="no_internet_available" msgid="7877142631803238549">"Щоб здійснити інтернет-виклик, спершу перевірте своє з’єднання з Інтернетом."</string>
+    <string name="no_wifi_available" msgid="1225073547318465713">"Для здійснення інтернет-викликів потрібне з’єднання з мережею WLAN (скористайтеся налаштуваннями Бездротовий зв’язок і мережі)."</string>
+    <string name="no_voip" msgid="8901474054537199865">"Інтернет-дзвінки не підтримуються"</string>
+    <string name="sip_system_decide">Автоматичний</string>
+    <string name="sip_always_send_keepalive">Завжди надсилати</string>
+    <string name="not_voice_capable" msgid="2739898841461577811">"Голосові дзвінки не підтримуються"</string>
+    <string name="respond_via_sms_canned_response_1" msgid="2461606462788380215">"Не можу говорити. У чому справа?"</string>
+    <string name="respond_via_sms_canned_response_2" msgid="4074450431532859214">"Я зараз передзвоню."</string>
+    <string name="respond_via_sms_canned_response_3" msgid="3496079065723960450">"Я передзвоню пізніше."</string>
+    <string name="respond_via_sms_canned_response_4" msgid="1698989243040062190">"Не можу говорити. Передзвоніть."</string>
+    <string name="respond_via_sms_custom_message" msgid="6648174777301028017">"Спеціальне повідомлення"</string>
+    <string name="respond_via_sms_setting_title" msgid="3754000371039709383">"Швидкі відповіді"</string>
+    <string name="respond_via_sms_setting_title_2" msgid="6104662227299493906">"Редагувати швидкі відповіді"</string>
+    <string name="respond_via_sms_setting_summary">Налаштування тексту відповідей, які можна відправити в вигляді текстового повідомлення, якщо немає можливості відповісти</string>
+    <string name="respond_via_sms_edittext_dialog_title" msgid="20379890418289778">"Швидка відповідь"</string>
+    <string name="respond_via_sms_menu_reset_default_activity" msgid="4029277930090150223">"За умовчанням"</string>
+    <string name="respond_via_sms_confirmation_format" msgid="7229149977515784269">"Повідомлення надіслано на номер <xliff:g id="PHONE_NUMBER">%s</xliff:g>."</string>
+    <string name="description_image_button_one" msgid="5502718871331943463">"один"</string>
+    <string name="description_image_button_two" msgid="4903738528222924522">"два"</string>
+    <string name="description_image_button_three" msgid="5570985408463782329">"три"</string>
+    <string name="description_image_button_four" msgid="1697520001239289074">"чотири"</string>
+    <string name="description_image_button_five" msgid="3450276493026943454">"п’ять"</string>
+    <string name="description_image_button_six" msgid="2070376172268675300">"шість"</string>
+    <string name="description_image_button_seven" msgid="1757351311199993371">"сім"</string>
+    <string name="description_image_button_eight" msgid="4734693919020613227">"вісім"</string>
+    <string name="description_image_button_nine" msgid="5568534122590597040">"дев’ять"</string>
+    <string name="description_image_button_star" msgid="1976280813017254462">"зірочка"</string>
+    <string name="description_image_button_zero" msgid="4211255756866893605">"нуль"</string>
+    <string name="description_image_button_pound" msgid="1716041284529917866">"решітка"</string>
+    <string name="description_dial_button" msgid="7459705245418435351">"дзвонити"</string>
+    <string name="description_delete_button" msgid="4015842181592283903">"backspace"</string>
+    <string name="accessibility_speakerphone_enabled" msgid="1988512040421036359">"Гучний зв’язок увімкнено."</string>
+    <string name="accessibility_call_muted" msgid="2776111226185342220">"Звук виклику вимкнено."</string>
+    <string name="description_target_answer" msgid="7205604197797472471">"Відповісти"</string>
+    <string name="description_target_send_sms" msgid="2098326025587950144">"Надіслати SMS"</string>
+    <string name="description_target_decline" msgid="4789834364389731957">"Відхилити"</string>
+    <string name="voicemail_notification_vibrate_when_title" msgid="8361970092063604886">"Вібросигнал"</string>
+    <string name="voicemail_notification_vibarte_when_dialog_title" msgid="5739583146522136440">"Вібросигнал"</string>
+    <string msgid="2512535133814478358" name="voicemail_notification_ringtone_title">"Сигнал дзвінка"</string>
+    <string name="default_notification_description" msgid="78174796906240970">"Звук за умовчанням (<xliff:g id="DEFAULT_SOUND_TITLE">%1$s</xliff:g>)"</string>
+    <string name="ringtone_title" msgid="6374978286202084684">"Сигнал дзвінка телефону"</string>
+    <string name="vibrate_on_ring_title" msgid="9197564612065258960">"Вібрувати під час дзвінка"</string>
+    <string name="dtmf_tone_enable_title" msgid="827601042915852989">"Звук клавіш"</string>
+    <string name="dial_pad_autocomplete" msgid="494525952035761075">"Автозавершення для цифрової клавіатури"</string>
+    <string msgid="9007490591910078324" name="preference_category_ringtone">"Мелодія"</string>
+    <string name="rnw2_unlock_success">Мережу RUIM Network2 успішно розблоковано.</string>
+    <string name="card_title_call_deflected">Виклик відхилено</string>
+    <string name="card_title_callretrieved">Виклик отримано</string>
+    <string name="card_title_clir_suppression_rejected">Ігнорування CLIR відхилено</string>
+    <string name="setting_setting">Параметри SIM-карти</string>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+    <item msgid="468237575962916558">"Завжди"</item>
+    <item msgid="1595097872875714252">"Лише в беззвучному режимі"</item>
+    <item msgid="1458182414036878616">"Ніколи"</item>
+  </string-array>
+    <string name="sms_push_notification_content">Натисніть, щоб вибрати</string>
+    <string name="call_barring_settings">"Параметри заборони викликів"</string>
+    <string name="mms_roam_alert_mesg">Дозволити автоматичне отримання MMS-повідомлень у роумінгу? Це може значно збільшити витрати на зв\'язок у роумінгу!</string>
+    <string name="toast_no_avoid_network">Немає мережі фільтра</string>
+    <string name="hint">Введіть назву міста</string>
+    <string name="unknown_number_save_to_contacts_summary">"Збереження невідомого номера до контактів"</string>
+    <string name="setting_push">Послуга Push</string>
+    <string name="change">"Змінити"</string>
+    <string name="g_card_data_conn_close">З\'єднання з даними GSM-карти закрито.</string>
+    <string name="unavailable">"Немає SIM-картки"</string>
+    <string name="turn_vibration_summary_off">"Вимкнути вібросигнал"</string>
+    <string name="ims_edit_title">Дані облікового запису IMS</string>
+    <string name="title_roaming_options">Параметри роумінгу</string>
+    <string name="old_password">"Поточний пароль"</string>
+    <string name="save_success">Успішно збережено</string>
+    <string name="redial_for_title_minute"><xliff:g id="MINUTE">%d</xliff:g> хв. </string>
+    <string name="managed_roaming_dialog_cancel_button">"Ні"</string>
+    <string name="incall_power_button_behavior_hangup_title">"Завершення дзвінка кнопкою живлення"</string>
+    <string name="summary_cdma">Використовувати мережу CDMA</string>
+    <string name="sp_unlock_success">SIM-картку успішно розблоковано постачальником послуг.</string>
+    <string name="proximity_sensor_summary_on">"Автоматично блокувати екран при наближенні до вуха під час голосового виклику"</string>
+    <string name="title_cdma">"CDMA"</string>
+    <string name="callind">Параметри функцій викликів</string>
+    <string name="cdma_endcall_redial">Повторний набір</string>
+    <string name="prl_title">"Версія PRL"</string>
+    <string name="call_number">"Кому:"</string>
+    <string name="network_state_title">"Стан мобільної мережі"</string>
+    <string name="video_call_title">Відеовиклик:</string>
+    <string name="pwd_requested">"Пароль неправильний"</string>
+    <string name="sum_xdivert_disabled">X-Divert вимкнено</string>
+    <string name="hall_tip_ringing">Проведіть по нижній області кришки, щоб відповісти на виклик або відхилити його.</string>
+    <string name="contactUpdateSuccess"> Контакт на SIM-картці успішно оновлено </string>
+    <string name="save_failed">Збереження не виконано</string>
+    <string name="auto_retry_mode_summary_gsm">"Увімкнути автоматичний повтор виклику"</string>
+    <string name="strange_number_save_to_contacts">Незнайомий номер</string>
+    <string name="managed_roaming_title">Керований роумінг</string>
+    <string name="ims_menu_discard">"Відхилити"</string>
+    <string name="card_title_outgoing_barred">Вихідні виклики заборонено</string>
+    <string name="requesting_rc_unlock">Запит на розблокування корпоративної мережі RUIM\u2026</string>
+    <string name="reset_settings_hint">Для настройок роумінгу буде повернено заводські значення, так чи ні?</string>
+    <string name="xdivert_setting">Настройки X-Divert</string>
+    <string name="set_subscription_error_atleast_one">Виберіть принаймні одну підписку</string>
+    <string name="cdma_endcall_sendmms">"Надіслати SMS"</string>
+    <string name="DATA_CONNECTED">"З\'єднання встановлено"</string>
+    <string name="ip_title_no_setting">IP-адресу не задано</string>
+    <string name="card_02">Карта 2 / SIM 2</string>
+    <string name="smart_call_answer_summary">"Відповідати на виклик, коли телефон підноситься до вуха"</string>
+    <string name="card_01">Карта 1 / SIM 1</string>
+    <string name="network_types_title">"тип мережі"</string>
+    <string name="flip_silent">"Вимкнення звуку перегортанням"</string>
+    <string name="call_local">Набрати місцевий номер</string>
+    <string name="card_03">Карта 3 / SIM 3</string>
+    <string name="network_manage_settings">Настройки мережі</string>
+    <string name="voice_call_title">Голосовий виклик:</string>
+    <string name="pref_update_pwd_dialog_sum">"Поточний пароль (4 цифри)"</string>
+    <string name="time_checkbox_local">" Місцевий час"</string>
+    <string name="sim_card">SIM-картка</string>
+    <string name="edit_sim_number_uim">Редагувати номер UIM/SIM-картки</string>
+    <string name="network_registering">реєстрація мережі...</string>
+    <string name="allContactdeleteFailed"> Не вдалося видалити всі контакти із SIM-картки!!!</string>
+    <string name="sub3_summary">Керування підпискою 3</string>
+    <string name="callind_multi_sim">Оператори мережі</string>
+    <string name="stk_cc_ss_to_dial_error">Запит SS змінено на запит DIAL.</string>
+    <string name="corporate_unlock_failed">Запит про розблокування SIM-картки не виконано.</string>
+    <string name="title_network_settings">"Оператори мережі"</string>
+    <string name="close">"Закрити"</string>
+    <string name="mnc_title">"MNC"</string>
+    <string name="data_roam_alert_ok">"OK"</string>
+    <string name="data_roam_alert_cancel">"Скасувати"</string>
+    <string name="unkowntypecard">Невідомий тип карти</string>
+    <string name="firstcard_selectnetwork_manual">Гніздо 1, вибрати мережу вручну</string>
+    <string name="gsm_networks_searching">пошук мереж GSM...</string>
+    <string name="all_outgoing">"Всі вихідні виклики"</string>
+    <string name="requesting_puk_unlock">Запит на розблокування PUK-коду\u2026</string>
+    <string name="summary_tip_interal_roaming_network_settings">CDMA автоматично вибере мережу за замовчуванням, без налаштування вручну. Якщо поточна мережа не може продовжити роботу, спробуйте змінити операцію вручну.</string>
+    <string name="phone_recorder">Запис</string>
+    <string name="summary_auto_mms">Автоматично завантажувати MMS-повідомлення в роумінгу</string>
+    <string name="card_title_callonhold_released">Виклик звільнено</string>
+    <string name="requesting_corporate_unlock">Запит на розблокування корпоративної SIM-картки\u2026</string>
+    <string name="set_sim_actived_failed_uim">Виняткова ситуація під час встановлення стану UIM/SIM-картки, перезапустіть телефон і повторіть спробу.</string>
+    <string name="reset_settings">скинути</string>
+    <string name="is_not_roam">"Без роумінгу"</string>
+    <string name="setting_info">Дані SIM-картки</string>
+    <string name="call_barring">"Заборона викликів"</string>
+    <string name="xdivert_sub_absent">Для функціонування X-Divert обидві підписки мають бути активовані</string>
+    <string name="auto_switch_earpiece">Автоматично вимикати гучномовець</string>
+    <string name="rnw2_unlock_failed">Запит на розблокування мережі RUIM Network2 не виконано.</string>
+    <string name="title_request_next_network">Виконайте перехід до наступної мережі вручну</string>
+    <string name="summary_manage_subscriptions">Керування настройками кожної підписки</string>
+    <string name="network_config_title">"Налашт-ння мережі"</string>
+    <string name="cdma_networks_searching">пошук мереж CDMA...</string>
+    <string name="managed_roaming_dialog_content">Знайдено мережу з обмеженим обслуговуванням. Розпочати пошук мережі?</string>
+    <string name="deactivate_all">"Скасувати всі заборони"</string>
+    <string name="msg_init">Ініціалізація...</string>
+    <string name="headset_answer_title">Режим гарнітури</string>
+    <string name="dual_sim_dialogTitle">Параметр подвійного режиму</string>
+    <string name="dialing_settings">Параметри набору</string>
+    <string name="setting_setting_uim">Параметри UIM/SIM-карти</string>
+    <string name="roaming_settings_hint">Увага: ця настройка підходить лише для UIM-картки. За наявності будь-яких запитань звертайтесь до служби підтримки клієнтів компанії China telecom.</string>
+    <string name="deact_all_sub_not_supported">Деактивація всіх підписок не підтримується.</string>
+    <string name="deleteSimContacts">Видалення контактів SIM-картки</string>
+    <string name="sms_title">Повідомлення:</string>
+    <string name="all_incoming">"Всі вихідні виклики"</string>
+    <string name="CF_summary">"Параметри переадресації викликів"</string>
+    <string name="ims_menu_save">"Зберегти"</string>
+    <string name="msg_calling">Новий вхідний дзвінок від %s</string>
+    <string name="networks_available">доступні мережі</string>
+    <string name="contactAddSuccess"> Контакт успішно додано до SIM-картки </string>
+    <string name="sendSms"> Надіслати SMS-повідомлення</string>
+    <string name="roam_title">"Роумінг"</string>
+    <string name="last_4">Останні 4 цифри</string>
+    <string name="sms_push_notification_title">Ви отримуєте повідомлення Push?</string>
+    <string name="valid_only_this_time">Дійсно тільки для цього часу</string>
+    <string name="inservice">"Використовується"</string>
+    <string name="card_title_callconnectedect">Підключено виклик ECT</string>
+    <string name="sms_push_message">"1 Після ввімкнення послуги Auto-push ви зможете отримувати повідомлення Push."\n"2 Після отримання повідомлення Push запускатимуться локальні програми і передаватимуться дані. Ознайомтеся з розцінками операторів мобільного зв\'язку на відповідні послуги."\n"3 Для отримання повідомлень Push потрібно забезпечити можливості з\'єднання з даними відповідної SIM-картки."\n"4 До звичайних послуг Auto-push відносяться сповіщення електронною поштою, керування пристроями, індикація послуг, завантаження послуг і підготовка до роботи."</string>
+    <string name="not_set">"Не встановлено"</string>
+    <string name="set_sub_deactivate_success">Деактивацію виконано</string>
+    <string name="incoming_calls_when_roaming">"Вхідні виклики у роумінгу"</string>
+    <string name="headset_answer_summary">Режим налаштування гарнітури</string>
+    <string name="call_International_dial">Міжнародний виклик у роумінгу</string>
+    <string name="set_sub_activate_failed">Помилка активації</string>
+    <string name="turn_vibration_summary_on">"Вібрувати після встановлення з\'єднання під час голосового виклику"</string>
+    <string name="unknown_caller">"Невідомий контакт"</string>
+    <string name="network_selectmanual_title">"Вибрати мережу вручну"</string>
+    <string name="ip_dialing_title">"IP виклики"</string>
+    <string name="set_sim_actived_failed_try_later">Виняткова ситуація під час встановлення стану SIM-картки, повторіть спробу</string>
+    <string name="enterName"> Введіть ім\'я:</string>
+    <string name="puk_unlock_failed">Помилка розблокування PUK-коду</string>
+    <string name="allContactdeleteSuccess"> Усі контакти успішно видалено із SIM-картки </string>
+    <string name="wing_dial_find_countries_prefix_code">Введіть назву країни</string>
+    <string name="set_sim_color">Обрати колір тла</string>
+    <string name="title_auto_mms">Настройки MMS</string>
+    <string name="redial_for_title_cancel">Автоматичний повторний набір номера скасовано</string>
+    <string name="dlg_cancel">"Скасувати"</string>
+    <string name="show_sim_status_summary">Номер телефону, сигнал тощо</string>
+    <string name="requesting_rnw1_unlock">Запит на розблокування мережі RUIM network1\u2026</string>
+    <string name="puk_unlock_success">PUK-код успішно розблоковано.</string>
+    <string name="confirm">"OK"</string>
+    <string name="time_checkbox_beijing">" Пекінський час"</string>
+    <string name="prompt">Повідомлення</string>
+    <string name="card_title_MOcall_forwarding">Вихідний переадресований виклик</string>
+    <string name="title_network_info">Дані поточної мережі</string>
+    <string name="rnw1_unlock_failed">Запит на розблокування мережі RUIM Network1 не виконано.</string>
+    <string name="phone_recorder_start_error">"Неможливо розпочати запис"</string>
+    <string name="title_network_settings_cdma">Настройки мережі CDMA</string>
+    <string name="mobile_network_setting">Настройки мобільної мережі</string>
+    <string name="no_volte">Неможливо здійснити виклик IMS</string>
+    <string name="corporate_unlock_success">Корпоративну SIM-картку успішно розблоковано.</string>
+    <string name="label_rdp">Розблокувати PIN-код RUIM</string>
+    <string name="g_card_data_conn_enable">Увімкнено з\'єднання з даними карти GSM. Щоб налаштувати передачу даних за замовчуванням, перейдіть до меню Настройки &gt;Настройки SIM-картки.</string>
+    <string name="active_card_title">"Активний"</string>
+    <string name="clir_title">"Мій номер телефону"</string>
+    <string name="know">Я знаю</string>
+    <string name="call_ind_services">Послуга незалежного виклику</string>
+    <string name="phone_recorder_sdcard_full">Недостатньо місця на SD-карті</string>
+    <string name="xdivert_not_active">Неактивно</string>
+    <string name="new_cards_available">Доступна нова картка. Налаштуйте підписки.</string>
+    <string name="exportContactScreen"> Експортувати контакти з телефону до SIM-картки </string>
+    <string name="network_prefer_title_cdma">GSM(WCDMA)Вказати версію мережі</string>
+    <string name="cancel_all_bar">"Зняти всі заборони"</string>
+    <string name="auto_switch_earpiece_summary">Автоматично вимикати гучномовець при наближенні телефону до вуха</string>
+    <string name="card_title_calliswaiting">Очікування виклику</string>
+    <string name="sim_message_push_sum_on">Послуга Push для повідомлень відкрита</string>
+    <string name="outgoing_international">"Міжнародні виклики"</string>
+    <string name="pref_cancel_all_bar_dialog_sum">"Введіть пароль заборони (4 цифри)"</string>
+    <string name="string_call">"Набрати"</string>
+    <string name="roaming_hotline">Гаряча лінія з питань роумінгу \n +86 18918910000</string>
+    <string name="contactUpdateFailed"> Не вдалося оновити контакт на SIM-картці!!!</string>
+    <string name="strange_number_save_to_contacts_msg">Незнайомий номер <xliff:g id="NUMBER">%s</xliff:g>, додати до контактів?</string>
+    <string name="sim_unlock_failed">Запит на розблокування SIM-картки не виконано.</string>
+    <string name="data_roam_alert_mesg">"Дозволити роумінг даних? Може стяг-тися значна плата за роумінг!"</string>
+    <string name="next_network">наступна мережа</string>
+    <string name="rc_unlock_failed">Запит розблокування корпоративної мережі RUIM не виконано.</string>
+    <string name="turn_vibration_title">"Вібрація при з\'єднанні"</string>
+    <string name="voice_call_settings">"Налаштування голосових викликів"</string>
+    <string name="outgoing_international_roaming">"Міжнар. викл. крім PLMN"</string>
+    <string name="voicemail_settings_for"><xliff:g id="provider_name">%s</xliff:g> - налаштування</string>
+    <string name="contactdeleteFailed"> Не вдалося видалити контакт із SIM-картки!!!</string>
+    <string name="set_subscription">Виберіть підписки</string>
+    <string name="sip_always_send_keepalive" translatable="true">Завжди надсилати</string>
+    <string name="proceed">Виконати</string>
+    <string name="redial_for_title_second">" і <xliff:g id="SECOND">%d</xliff:g> сек."</string>
+    <string name="ruim_unlock_success">Мережу RUIM успішно розблоковано.</string>
+    <string name="redial_for_title_with_time"><xliff:g id="TIME">%s</xliff:g> після автоматичного повторного набору</string>
+    <string name="place_a_call1">Підписка 1</string>
+    <string name="set_sub_activate_success">Активовано успішно</string>
+    <string name="unknown_number_save_to_contacts_title">"Зберігати невідомі номери"</string>
+    <string name="sub2LineNumber">Номер Sub2:</string>
+    <string name="labelCB">"Заборона викликів"</string>
+    <string name="sms_send_success">Успішне виконання операції SMS</string>
+    <string name="place_a_call2">Підписка 2</string>
+    <string name="place_a_call3">Підписка 3</string>
+    <string name="title_network_settings_gsm">Настройки мережі GSM</string>
+    <string name="card_title_MTcall_forwarding">Вхідний виклик переадресовано</string>
+    <string name="card_title_incoming_barred">Вхідні виклики заборонено</string>
+    <string name="sim_message_push_sum_off">Послуга Push для повідомлень закрита</string>
+    <string name="label_nsdp">PIN-код розблокування підгрупи мережі SIM-картки</string>
+    <string name="sub2_summary">Керування підпискою 2</string>
+    <string name="closedataconn">"Закрийте передачу даних перед пошуком мереж, перейдіть до настройок."</string>
+    <string name="isRoam">"Роумінг"</string>
+    <string name="sub1_summary">Керування підпискою 1</string>
+    <string name="show_roaming_tips_sum">Показувати нагадування про роумінг</string>
+    <string name="label_sdp">PIN-код розблокування SIM-картки</string>
+    <string name="smart_sound_settings">"Якість дзвінка"</string>
+    <string name="call_International_back">Міжнародний зворотний виклиqк у роумінгу</string>
+    <string name="call_back_china">Набрати номер для зворотного виклику до Китаю</string>
+    <string name="dialog_msg_request_next_network">Натисніть OK і спробуйте знайти наступну доступну мережу. Поточну мережу буде додано до списку фільтрів. Автоматично пропускати цю мережу в наступному пошуку.</string>
+    <string name="ims_domain_address_title">Сервер IMS</string>
+    <string name="voice_call_settings_summary">"Налаштування голосових викликів"</string>
+    <string name="network_select_setting">Параметри мережі</string>
+    <string name="setting_info_uim">Інформація UIM/SIM-карти</string>
+    <string name="default_setting">SIM-карта за умовчанням</string>
+    <string name="card_title_conditionalCF">Умовну переадресацію викликів увімкнено</string>
+    <string name="proximity_sensor_title">"Датчик наближення"</string>
+    <string name="hall_tip_offhook_muti_call">Відкриттям кришки можна переходити від одного виклику до іншого.</string>
+    <string name="sub3">Підписка 3</string>
+    <string name="stk_cc_ss_to_ss_error">Запит SS змінено на новий запит SS.</string>
+    <string name="sub2">Підписка 2</string>
+    <string name="data_connect_settings_failed">Не вдалося встановити параметри з\'єднання з даними, повторіть спробу пізніше</string>
+    <string name="sub1">Підписка 1</string>
+    <string name="editContact"> Редагувати</string>
+    <string name="mo_call_type_title">Тип виклику MO</string>
+    <string name="phone_recorder_save_failed">Не вдалося зберегти аудіозапис</string>
+    <string name="dual_sim_title">Параметри подвійного режиму RUIM (лише у роумінгу)</string>
+    <string name="invalidatePwd">"Введений пароль містить менше 4 символів. Введіть його ще раз."</string>
+    <string name="dial"> Набрати</string>
+    <string name="interal_roaming">Параметри роумінгу</string>
+    <string name="xdivert_summary">Настройки CFNRc</string>
+    <string name="phone_recorder_path">Місце зберігання для аудіозаписів</string>
+    <string name="set_sub_deactivate_not_supported">Деактивація не підтримується</string>
+    <string name="xdivert_not_supported">X-Divert не підтримується для мережі CDMA</string>
+    <string name="edit_sim_name">Редагувати ім\'я SIM-картки</string>
+    <string name="voice_call_settings_title">"Голосовий виклик"</string>
+    <string name="hall_tip_offhook">Клацніть на нижній області кришки, щоб завершити дзвінок.</string>
+    <string name="label_rspdp">Розблокування PIN-коду постачальником послуг мережі RUIM</string>
+    <string name="set_sim_actived_failed_try_later_uim">Виняткова ситуація під час встановлення стану UIM/SIM-картки, повторіть спробу</string>
+    <string name="addSimEntries"> Додати контакт із SIM-картки</string>
+    <string name="first_4">Перші 4 цифри</string>
+    <string name="label_puk">Введіть код PUK</string>
+    <string name="set_sub_2">Підписка 2: </string>
+    <string name="set_sub_3">Підписка 3: </string>
+    <string name="set_sub_activate_not_supported">Активація не підтримується</string>
+    <string name="voice_call">Голосовий виклик</string>
+    <string name="sim_unlock_success">SIM-картку успішно розблоковано.</string>
+    <string name="ruim_unlock_failed">Запит на розблокування мережі RUIM не виконано.</string>
+    <string name="change_password">"Змінити пароль заборони"</string>
+    <string name="requesting_ruim_unlock">Запит на розблокування мережі RUIM\u2026</string>
+    <string name="title_show_avoid_network">Перевірити відфільтрований список мереж</string>
+    <string name="requesting_sp_unlock">Запит на розблокування до постачальника послуг SIM-картки\u2026</string>
+    <string name="card_title_cugcall">Виклик замкненої групи абонентів</string>
+    <string name="service_status_title">"Стан послуги"</string>
+    <string name="card_title_forwarded_MTcall">Переадресовані вхідні виклики</string>
+    <string name="prl_update">Оновлення списку роумінгу CDMA (PRL)</string>
+    <string name="no_default_sim">"Завжди запитувати"</string>
+    <string name="dialog_msg_clear_avoid_network">Відфільтрований список мереж майже пустий, продовжити?</string>
+    <string name="bar_pwd_changed">"Пароль для заборони викликів успішно змінено"</string>
+    <string name="set_sub_1">Підписка 1: </string>
+    <string name="update_bar_pwd_title">"Змінити пароль заборони викликів"</string>
+    <string name="exportContacts">Експортування контактів до SIM-картки\u2026</string>
+    <string name="exportAllcontatsNoContacts"> Контакти для експорту на SIM-карту не знайдені !!!</string>
+    <string name="signal_strength_title">"Потужність сигналу"</string>
+    <string name="data_roaming_sum">"Підключ. під час роумінгу до служб даних"</string>
+    <string name="config_sub_title">Налаштувати підписки</string>
+    <string name="title_tip_interal_roaming_network_settings">Опис</string>
+    <string name="wing_dial">Набір Wing</string>
+    <string name="xdivert_partial_set">XDivert було задано лише для першої підписки</string>
+    <string name="dialog_active_simcard_alert_message">Використовується з назвою “<xliff:g id="SIM_CARD_NAME">%s</xliff:g>“, <xliff:g id="SIM_OR_UIM">%s</xliff:g> вимкнено, ввести <xliff:g id="SIM_SETTINGS_NAME">%s</xliff:g> і змінити стан?</string>
+    <string name="register_network_success">Реєстрацію в <xliff:g id="network">%s</xliff:g> виконано успішно. У разі поганого з\’єднання з мережею система автоматично виконає реєстрацію в іншій мережі в роумінгу.</string>
+    <string name="time_display">відображення часу</string>
+    <string name="data_connect_settings_title">Передача даних</string>
+    <string name="title_allworld">"Глобально"</string>
+    <string name="phone_recorder_mediarecorder_ioexception">Помилка у місці зберігання аудіозаписів</string>
+    <string name="voicemail_summary">"Налаштування голосової пошти"</string>
+    <string name="set_sub_deactivate_failed">Помилка деактивації</string>
+    <string name="label_rhrpd">Розблокування PIN-коду мережі RUIM HRPD</string>
+    <string name="cursorError"> Дані структури Cursor невірні! </string>
+    <string name="data_connection">Підключення даних</string>
+    <string name="ims_service_capability">Увімкнення/вимкнення можливості сервісу</string>
+    <string name="sum_xdivert_enabled">X-Divert увімкнено</string>
+    <string name="count_down">Всього секунд: </string>
+    <string name="fdn_service_unavailable">Послуга FDN недоступна.</string>
+    <string name="tips_thiscard_serviceprefer">"спочатку буде використана мобільна служба для цієї картки"</string>
+    <string name="newsim_title">"Виявлено нову SIM-картку"</string>
+    <string name="card_title_callonhold">Утримується</string>
+    <string name="card_title_forwardcheckreceived">Отримано повідомлення про перевірку переадресації</string>
+    <string name="finish_cause_airplane_mode">Ця функція недоступна в режимі \"У літаку\", вимкніть цей режим і повторіть спробу</string>
+    <string name="network_prefer_title_gsm">Вказати версію мережі</string>
+    <string name="smartsound_mode_enabled_explanation">"Підвищення гучності та чіткості передачі під час дзвінка"</string>
+    <string name="mcc_title">"MCC"</string>
+    <string name="stk_cc_ss_to_ussd_error">Запит SS змінено на запит USSD.</string>
+    <string name="set_uicc_subscription_progress">Триває задання підписок...</string>
+    <string name="card_title_multipartycall">Багатосторонній виклик</string>
+    <string name="no_vt_allowed">Щоб зробити виклик, спершу вимкніть режим \"Телетайп\".</string>
+    <string name="chg_pwd_info_error">"Помилка змінення пароля"</string>
+    <string name="deleteAllSimEntries"> Видалити всі контакти із SIM-картки</string>
+    <string name="redial_for_title_now">Автоматичний повторний набір</string>
+    <string name="remove_ims_account">"Видалити обліковий запис"</string>
+    <string name="network_auto_success_info">реєстрацію мережі виконано успішно</string>
+    <string name="call_time_alert_title">"нагадування про час виклику"</string>
+    <string name="secondcard_selectnetwork_manual">Гніздо 2, вибрати мережу вручну</string>
+    <string name="enterNumber"> Введіть номер телефону:</string>
+    <string name="label_rcdp">Розблокування PIN-коду корпоративної мережі RUIM</string>
+    <string name="requesting_rnw2_unlock">Запит на розблокування мережі RUIM network2 \u2026</string>
+    <string name="requesting_nw_subset_unlock">Запит на розблокування мережевої підгрупи SIM-картки\u2026</string>
+    <string name="rsp_unlock_success">Успішно розблоковано постачальником послуг мережі RUIM.</string>
+    <string name="phone_recorder_start_failed">Не вдалося розпочати аудіозапис</string>
+    <string name="card_title_deflectedcall">Відхилений виклик</string>
+    <string name="proposed_sub">Запропоновано</string>
+    <string name="rnw1_unlock_success">Мережу RUIM Network1 успішно розблоковано.</string>
+    <string name="xdivert_enternumber_error">Введіть номер телефону для обох підписок</string>
+    <string name="newsimlabel2_uim">Зараз настройки UIM/SIM-картки за замовчуванням такі:</string>
+    <string name="ip_no_setting">IP-адресу за замовчуванням не встановлено. Перед використанням цієї функції установіть відповідні значення на сторінці настройок.</string>
+    <string name="card_title_callconnectingect">Підключення до виклику ECT</string>
+    <string name="contactScreen"> Додати/Редагувати контакт на SIM-картці</string>
+    <string name="phone_numbers">Ввести номери телефонів</string>
+    <string name="show_roaming_tips_title">Показувати нагадування про роумінг</string>
+    <string name="ip_dial_sub_title">"Параметри IP-набору"</string>
+    <string name="title_network_select">Настройки пріоритетної мережі</string>
+    <string name="requesting_rsp_unlock">Запит на розблокування до постачальника послуг мережі RUIM\u2026</string>
+    <string name="tty_mode_not_allowed_vt_call">Під час виклику VT не дозволяється змінювати режим \"У літаку\".</string>
+    <string name="data_connection_title">Передача даних:</string>
+    <string name="rc_unlock_success">Корпоративну мережу RUIM успішно розблоковано.</string>
+    <string name="label_rn1dp">PIN-код розблокування мережі RUIM network1</string>
+    <string name="wait">Зачекайте…</string>
+    <string name="title_wait">Зачекайте, будь ласка</string>
+    <string name="exportAllcontatsFailed"> Не вдалося експортувати всі контакти до SIM-картки!!!</string>
+    <string name="phone_recorder_started">"Запис"</string>
+    <string name="show_sim_number">Відобразити номери</string>
+    <string name="contactdeleteSuccess"> Контакти із SIM-картки успішно видалено </string>
+    <string name="cancel_call">"Скасувати"</string>
+    <string name="set_sub_no_change">Жодних змін у підписці</string>
+    <string name="g_card_data_conn_set_failed">Не вдалося увімкнути/вимкнути передачу даних карти GSM, повторіть спробу пізніше.</string>
+    <string name="show_sim_status">"Стан"</string>
+    <string name="sub1LineNumber">Номер Sub1:</string>
+    <string name="nw_subset_unlock_success">Підгрупу мережі SIM-картки успішно розблоковано.</string>
+    <string name="set_sub_not_supported_phone_in_call">Під час здійснення виклику на телефоні активація або деактивація підписок не дозволені.</string>
+    <string name="auto_selectnetwork_status">Зареєстровано в мережі, поточний стан автоматичного вибору мережі</string>
+    <string name="emergency_call_dialog_number_for_display">"Аварійний номер"</string>
+    <string name="rsp_unlock_failed">Запит про розблокування до постачальника послуг мережі RUIM не виконано.</string>
+    <string name="rhrpd_unlock_failed">Запит на розблокування мережі RUIM HRPD не виконано.</string>
+    <string name="label_spdp">Розблокування PIN-коду постачальником послуг SIM-картки</string>
+    <string name="set_sub_global_deactivate_failed">Глобальна помилка деактивації</string>
+    <string name="ims_service_capability_title">Увімк./вимк. можливості сервісу IMS</string>
+    <string name="sms">"Повідомлення"</string>
+    <string name="card_title_unconditionalCF">Безумовну переадресацію викликів увімкнено</string>
+    <string name="sms_push_title">Угода щодо послуги Push для повідомлень</string>
+    <string name="edit_sim_name_uim">Редагувати ім\'я UIM/SIM-картки</string>
+    <string name="time_display_title">"Параметри відображення часу"</string>
+    <string name="outofservice">"Не використовується"</string>
+    <string name="video_call">Відео виклик</string>
+    <string name="register_network_failed">мережа <xliff:g id="network">%s</xliff:g> недоступна, система автоматично виконає реєстрацію в іншій мережі в роумінгу.</string>
+    <string name="confirm_password">"Підтвердьте новий пароль"</string>
+    <string name="summary_gsm">Режим GSM недоступний на материку і в Макао</string>
+    <string name="message_push_service">ПОСЛУГА PUSH ДЛЯ ПОВІДОМЛЕНЬ</string>
+    <string name="set_sub_global_activate_failed">Глобальна помилка активації</string>
+    <string name="network_settings_sel_sub">Оператори мережі</string>
+    <string name="incall_power_button_behavior_hangup_summary">"Якщо під час виклику натиснути кнопку живлення, виклик буде завершено, але екран не вимкнеться"</string>
+    <string name="set_sim_actived_failed">Виняткова ситуація під час встановлення стану SIM-картки, перезапустіть телефон і повторіть спробу.</string>
+    <string name="mismatchPwd">"Введений вами новий пароль не збігається, повторіть спробу"</string>
+    <string name="managed_roaming_dialog_ok_button">"Так"</string>
+    <string name="managed_roaming_title_sub1">Керований роумінг (SIM1)</string>
+    <string name="managed_roaming_title_sub2">Керований роумінг (SIM2)</string>
+    <string name="managed_roaming_title_sub3">Керований роумінг (SIM3)</string>
+    <string name="call_time_alert_summary">"Установіть, щоб відкривати дзвінки на 50 секунд для нагадування"</string>
+    <string name="data_roam_alert_title">Увага!</string>
+    <string name="accessibility_settings">Настройки спеціальних можливостей</string>
+    <string name="roaming_settings_title">Параметри роумінгу</string>
+    <string name="label_rn2dp">PIN-код розблокування мережі RUIM network2</string>
+    <string name="title_clear_avoid_network">Пустий відфільтрований список мереж</string>
+    <string name="flip_silent_summary">"Вимикати звук дзвінка під час вхідного виклику перегортанням телефону"</string>
+    <string name="sp_unlock_failed">Запит на розблокування до постачальника послуг SIM-картки не виконано.</string>
+    <string name="sms_send_fail">Операція SMS не вдалася</string>
+    <string name="proximity_sensor_summary_off">"Датчики наближення закрито"</string>
+    <string name="smart_call_answer">"Інтелектуальна відповідь"</string>
+    <string name="xdivert_status">Статус X-Divert</string>
+    <string name="ims_accounts_title">Обліковий запис IMS</string>
+    <string name="interl_data_roam_setting">"Роумінг даних"</string>
+    <string name="others_setting">"Загальні налашт-ня"</string>
+    <string name="error">"Помилка"</string>
+    <string name="input_call_barring_password">"Введіть пароль заборони викликів"</string>
+    <string name="network_auto_failure_info">не вдалося виконати реєстрацію мережі</string>
+    <string name="requesting_sim_unlock">Запит на розблокування SIM-картки\u2026</string>
+    <string name="title_data_settings">Настройки даних</string>
+    <string name="call_other_countries">Набрати номери інших країн</string>
+    <string name="dlg_ok">"OK"</string>
+    <string name="default_setting_uim">UIM/SIM-картка за замовчуванням</string>
+    <string name="rhrpd_unlock_success">Мережу RUIM HRPD успішно розблоковано.</string>
+    <string name="summary_allworld">"GSM/WCDMA автоматично"</string>
+    <string name="title_gsm">GSM/UMTS (лише для роумінгу)</string>
+    <string name="xdivert_active">"Активний"</string>
+    <string name="edit_sim_number">Редагувати номер SIM-картки</string>
+    <string name="prl_update_hint">Оновлення PRL, зачекайте…</string>
+    <string name="use_ims_default_summary">Використовувати IMS для всіх голосових викликів</string>
+    <string name="newsimlabel2">Зараз настройки SIM-картки за замовчуванням такі:</string>
+    <string name="newsimlabel1">"Позначено як:"</string>
+    <string name="label_cdp">PIN-код розблокування корпоративної SIM-картки</string>
+    <string name="data_roaming_title">"Роумінг даних"</string>
+    <string name="deactivating">"Деактивація..."</string>
+    <string name="contactAddFailed"> Не вдалося додати контакт до SIM-картки!!!</string>
+    <string name="DATA_DISCONNECTED">"З\'єднання розірвано"</string>
+    <string name="set_sub_success">Функції для підписок успішно задані</string>
+    <string name="xdivert_imsi_not_read">Відбувається ініціалізація SIM-картки. Повторіть спробу пізніше.</string>
+    <string name="exportAllcontatsSuccess">Усі контакти успішно експортовано до SIM-картки </string>
+    <string name="redial_for_click">Клацніть, щоб зараз автоматично перенабрати</string>
+    <string name="activating">"Активація..."</string>
+    <string name="sms_center_title">Сервісний центр SMS</string>
+    <string name="prompt_user">Підказка для користувача</string>
+    <string name="uim_card">uim/sim-картка</string>
+    <string name="no_display">Не відображати</string>
+    <string name="requesting_rhrpd_unlock">Запит на розблокування RUIM HRPD\u2026</string>
+    <string name="newwork_title">Поточні оператори</string>
+    <string name="number_empty_error">"Номер не введено"</string>
+    <string name="summary_gsm_for_sim2">Використовувати мережу GSM/UMTS</string>
+    <string name="phone_recorder_path_null">Немає місця для збереження аудіозаписів</string>
+    <string name="onscreenSwitchText">Перемкнути на іншу підписку</string>
+    <string name="pref_update_pwd_dialog_sum_new">"Введіть поточний пароль (4 цифри)"</string>
+    <string name="timezone_recommend">рекомендація щодо часового поясу</string>
+    <string name="xdivert_button">Настройки X-Divert</string>
+    <string name="nw_subset_unlock_failed">Запит на розблокування підгрупи мережі SIM-картки не виконано.</string>
+    <string name="sip_system_decide" translatable="true">Автоматичний</string>
+    <string name="pref_update_pwd_dialog_sum_reenter">"Підтвердити новий пароль (4 цифри)"</string>
+    <string name="new_password">"Новий пароль"</string>
+    <string name="wrong_adn_format">Неправильний формат ADN</string>
+    <string name="set_sub_failed">Задання функцій для підписок не виконано.</string>
+    <string name="time_display_content">"налаштування журналу викликів, повідомлення, параметри відображення календарного часу."</string>
+    <string name="delete"> Видалити</string>
+    <string name="voice_record_save_content_text">клацніть для перегляду</string>
+    <string name="voice_record_save_notifi_msg">Запис збережено</string>
+    <string name="confirm_save_info_saved">Запис було збережено!</string>
+    <string name="labelCFDeactAll">Деактивувати все</string>
+    <string name="sum_ccf">Повернутися до стану параметрів за замовчуванням</string>
+    <string name="null_phone_number">Номер телефону не може бути пустим!</string>
+    <string name="labelCCF">Скасувати всі параметри переадресації викликів</string>
+    <string name="auto_record_contact2">"Контакти"</string>
+    <string name="error_sdcard_access">Не вдалося отримати доступ до SD-карти!</string>
+    <string name="CFDeactivate">"Деактивувати"</string>
+    <string name="alert_title_cancelCF">Скасувати всі параметри переадресації викликів</string>
+    <string name="alert_message_cancelCF">Якщо обрати підтвердження, всі настройки переадресації буде скасовано; в іншому випадку буде виконано повернення на крок назад.</string>
+    <string name="CFActivate">"Активувати"</string>
+    <string name="str_db_playlist_name">"Мої записи"</string>
+    <string name="alert_device_error">Помилка роботи звукового пристрою</string>
+    <string name="sub_2">SIM 2</string>
+    <string name="sub_1">SIM 1</string>
+    <string name="chinaunicom">China Unicom</string>
+    <string name="chinatelecom">China Telecom</string>
+    <string name="chinamobile">China Mobile</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="operator_name_china_unicom">"China Unicom"</string>
+
+    <string name="confirm_save_info_saved_to">Запис збережено на</string>
+    <string name="auto_record_setting_summer">Запускати запис голосу автоматично при відповіді на дзвінок</string>
+    <string name="chinamobilecard">中国移动卡</string>
+    <string name="operator_name_china_mobile">"China Mobile"</string>
+    <string name="title_gsm_for_sim2">GSM/UMTS</string>
+    <string name="auto_record_contact3">Невідомо</string>
+    <string name="auto_record_setting_contact">Вибрати контакт</string>
+    <string name="auto_record_contact1">Всі люди</string>
+    <string name="operator_name_china_telcom">"China Telcom"</string>
+    <string name="auto_record_setting_OnOrOff_tile">Перемикання автозапису</string>
+    <string name="chinatelecomcard">中国电信卡</string>
+    <string name="chinaunicomcard">中国联通卡</string>
+    <string name="auto_record_setting_actionbar_tile">Налаштування автозапису</string>
+    <string name="auto_start_record_label">Автоматичний запис</string>
+    <string name="auto_record_setting_title">Автоматичний запис</string>
+    <string name="data_usage_tab_slot2">"Гніздо 2"</string>
+    <string name="data_usage_tab_slot1">"Гніздо 1"</string>
+    <string name="xdivert_title">X-Divert</string>
+    <string name="cellid_title">Ідентифікатор стільника</string>
+
+    <string name="call_settings_title_font_family">sans-serif-light</string>
+    <string name="sub_3">SIM 3</string>
+    <string name="nid_title">NID</string>
+    <string name="roaming_hotline_number">+86 18918910000</string>
+    <string name="sid_title">SID</string>
+<string name="preferred_network_mode_title" msgid="8873246565334559308">"Режим мережі"</string>
+<string name="preferred_network_mode_summary" msgid="1434820673166126609">"Змінити режим роботи мережі"</string>
+<string name="preferred_network_mode_dialogtitle" msgid="8176355237105593793">"Режим мережі"</string>
+<string name="preferred_network_mode_wcdma_perf_summary" msgid="8521677230113533809">"Рекомендований режим мереж: бажано WCDMA"</string>
+<string name="preferred_network_mode_gsm_only_summary" msgid="3352445413437453511">"Рекомендований режим мереж: лише GSM"</string>
+<string name="preferred_network_mode_wcdma_only_summary" msgid="2836897236221063413">"Рекомендований режим мереж: лише WCDMA"</string>
+<string name="preferred_network_mode_gsm_wcdma_summary" msgid="3161255745326408587">"Рекомендований режим мереж: WCDMA /GSM"</string>
+<string name="preferred_network_mode_cdma_summary" msgid="3175690187294334241">"Рекомендований режим мереж: CDMA"</string>
+<string name="preferred_network_mode_cdma_evdo_summary" msgid="8332063064712726618">"Рекомендований режим мереж: CDMA / EvDo"</string>
+<string name="preferred_network_mode_cdma_only_summary" msgid="1309770926198634150">"Рекомендований режим мереж: лише CDMA"</string>
+<string name="preferred_network_mode_evdo_only_summary" msgid="8472220691721269155">"Рекомендований режим мереж: лише EvDo"</string>
+<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Режим основної мережі: GSM/WCDMA</string>
+<string name="preferred_network_mode_lte_summary">Режим основної мережі: LTE </string>
+<string name="preferred_network_mode_lte_gsm_wcdma_summary">Режим основної мережі: LTE/WCDMA/GSM</string>
+<string name="preferred_network_mode_lte_cdma_evdo_summary">Режим основної мережі: CDMA+LTE/EVDO</string>
+<string name="preferred_network_mode_global_summary">Режим основної мережі: Глобально(CDMA/EVDO/LTE/GSM/WCDMA)</string>
+<string name="preferred_network_mode_lte_wcdma_summary">Режим основної мережі: LTE / WCDMA</string>
+<string name="preferred_network_mode_td_scdma_wcdma_summary">Режим основної мережі: TD-SCDMA / WCDMA</string>
+<string name="preferred_network_mode_td_scdma_lte_summary">Режим основної мережі: TD-SCDMA/LTE</string>
+<string name="preferred_network_mode_td_scdma_gsm_lte_summary">Режим основної мережі: TD-SCDMA/GSM/LTE</string>
+<string name="preferred_network_mode_td_scdma_gsm_summary">Режим основної мережі: TD-SCDMA / GSM</string>
+<string name="preferred_network_mode_td_scdma_only_summary">Режим вибраної мережі: лише TD-SCDMA</string>
+<string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Режим основної мережі: TD-SCDMA/GSM/WCDMA</string>
+<string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Режим основної мережі: TD-SCDMA/WCDMA/LTE</string>
+<string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Режим основної мережі: TD-SCDMA/GSM/WCDMA/LTE</string>
+<string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Режим основної мережі: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
+<string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Режим основної мережі: TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
+<string name="incall_revert_content_summery">Я за кермом. Зателефоную пізніше.</string>
+<string name="incall_error_cant_dial_when_dsds">Виклик не здійснено. Неможливо набрати номер, якщо використовується інша картка.</string>
+    <string name="fdnListLabel_empty">Список FDN порожній.</string>
+    <string name="show_big_image_title">Фотографія абонента на весь екран</string>
+    <string name="show_big_image_summary">Налаштуйте відображення фотографії абонента в повноекранному режимі під час вихідних і вхідних викликів.</string>
+    <string name="messageCFNRy_and__CFNRy">"Номер переадресації, коли немає відповіді"</string>
+    <string name="ignore_first_ring_summary">Проігнорувати перший рінгтон, коли надходить виклик від невідомого номера</string>
+    <string name="show_image_small_title">"Маленькі фото"</string>
+    <string name="labelCFNRc_and_CFNRy">"Переадресовувати, коли немає відповіді"</string>
+    <string name="ignore_first_ring">Проігнорувати перший рінгтон</string>
+    <string name="show_image_auto_title">"Авто"</string>
+    <string name="show_image_big_title">"Великі фото"</string>
+    <string name="fdnListLabel_empty">Список FDN порожній.</string>
+    <string name="image_type_select_title">"Виберіть тип фотографій"</string>
+</resources>

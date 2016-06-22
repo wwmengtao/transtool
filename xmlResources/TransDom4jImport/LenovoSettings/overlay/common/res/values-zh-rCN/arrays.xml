@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+**
+** Copyright 2007 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="wifi_network_setup">
+        <item msgid="3318069057130819160">"关闭"</item>
+        <item msgid="3564693183575724416">"按钮"</item>
+        <item msgid="7468724146672456026">"从接入点获取的 PIN"</item>
+        <item msgid="7364462169350112617">"从此设备生成的 PIN"</item>
+    </string-array>
+
+    <string-array name="wpa_security">
+        <item>@string/wifi_security_none</item>
+        <item>"WEP"</item>
+        <item>"WPA/WPA2 PSK"</item>
+        <item>"802.1x EAP"</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>@string/wifi_security_none</item>
+        <item>"WAPI PSK"</item>
+        <item>"WAPI 证书"</item>
+    </string-array>
+
+    <string-array name="wifi_connect_type_entries">
+
+        <!-- auto connect to WLAN -->
+        <item>自动连接</item>
+        <!-- manual connect to WLAN -->
+        <item>手动连接</item>
+        <!-- always notify user when WLAN is available -->
+        <item>总是询问</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item msgid="6318432659048829665">"WEP"</item>
+        <item msgid="2966395706508338179">"WPA/WPA2 PSK"</item>
+        <item msgid="9098390198768443435">"802.1x EAP"</item>
+    </string-array>
+
+    <string-array name="wifi_security_wfa">
+        <item>@string/wifi_security_none</item>
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>"WAPI 证书"</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>@string/wifi_security_none</item>
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <!-- WLAN settings.  Use a sim slot to do EAP-SIM authentication. -->
+    <string-array name="sim_slot">
+
+        <!-- Do not translate. -->
+        <item>(未指定)</item>
+        <!-- Do not translate. -->
+        <item>SIM 卡槽 1</item>
+        <!-- Do not translate. -->
+        <item>SIM 卡槽 2</item>
+    </string-array>
+    <!-- keep WLAN hotspot on. Presented as a list dialog to the user to choose the WLAN hotspot disable policy. -->
+    <string-array name="wifi_hotspot_disable_policy_entries">
+
+        <!-- Always keep WLAN on when screen turns off. -->
+        <item>始终</item>
+        <!-- Keep WLAN on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        <item>空闲5分钟后关闭</item>
+        <!-- Do not keep WLAN on when screen turns off. -->
+        <item>空闲10分钟后关闭</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>@string/wifi_security_none</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="silent_mode_entries">
+        <item>"关闭"</item>
+        <item>Vibrate</item>
+        <item>"静音"</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>自动</item>
+        <item>WEP ASCII</item>
+        <item>WEP 十六进制</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>"按钮"</item>
+        <item>"从对等设备获取的 PIN"</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 位用户</item>
+        <item>2 位用户</item>
+        <item>3 位用户</item>
+        <item>4 位用户</item>
+        <item>5 位用户</item>
+        <item>6 位用户</item>
+        <item>7 位用户</item>
+        <item>8 位用户</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>高清（60帧/秒）</item>
+        <item>﻿高清（30帧/秒）</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>全高清（30帧/秒）</item>
+        <item>高清（60帧/秒）</item>
+        <item>高清（30帧/秒）</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>右手鼠标</item>
+        <item>左手鼠标</item>
+    </string-array>
+
+	<!-- begin,merge from lenovo_array.xml -->
+	<string-array name="entries_smart_rotation">
+        <item>智能旋转(根据视角旋转)</item>
+        <!-- <item>手势旋转</item> -->
+        <item>自动旋转</item>
+        <item>关闭</item>
+    </string-array>
+	<string-array name="entries_keyboard_lights">
+        <item>常亮</item>
+        <item>持续3秒</item>
+    </string-array>
+	<string-array name="entryvalues_keyboard_lights" translatable="false">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+	<string-array name="auto_time_entries">
+    	<item>使用网络提供时间</item>
+    	<item>使用GPS提供时间</item>
+    	<item>关闭</item>
+    </string-array>
+    <!-- Lenovo-sw SW_SysApp_Settings_WLAN chencheng6 add 2014-11-12 begin FRIESIAN-12748-->
+	<string-array name="wifi_sleep_policy_entries_smart">
+
+        <!-- Always keep WLAN on when screen turns off. -->
+        <item>Always</item>
+        <!-- Keep WLAN on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        <item>Only when charging</item>
+        <!-- Do not keep WLAN on when screen turns off. -->
+        <item>Never (increases data traffic)</item>
+        <!-- Smart go to sleep. -->
+        <item>Smart Sleep (data transfer switched on/off based on traffic)</item>
+    </string-array>
+    <!-- Lenovo-sw SW_SysApp_Settings_WLAN chencheng6 add 2014-11-12 end FRIESIAN-12748-->
+	<string-array name="softspacename">
+        <item>系统推荐</item>
+        <item>安装到手机</item>
+        <item>安装到默认存储卡</item>
+    </string-array>
+	<string-array name="entries_smart_rotation_nocamera">
+        <item>手势旋转</item>
+        <item>自动旋转</item>
+        <item>关闭</item>
+    </string-array>
+	<string-array name="entries_button_brightness">
+        <item>打开</item>
+        <item>持续3秒</item>
+        <item>智能控制</item>
+        <item>关闭</item>
+    </string-array>
+	<string-array name="wifi_sleep_policy_entries_smart">
+        <item>"始终"</item>
+        <item>"仅限充电时"</item>
+        <item>"从不（会增加数据流量）"</item>
+        <item>"智能休眠(根据流量是否在传输来判断开/关)"</item>
+    </string-array>
+	<!-- end,merge from lenovo_array.xml -->
+</resources>

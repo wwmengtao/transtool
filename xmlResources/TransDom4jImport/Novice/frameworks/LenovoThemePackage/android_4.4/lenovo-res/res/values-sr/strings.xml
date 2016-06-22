@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="storage_sd_card">"SD картица"</string>
+    <string name="storage_usb">"USB меморија"</string>
+    <string name="default_string">"Подразумевано"</string>
+    <string name="capital_on">"УКЉУЧЕНО"</string>
+    <string name="capital_off">"ИСКЉУЧЕНО"</string>
+    <string name="global_action_reboot">"Поново покрени"</string>
+    <string name="reboot_confirm_title">"Поново покрени"</string>
+    <string name="silent_mode_silent">"Искључи звук"</string>
+    <string name="silent_mode_vibrate">"Вибрација звона"</string>
+    <string name="silent_mode_normal">"Опште"</string>
+    <string name="captive_portal_dialog_title">"Пријавите се на WLAN мрежу"</string>
+    <string name="captive_portal_dialog_button">"Пријави ме"</string>
+    <string name="volume_icon_description_ringer">"Звук звона"</string>
+    <string name="volume_icon_description_bluetooth">"Bluetooth"</string>
+    <string name="volume_icon_description_incall">"Позови"</string>
+    <string name="volume_alarm">"Аларм"</string>
+    <string name="volume_matv">"Претражи"</string>
+    <string name="volume_icon_description_media">"Медији"</string>
+    <string name="volume_icon_description_notification">"Обавештење"</string>
+    <string name="turn_on_data">"Укључи"</string>
+    <string name="author">"Google"</string>
+    <string name="turn_off_data">"Деактивирај"</string>
+    <string name="volume_fm">Јачина звука FM-а</string>
+</resources>

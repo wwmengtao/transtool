@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="profile_edit_weaken_help">Volume nada dering dikurangi ketika ponsel diangkat.</string>
+<string name="smart_calling_title">Panggilan Pintar</string>
+<string name="character_settings_gestural_hand_category">Satu Tangan dan Gerakan</string>
+<string name="select_subscription">Pilih Langganan</string>
+<string name="wifi_scan_always_available_summary">Izinkan layanan lokasi Google dan aplikasi lain memindai jaringan, meskipun WLAN mati</string>
+<string name="whatis_lenovoid_cando_summary"> "akses bebas ke asosiasi untuk berbagai aplikasi, layanan awan, dan layanan. Satu kartu di tangan, tidak diblokir. "</string>
+<string name="enable_traces_title" msgid="7448835465859512430">"Aktifkan jejak"</string>
+<string name="wifi_setup_wizard_title" msgid="8242230950011819054">"Pilih WLAN"</string>
+<string name="schpwr_time_invalid">Interval antara jadwal daya aktif/nonaktif minimal harus %d menit</string>
+<string name="multiwindow_title">MultiWindow</string>
+<string name="lockscreen_shake_unlock_ctrl_summary">Goyang ponsel dengan cepat ke satu arah untuk mengunci layar | Bantuan</string>
+<string name="show_frame_count_size">Ukuran</string>
+<string name="character_settings_phone_call_ring_weaken_help_message">Volume nada dering dikurangi ketika ponsel diangkat.</string>
+<string name="gestural_phone_summary">Geser layar ke kiri dan ke kanan untuk menjawab panggilan | Tekan layar ke atas dan tahan untuk menutup telepon</string>
+<string name="teos_settings">Efek layar</string>
+<string name="display_effect_of_screen_saturation_title">Saturasi</string>
+<string name="lock_wallpaper">Kunci Wallpaper</string>
+<string name="done">"Selesai"</string>
+<string name="version_info">Info Versi</string>
+<string name="desktop_wallpaper">Wallpaper Desktop</string>
+<string name="devices_info_cpu">"CPU：fore-core 2.2GHz"</string>
+<string name="backup_data_to_device_title">Cadangkan data ke perangkat lain</string>
+<string name="smart_call_answer_settings_title">Menjawab Pintar</string>
+<string name="reset_skip_backup_title">Lewati cadangan</string>
+<string name="recovery_data_from_device_title">Pulihkan data dari perangkat lain</string>
+<string name="roaming_time_settings_category">Pengaturan roaming internasional</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> dapat mengumpulkan semua teks yang Anda ketik, kecuali sandi. Pengumpulan ini mencakup data pribadi seperti nomor kartu kredit. Layanan ini juga dapat mengumpulkan data tentang interaksi Anda dengan tablet."</string>
+<string name="header_category_shortcut_key">TOMBOL PINTASAN</string>
+<string name="multi_sim_settings_summary">Atur Pengaturan Multi Sim untuk Suara, Data, dan SMS</string>
+<string name="voice_title">Suara/USSD/MMI</string>
+<string name="never">"Jangan"</string>
+<string name="data_usage_metered_body" msgid="2446827764036316131">"Pilih jaringan WLAN yang hotspot seluler. Aplikasi dapat dibatasi dari menggunakan jaringan ini ketika berada di latar belakang. Aplikasi juga dapat memperingatkan sebelum menggunakan jaringan ini untuk unduhan yang besar."</string>
+<string name="character_settings_swing_lock_screen_help_message">Goyang ponsel dengan cepat ke satu arah untuk mengunci layar</string>
+<string name="global_single_hand_title_v2">Layar-mikro satu-tangan</string>
+<string name="products_version">No. Model</string>
+<string name="wifi_display_summary_on" msgid="3695429596604962531">"aktif"</string>
+<string name="multiwindow_divide_settings_summary">Selesaikan tugas pada ponsel Anda dengan membuka dua jendela</string>
+<string name="startup_time_enabled">Jadwal daya aktif</string>
+<string name="wifi_setup_title_connected_network" msgid="1608788657122010919">"Tersambung ke jaringan WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="multi_sim_settings_title">Pengaturan Beberapa SIM</string>
+<string name="framework_version">Nomor versi Android</string>
+<string name="display_effect_of_screen_apply">Terapkan</string>
+<string name="character_settings_float_button_help_message">Buka panel pintasan dan aplikasi dengan mengklik tombol melayang.</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"Gunakan <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="wifi_empty_list_wifi_off" msgid="4722299515264875943">"Utk melihat jaringan yg tersedia, hidupkan WLAN."</string>
+<string name="mercury_keyboard_title">Dialer pintar</string>
+<string name="data_usage_restrict_background" msgid="6387252645350792955">"Jika Anda membatasi data latar belakang seluler, beberapa apl dan layanan tidak akan berfungsi kecuali jika Anda terhubung ke jaringan WLAN."</string>
+<string name="screensaver_timeout_zero_summary">"Tidak pernah"</string>
+<string name="still_sleep_ctrl">Diamkan untuk menidurkan</string>
+<string name="playersTutorial_stoped">Aplikasi PlayersTutorial telah dihentikan.</string>
+<string name="lenovo_exp_title">Setuju untuk berpartisipasi dalam Program Lenovo Experience</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet" msgid="2609163428726042269">"Jika Anda membatasi data seluler latar belakang, beberapa aplikasi dan layanan tidak akan bekerja kecuali Anda tersambung ke jaringan WLAN."\n\n"Pengaturan ini memengaruhi semua pengguna di tablet ini."</string>
+<string name="set_sms_error">Kesalahan dalam langganan sms yang ditetapkan. Langganan tidak aktif.</string>
+<string name="lockscreen_face_detection_ctrl_description">Deteksi wajah akan diaktifkan oleh kamera, pembagiannya akan lebih rendah jika cahaya tidak memadai.</string>
+<string name="glove_mode">Sentuhan Sensitifitas Tinggi</string>
+<string name="smart_standby_ctrl_summary">"Saat layar menyala, jika mata terdeteksi menatap ke layar, maka akan tetap menyala; jika sudut terlalu bias atau cahaya kurang, tingkat pengenalan akan berkurang"</string>
+<string name="battery_action_wifi" msgid="2272741639606146903">"Pengaturan WLAN"</string>
+<string name="backup_data_summary" msgid="9157861529438245957">"Mencadangkan data apl, sandi WLAN, dan setelan lainnya ke server Google"</string>
+<string name="black_screen_settings_flash_mode_off">Tutup</string>
+<string name="exit">keluar</string>
+<string name="gadget_wifi" msgid="4712584536500629417">"WLAN"</string>
+<string name="lockscreen_knock_on_ctrl">Lampu peringatan ditetapkan</string>
+<string name="gestural_music_summary">Geser layar ke kiri dan ke kanan untuk mengalihkan musik | Geser layar ke atas dan ke bawah untuk menyetel volume</string>
+<string name="notificationbar_setings_title">"Pusat pemberitahuan"</string>
+<string name="unlock_proximity_ctrl">Hindari Salah Sentuh Tombol Daya</string>
+<string name="shellt_phone_info_camera">"8juta"</string>
+<string name="wifi_scan_notify_text_location_off">Aplikasi dapat memindai jaringan sekitar, bahkan saat WLAN dimatikan. Jika Anda tidak ingin ini terjadi, buka Lanjutan &gt; Memindai selalu tersedia.</string>
+<string name="location_neighborhood_level_wifi" msgid="7457348712272184793">"Lokasi yang dipastikan oleh WLAN"</string>
+<string name="teos_settings_title">Efek layar</string>
+<string name="tilt_scroll_control_summary">Bila opsi ini diaktifkan, antarmuka yang mendukung penggulungan miring akan secara otomatis menggulung ke kiri/kanan ketika ponsel dimiringkan</string>
+<string name="wifi_setting_sleep_policy_title" msgid="9107237003911220057">"Terus nyalakan WLAN selama dalam mode tidur"</string>
+<string name="location_consent_dialog_title">Izin lokasi</string>
+<string name="devices_info_runMemory">"RAM: 2,0GB</string>
+<string name="reset_backup_befor_reset_summary">Cadangkan data yang penting, mis. kontak, sebelum reset</string>
+<string name="wifi_advanced_titlebar" msgid="4485841401774142908">"WLAN Lanjutan"</string>
+<string name="personal_hotspot">"Hotspot Pribadi"</string>
+<string name="save_power_summary">"Pilih aplikasi untuk  penyelerasan waktu wake-up sistem"</string>
+<string msgid="1584700623164275282" name="internal_storage_app">Ruang memori untuk aplikasi internal</string>
+<string name="category_smart">Pintar</string>
+<string name="show_frame_count_y_coordinate">Koordinat Y</string>
+<string name="fast_poweron_next_time">Startup cepat saat berikutnya</string>
+<string name="black_screen_camera_gallery_title"> "Mode Pratinjau" </string>
+<string name="data_usage_tab_slot2">SIM 2</string>
+<string name="data_usage_tab_slot1">SIM 1</string>
+<string name="show_frame_count_ok_button_text">"OK"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen_summary">Ketuk dua kali layar saat mati, untuk membangunkan ponsel</string>
+<string name="black_screen_camera_fast_title"> "Mode kamera" </string>
+<string name="sel_sub_summary">Pilih Langganan untuk SIM-1 dan SIM-2</string>
+<string name="character_settings_single_hand_help_message">Seret a "c" dari tepi atas layar ke tepi bawah untuk menampilkan layar mikro satu tangan.</string>
+<string name="wifi_setup_wizard_next">"Selanjutnya"</string>
+<string name="lenovo_exp_content">"Hanya mendukung CN"</string>
+<string name="character_settings_shortcuts_category">Cara pintas</string>
+<string name="gestural_summary">Gerakan dapat digunakan untuk mengontrol telepon dari jarak jauh</string>
+<string name="profile_edit_weaken_title">Kurangi volume nada dering</string>
+<string name="character_settings_help_category_title">"Bantuan"</string>
+<string name="profile_settings">Pengaturan mode profil</string>
+<string name="black_screen_settings_shortcut_quick_shots_summary">Klik dua kali tombol Awal saat layar mati untuk mengambil gambar</string>
+<string name="global_single_hand_title">Mode satu tangan</string>
+<string name="startup_shutdown_time_errmsg">Rentang waktu antara daya aktif dan nonaktif harus lebih lama dari 10 menit, harap atur lagi.</string>
+<string name="still_sleep_ctrl_summary">Telepon akan masuk ke status tidur secara otomatis jika diletakkan secara horizontal</string>
+<string name="enable_schpwr">Aktifkan</string>
+<string name="save_power_wait_message">"Memuat apl"</string>
+<string name="schpwr_power_on">"aktif"</string>
+<string name="reboot_progress">Mulai ulang\u2026</string>
+<string name="recovery_data_title">Pulihkan data dari cadangan kartu SD </string>
+<string name="day">"1 hari"</string>
+<string name="multiwindow_settings_summary">Aktifkan Multi-Jendela</string>
+<string msgid="6844156253576174488" name="service_background_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> aplikasi tersedia"</string>
+<string name="mercury_keyboard_summary">Rasio ukuran keypad akan berubah berdasarkan sudut ponsel untuk memfasilitasi penggunaan satu tangan | Bantuan</string>
+<string name="save_power_count">"Total ada <xliff:g id="NUMBER">%d</xliff:g> aplikasi yang diselaraskan"</string>
+<string name="lockscreen_face_detection_ctrl">Buka kunci deteksi wajah ditetapkan</string>
+<string name="fuse_backup_data_description">"Cadangkan Kontak, Foto, Pesan, Aplikasi, dan data penting lainnya sebelum mereset ponsel Anda"</string>
+<string name="settings_header_ringtone_k7">"Pengaturan Nada Dering"</string>
+<string name="gestural_image_summary">Geser layar ke kiri dan ke kanan untuk berpindah antara gambar | Geser layar ke atas dan ke bawah untuk berpindah antara efek khusus</string>
+<string name="wifi_starting" msgid="6732377932749942954">"Menyalakan WLAN..."</string>
+<string name="memory_info">Memori yang ada</string>
+<string name="set_dds_failed">Kesalahan dalam langganan data yang ditetapkan.  Bersihkan semua koneksi data yang ada dan coba lagi.</string>
+<string name="device_section_title">Perangkat</string>
+<string name="wave_not_screenoff_title">Gelombang Tidak LayarMati</string>
+<string name="wifi_setup_eap_not_supported" msgid="595556546597351489">"Anda tidak dapat mengonfigurasi sambungan WLAN EAP selama penyiapan. Setelah penyiapan, Anda dapat melakukannya di Pengaturan &gt; Nirkabel &amp; jaringan."</string>
+<string name="gestural_phone">Jawab Gerakan</string>
+<string name="lock_title" product="tablet">"Mengamankan ponsel Anda"</string>
+<string name="character_settings_pocket_mode_help_message">Volume nada dering secara otomatis naik saat ponsel ada dalam saku Anda.</string>
+<string name="global_action_meeting">"Getar"</string>
+<string name="wifi_tether_checkbox_text" msgid="1847167643625779136">"Hotspot WLAN portabel"</string>
+<string name="unlock_set_unlock_speech_title">Pengaktifan dengan Suara</string>
+<string name="slide_unlock_help">Ketika layar mati, geser dari kiri ke kanan di bawah layar untuk membuka penguncian.</string>
+<string name="character_settings_intelligent_category">AKSI CERDAS</string>
+<string name="black_screen_settings_broswer_summary">Gambar “e” pada layar</string>
+<string name="incoming_call_ringer_title1">"Dering panggilan masuk (1)"</string>
+<string name="incoming_call_ringer_title2">"Dering panggilan masuk (2)"</string>
+<string name="safety_information">informasi keamanan</string>
+<string name="color_light_hasopen">Sudah terbuka</string>
+<string name="nfc_beam_transmit">Transmisi Android</string>
+<string name="wifi_empty_list_wifi_on" msgid="8746108031587976356">"Menelusuri jaringan WLAN..."</string>
+<string name="multiwindow_smart_settings">Multi-Jendela Cerdas</string>
+<string name="display_effect_of_screen_contrast_item0">Dingin</string>
+<string name="display_effect_of_screen_contrast_item1">Default</string>
+<string name="black_screen_settings_category_shortcut">Pengoperasian pintasan layar mati</string>
+<string name="black_screen_settings_music">Buka penguncian ke Musik</string>
+<string name="unlock_proximity_ctrl_summary">saat ponsel di dalam saku, nonaktifkan layar secara otomatis sewaktu tombol daya disentuh tanpa disengaja.</string>
+<string name="display_effect_of_screen_contrast_item2">Hangat</string>
+<string name="memory_video_usage">"Video"</string>
+<string name="timing_startup_and_shutdown_settings_title">Jadwalkan pengaktifan/penonaktifan</string>
+<string name="mercury_keyboard_help">Ketika digunakan, keypad akan berubah sesuai sudut ponsel untuk memfasilitasi pengoperasian satu tangan. Sapu layar ketika antarmuka keypad rata untuk mengaktifkan keyboard merkuri.</string>
+<string name="wifi_wps_setup_title" msgid="8207552222481570175">"Penyiapan WLAN yang Dilindungi"</string>
+<string name="restriction_wifi_config_title" msgid="8889556384136994814">"WLAN dan Seluler"</string>
+<string name="other_wallpaper">Wallpaper Lain</string>
+<string name="show_dev_countdown">Anda kini tinggal beberapa langkah lagi untuk menjadi pengembang.</string>
+<string name="os_version">Nomor versi sistem</string>
+<string name="show_frame_count_title">Masuk ke Tutorial pemula</string>
+<string name="ringtone_picker_more_ringtones_title">"Nada Dering Lainnya &gt;&gt;&gt;"</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"Tekan tombol sisi untuk lampu ponsel | Bantuan"</string>
+<string name="crypt_keeper_encrypt_summary" product="default" msgid="514138079795442371">"Memerlukan PIN atau sandi angka untuk mengurai enkripsi ponsel tiap kali Anda menyalakannya"</string>
+<string name="category_single_hand">Satu Tangan</string>
+<string name="black_screen_settings_shortcut_quick_shots">Pengambilan gambar kecepatan tertinggi</string>
+<string name="black_screen_settings_normal">Pembukaan kunci normal</string>
+<string name="userguide_title">"Panduan Boot"</string>
+<string name="black_screen_settings_summary_app_selected">Buka Penguncian <xliff:g id="app">%s</xliff:g></string>
+<string name="character_settings_help_title">Telusuri operasi layar hitam</string>
+<string name="wifi_setup_title_editing_network" msgid="6020614644556717979">"Sambungkan ke jaringan WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="never_timeout">Tidak pernah siaga</string>
+<string name="screensaver_settings_disabled_prompt" msgid="3857507943322777651">"Untuk mengontrol apa yang terjadi saat ponsel di dok dan/atau sedang tidur, nyalakan Lamunan."</string>
+<string name="subscription_02_title">SIM 2</string>
+<string name="category_gesture">Gerakan</string>
+<string name="accessibility_script_injection_allowed" msgid="7624804397748427621">"Diizinkan"</string>
+<string name="airbuse_phone_info_camera">"Depan 300.000, Belakang 5juta"</string>
+<string name="character_settings_call_voice_category">PANGGILAN DAN SUARA</string>
+<string name="lock_title" product="default">Mengamankan ponsel Anda</string>
+<string name="devices_info_memory">"Memori：<xliff:g>%1$s</xliff:g>(bebas)  4 GB(total)"</string>
+<string name="wifi_wps_onstart_pin" msgid="8067502591043979939">"Masukkan PIN <xliff:g id="NUMBER">%1$s</xliff:g> pada router WLAN Anda. Penyiapan memerlukan waktu hingga dua menit untuk selesai."</string>
+<string name="enable_traces_summary_all" msgid="3950139649125158247">"Semua jejak saat ini diaktifkan"</string>
+<string name="every_day">setiap hari</string>
+<string name="voice_wakeup_title">Bangun dengan suara</string>
+<string name="side_key_backlight_help">Tekan tombol volume untuk menyalakan cahaya latar.</string>
+<string name="set_voice_error">Kesalahan dalam langganan suara yang ditetapkan. Langganan tidak aktif.</string>
+<string name="data_usage_enable_mobile_statistics_dialog">Dengan mengaktifkan fitur ini, penggunaan daya akan tinggi pada jaringan biaya data tinggi seperti LTE...</string>
+<string name="ota_title">Pembaruan sistem</string>
+<string name="memory_image_usage">"Gambar"</string>
+<string name="hardware_version">Versi perangkat keras</string>
+<string-array name="contrast"> 
+         
+         
+    <item>Default</item>
+        <item>Tinggi</item>
+    </string-array>
+<string name="crypt_keeper_desc" product="default" msgid="7663118199519229502">"Anda dapat mengenkripsi akun, pengaturan, apl yang diunduh dan datanya, media, serta file lainnya, Setelah mengenkripsi ponsel, Anda perlu memasukkan PIN numerik atau sandi untuk mendekripsikannya setiap kali Anda menghidupkannya. Anda tidak dapat membatalkan enkripsi ponsel kecuali dengan melakukan pengaturan ulang data pabrik, dan akan menghapus seluruh data Anda"\n\n"Enkripsi memakan waktu satu jam atau lebih. Anda harus memulainya dengan baterai yang terisi penuh dan terus menghubungkan ponsel dengan sumber daya hingga enkripsi selesai. Jika Anda menghentikan proses enkripsi, Anda akan kehilangan sebagian atau seluruh data Anda."</string>
+<string name="china_telcom_push_summary">Layanan dorong gratis China Telecom</string>
+<string name="color_light_missed_call">Panggilan hilang</string>
+<string name="devices_info_products_version">"Model: Lenovo K910"</string>
+<string name="usb_mtp_summary" msgid="4617321473211391236">"Memungkinkan Anda mentransfer file media di Windows, atau menggunakan Transfer File Android di Mac (lihat www.android.com/filetransfer)"</string>
+<string name="what_lenovoid_cando_title"> "Izin masuk asosiasi, apa yang dapat saya lakukan? "</string>
+<string name="k6kk_phone_info_cpu">"fore-core 2.2GHz"</string>
+<string name="smart_answer_incommingcall_summary">Saat ada panggilan masuk, pengguna dapat menjawab dengan gerakan tertentu</string>
+<string name="gadget_state_template" msgid="5156935629902649932">"<xliff:g id="ID_1">%1$s</xliff:g> <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+<string name="k6kk_phone_info_camera">"Depan 5juta, Belakang 13juta"</string>
+<string name="wifi_setup_title" msgid="2970260757780025029">"Penyiapan WLAN"</string>
+<string name="system_shortcutbar_title">"Panel pintas sistem"</string>
+<string name="call_ring_pocket_enable_title">"Mode saku"</string>
+<string name="schpwr_shutdown_message_second">"Perangkat Anda akan mati dalam <xliff:g id="second">%s</xliff:g> detik"</string>
+<string name="smart_rotete_cbox_summary">Pintar</string>
+<string name="gestural_gesture">Kontrol Gerakan</string>
+<string name="black_screen_settings_quick_shots_three">tiga lembaran</string>
+<string name="smart_call_answer_settings_summary">Jawab panggilan bila mengangkat telepon di dekat telinga</string>
+<string name="wifi_wps_onstart_pbc" msgid="5940801028985255304">"Tekan tombol Penyiapan WLAN yang Dilindungi di router Anda. Ini dapat disebut \"WPS\" atau berisi simbol ini:"</string>
+<string name="crypt_keeper_final_desc" product="default" msgid="5682944380460921880">"Operasi enkripsi tidak dapat dibatalkan dan jika Anda menghentikannya, data akan hilang. Enkripsi membutuhkan waktu satu jam atau lebih, dan selama itu ponsel akan dimulai ulang beberapa kali."</string>
+<string name="wifi_quick_toggle_summary" msgid="1047950931623694366">"Hidupkan WLAN"</string>
+<string name="k6kk_phone_info_screen">"Resolusi: 1080*1920, Ukuran: 5,5-inci"</string>
+<string name="swing_lock_help">Guncang ponsel untuk mengunci layar</string>
+<string name="software_version">Nomor versi peranti lunak</string>
+<string name="header_category_lock_unlock">PENGUNCIAN DAN LAYAR</string>
+<string name="gestural_gesture_summary">Menggeser ke kiri\\kanan\\atas\\bawah dengan jari Anda tanpa menyentuh layar memiliki efek yang sama seperti menggeser sambil menyentuh layar. Fungsi ini tidak bekerja pada antarmuka musik, video, atau browser.</string>
+<string name="black_screen_settings_quick_shots_six">enam lembaran</string>
+<string name="wlan_share">"Berbagi WLAN"</string>
+<string name="bottom_shortcutbar_title">"Panel pintas bawah"</string>
+<string name="smart_calling_summary">Di detail kontak atau antarmuka percakapan pesan, dekatkan ponsel ke telinga Anda untuk memanggil kontak secara otomatis.</string>
+<string name="usage_type_data_wifi_send" msgid="7178327382353096029">"Data WLAN terkirim"</string>
+<string name="double_click_menu_enabled_title">"Mengklik lama tombol MENU mengaktifkan suara"</string>
+<string name="glove_mode_summary">Jika Sentuhan Sensitifitas Tinggi diaktifkan, menyentuh layar dengan sarung tangan didukung</string>
+<string name="gestural_v2">Gerakan 3D</string>
+<string name="double_click_home_enabled_title">"Klik dua kali tombol Beranda untuk mengaktifkan suara"</string>
+<string name="backup_data_section_title">Cadangan data</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"<xliff:g id="NUM">%1$d</xliff:g> jejak saat ini diaktifkan"</string>
+<string name="show_frame_count_summary">Tampilkan hitungan frame jika diaktifkan.</string>
+<string name="wifi_quick_toggle_title" msgid="8850161330437693895">"WLAN"</string>
+<string name="reset_backup_befor_reset_title">Cadangkan data sebelum reset</string>
+<string name="restriction_wifi_config_summary" msgid="70888791513065244">"Memungkinkan modifikasi setelan WLAN dan Seluler"</string>
+<string name="reboot">"Mulai Ulang"</string>
+<string name="bluetooth_on_time" msgid="3056108148042308690">"WLAN berdasarkan waktu"</string>
+<string name="quicksettings">"pengaturan cepat"</string>
+<string name="color_light_demo">Demo cahaya warna</string>
+<string name="sim_settings_title">Pengaturan SIM</string>
+<string name="hours"><xliff:g id="hours">%s</xliff:g> jam</string>
+<string name="save_power_title">"Penyelerasan Waktu Wake-up Sistem </string>
+<string name="header_category_call_message">PANGGILAN DAN PESAN</string>
+<string name="show_hw_overdraw" msgid="1136884304711318251">"Tampilkan kelebihan GPU"</string>
+<string name="display_effect_of_screen_hue_title">Rona warna</string>
+<string name="whatis_lenovoid_summary"> "gunakan ponsel Anda sebagai akun masuk Lenovo, menjadi anggota Asosiasi. "</string>
+<string name="data_usage_menu_show_wifi" msgid="5056401102877964564">"Tampilkan penggunaan WLAN"</string>
+<string name="master_clear_desc" product="default" msgid="9165016501623540228">"Ini akan menghapus semua data dari "<b>"penyimpanan internal"</b>" ponsel Anda, termasuk:"\n\n<li>"Akun Google Anda"</li>\n<li>"Data sistem dan apl serta setelan"</li>\n<li>"Apl unduhan"</li></string>
+<string name="data_summary">Pilih Langganan untuk Panggilan Data</string>
+<string name="savepower_all_title">"Semua"</string>
+<string name="black_screen_settings_flash_mode_auto">Otomatis</string>
+<string name="wifi_setting_frequency_band_title" msgid="3655327399028584656">"Pita frekuensi WLAN"</string>
+<string name="hide_recent_settings">tarik turun untuk menampilkan pengaturan terkini</string>
+<string name="showing_color_light">Lampu indikator warna </string>
+<string name="reset_skip_backup_summary">Pilih opsi ini untuk item yang telah dicadangkan atau tidak perlu dicadangkan</string>
+<string name="wifi_stopping" msgid="8952524572499500804">"Mematikan WLAN..."</string>
+<string name="wifi_wps_connected" msgid="7153432445748931183">"Tersambung ke jaringan WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="global_action_outdoors">"Luar Ruangan"</string>
+<string name="schpwr_shutdown_message">"Perangkat Anda akan mati dalam <xliff:g id="seconds">%s</xliff:g> detik"</string>
+<string name="overturn_lock_ctrl_summary">"Balikkan ponsel untuk mengunci layar"</string>
+<string name="schedule_power_on_off_time">Waktu</string>
+<string name="show_screen_frame_count">Tampilkan hitungan frame layar</string>
+<string name="timing_startup_head_text">aktif</string>
+<string name="wifi_setting_summary">Saat memasukkan lokasi aplikasi yang terhubung dan memiliki data GPRS，tahan lokasi</string>
+<string name="unsupported_headset_warning" product="default">
+       "Lampiran Tidak Didukung"
+    </string>
+<string name="overturn_lock_ctrl">"Balikkan untuk mengunci layar"</string>
+<string name="restart_confirm_question">Ingin memulai ulang?</string>
+<string name="multiwindow_divide_settings">Multi-Jendela Layar-Terbagi</string>
+<string name="backup_data_to_sdcard_title">Cadangkan data ke kartu SD</string>
+<string name="data_title">Panggilan Data</string>
+<string name="sim_not_available">Kartu SIM tidak tersedia</string>
+<string name="preference_status_open">"Buka"</string>
+<string-array name="saturation"> 
+         
+         
+         
+    <item>Lembut</item>
+        <item>Default</item>
+        <item>Terang</item>
+    </string-array>
+<string name="multiwindow_smart_settings_summary">Jika Anda menerima pesan saat menonton video layar penuh dalam orientasi horizontal, putar ponsel ke orientasi potret untuk secara otomatis menampilkan multi-jendela untuk menjalankan multitugas.</string>
+<string name="user_you_section" msgid="6247838798859425408">"Anda"</string>
+<string name="backup_data_to_sdcard_summary">Cadangkan data ponsel ke kartu SD</string>
+<string name="airbuse_phone_info_runMemory">"1,0GByte"</string>
+<string name="whatis_lenovoid_title"> "Apakah izin masuk asosiasi? "</string>
+<string name="wifi_setup_description_connected" msgid="5235991893829582459">"Sentuh "<b>"Berikutnya"</b>" untuk melanjutkan penyiapan. "\n\n"Sentuh "<b>"Kembali"</b>" untuk menyambung dengan jaringan WLAN yang berbeda."</string>
+<string name="black_screen_face_recognization_title"> "Mode pengenalan wajah" </string>
+<string name="minute">"1 menit"</string>
+<string name="unlock_settings_title">"Buka kunci"</string>
+<string name="schedule_power_off_set">Tetapkan jadwal daya mati</string>
+<string name="location_mode_battery_saving_description" msgid="1728668969743485109">"Gunakan WLAN dan jaringan seluler untuk menentukan lokasi"</string>
+<string name="black_screen_handler_title"> "Pada gerakan layar mati" </string>
+<string name="wide_touch_float_button_summary">Akses cara pintas dengan satu sentuhan.</string>
+<string name="black_screen_settings_camera_summary">Gambar “c” pada layar</string>
+<string name="share_music_a2dp_headphones_control_title">Berbagi Kontrol Musik</string>
+<string name="location_consent_dialog_message">Izinkan layanan lokasi untuk mengumpulkan data lokasi anonim. Beberapa data mungkin tersimpan di perangkat Anda. Pengumpulan dapat terjadi bahkan saat tidak ada aplikasi yang berjalan.</string>
+<string name="phone_car_mode_title">"Mode mengemudi"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> menit"</string>
+<string name="global_action_silence">"Bungkam"</string>
+<string name="wifi_display_summary_off" msgid="2445210133184740611">"nonaktif"</string>
+<string name="usergudie_button_text">"Buka pengaturan boot"</string>
+<string name="color_light_hasclose">Sudah tertutup</string>
+<string name="backup_recovery_dialog_message">Berhenti mencadangkan atau memulihkan data aplikasi?</string>
+<string name="ringtone_and_sound_settings">"Nada Dering Dan Suara"</string>
+<string name="charge_stream_min">Aliran pengisian arus adalah 1500mA </string>
+<string name="k6kk_phone_info_runMemory">"2,0GByte"</string>
+<string name="gestural_broswer">Browser Kontrol Gerakan</string>
+<string name="black_screen_time_service_title"> "Mode chime suara" </string>
+<string name="playertutorial_title">Tutorial Pengguna</string>
+<string name="dtmf_settings_title">"Tombol layar"</string>
+<string name="status_wifi_mac_address" msgid="2202206684020765378">"Alamat MAC WLAN"</string>
+<string name="timing_shutdown_head_text">nonaktif</string>
+<string name="black_screen_settings_vedio_summary">Gambar “v” pada layar</string>
+<string name="black_screen_time_show_title"> "Mode tampilan" </string>
+<string name="subs_settings">Status SIMS</string>
+<string name="weather_live_wallpaper">Wallpaper Animasi Cuaca</string>
+<string name="data_usage_menu_restrict_systembgdata">"Izinkan data latar belakang sistem"</string>
+<string name="gestural_image">Gambar Kontrol Gerakan</string>
+<string name="location_settings_title" msgid="4483843407328665068">"Akses lokasi"</string>
+<string name="phone_info_unset">Informasi Ponsel Tidak Disetel</string>
+<string name="wifi_menu_p2p" msgid="2575893749303670353">"WLAN Langsung"</string>
+<string name="wide_touch_float_button">Sentuh lebar</string>
+<string name="wifi_empty_list_user_restricted">Anda tidak memiliki izin untuk mengubah jaringan W\u2011LAN.</string>
+<string name="airbuse_phone_info_cpu">"Qualcomm MSM8612  4*1,2GHz"</string>
+<string name="schpwr_power_off">"nonaktif"</string>
+<string name="fuse_backup_data_to_cloud_title">Cadangkan data ke awan</string>
+<string name="double_click_menu_enabled_description">"Mengklik lama (tombol MENU) mengaktifkan layanan suara"</string>
+<string name="display_effect_of_screen_sharpen_item0">Default</string>
+<string name="enable_traces_dialog_title" msgid="5026490474669452929">"Pilih jejak yang diaktifkan"</string>
+<string name="display_effect_of_screen_sharpen_item1">Pertajam</string>
+<string name="global_action_general">"Standar"</string>
+<string name="backup_data_description">"Cadangkan Kontak dan data penting lainnya sebelum mengatur ulang ponsel"</string>
+<string name="all_setings_title">"Sistem"</string>
+<string name="wifi_tether_failed_subtext" msgid="1484941858530919002">"Kesalahan hotspot WLAN portabel"</string>
+<string name="enable_traces_summary_none" msgid="1867562808503494163">"Tidak ada jejak yang saat ini diaktifkan"</string>
+<string name="black_screen_settings_camera">Buka kunci ke kamera</string>
+<string name="call_ring_pocket_enable_summary">"Maksimalkan volume nada dering di mode saku atau tas"</string>
+<string name="wifi_display_summary_disabled" msgid="5318394806146587849">"Nonaktif"</string>
+<string name="data_usage_enable_mobile_statistics">Statistik data</string>
+<string name="touch_free_phone">Panggilan Gratis </string>
+<string name="double_click_home_enabled_description">"Mengklik lama (tombol MENU) mengaktifkan layanan suara"</string>
+<string name="black_screen_settings_quick_shots_eight">delapan lembaran</string>
+<string name="black_screen_settings_vedio">Buka kunci ke Video</string>
+<string name="backup_data_to_device_summary">Dorong data ke perangkat lain dengan SHAREit</string>
+<string name="disable_schpwr">Menonaktifkan</string>
+<string name="fuse_backup_data_to_cloud_summary">Cadangkan data ponsel ke awan</string>
+<string name="lll_pbtn_alert">"Tahan tombol Daya <xliff:g id="COUNT_DOWN_TIME">%1$s</xliff:g> untuk mematikan perangkat..."</string>
+<string name="profile_edit_pocket_help">"Maksimalkan volume nada dering di mode saku atau tas"</string>
+<string name="monotype_preference_title">Gaya font</string>
+<string name="call_ring_weaken_enable_title">Kurangi volume nada dering</string>
+<string name="subscription_01_title">SIM 1</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> hari"</string>
+<string name="wifi_switch_summary">"Pendahuluan: Catat jaringan WLAN yang tersambung, dan bila nanti Anda menggunakan layanan data GPRS 3G/2G dalam area jangkauannya, Anda akan diingatkan untuk menyambung ke jaringan WLAN ini atau sistem akan menyambung ke jaringan ini secara otomatis."</string>
+<string name="airplane_open_confirm">"Mode pesawat"</string>
+<string name="smart_standby_ctrl">"Siaga pintar"</string>
+<string name="display_effect_of_screen_sharpen_title">Ketajaman</string>
+<string name="devices_info_camera">"Kamera ：Depan 5juta  Belakang 13juta"</string>
+<string name="close_home_landscape_title">Fitur penonaktifan tombol Awal layar horizontal</string>
+<string name="schedule_power_on_off_set">Menetapkan jadwal pengaktifan/penonaktifan</string>
+<string name="flip_screen_control_title">Balik layar untuk mengontrol</string>
+<string name="display_effect_of_screen_cancel">Batal</string>
+<string name="devices_info_screen">"Screen: 1080*720   5.0-inch"</string>
+<string name="character_settings_side_key_backlight_screen_help_message">Tekan tombol volume untuk menyalakan cahaya latar.</string>
+<string name="poweron_nosim">Tidak dapat mendeteksi SIM</string>
+<string name="shellt_phone_info_screen">"Resolusi: 720P, Ukuran: 6,0-inci"</string>
+<string name="location_mode_high_accuracy_description" msgid="6418936349431602808">"Gunakan GPS, WLAN, dan jaringan seluler untuk menentukan lokasi"</string>
+<string name="track_frame_time_summary" msgid="447577515813970287">"Ukur waktu penguraian di adb shell dumpsys gfxinfo"</string>
+<string name="font_settings_title">"Pengaturan font"</string>
+<string name="voice_wakeup_summary">Dapat membangunkan sistem dengan bunyi suara</string>
+<string name="smart_answer_incommingcall_title">Jawaban cerdas</string>
+<string name="wifi_required_info_text" msgid="9014073093293520112">"Untuk menyelesaikan penyiapan, tablet Anda perlu mengakses WLAN. Setelah penyiapan, Anda dapat beralih antara data seluler dan WLAN."</string>
+<string name="gestural_ebook">E-book Kontrol Gerakan</string>
+<string name="character_settings_black_screen_help_message">Membuka kunci konvensional: geser ke kiri atau kanan di bawah layar untuk membuka kunci. Untuk masuk ke aplikasi: buka kunci ke kamera dan gambar "C" pada layar. Fitur ini akan memengaruhi konsumsi daya siaga.</string>
+<string name="charge_stream_max">Aliran pengisian arus 2000mA </string>
+<string name="power_off">"Matikan daya"</string>
+<string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"Untuk meningkatkan ketepatan lokasi dan untuk tujuan lainnya, <xliff:g id="APP_NAME">%1$s</xliff:g> ingin mengaktifkan pemindaian jaringan, bahkan saat WLAN sedang tidak aktif.\n\nIzinkan ini untuk semua aplikasi yang ingin memindai?"</string>
+<string name="global_single_hand_summary">Pengoperasian mudah dengan satu-tangan</string>
+<string name="set_data_subscription_progress">Tetapkan langganan data sedang berlangsung</string>
+<string name="color_light">Cahaya warna</string>
+<string name="knock_light_title">Ketuk ganda untuk menghidupkan layar</string>
+<string name="show_frame_count_x_coordinate">Koordinat X</string>
+<string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> hotspot WLAN portabel"</string>
+<string msgid="7583975676795574276" name="service_foreground_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> aplikasi digunakan"</string>
+<string name="tilt_scroll_control_title">Penggulungan Miring</string>
+<string name="roaming_time_settings_zone">Zona waktu yang disarankan</string>
+<string name="black_screen_settings_summary">Dapat membuka kunci dari layar mati, dan dengan cepat meluncurkan aplikasi</string>
+<string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"Tidak ada PIN atau sandi pengunci layar"</string>
+<string name="wifi_setup_wizard_skip">"Lewati"</string>
+<string name="hour">"1 jam"</string>
+<string name="lock_intro_message" product="default">Melindungi ponsel Anda dari penggunaan yang tidak sah dengan cara membuat pola pembuka penguncian layar pribadi. Geserkan jari Anda untuk menghubungkan setidaknya empat titik dalam sembarang urutan pada layar berikutnya.
+        \n\nSiap untuk mulai? Sentuh Berikutnya.
+    </string>
+<string name="gestural">Kontrol Gerakan</string>
+<string name="preference_status_unknown">Tidak diketahui</string>
+<string name="simple_settings">Panduan pemula</string>
+<string name="startup_confirm_auto_shutdown">Ponsel akan mati dalam %s detik.</string>
+<string name="A_gps_summary"> gunakan data bantuan untuk mempercepat waktu penetapan lokasi dengan GPS</string>
+<string name="safety_information_content">Upgrade sistem telepon lewat layanan pasca-penjualan resmi via Lenovo atau Fungsi upgrade sistem seluler Lenovo (OTA). Menggunakan cara lain untuk meng-upgrade sistem dapat mengakibatkan kegagalan peralatan atau hilangnya data, dan menimbulkan rusaknya kemampuan pengamanan sistem, sehingga memicu risiko keamanan. Untuk masalah yang ditimbulkan oleh penggunaan cara lain, Lenovo tidak menanggung kewajiban pemeliharaan.</string>
+<string name="color_light_other_summary">Weixin, QQ, Weibo</string>
+<string name="incoming_call_ringer_title">"Nada dering panggilan"</string>
+<string name="unlock_set_unlock_speechpwd_title">"Gunakan Sandi suara dan Pola untuk melindungi"</string>
+<string name="display_effect_of_screen_contrast_title">Kontras</string>
+<string name="crypt_keeper_dialog_need_password_message" msgid="4071395977297369642">"Anda perlu menyetel PIN atau sandi pengunci layar sebelum dapat memulai enkripsi."</string>
+<string name="accessibility_script_injection_button_disallow" msgid="5697152768523270885">"Jangan izinkan"</string>
+<string name="character_settings_mercury_keyboard_help_message">Ketika digunakan, keypad akan berubah sesuai sudut ponsel untuk memfasilitasi pengoperasian satu tangan. Sapu layar ketika antarmuka keypad rata untuk mengaktifkan keyboard merkuri.</string>
+<string name="startup_confirm_airplane_turn_off">Keluar dari mode pesawat?</string>
+<string name="wifi_access_points" msgid="7053990007031968609">"Jaringan WLAN"</string>
+<string name="header_category_personalcustom">Personalisasikan</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"Menyentuh Oke akan menghentikan <xliff:g id="SERVICE">%1$s</xliff:g>."</string>
+<string name="unlock_set_unlock_speechnormal_title">"Suara membuka penguncian cepat"</string>
+<string name="headset_play_mms_enabled_title">"Headset memutar MMS"</string>
+<string name="black_screen_notification_title"> "Mode peringatan getar pesan belum dibaca" </string>
+<string name="set_dds_error">Kesalahan dalam langganan data yang ditetapkan.</string>
+<string name="shutdown_time">Daya nonaktif pada</string>
+<string-array name="alarm_set">
+        <item>Daya aktif ini diatur untuk kurang dari 1 menit dari sekarang.</item>
+        <item>Daya aktif ini diatur untuk <xliff:g id="DAYS">%1$s</xliff:g> dari sekarang.</item>
+        <item>Daya aktif ini diatur untuk <xliff:g id="HOURS">%2$s</xliff:g> dari sekarang.</item>
+        <item>Daya aktif ini diatur untuk <xliff:g id="DAYS">%1$s</xliff:g> dan <xliff:g id="HOURS">%2$s</xliff:g> dari sekarang.</item>
+        <item>Daya aktif ini diatur untuk <xliff:g id="MINUTES">%3$s</xliff:g> dari sekarang.</item>
+        <item>Daya aktif ini diatur untuk <xliff:g id="DAYS">%1$s</xliff:g> dan <xliff:g id="MINUTES">%3$s</xliff:g> dari sekarang.</item>
+        <item>Daya aktif ini diatur untuk <xliff:g id="HOURS">%2$s</xliff:g> dan <xliff:g id="MINUTES">%3$s</xliff:g> dari sekarang.</item>
+        <item>Daya aktif ini diatur untuk <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g>, dan <xliff:g id="MINUTES">%3$s</xliff:g> dari sekarang.</item>
+        <item>Daya nonaktif ini diatur untuk kurang dari 1 menit dari sekarang.</item>
+        <item>Daya nonaktif ini diatur untuk <xliff:g id="DAYS">%1$s</xliff:g> dari sekarang.</item>
+        <item>Daya nonaktif ini diatur untuk <xliff:g id="HOURS">%2$s</xliff:g> dari sekarang.</item>
+        <item>Daya nonaktif ini diatur untuk <xliff:g id="DAYS">%1$s</xliff:g> dan <xliff:g id="HOURS">%2$s</xliff:g> dari sekarang.</item>
+        <item>Daya nonaktif ini diatur untuk <xliff:g id="MINUTES">%3$s</xliff:g> dari sekarang.</item>
+        <item>Daya nonaktif ini diatur untuk <xliff:g id="DAYS">%1$s</xliff:g> dan <xliff:g id="MINUTES">%3$s</xliff:g> dari sekarang.</item>
+        <item>Daya nonaktif ini diatur untuk <xliff:g id="HOURS">%2$s</xliff:g> dan <xliff:g id="MINUTES">%3$s</xliff:g> dari sekarang.</item>
+        <item>Daya nonaktif ini diatur untuk <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g>, dan <xliff:g id="MINUTES">%3$s</xliff:g> dari sekarang.</item>
+    </string-array>
+<string name="camera_info">"Kamera"</string>
+<string name="startup_auto_shutdown_title">Penonaktifan otomatis</string>
+<string name="nfc_not_inservice">NfcAdapter Tidak Berfungsi!</string>
+<string name="black_screen_settings_quick_shots_nums">Bidikan cepat</string>
+<string name="i_know_it">Saya sudah tahu</string>
+<string name="fuse_recovery_data_from_cloud_summary">Ketuk untuk masuk ke cadangan data awan</string>
+<string name="accessibility_script_injection_button_allow" msgid="2201503285877102870">"Izinkan"</string>
+<string name="quicksettings_summary">Selamat menggunakan ponsel Lenovo, silakan mulai dengan penyiapan cepat! Anda dapat\n mengatur ponsel secara terpisah di "Penyiapan sistem".</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl">"Tombol volume untuk mencerahkan layar"</string>
+<string name="backup_data">"Cadangkan data sebelum mengatur ulang ponsel"</string>
+<string name="fuse_recovery_data_from_cloud_title">Pulihkan data dari awan</string>
+<string name="shellt_phone_info_cpu">"Qualcomm MSM8926  4*1,2GHz"</string>
+<string name="still_sleep_title">Masih tidur</string>
+<string name="usb_ptp_summary" msgid="7673397474756664929">"Memungkinkan Anda mentransfer foto menggunakan perangkat lunak kamera, dan mentransfer file apa pun di komputer yang tidak mendukung MTP"</string>
+<string name="color_light_other">"Lainnya"</string>
+<string name="black_screen_settings_broswer">Buka penguncian ke Browser</string>
+<string name="schedule_power_on_off_repeat">Ulangi</string>
+<string name="display_effect_of_screen_saturation_item1">Default</string>
+<string name="show_frame_count_cancel_button_text">"Batal"</string>
+<string name="display_effect_of_screen_saturation_item0">Lembut</string>
+<string name="display_effect_of_screen_saturation_item2">Terang</string>
+<string name="wifi_connect_failed_message" product="default" msgid="2185803140161396572">"Ponsel tidak dapat menyambung ke jaringan WLAN ini."</string>
+<string name="processor_info">Prosesor</string>
+<string name="data_usage_metered_wifi" msgid="8540872226614404873">"Jaringan WLAN"</string>
+<string name="shutdown_alarm_confirm">"Alarm akan bangun pada <xliff:g id="ALARM_TIME">%1$s</xliff:g>."</string>
+<string name="wave_wakeup_title">Bangunkan dengan ayunan</string>
+<string name="voice_summary">Pilih Langganan untuk Panggilan Suara</string>
+<string name="wifi_tether_configure_ap_text" msgid="7974681394041609308">"Siapkan hotspot WLAN"</string>
+<string name="black_screen_settings_normal_summary">Anda dapat menggeser di sepanjang bagian bawah layar dari kiri ke kanan untuk membuka kunci</string>
+<string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Semua data pengguna</xliff:g> (termasuk musik, foto, dan data pengguna lainnya) di <xliff:g>Memori Internal</xliff:g> akan dihapus. Cadangkan data Anda sebelum mereset ponsel."</string>
+<string name="wifi_p2p_settings_title" msgid="400503541488064638">"WLAN Langsung"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen">Ketuk untuk menyalakan layar</string>
+<string name="flip_screen_control_summary">Balik ponsel untuk menghidupkan atau mematikan layar</string>
+<string name="wifi_setup_title_connecting_network" msgid="5572226790101017822">"Menyambung ke jaringan WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>..."</string>
+<string name="screen_info">Layar</string>
+<string name="startup_time">Daya aktif pada</string>
+<string name="keyboard_lights_title">Lampu keyboard</string>
+<string name="wifi_poor_network_detection_summary" msgid="2466956369738047669">"Jangan gunakan jaringan WLAN kecuali sambungan internetnya baik"</string>
+<string name="muti_window_summary">Jendela beberapa tugas didukung untuk menampilkan dan menjalankan di layar yang sama secara bersamaan</string>
+<string name="credentials_configure_lock_screen_hint" msgid="6757119179588664966">"Anda perlu menyetel PIN atau sandi pengunci layar sebelum dapat menggunakan penyimpanan kredensial."</string>
+<string name="shellt_phone_info_runMemory">"1,0GByte"</string>
+<string name="roaming_time_settings_time_display">Program tampilan waktu</string>
+<string name="header_category_other">"Lainnya"</string>
+<string name="data_usage_metered_wifi_disabled" msgid="5502020778468643732">"Untuk memilih hotspot seluler, nyalakan WLAN."</string>
+<string name="recovery_data_section_title">Pemulihan data</string>
+<string name="gestural_ebook_summary">Geser layar ke kiri dan ke kanan untuk mengontrol membalik halaman e-book</string>
+<string name="auto_shutdown_interrupted">Penonaktifan berwaktu terganggu</string>
+<string name="start_camera_gesture_summary">Jalankan kamera dengan cepat melalui gerakan</string>
+<string name="wifi_connect_failed_message" product="tablet" msgid="4474691090681670156">"Tablet tidak dapat menyambung ke jaringan WLAN ini."</string>
+<string name="phone_car_mode_summary">"Pengaturan mode mengemudi"</string>
+<string name="data_connect_settings_title">Data</string>
+<string name="still_sleep_summary">Bila ponsel diam, ponsel akan tidur</string>
+<string name="theme_settings_title">"Pusat Tema"</string>
+<string name="smart_rotete_cbox_title">Putar layar</string>
+<string name="recovery_data_from_device_summary">Tarik data dari perangkat lain dengan SHAREit</string>
+<string name="voice_call_way_title">"Cara panggilan suara"</string>
+<string name="gestural_music">Musik Kontrol Gerakan</string>
+<string name="color_light_unread_mms">Mms belum dibaca</string>
+<string name="stop_color_light">hentikan</string>
+<string name="save_power_wait_title">"Harap tunggu..."</string>
+<string name="black_screen_settings">Pembukaan kunci layar mati</string>
+<string name="savepower_black_title">"Daftar Hitam"</string>
+<string name="set_dds_success">Pengaturan langganan data berhasil</string>
+<string name="multiwindow_summary">"Mendukung JendelaMulti"</string>
+<string name="lock_intro_message" product="tablet">"Lindungi tablet Anda dari penggunaan yang tidak sah dengan membuat pola pembuka kunci layar pribadi. Geser jari Anda untuk menghubungkan titik-titik secara acak di layar berikutnya. Anda perlu menghubungkan setidaknya empat titik. "\n\n"Siap memulai? Sentuh Berikutnya."</string>
+<string name="show_dialog">Jangan ingatkan saya</string>
+<string name="close_home_landscape_summary">Putar ponsel horizontal untuk menonaktifkan tombol Awal</string>
+<string name="airbuse_phone_info_screen">"Resolusi: qHD960*540, Ukuran: 6,0-inci"</string>
+<string name="shutdown_time_enabled">Jadwal daya nonaktif</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> dapat mengumpulkan semua teks yang Anda ketik, kecuali sandi. Pengumpulan ini mencakup data pribadi seperti nomor kartu kredit. Layanan ini juga dapat mengumpulkan data tentang interaksi Anda dengan ponsel."</string>
+<string name="black_screen_settings_select_app">Pilih aplikasi yang ingin Anda setel</string>
+<string name="incoming_mms_ringer_title">"Nada dering olahpesan"</string>
+<string name="no_sim_info">Info kartu SIM tidak ada.\nMenu tidak dapat diakses</string>
+<string name="wifi_settings" msgid="29722149822540994">"WLAN"</string>
+<string-array name="hue"> 
+         
+         
+         
+    <item>Dingin</item>
+        <item>Default</item>
+        <item>Hangat</item>
+    </string-array>
+<string name="wifi_suspend_optimizations" msgid="1220174276403689487">"Pengoptimalan WLAN"</string>
+<string name="wifi_on_time" msgid="3208518458663637035">"WLAN berdasarkan waktu"</string>
+<string name="recovery_data_summary">Ketuk untuk masuk ke cadangan data kartu SD</string>
+<string-array name="sharpen"> 
+         
+         
+    <item>Default</item>
+        <item>Pertajam</item>
+    </string-array>
+<string name="wifi_menu_wps_pin" msgid="6426448256268695933">"Entri PIN WPS"</string>
+<string name="poweron_emergencycallonly">"Panggilan darurat saja"</string>
+<string name="data_usage_disable_mobile_statistics_dialog">Dengan menonaktifkan fitur ini, pengumpulan statistik penggunaan data akan dimatikan.</string>
+<string name="wifi_switch_settings_title">Pengaitan lokasi WLAN</string>
+<string name="schedule_power_on_off_settings_title">Jadwalkan pengaktifan/penonaktifan</string>
+<string name="gestural_broswer_summary">Geser layar ke atas dan ke bawah untuk menggulung halaman browser</string>
+<string name="wifi_scan_notify_text_location_on">Untuk meningkatkan akurasi lokasi dan untuk tujuan lainnya, Google dan berbagai aplikasi lain dapat memindai jaringan sekitar, meskipun WLAN tidak berjalan. Jika Anda tidak ingin ini terjadi, buka Lanjutan &gt; Memindai selalu tersedia.</string>
+<string name="gestural_vedio_summary">Geser layar ke kiri dan ke kanan untuk mengontrol pemutaran video | Geser layar ke atas dan ke bawah untuk menyetel volume</string>
+<string name="lenovo_recent_settings">Pengaturan Terkini</string>
+<string name="no_ftp_app">Apl tidak mendukung FTP</string>
+<string name="accessibility_toggle_script_injection_preference_title" msgid="7950932054266694403">"Tingkatkan aksesibilitas web"</string>
+<string name="phone_info">Informasi Ponsel</string>
+<string name="sel_sub_title">Konfigurasikan Langganan </string>
+<string name="accessibility_script_injection_disallowed" msgid="8639525487720429182">"Tidak diizinkan"</string>
+<string name="start_camera_gesture_title">Kamera gerakan</string>
+<string name="rotate_type_choose_cancel">Batal</string>
+<string name="lockscreen_knock_on_ctrl_summary">Klik dua kali untuk lampu layar ponsel</string>
+<string name="airplane_open_confirm_message">Anda yakin ingin mengaktifkan mode pesawat?</string>
+<string name="data_usage_restrict_background_multiuser" product="default" msgid="8025473178302056174">"Jika Anda membatasi data seluler latar belakang, beberapa aplikasi dan layanan tidak akan bekerja kecuali Anda tersambung ke jaringan WLAN."\n\n"Pengaturan ini memengaruhi semua pengguna di ponsel ini."</string>
+<string name="savepower_white_title">"Daftar Putih"</string>
+<string name="lenovoID_registered_title">"Setuju menggunakan nomor ponsel sebagai akun Lenovo ID (sandi Lenovo)"</string>
+<string name="mannual">Masuk ke Tutorial pemula</string>
+<string name="header_category_personalcustom_k7">"Dipersonalisasi"</string>
+<string name="china_telcom_push_title">Dorong Yi China Telecom</string>
+<string name="location_network_based" msgid="7472814266821714527">"Lokasi jaringan WLAN &amp; seluler"</string>
+<string name="header_category_singlehand_settings">"Pengaturan satu tangan"</string>
+<string name="devices_info_buildNumber">"No. Build: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="location_improve_allow">Layanan lokasi yang ditingkatkan melalui WLAN dan/atau jaringan seluler</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"Hentikan <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="schedule_power_on_set">Tetapkan jadwal pengaktifan</string>
+<string name="lockscreen_shake_unlock_ctrl">Goyangkan untuk mengunci</string>
+<string name="call_ring_weaken_enable_summary">Volume nada dering akan berkurang ketika mengangkat telepon.</string>
+<string name="wifi_popup_0">Mengaitkan aplikasi tersambung.\nBila memasuki lokasi ini, pertanyaan akan muncul di layar.</string>
+<string name="wifi_popup_2">Jangan mengaitkan lokasi</string>
+<string name="wifi_popup_1">Mengaitkan aplikasi tersambung.\nAktifkan otomatis bila memasuki lokasi ini.</string>
+<string name="double_click_muti_window_title">JendelaMulti</string>
+<string name="roaming_settings_title">Pengaturan Roaming</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"Apakah Anda ingin apl memasang skrip dari Google yang membuat konten webnya lebih mudah diakses?"</string>
+<string name="enter_bright_mode_warning" product="default"> "Buka suara, panggilan lebih jelas" </string>
+<string name="character_setings_title">"Fitur"</string>
+<string name="backup_recovery_data_summary">Data aplikasi cadangan atau pemulihan pada ponsel</string>
+<string name="wifi_settings_title" msgid="3103415012485692233">"WLAN"</string>
+<string name="security_settings_title">"Keamanan dan layar kunci"</string>
+<string name="black_screen_settings_flash_mode_on">Buka</string>
+<string name="black_screen_settings_quick_shots_one">satu lembaran</string>
+<string name="leave_bright_mode_warning" product="default"> "Fungsi dinonaktifkan" </string>
+<string name="black_screen_settings_music_summary">Gambar “m” pada layar</string>
+<string name="quicksettings_title">Penyiapan cepat</string>
+<string name="summary_keyboard_lights">KontrolPintar</string>
+<string name="backup_recovery_data_title">Data aplikasi cadangan atau pemulihan</string>
+<string name="poweron_nouim">UIM tidak ditemukan</string>
+<string name="wifi_suspend_optimizations_summary" msgid="4151428966089116856">"Minimalkan penggunaan baterai saat WLAN aktif"</string>
+<string name="gestural_vedio">Video Kontrol Gerakan </string>
+<string name="gadget_toggle_wifi" msgid="319262861956544493">"Memperbarui setelan WLAN"</string>
+<string name="backup_data_recovery_section_title">Cadangan data dan pemulihan</string>
+<string name="share_music_a2dp_headphones_control_summary">Ketika membuka opsi ini, Anda dapat berbagi musik via headset Bluetooth dan headset berkabel</string>
+<string name="memory_os_size">Ruang yang dipakai OS</string>
+<string name="revert">"Kembalikan"</string>
+<string name="usage_type_data_wifi_recv" msgid="7822328607564241372">"Data WLAN diterima"</string>
+<string name="double_click_dock_enabled_title">"Suara aktif ikon area dua DOCK"</string>
+<string name="color_light_battery">Baterai</string>
+<string name="internal_version">Nomor versi internal</string>
+<string name="preference_status_close">Tutup</string>
+<string name="apn_call_number">Nomor telepon PPP</string>
+<string name="sound_settings_title">"Suara"</string>
+<string name="set_priority_sub_error">Kesalahan dalam menetapkan langganan prioritas. Langganan tidak aktif.</string>
+<string name="common_setings_title">"umum"</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="sms_summary">Pilih Langganan untuk Mengirim SMS</string>
+<string name="devices_info_firmwareVersion">"Versi Android: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="wifi_settings_category" msgid="2810363951104753710">"Pengaturan WLAN"</string>
+<string name="show_hw_overdraw_summary" msgid="4295714000923082647">"Terbaik-terburuk: biru, hijau, merah terang, merah"</string>
+<string name="show_recent_settings">tarik naik untuk menyembunyikan pengaturan</string>
+<string name="global_action_restart">"Mulai Ulang"</string>
+<string name="color_light_call">"Telepon"</string>
+    <string name="eap_sim_aka_airplanemode">Nonaktifkan mode Pesawat terbang untuk menggunakan EAP-SIM/AKA</string>
+    <string name="wifi_ap_bandwidth_chart_title">Kecepatan data real-time</string>
+    <string name="single_hand_title">Layar mikro satu tangan</string>
+    <string name="pch_warning_message">Tarif transmisi data akan menolak.</string>
+    <string name="dlg_error_unmount_usb_text" product="default">"Tidak dapat melepas kartu SD. Coba lagi nanti."</string>
+    <string name="move_success">Pemindahan selesai! Sebagian aplikasi tidak dapat dipindahkan ke kartu memori default. <xliff:g>%1$s</xliff:g> aplikasi berhasil dipindahkan!</string>
+    <string name="AGPS_NOTIFY_ONLY">Pemberitahuan Permintaan Lokasi</string>
+    <string name="agps_str_deny">Tolak</string>
+    <string name="privacy_backup_userdata_category_title">Cadangkan data</string>
+    <string name="usb_ums_without_external_sd_summary">"Kartu memori eksternal tidak terdeteksi, kartu memori bawaan tidak mendukung mode disk U, jadi tidak dapat digunakan"</string>
+    <string name="privacy_category_title_cloud">Awan</string>
+    <string name="wifi_backup_category_title">Pencadangan WLAN</string>
+    <string name="display_effect_of_screen_reset">"Setel ulang"</string>
+    <string name="double_click_tip">Klik dua kali di sini</string>
+    <string name="ipo_title">Booting cepat</string>
+    <string name="authdlg_message">\'%1$s\' meminta izin untuk menyambung ke %2$s.</string>
+    <string name="lockdown_vpn_already_connected">Selalu di VPN telah diaktifkan untuk sambungan.</string>
+    <string name="usb_connect_as_cdrom_category">"Sambungkan sebagai CD-ROM"</string>
+    <string name="wifi_ap_max_connection_title">Sambungan maksimum</string>
+    <string name="launch_main">Aktifkan aplikasi menurut aktivitas utama</string>
+    <string name="usbsetting_help_content">1. Penyimpanan massal USB：ponsel sebagai disk U untuk pengoperasian file. \n\n
+2. MTP: Ponsel sebagai disk U untuk pengoperasian file. Operasikan file di ponsel secara bersamaan. Bila OS komputer adalah XP atau yang lebih lama, instal driver. \n\n
+3. PTP: Gunakan perangkat lunak kamera untuk menerjemahkan foto. Bila OS komputer adalah XP atau yang lebih lama, instal driver. \n\n
+4. Debug USB: Bila tersambung, kelola ponsel di komputer menggunakan perangkat lunak seperti LeHelper, 91 Helper, dll.  \n\n
+5. Tether USB: Bila tersambung, komputer dapat mengakses Internet melalui ponsel. Disk U tidak dapat diinstal saat menyambung. </string>
+    <string name="title_lcd_invert">Balikkan warna LCD</string>
+    <string name="test_area">AREA UJI:</string>
+    <string name="wfd_change_resolution_menu_title">Ubah resolusi</string>
+    <string name="smart_scene_summary">"Mode adegan diperlukan untuk peralihan cerdas"</string>
+    <string name="lenovo_system_update">"Pembaruan sistem"</string>
+    <string name="wifi_ap_reset_OOB_title">Atur ulang SSID jaringan, keamanan, dan sandi ke default (konfigurasi siap pakai untuk WPS)</string>
+    <string name="mouse_primary_button_title">Alihkan tombol utama dan kedua</string>
+    <string name="wide_touch_summary">Akses cara pintas dengan satu sentuhan.</string>
+    <string name="try_swing_lock_result_longer">Guncangan tidak memadai. Harap coba lagi</string>
+    <string name="bluetooth_ask_enablement_ext">Aplikasi <xliff:g>%1$s</xliff:g> ingin mengaktifkan Bluetooth.</string>
+    <string name="wifi_ap_reset_OOB">Atur ulang OOB</string>
+    <string name="side_key_backlight_title">"Tombol volume untuk mencerahkan layar"</string>
+    <string name="privacy_restore_userdata_summary">Pilih memulihkan data dari memori</string>
+    <string name="swing_lock">Kunci Getar</string>
+    <string name="default_name">"Bawaan"</string>
+    <string name="gesture_rotete_cbox_summary">Gerakan</string>
+    <string name="usb_sharing_title">Internet USB</string>
+    <string name="wifi_restore_category_title">Pemulihan WLAN</string>
+    <string name="landscape_launcher_none">Tidak ada</string>
+    <string name="drm_reset_toast_msg">Lisensi telah berhasil dihapus.</string>
+    <string name="ringtone_settings">Nada dering dan volume</string>
+    <string name="network_synchronization_enable_confirm">Sinkronisasi Jaringan perlu koneksi data nirkabel untuk mendapatkan data bantuan yang dapat menyebabkan biaya tambahan. Yakin ingin mengaktifkan Sinkronisasi Jaringan?</string>
+    <string name="usb_charge_title">Hanya isi daya</string>
+    <string name="runningapp_stop_dlg_title">Hentikan layanan?</string>
+    <string name="sim_remain">(Tersisa: <xliff:g id="remains">%d</xliff:g>)</string>
+    <string name="lockscreen_style_default_desc">"Akses cepat ke aplikasi di layar kunci"</string>
+    <string name="pin_scroll_summary">Saat menggulir ke atas pada daftar, beri jeda sementara lalu lepaskan, daftar akan tersemat untuk pengoperasian yang lebih baik.</string>
+    <string name="AGPS_DEFAULT_STRING">String Bawaan A-GPS</string>
+    <string name="vpn_lockdown_savelogin_error">Informasi login akun perlu disimpan jika VPN selalu dihidupkan. </string>
+    <string name="smart_call_answer_title">Menjawab Pintar</string>
+    <string name="sim_slot">Slot SIM</string>
+    <string name="stop_select_app">"Hentikan yang dipilih?"</string>
+    <string name="wifi_ap_client_block_title">"Cekal"</string>
+    <string name="usb_sharing_summary">Berbagi Internet di PC Windows via kabel USB</string>
+    <string name="current_suffix">"(Sekarang)"</string>
+    <string name="wifi_backup">Pencadangan Konfig WLAN</string>
+    <string name="agps_profile_select_Title">Profil AGPS</string>
+    <string name="usb_tether">Tether USB</string>
+    <string name="single_hand_summary">Gunakan telepon dengan hanya satu tangan</string>
+    <string name="smart_scene_title">Profil pintar</string>
+    <string name="cpu_dtm_summary">Batasi performa CPU maksimum untuk menghemat masa pakai baterai dan menurunkan suhu perangkat.</string>
+    <string name="dlg_confirm_unmount_usb_title" product="default">"Lepaskan kartu SD?"</string>
+    <string name="battery_percent">Persentase Baterai</string>
+    <string name="server_lenovo_exp_dialogmsg">Jika Anda keluar dari Program Lenovo Enhanced Experience, beberapa aplikasi mungkin tidak berfungsi dengan benar serta dapat berdampak pada layanan serta pengalaman produk. Anda yakin ingin keluar?</string>
+    <string name="apn_port_warning">Nilai port harus 1-65535!</string>
+    <string name="agps_str_allow">Bolehkan</string>
+    <string name="tethered_ipv4v6">(IPv6 tersedia)</string>
+    <string name="autopop_warning_title">Jangan tampilkan lagi?</string>
+    <string name="prevent_misoperation_title">Mode cegah dial saku</string>
+    <string name="default_soft_setting">Pengaturan perangkat lunak default</string>
+    <string name="lockscreen_style_set">"Tetapkan Layar Penguncian"</string>
+    <string name="wifi_backup_ok">Cadangkan OK!</string>
+    <string name="wifi_backup_failed">Pencadangan Gagal.</string>
+    <string name="dlg_default_write_disk0_change_msg">"Jika Anda memilih penyimpanan SD, maka aplikasi yang terinstal di penyimpanan USB tidak dapat digunakan dan perangkat akan di-boot ulang. Anda yakin ingin mengganti ke penyimpanan SD?"</string>
+    <string name="MobileNetwork_SIM2_Active">SIM2 aktif</string>
+    <string name="eap_sim_slot_0">Slot SIM 0</string>
+    <string name="smart_standby_ctrl_description">Bila waktu nonaktif layar telah tiba, untuk membuka kamera depan, cerahkan layar seperti yang dideteksi dengan ponsel menghadap ke wajah Anda, sebaliknya akan menonaktifkan layar</string>
+    <string name="eap_sim_slot_1">Slot SIM 1</string>
+    <string name="auto_rotete_cbox_summary">Otomatis</string>
+    <string name="wifi_restore_ok">Pulihkan OK!</string>
+    <string name="auto_time_off">"Tutup"</string>
+    <string name="passpoint_certificate">Sertifikat</string>
+    <string name="audio_profile_error">Kesalahan</string>
+    <string name="dlg_mount_external_sd_summary" product="default">Jika Anda memasang kartu SD, maka sejumlah aplikasi yang digunakan akan terhenti.</string>
+    <string name="wifi_channel">Saluran Pilihan</string>
+    <string name="agps_str_verify">Verifikasi</string>
+    <string name="personal_hotsport_title">Hotspot pribadi</string>
+    <string name="bluetooth_stop_search_for_devices">Hentikan pencarian</string>
+    <string name="phone_model_number">"Mode ponsel"</string>
+    <string name="akp_installer_settings_title">Penginstal APK</string>
+    <string name="authdlg_service_pbap">ponsel ini akan men-download kontak</string>
+    <string name="wifi_security_wapi_certificate">Sertifikat WAPI</string>
+    <string name="gps_time_sync_attention_gps_off">Untuk menggunakan waktu yang disediakan GPS, Anda harus mengaktifkan GPS terlebih dulu. Selanjutnya, diperlukan waktu maksimal 1 menit untuk mengambil perbaikan GPS. Selain itu, GPS mungkin gagal menyediakan waktu karena sinyal yang lemah di sekitar. \n\nAnda yakin ingin mengaktifkan GPS sekarang dan menunggu waktu yang disediakan GPS?</string>
+    <string name="launch_activitie">Aktifkan</string>
+    <string name="sd_eject_usbstorage_summary" product="default">"Lepas penyimpanan USB internal"</string>
+    <string name="smart_call_answer_summary">Jawab panggilan bila mengangkat telepon di dekat telinga</string>
+    <string name="tethering_apn_settings_summary">Konfigurasikan APN untuk penambatan</string>
+    <string name="hdmi_settings">Pengaturan HDMI</string>
+    <string name="try_swing_lock_result_harder">Guncangan tidak memadai. Harap coba lagi</string>
+    <string name="usb_ums_with_external_sd_summary">"XP disarankan.Gunakan eksternal tetapi bukan kartu memori bawaan sebagai disk U untuk menyalin file. "</string>
+    <string name="gemini_data_connection_progress_message">"Tunggu......"</string>
+    <string name="display_effect_of_screen_toast_title">Karena Anda tidak memilih Terapkan &gt; Simpan &gt; Efek Layar, nilai akan direset setelah komputer dimulai ulang</string>
+    <string name="privacy_category_title_sd">Kartu SD</string>
+    <string name="privacy_backup_userdata_text">Cadangkan SMS, Contacts, dan Call logs ke memori internal Anda?</string>
+    <string name="mobile">Sambungan data</string>
+    <string name="choose_soft_place">Pilih lokasi instalasi perangkat lunak</string>
+    <string name="display_smart_standby">Siaga Pintar</string>
+    <string name="ims_toggle_summary">Menyediakan layanan Subsistem Multimedia IP </string>
+    <string name="bluetooth_ask_establish_connection_ext">"Aplikasi <xliff:g>%1$s</xliff:g> ingin berkomunikasi dengan <xliff:g>%2$s</xliff:g> via Bluetooth."</string>
+    <string name="wifi_advanced_ipv6_address_title">Alamat IPv6</string>
+    <string name="clear_motion_summary">Peningkat kelancaran video</string>
+    <string name="rcse_settings_title">Pengaturan Joyn</string>
+    <string name="voice_ui_title">Kontrol suara</string>
+    <string name="bluetooth_ftp_profile_summary_use_for">Gunakan untuk transfer file</string>
+    <string name="select_memory">Disk tulis default</string>
+    <string name="usb_ums_summary">"XP direkomendasikan. Memungkinkan Anda mentransfer file antara komputer dan penyimpanan USB Android."</string>
+    <string name="clear_cache_msg">Dihapus. <xliff:g>%1$s</xliff:g> memori yang dikosongkan.</string>
+    <string name="data_usage_more_settings">Pengaturan lainnya</string>
+    <string name="dlg_confirm_unmount_usb_text" product="default">"Jika Anda melepaskan kartu SD, beberapa apl yang Anda gunakan akan berhenti dan mungkin tidak tersedia sampai Anda memasang kembali kartu SD."</string>
+    <string name="cpu_dtm_title">Mode hemat daya CPU</string>
+    <string name="display_effect_of_screen_dialog_ok">OK</string>
+    <string name="smart_roll_summary">Geser tepi layar untuk menggulir tombol</string>
+    <string name="light_settings">Pencahayaan</string>
+    <string name="agps_str_notify">Notifikasi</string>
+    <string name="unmount_usb_inform_text" product="default">"Kartu SD akan dilepas."</string>
+    <string name="agps_OK">Oke</string>
+    <string name="hotknot_explained_description">Bolehkan pertukaran data bila layar bersentuhan dengan perangkat lain</string>
+    <string name="wifi_restore_title">Pemulihan Konfig WLAN</string>
+    <string name="security_not_set">Kemanan tidak ditetapkan</string>
+    <string name="bluetooth_ask_establish_connection">"Sebuah aplikasi ingin berkomunikasi dengan <xliff:g>%1$s</xliff:g> via Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">"Aplikasi <xliff:g>%1$s</xliff:g> ingin mengaktifkan dan berkomunikasi dengan <xliff:g>%2$s</xliff:g> via Bluetooth."</string>
+    <string name="sd_eject_usbstorage" product="default">"Lepas penyimpanan USB"</string>
+    <string name="swing_lock_summary">Goyang ponsel dengan cepat ke satu arah untuk mengunci layar | Bantuan</string>
+    <string name="usb_tether_type_title">Jenis tether USB</string>
+    <string name="gesture_series_title">Operasi layar hitam</string>
+    <string name="header_category_system_and_key">Pengoperasian pintasan</string>
+    <string name="wifi_ap_client_ip_label">Alamat IP:</string>
+    <string name="wifi_ap_title">Statistik</string>
+    <string name="gemini_sim_management_title">Manajemen SIM</string>
+    <string name="try_it">Coba gunakan</string>
+    <string name="AGPS_NOTIFY_PRIVACY">Permintaan Lokasi (Privasi)</string>
+    <string name="pch_call_prefer_summary_on">Panggilan dipilih</string>
+    <string name="wifi_hotspot_suspend_optimizations">Pengoptimalan hotspot WLAN</string>
+    <string name="network_synchronization_enable_allow">Lanjut</string>
+    <string name="wifi_ipv4_address">Alamat IPv4</string>
+    <string name="autopop_warning_message">Jika Anda menghapus centang pada item ini, jendela ini tidak akan ditampilkan saat berikutnya Anda menyambungkan telepon ke komputer. Jendela ini dapat dibuka dengan mengklik pemberitahuan sistem. </string>
+    <string name="launch_error">Aplikasi tidak dapat diaktifkan!</string>
+    <string name="wifi_no_cert_for_wapi">Tidak dapat menemukan sertifikasi untuk AP yang sedang tersambung</string>
+    <string name="custom_theme_name">Baru [%1$s]</string>
+    <string name="wifi_tethering_title">Hotspot WLAN</string>
+    <string name="passpoint_config_credential_type">Jenis kredensial</string>
+    <string name="smart_roll_title">Gulir pintar</string>
+    <string name="tethered_ipv6_title">Pengaturan hotspot &amp; sambungan</string>
+    <string name="display_effect_of_screen_soft">Lembut</string>
+    <string name="wifi_ap_connected_title">Pengguna terhubung</string>
+    <string name="side_key_backlight_summary">"Tekan tombol sisi untuk lampu ponsel | Bantuan"</string>
+    <string name="authdlg_service_ftp">ponsel ini akan mentransfer file</string>
+    <string name="loading">"Memuat..."</string>
+    <string name="profile_edit_pocket_title">"Mode saku"</string>
+    <string name="display_effect_of_screen_warm">Hangat</string>
+    <string name="display_effect_of_screen_default">"Bawaan"</string>
+    <string name="wifi_restore_summary">Pulihkan Konfig WLAN (mis. akun/kata sandi) dari LeCloud</string>
+    <string name="stop_all_app">"Hentikan Semua"</string>
+    <string name="sd_insert_usb_summary" product="default">"Masukkan penyimpanan USB untuk pemasangan"</string>
+    <string name="dlg_mount_external_sd_title" product="default">Pasang kartu SD?</string>
+    <string name="credentials_none">Saat ini tidak ada bukti</string>
+    <string name="privacy_backup_userdata_summary">Cadangkan data Anda ke memori</string>
+    <string name="mtk_thememanager_title">"Pusat Tema"</string>
+    <string name="wifi_ap_bandwidth_enable">Aktifkan throttling bandwith</string>
+    <string name="passpoint_supported">Didukung</string>
+    <string name="screen_timeout_CU">Tidur</string>
+    <string name="vpn_delete">Anda yakin ingin menghapus?</string>
+    <string name="privacy_backup_userdata_summary_cloud">Cadangkan data di telepon ke awan</string>
+    <string name="bluetooth_advanced_settings">"Pengaturan lanjutan Bluetooth"</string>
+    <string name="gemini_default_sim_never">Nonaktif</string>
+    <string name="bluetooth_profile_ftp">Transfer file</string>
+    <string name="try_swing_lock_info">Guncang ponsel untuk mengunci layar</string>
+    <string name="network_synchronization_enable_deny">"Batal"</string>
+    <string name="sim_enter_pin_hints">(Masukkan 4-8 digit)</string>
+    <string name="ipo_summary_on">Nonaktifkan booting cepat</string>
+    <string name="authorizaion_failed_error">Otorisasi gagal. Tidak dapat menyambung ke perangkat remote.</string>
+    <string name="ipo_summary_off">Aktifkan booting cepat</string>
+    <string name="display_settings_scences_title">Adegan</string>
+    <string name="runningapp_stop_dlg_text" product="tablet">Jika layanan ini dihentikan, fitur tertentu
+        tablet dapat berhenti berfungsi dengan baik hingga Anda menonaktifkan, 
+        lalu mengaktifkannya kembali.</string>
+    <string name="usbsetting_usbmassstorage_wait">Tunggu...</string>
+    <string name="wifi_WEP_transmit_key">"Kode Transmisi"</string>
+    <string name="move_to_sdcard">Pindahkan ke kartu memori default</string>
+    <string name="gps_time_sync_attention_gps_on">Diperlukan waktu maksimal 1 menit untuk mengambil perbaikan GPS. Selain itu, GPS mungkin gagal menyediakan waktu karena sinyal yang lemah di sekitar.\n\nAnda yakin ingin menggunakan waktu yang disediakan GPS?</string>
+    <string name="bluetooth_turning_on_failed">Gagal membuka Bluetooth</string>
+    <string name="wifi_tether_wps_connect_title">"Sambungan WPS"</string>
+    <string name="tether_title">Hotspot pribadi</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Permintaan Lokasi (Tolak jika tidak ada Jawaban)</string>
+    <string name="authdlg_auto_reply">Jangan tanya lagi</string>
+    <string name="move_tomemory_success">Pemindahan selesai! <xliff:g>%1$s</xliff:g> aplikasi berhasil dipindahkan!</string>
+    <string name="eap_sim_aka_no_sim_slot_selected">Anda harus memilih slot SIM untuk menggunakan EAP-SIM/AKA</string>
+    <string name="passpoint_summary">Sambungkan secara otomatis ke AP yang diaktifkan passpoint</string>
+    <string name="usb_ums_title">"Penyimpanan USB"</string>
+    <string name="usb_bicr_summary">Tampilkan CD-ROM virtual berisi sejumlah perangkat lunak bermanfaat.</string>
+    <string name="authdlg_service_map">ponsel ini akan mengakses pesan</string>
+    <string name="slide_unlock_title">Buka kunci layar off</string>
+    <string name="authdlg_service_spp">port serial Bluetooth pada ponsel ini</string>
+    <string name="display_effect_of_screen_dialog_title">Nada terpilih akan berlaku setelah layar dicerahkan</string>
+    <string name="move_select">Anda ingin memindahkan aplikasi yang dipilih? Sebagian aplikasi tidak dapat dipindahkan ke kartu memori default.</string>
+    <string name="wifi_restore_failed">Pemulihan Gagal.</string>
+    <string name="landscape_launcher_title">Pengaktif Lanskap</string>
+    <string name="usb_sharing_info_title">Pass-through Internet</string>
+    <string name="clear_cache">"Hapus cache"</string>
+    <string name="authdlg_service_default">ponsel ini</string>
+    <string name="wifi_tether_auto_disable_title">Tetap aktifkan hotspot WLAN</string>
+    <string name="wifi_backup_summary">Cadangkan Konfig WLAN (mis. akun/kata sandi) ke LeCloud</string>
+    <string name="storage_phone">Penyimpanan USB</string>
+    <string name="NI_Request_ID">ID Peminta</string>
+    <string name="passpoint_config_eap_method">Metode EAP</string>
+    <string name="wifi_ap_wps_mode_title">Mode WPS</string>
+    <string name="authdlg_title">Permintaan Otorisasi Bluetooth</string>
+    <string name="usb_bicr_title">CD-ROM Internal</string>
+    <string name="double_click_title">Kecepatan klik dua kali</string>
+    <string name="pin_scroll_title">Gulir untuk menyematkan daftar</string>
+    <string name="wifi_backup_title">Pencadangan WLAN</string>
+    <string name="eap_sim_aka_no_sim_error">Anda harus memasukkan kartu SIM untuk menggunakan EAP-SIM/AKA</string>
+    <string name="wifi_wps_fail_error">Konfigurasi WLAN yang dilindungi gagal, coba lagi.</string>
+    <string name="bluetooth_ftp_profile_summary_connected">"Tersambung ke transfer file"</string>
+    <string name="privacy_backup_userdata_title_cloud">Cadangkan ke awan</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">Meminimalkan penggunaan daya baterai saat hotspot WLAN aktif</string>
+    <string name="privacy_restore_userdata_category_title">Kembalikan data</string>
+    <string name="gesture_series_summary">Dapat membuka kunci dari layar mati, dan dengan cepat meluncurkan aplikasi</string>
+    <string name="auto_popup">Jangan pop-up</string>
+    <string name="MobileNetwork_SIM1_Active">SIM1 aktif</string>
+    <string name="move_app_to_where">"Pindahkan ke "<xliff:g id="location">%s</xliff:g>
+  </string>
+    <string name="launch_main_label">Aktifkan aplikasi</string>
+    <string name="akp_installer_settings_summary">Instal APK dari kartu SD</string>
+    <string name="tv_system_title">Sistem TV</string>
+    <string name="NI_Request_ClientName">Nama Klien</string>
+    <string name="profile_edit_pocket_summary">"Maksimalkan volume nada dering di mode saku atau tas"</string>
+    <string name="profile_edit_weaken_summary">Volume nada dering akan berkurang ketika mengangkat telepon.</string>
+    <string name="privacy_restore_userdata_summary_cloud">Pilih untuk memulihkan data yang dicadangkan ke awan</string>
+    <string name="display_effect_of_screen_cool">Dingin</string>
+    <string name="lock_screen_notifications_title">Pemberitahuan layar penguncian</string>
+    <string name="header_category_call_and_msg">Panggilan dan perpesanan</string>
+    <string name="wifi_ap_client_details_title">Rincian</string>
+    <string name="server_lenovo_exp_title">Setuju untuk berpartisipasi dalam Program Lenovo Experience</string>
+    <string name="header_category_lock_and_screen">Layar penguncian dan layar</string>
+    <string name="passpoint_append_summary">(melalui Passpoint)</string>
+    <string name="lock_screen_style_title">Gaya layar penguncian</string>
+    <string name="privacy_restore_userdata_title_cloud">Pulihkan dari awan</string>
+    <string name="app_privacy_settings">Terapkan pengaturan privasi</string>
+    <string name="drm_reset_dialog_msg">Operasi ini akan menghapus semua lisensi pada perangkat ini. Lanjut?</string>
+    <string name="wapi_as_certificate">Sertifikat ASE</string>
+    <string name="erase_external_storage_description_fuse">Hapus semua data dalam kartu memori internal, mis. musik atau gambar</string>
+    <string name="wifi_tether_auto_channel_width_text">Otomatis 20/40 MHz</string>
+    <string name="bluetooth_security_confirm">"Permintaan izin Bluetooth"</string>
+    <string name="slide_unlock_summary">Geser ke kiri atau kanan di bagian bawah layar untuk membuka penguncian | Bantuan</string>
+    <string name="wifi_tether_auto_channel_text">"Otomatis"</string>
+    <string name="usb_charge_summary">Menghentikan semua fungsi USB. Pengisian daya dengan USB akan berlangsung lebih cepat dan penggunaan daya akan berkurang.</string>
+    <string name="long_menu_active_voice_summary">Ketika layar menyala, tekan lama tombol menu untuk mengaktifkan fungsi suara</string>
+    <string name="wifi_ap_time_duration">Durasi waktu: 
+        <xliff:g id="time">%1$s</xliff:g> 
+    </string>
+    <string name="wifi_ap_client_mac_label">Alamat MAC:</string>
+    <string name="wifi_advanced_ipv4_address_title">Alamat IPv4</string>
+    <string name="hdmi_video_resolution">Resolusi video</string>
+    <string name="tethered_ipv4">IPv6 tidak tersedia</string>
+    <string name="soft_permission">Manajemen izin</string>
+    <string name="authdlg_service_dun">layanan jaringan dial-up pada ponsel ini</string>
+    <string name="privacy_backup_userdata_title">Cadangkan ke memori</string>
+    <string name="prevent_misoperation_summary">Gunakan sensor kedekatan untuk mencegah pengoperasian yang tidak diinginkan ketika ponsel berada dalam saku</string>
+    <string name="tethered_ipv6">(Hanya IPv6 yang tersedia)</string>
+    <string name="wifi_ipv6_address">Alamat IPv6</string>
+    <string name="wifi_ap_bandwidth_title">Penggunaan bandwith</string>
+    <string name="tethering_apn_settings_title">Pengaturan APN</string>
+    <string name="erase_external_storage_fuse">Memformat kartu memori bawaan</string>
+    <string name="server_lenovo_exp_summery">Kumpulkan data untuk meningkatkan produk dan layanan kami</string>
+    <string name="usbsetting_usbmassstorage_close">Tutup perangkat penyimpanan USB</string>
+    <string name="wifi_ap_no_connected">0 pengguna terhubung</string>
+    <string name="wifi_channel_width">Lebar saluran</string>
+    <string name="dlg_default_write_disk1_change_msg">"Jika Anda memilih penyimpanan USB, maka aplikasi yang terinstal di penyimpanan SD tidak dapat digunakan dan perangkat akan di-boot ulang. Anda yakin ingin mengganti ke penyimpanan USB?"</string>
+    <string name="wifi_ap_bandwidth_chart_summary">Diukur oleh ponsel, penghitungan kecepatan data dari penyedia dapat berbeda.</string>
+    <string name="usbsetting_help_title">Bantuan</string>
+    <string name="bluetooth_remote_device">perangkat Bluetooth</string>
+    <string name="long_menu_active_voice">Pengaktifan suara tombol menu</string>
+    <string name="mouse_primary_button_dialog_title">Alihkan tombol utama</string>
+    <string name="authdlg_service_decline">"Tolak"</string>
+    <string name="move_select_short">"Anda ingin memindahkan aplikasi yang dipilih?"</string>
+    <string name="display_effect_of_screen_bright">Terang</string>
+    <string name="wifi_tether_wps_pin_error">PIN tidak valid</string>
+    <string name="auto_time_on">"gunakan dukungan jaringan"</string>
+    <string name="usb_sharing_info_step_1">"1. Buka sambungan jaringan di PC Windows."</string>
+    <string name="button_brightness">Kecerahan Tombol</string>
+    <string name="display_default">Layar</string>
+    <string name="pch_toggle_title">Pref. transfer GPRS</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Permintaan Lokasi (Bolehkan jika tidak ada Jawaban)</string>
+    <string name="usb_sharing_info_step_3">"3. Klik tab berbagi, lalu pilih \'Bolehkan pengguna jaringan lain terhubung ke sambungan Internet komputer ini\'(pilih jaringan yang baru ditambahkan dan menunjukkan Internet USB jika \'sambungan jaringan Rumah\' muncul)."</string>
+    <string name="wifi_ap_wps_pin_title">Ketik PIN dari klien</string>
+    <string name="usb_sharing_info_step_2">"2. Klik kanan sambungan yang akan digunakan bersama, lalu klik properti."</string>
+    <string name="runningapp_stop_dlg_text" product="default">Jika Anda menghentikan layanan ini, maka sejumlah
+        fitur ponsel dapat berhenti berfungsi dengan baik hingga Anda menonaktifkan
+        dan mengaktifkannya kembali.</string>
+    <string name="wifi_tether_wps_connect_summary">Pilih mode konfigurasi yang dilindungi WLAN untuk melanjutkan</string>
+    <string name="wizard_title">Tutorial Pengguna</string>
+    <string name="location_settings_label">Mode Teknisi Lokasi</string>
+    <string name="sim_status_title">Status SIM</string>
+    <string name="auto_rotate_type">Putar otomatis layar</string>
+    <string name="wifi_hex_password">Sandi heksadesimal.</string>
+    <string name="pch_data_prefer_summary_off">Data dipilih</string>
+    <string name="wifi_WEP_secury_key">"Kode Keamanan"</string>
+    <string name="passpoint_username_pw">Nama Pengguna/Sandi</string>
+    <string name="dlg_default_write_disk_change_msg">Penulisan disk default berubah, boot ulang sekarang!</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off" msgid="1225626898926363100">"Untuk melihat perangkat, nyalakan layar nirkabel."</string>
+    <string name="drm_settings_title">Pengaturan ulang DRM</string>
+    <string name="notification_settings_title">Pusat pemberitahuan</string>
+    <string name="wifi_ap_client_unblock_title">Batalkan pemblokiran</string>
+    <string name="authdlg_service_opp">ponsel ini</string>
+    <string name="display_personalize">Personalisasikan</string>
+    <string name="usb_tethering_select_version">Pilih versi sistem PC</string>
+    <string name="drm_settings_summary">Menghapus semua lisensi DRM</string>
+    <string name="hdmi_settings_summary">Klik untuk mengkonfigurasi HDMI</string>
+    <string name="wifi_ap_no_blocked">0 pengguna diblokir</string>
+    <string name="smart_rotate_type">Putar pintar layar</string>
+    <string name="wifi_tether_setting_title">Pengaturan dasar</string>
+    <string name="master_clear_error">Sink Lenovo dinonaktifkan. Harap aktifkan.</string>
+    <string name="tvout_settings_summary">Pengaturan TV out</string>
+    <string name="try_swing_lock_result_ok">Metode benar. Anda dapat menggunakan fungsi ini</string>
+    <string name="wifi_ap_wps_dialog_title">"Sambungan WPS"</string>
+    <string name="authdlg_service_accept">Beri otorisasi</string>
+    <string name="dialog_title_button_brightness">Kecerahan Tombol</string>
+    <string name="move_to_phone">Pindahkan ke ponsel</string>
+    <string name="usbsetting_usbmassstorage_open">Buka perangkat penyimpanan USB</string>
+    <string name="wide_touch_title">Sentuh lebar</string>
+    <string name="wifi_ap_blocked_title">Pengguna diblokir</string>
+    <string name="gesture_rotate_type">Putar layar dengan gerakan</string>
+    <string name="sd_mount_usbstorage" product="default">"Pasang penyimpanan USB"</string>
+    <string name="vpn_delete_title">Hapus</string>
+    <string name="wifi_ap_total_data">Penggunaan data total:
+        <xliff:g id="time">%1$s</xliff:g>
+    </string>
+    <string name="unlock_set_unlock_mode_voice_weak">Pengaktifan dengan Suara</string>
+    <string name="audio_profile_settings_title_lap">Profil audio</string>
+    <string name="storage_path0">Penyimpanan USB</string>
+    <string name="uninstall_select">Hapus instalan yang dipilih?</string>
+    <string name="storage_path1">Penyimpanan SD</string>
+    <string name="install_local">Lokasi instalasi perangkat lunak</string>
+    <string name="server_lenovo_exp_cancel">Batal</string>
+    <string name="hdmi_auto">"AUTO"</string>
+    <string name="server_lenovo_exp_dlg_title">Peringatan</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">"Sebuah aplikasi ingin mengaktifkan dan berkomunikasi dengan <xliff:g>%1$s</xliff:g> via Bluetooth."</string>
+    <string name="lock_screen_notifications_summary">Tampilkan pemberitahuan di layar penguncian</string>
+    <string name="wapi_user_certificate">Sertifikat pengguna</string>
+    <string name="privacy_restore_userdata_title">Pulihkan dari memori</string>
+
+    <string name="tvout_settings">TV out</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="hdmi_audio_toggler">Audio</string>
+    <string name="hdmi_video_toggler">Video</string>
+    <string name="tvout_settings">TV out</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="hdmi_audio_toggler">Audio</string>
+    <string name="hdmi_video_toggler">Video</string>
+    <string name="dlg_error_unmount_usb_title" product="default">Tak ada akun </string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="volume_title">"Volume"</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Tak ada akun </string>
+    <string name="status_imei_slot1">IMEI(Slot1)</string>
+    <string name="status_imei_slot2">IMEI(Slot2)</string>
+    <string name="server_lenovo_exp_ok">Oke</string>
+    <string name="summary_lcd_invert">Tak ada akun </string>
+    <string name="black_screen_settings_flash_mode">Flash</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="volume_title">"Volume"</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Tak ada akun </string>
+
+    <string name="power_settings">Manajer Daya</string>
+    <string name="multiwindow_settings">Multijendela</string>
+    <string name="night_mode_summary">Mode ini cocok untuk browsing di malam hari dan di beberapa aplikasi mungkin Anda tidak bisa mengetuk beberapa tombol.</string>
+    <string name="long_press_back_finish_title">Tekan lama Kembali untuk keluar</string>
+    <string name="night_mode">Proteksi Mata Malam</string>
+    <string name="long_press_back_finish_summary">Tekan lama Kembali untuk keluar dari program</string>
+    <string name="change_settings_to_all_settings">Ganti ke Pengaturan</string>
+    <string name="touch_free_phone_dial">Panggil Tanpa Sentuhan</string>
+    <string name="tilt_slide_summary">Miringkan ke kiri/kanan untuk bergeser saat browsing</string>
+    <string name="change_settings_to_recent">Pindah ke Pengaturan Saat Ini</string>
+    <string name="touch_free_phone_answer">Jawab Tanpa Sentuhan</string>
+    <string name="recent_settings_empty">Tidak ada pengaturan sistem dibuat baru-baru ini</string>
+    <string name="recent_settings">Pengaturan Terkini</string>
+    <string name="tilt_slide_title">Miringkan Slide</string>
+    <string name="display_effect_type_hue_cool">Warna dingin</string>
+    <string name="display_effect_buttom_text_cancel">Batal</string>
+    <string name="display_effect_mode_default_summary">Mode default pabrik untuk warna optimal.</string>
+    <string name="display_effect_mode_auto_summary">Mengalihkan mode secara otomatis berdasarkan pada aplikasi browser dan lingkungan.</string>
+    <string name="display_effect_type_hue">Rona</string>
+    <string name="display_effect_mode_default_title">Mode default</string>
+    <string name="display_effect_mode_comfirtable_title">Mode nyaman</string>
+    <string name="display_effect_type_contrast_sharp">Tajam</string>
+    <string name="display_effect_mode_comfirtable_summary">Melindungi mata dan cocok saat melakukan penjelajahan dengan telepon Anda dalam waktu yang lama.</string>
+    <string name="display_effect_type_hue_warm">Warna hangat</string>
+    <string name="display_effect_type_saturation">Saturasi</string>
+    <string name="display_effect_mode_auto_title">Mode otomatis</string>
+    <string name="display_effect_mode_ultra_bright_summary">Efek tampilan super cerah. Mode ini akan berpengaruh pada daya saat siaga.</string>
+    <string name="display_effect_smart_brightness_title">Mode cahaya buruk pintar</string>
+    <string name="display_effect_buttom_text_apply">Terapkan</string>
+    <string name="display_effect_mode_ultra_bright_title">Mode super cerah</string>
+    <string name="display_effect_category_title_commom_mode">Mode umum</string>
+    <string name="display_effect_mode_outdoor_title">Mode cahaya buruk</string>
+    <string name="display_effect_type_saturation_bright">Terang</string>
+    <string name="display_effect_type_contrast">Kontras</string>
+    <string name="display_effect_mode_outdoor_summary">Cocok untuk penggunaan di luar ruang dengan kondisi cahaya buruk. Meningkatkan visibilitas saat berada di luar ruang. Mode ini akan mempengaruhi fungsi siaga, pengguna umum sebaiknya menggunakannya dengan hati-hati!!</string>
+    <string name="display_effect_category_title_smart">Pintar</string>
+    <string name="display_effect_mode_custom_title">Kustom</string>
+    <string name="display_effect_mode_custom_summary">Atur setiap nilai parameter secara manual.</string>
+    <string name="display_effect_smart_brightness_summary">Teknologi pintar akan menilai apakah telepon dalam lingkungan cahaya buruk dan memulai mode cahaya buruk. Mode ini meningkatkan visibilitas saat berada di luar ruang dengan lingkungan cahaya buruk.</string>
+<string name="device_info" msgid="3191876744469364173">"Informasi perangkat"</string>
+
+    <string name="display_effect_type_hue_default">"Normal"</string>
+    <string name="display_effect_type_contrast_soft">Pastel</string>
+    <string name="display_effect_type_saturation_default">"Normal"</string>
+    <string name="display_effect_type_contrast_default">"Normal"</string>
+    <string name="display_effect_type_saturation_soft">Pastel</string>
+<string name="pocket_mode_title">"Mode saku"</string>
+<string name="pocket_mode_summary">"Maksimalkan volume nada dering di mode saku atau tas"</string>
+<string name="pocket_mode_help">"Maksimalkan volume nada dering di mode saku atau tas"</string>
+<string name="ringtone_weaken_title">Kurangi volume nada dering</string>
+<string name="ringtone_weaken_summary">Volume nada dering akan berkurang ketika mengangkat telepon.</string>
+<string name="ringtone_weaken_help">Volume nada dering dikurangi ketika ponsel diangkat.</string>
+<string name="gesture_topspeed_snap_title">Pengambilan gambar kecepatan tertinggi</string>
+<string name="gesture_topspeed_snap_summary">Klik dua kali tombol Awal saat layar mati untuk mengambil gambar</string>
+<string name="gesture_light_up_screen_title">"Kijelző be/kikapcs. kettős érintéssel"</string>
+<string name="gesture_light_up_screen_summary">"Ketuk dua kali di mana saja di layar untuk mengaktifkan layar saat dinonaktifkan; ketuk dua kali di mana saja di layar kunci untuk menidurkan perangkat"</string>
+<string name="usb_detail_message">Gunakan komputer untuk mengurus telefon anda. Sila lawati http://sj.lenovo.com untuk dapatkan perisian rasmi Lenovo.</string>
+<string name="bluetooth_confirm_device_pair">Untuk dipasangkan dengan:</string>
+<string name="wifi_ap_less">Periksa Jaringan yang kuat</string>
+<string name="usb_adb_summary">Mulakan mod penyahpepijatan. Gunakan komputer untuk mengurus telefon anda. Kami mengesyorkan anda menggunakan perisian rasmi.</string>
+<string name="wifi_ap_more">Periksa semua jaringan WLAN</string>
+<string name="bluetooth_confirm_passkey_show">Pastikan perangkat menampilkan kunci akses ini:</string>
+<string name="usb_adb_title">Penyahpepijatan USB (ADB)</string>
+<string name="wifi_wapi_cert_install">Menginstal Sertifikat WAPI</string>
+<string name="location_agps_pref_apn_title">APN pilihan</string>
+<string name="location_agps_roaming_help">Peringatan：Memilih SEMUA JARINGAN untuk membuka AGPS dapat menimbulkan biaya telepon saat roaming！</string>
+<string name="wifi_wapi_cert_install_button">Instal</string>
+<string name="wifi_wapi_cert_create_subdir">Buat direktori</string>
+<string name="wifi_wapi_cert_mgmt_user_dont_exist">Masukkan nama sertifikat pengguna</string>
+<string name="wifi_wapi_user_cert">Sertifikat Pengguna</string>
+<string name="location_agps_apn_summary">Pilih jenis APN pilihan</string>
+<string name="location_agps_apn_choose_dialog_title">Jenis APN</string>
+<string name="location_agps_si_mode_dialog_title">Metode AGPS</string>
+<string name="wifi_wapi_cert_mgmt_subdir_exist">Masukkan nama direktori lainnya, direktori yang ini tidak ada</string>
+<string name="location_agps_pref_reset_type_title">Jenis reset pilihan</string>
+<string name="wifi_wapi_as_cert">Sertifikat AS</string>
+<string name="supl_not_set">"&lt;Tidak disetel&gt;"</string>
+<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Masukkan nama direktori yang Anda ingin buat!</string>
+<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Format sertifikat pengguna salah! Instal sertifikat pengguna yang benar</string>
+<string name="location_agps_si_mode">Mode AGPS SI</string>
+<string name="location_agps_reset_type_summary">Pilih jenis reset pilihan</string>
+<string name="location_agps_supl_settings">Pengaturan SUPL</string>
+<string name="wifi_wapi_cert_mgmt_subdir_create_fail">Pembuatan direktori gagal</string>
+<string name="wifi_wapi_cert_mgmt_as_dont_exist">Kartu SD tidak memiliki sertifikat AS, harap periksa!</string>
+<string name="invalid_network_mode">Mode jaringan tidak valid</string>
+<string name="location_agps_si_mode_summary">Pilih metode AGPS pilihan</string>
+<string name="location_agps_reset_type">Jenis reset</string>
+<string name="not_support_choose">Slot 2 tidak mendukung pemilihan mode jaringan</string>
+<string name="location_agps_supl_server_addr">Alamat server</string>
+<string name="location_agps_pref_si_title">Mode pilihan</string>
+<string name="location_agps_def_reset_type">PANAS</string>
+<string name="wifi_wapi_cert_uninstall">Hapus Penginstalan Sertifikat WAPI</string>
+<string name="location_agps_def_network_mode">AWAL</string>
+<string name="wifi_wapi_cert_mgmt_as_name_is_empty">Masukkan nama sertifikat as</string>
+<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Sertifikat untuk pengguna ini tidak valid! Instal sertifikat as yang benar</string>
+<string name="location_agps_apn_type">Jenis APN</string>
+<string name="location_agps_register_network_type">Tipe jaringan akses</string>
+<string name="wifi_wapi_cert_uninstall_button">Hapus Instalan</string>
+<string name="location_agps_supl_server_port">Port server</string>
+<string name="location_agps_register_network_type_summary">Pilih jaringan akses untuk mengaktifkan AGPS...</string>
+<string name="location_agps_params_settings_title">Pengaturan AGPS</string>
+<string name="wifi_wapi_cert_mgmt_titlebar">Pengelolaan Sertifikat WAPI</string>
+<string name="wifi_wapi_cert_cancel_button">"Batal"</string>
+<string name="wifi_wapi_cert_delet_subdir">Pilih sertifikat perangkat</string>
+<string name="wifi_wapi_cert_mgmt_user_name_is_empty">Masukkan nama sertifikat pengguna</string>
+<string name="location_agps_pref_network_title">Utamakan jaringan</string>
+<string name="location_agps_register_network_type_dialog_title">Pilih jaringan</string>
+<string name="smart_standby_enable_title">"Siaga pintar"</string>
+<string name="smart_standby_enable_summary">"Saat layar menyala, jika mata terdeteksi menatap ke layar, maka akan tetap menyala; jika sudut terlalu bias atau cahaya kurang, tingkat pengenalan akan berkurang"</string>
+<string name="phone_storage_info">Memori telepon</string>
+    <string name="usb_detail_title">Dapatkan perangkat lunak Lenovo resmi</string>
+    <string name="processor_unit_info">Core</string>
+    <string name="night_mode_tip_secure_button">Nonaktifkan mode membaca malam lalu klik lagi</string>
+    <string name="location_agps_reset_type_choose_dialog_title">Semua mulai mengetik</string>
+    <string name="wide_touch_help">Buka panel pintasan dan aplikasi dengan mengklik tombol melayang.</string>
+    <string name="lenovo_cloud">Layanan Cloud</string>
+    <string name="zone_auto_summaryOn_not_row">"Gunakan zona waktu yang disediakan jaringan. Fitur ini bergantung pada penyedia layanan dan tidak didukung di beberapa negara"</string>
+    <string name="zone_auto_summaryOff_not_row">"Gunakan zona waktu yang disediakan jaringan. Fitur ini bergantung pada penyedia layanan dan tidak didukung di beberapa negara"</string>
+    <string name="location_agps_settings_title">Pengaturan AGPS</string>
+    <string name="night_mode_notification_title">Mode membaca malam diaktifkan</string>
+    <string name="night_mode_notification_text">Klik untuk menonaktifkan mode membaca malam</string>
+<string name="wifi_account_share">@string/wlan_share</string>
+<string name="wifi_status_test">Status WLAN</string>
+<string name="wifi_signal_strong_title">"Penguat Sinyal WLAN"</string>
+<string name="wifi_signal_strong_summary">"Secara otomatis memperkuat sinyal untuk menjamin koneksi lebih baik saat sinyal koneksi lemah." </string>
+    <string name="do_not_distube">"Mode Jangan Diganggu"</string>
+    <string name="gesture_light_up_off_screen_title">"Ketuk dua kali untuk mengaktifkan/mematikan layar"</string>
+
+    <string name="StorageDialog_summary">Mendeteksi bahwa Anda keluar dari Penyimpanan Eksternal, sistem akan beralih ke Penyimpanan Terintegrasi dan memulai ulang, konfirmasikan apakah akan mulai ulang? \n\n Jika masuk kembali ke Penyimpanan Eksternal, tidak perlu memulai ulang!</string>
+    <string name="StorageDialog_comfirm">Mulai ulang</string>
+    <string name="StorageDialog_title">Perhatian</string>
+    <string name="dlg_default_write_disk_encrypted_msg">Untuk melindungi privasi Anda dengan lebih baik, memori utama sebaiknya selalu ditetapkan ke memori terintegrasi bila ponsel dienkripsi.</string>
+</resources>

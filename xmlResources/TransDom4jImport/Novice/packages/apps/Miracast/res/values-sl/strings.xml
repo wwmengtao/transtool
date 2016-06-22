@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"Prikaz brezžičnih naprav"</string>
+    <string name="miracast_app_name">"Prikaz brezžičnih naprav"</string>
+    <string name="main_connect_switch_title">"Povezovanje z napravo"</string>
+    <string name="item_device_mode_audio_only_title">"Zvok"</string>
+    <string name="item_device_mode_video_only_title">"Video"</string>
+    <string name="item_device_mode_connect_title">"Vzpostavi povezavo"</string>
+    <string name="item_device_mode_disconnect_title">"Prekini povezavo"</string>
+    <string name="item_device_mode_rename_title">"Preimenuj"</string>
+    <string name="item_device_mode_forget_title">"Pozabi"</string>
+    <string name="activity_settings_title">"Nastavitve"</string>
+    <string name="preference_settings_update_title">"Vizitka"</string>
+    <string name="preference_settings_tutor_title">"Vadnica"</string>
+    <string name="dlg_confirm_disconnect_message">"Želite prekiniti povezavo?"</string>
+    <string name="dlg_rename_title">"Preimenovanje naprave"</string>
+    <string name="activity_meeting_mode_title">Konferenčni način</string>
+    <string name="dlg_loading_reconnect_message">Preklopi način, ponovno povezovanje ...</string>
+    <string name="dlg_select_resolution_title">Izberite ločljivost</string>
+    <string name="tutor_message_audioonly">Če vmesnik podpira izhodni zvok, lahko brezžično glasbo preskusite v načinu Samo zvok.</string>
+    <string name="dlg_confirm_switch_av_message">Najprej prekinite trenutno povezavo za preklop načina.\nAli želite preklopiti zdaj?</string>
+    <string name="welcome_version">Različica <xliff:g id="version">%1s</xliff:g></string>
+    <string name="item_device_mode_meeting_title">Sestanek</string>
+    <string name="dlg_confirm_switch_audio_message">Zvočni način omogoča skupno rabo samo prek vmesniškega ključa. Pred preklopom v zvočni način, potrdite, da ga podpira vaš vmesnik, saj v nasprotnem primeru povezava ne bo uspešna. \nZa preklop načinov morate prekiniti trenutno povezavo. \nŽelite nadaljevati?</string>
+    <string name="preference_settings_meeting_mode_title">Konferenčni način</string>
+    <string name="dlg_loading_scan_device_message">Iskanje naprav ...</string>
+    <string name="toast_connecting">Vzpostavljanje povezave, poskusite znova pozneje</string>
+    <string name="tutor_message_3">Vnesite Miracast, nato pa preklopite gumb omogoči. Imena razpoložljivih naprav za povezavo bodo nato prikazana v seznamu razpoložljivih naprav</string>
+    <string name="tutor_message_4">Če je povezava uspešno vzpostavljena, lahko zaslon delite z drugo napravo.</string>
+    <string name="tutor_message_1">Priklopite vmesniški ključ AllShare v vrata HDMI s kablom HDMI A-TO-A.</string>
+    <string name="dlg_confirm_switch_video_message">Videonačin omogoča skupno rabo zaslona samo prek vmesniškega ključa. \nZa preklop načinov morate prekiniti trenutno povezavo. \nŽelite nadaljevati?</string>
+    <string name="tutor_message_2">Če začne rdeči indikator utripati, kliknite gumb za ponastavitev. Počakajte, da začne indikator utripati modro. Pri ponovnem vzpostavljanju povezave ni treba klikniti ničesar.</string>
+    <string name="tutor_message_videoonly">Če želite vzpostaviti povezati z vmesniškim ključem prek vmesnika DVI ali VGA, je priporočen način Samo video.</string>
+    <string name="toast_already_connected">Druga naprava je že povezana, najprej prekinite povezavo</string>
+    <string name="dlg_loading_enable_wifi_message">Omogočanje brezžično omrežje ...</string>
+    <string name="toast_not_paired">Postopek je na voljo samo za povezane naprave</string>
+    <string name="dlg_confirm_forget_message">Ali želite odstraniti to napravo s seznama povezanih naprav?</string>
+    <string name="toast_device_not_available">Povezava ni mogoča, naprava ni na voljo</string>
+    <string name="dlg_confirm_meeting_mode_message">Klici so v konferenčnem načinu onemogočeni in sporočila SMS so samodejno prikazana v ospredju. Ali želite omogočiti konferenčni način?</string>
+    <string name="preference_settings_resolution_title">Ločljivost</string>
+</resources>

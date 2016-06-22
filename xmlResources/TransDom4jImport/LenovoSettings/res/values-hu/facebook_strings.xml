@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+    <string name="general_sync_settings">Általános szinkronizálási beállítás</string>
+    <string name="sync_interval_settings">Szinkronizálási intervallumok beállításai</string>
+    <string name="try_sso_again">Próbálja újból a szimpla bejelentkezést</string>
+    <string name="for_syncing">Szinkronizáláshoz</string>
+</resources>

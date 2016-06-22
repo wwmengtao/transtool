@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="profile_edit_weaken_help">Під час відповіді на виклик гучність мелодії дзвінка знижується.</string>
+<string name="smart_calling_title">Смарт-виклик</string>
+<string name="character_settings_gestural_hand_category">Жести та керування однією рукою</string>
+<string name="select_subscription">Інформація про SIM</string>
+<string name="wifi_scan_always_available_summary">Дозволити службі визначення місцеположення Google та іншим програмам виконувати сканування для пошуку мереж, навіть коли WLAN вимкнено</string>
+<string name="whatis_lenovoid_cando_summary"> "необмежений доступ до асоціацій для різних програм, хмарних служб і послуг. Одна картка в наявності, розблокована. "</string>
+<string name="enable_traces_title" msgid="7448835465859512430">"Увімкнути трасування"</string>
+<string name="wifi_setup_wizard_title" msgid="8242230950011819054">"Вибрати WLAN"</string>
+<string name="schpwr_time_invalid">Інтервал між графіком увімкнення/вимкнення має бути не менше (хв.) %d</string>
+<string name="multiwindow_title">MultiWindow</string>
+<string name="lockscreen_shake_unlock_ctrl_summary">Блокування смартфону струшуванням | Довідка</string>
+<string name="show_frame_count_size">Розмір</string>
+<string name="character_settings_phone_call_ring_weaken_help_message">Під час відповіді на виклик гучність мелодії дзвінка знижується.</string>
+<string name="gestural_phone_summary">Прокручуючи екран вліво та вправо, можна відповідати на виклики | Торкніться екрана вгорі та утримуйте палець, щоб завершити дзвінок</string>
+<string name="teos_settings">Відображення кольорів</string>
+<string name="display_effect_of_screen_saturation_title">Насич.</string>
+<string name="lock_wallpaper">Заблокувати шпалери</string>
+<string name="done">"Готово"</string>
+<string name="version_info">Інформація про версію</string>
+<string name="desktop_wallpaper">Шпалери робочого столу</string>
+<string name="devices_info_cpu">\"ЦП: чотириядерний, 2,2 ГГц\"</string>
+<string name="backup_data_to_device_title">Копіювання даних на інший пристрій</string>
+<string name="smart_call_answer_settings_title">Автоматична відповідь</string>
+<string name="reset_skip_backup_title">Не створювати резервну копію даних</string>
+<string name="recovery_data_from_device_title">Відновлення даних з іншого пристрою</string>
+<string name="roaming_time_settings_category">Налаштування міжнародного роумінгу</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> може збирати весь введений вами текст, окрім паролів. Це включає особисті дані, як-от номери кредитних карток. Також можуть збиратися дані про вашу взаємодію з планшетним ПК."</string>
+<string name="header_category_shortcut_key">СПОЛУЧЕННЯ КЛАВІШ</string>
+<string name="multi_sim_settings_summary">Задати настройки кількох SIM-карток для голосової функції, передачі даних та SMS</string>
+<string name="voice_title">Голос/USSD/MMI</string>
+<string name="never">"Ніколи"</string>
+<string name="data_usage_metered_body" msgid="4959032833706695848">"Виберіть мережі WLAN, які є мобільними точками доступу. Програмам можна заборонити користуватися цими мережами у фоновому режимі. Також можна створити попередження, якщо такі мережі потрібні програмам для великих завантажень."</string>
+<string name="character_settings_swing_lock_screen_help_message">Для блокування телефону різко потрусіть телефон в одному напрямку</string>
+<string name="global_single_hand_title_v2">Додаткова панель керування</string>
+<string name="products_version">Модель</string>
+<string name="wifi_display_summary_on" msgid="3695429596604962531">"Увімкнено"</string>
+<string name="multiwindow_divide_settings_summary">Працюйте з декількома програмами, одночасно відкривши два вікна</string>
+<string name="startup_time_enabled">Увімкнення живлення за графіком</string>
+<string name="wifi_setup_title_connected_network" msgid="209755856836003839">"З\'єднано з мережею WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="multi_sim_settings_title">Настройки кількох SIM-карток</string>
+<string name="framework_version">Номер версії Android</string>
+<string name="display_effect_of_screen_apply">Застосувати</string>
+<string name="character_settings_float_button_help_message">Відкрийте панель ярликів та програм, натиснувши кнопку переходу.</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"Використовувати службу <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="wifi_empty_list_wifi_off" msgid="8056223875951079463">"Щоб переглянути доступні мережі, увімкніть WLAN."</string>
+<string name="mercury_keyboard_title">Розумна клавіатура</string>
+<string name="data_usage_restrict_background" msgid="6387252645350792955">"Якщо обмежити фонові мобільні дані, деякі програми та служби не працюватимуть, якщо немає з’єднання з мережею WLAN."</string>
+<string name="screensaver_timeout_zero_summary">"Ніколи"</string>
+<string name="still_sleep_ctrl">Розумний режим сну</string>
+<string name="playersTutorial_stoped">Програму PlayersTutorial зупинено.</string>
+<string name="lenovo_exp_title">Я погоджуюся брати участь у програмі Lenovo Experience</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet" msgid="2609163428726042269">"Якщо обмежити мобільне передавання даних у фоновому режимі, деякі програми та служби працюватимуть лише під час з’єднання з мережею WLAN."\n\n"Таке налаштування впливає на всіх користувачів цього планшетного ПК."</string>
+<string name="set_sms_error">Помилка встановлення функції SMS-повідомлень для підписки. Підписка не активна.</string>
+<string name="lockscreen_face_detection_ctrl_description">Розблокування через розпізнавання обличчя виконується за допомогою камери, якщо світла недостатньо, роздільна здатність зображення буде низькою.</string>
+<string name="glove_mode">Вис. чутлив. до дотиків</string>
+<string name="smart_standby_ctrl_summary">"Коли вмикається екран, у випадку виявлення очей, спрямованих на нього, він залишатиметься ввімкненим; якщо кут нахилу завеликий або освітлення недостатнє, імовірність розпізнавання знижується"</string>
+<string name="battery_action_wifi" msgid="2272741639606146903">"Налашт-ння WLAN"</string>
+<string name="backup_data_summary" msgid="9157861529438245957">"Створювати резервні копії даних програми, паролів WLAN та інших налаштувань на серверах Google"</string>
+<string name="black_screen_settings_flash_mode_off">Закрити</string>
+<string name="exit">вийти</string>
+<string name="gadget_wifi" msgid="4712584536500629417">"WLAN"</string>
+<string name="lockscreen_knock_on_ctrl">Вибір ліхтарика</string>
+<string name="gestural_music_summary">Прокручуйте екран вліво та вправо для змінення музичних композицій | Прокручуйте екран вгору та вниз для коригування гучності</string>
+<string name="notificationbar_setings_title">"Панель сповіщень"</string>
+<string name="unlock_proximity_ctrl">Блокування в кишені</string>
+<string name="shellt_phone_info_camera">"8 МП"</string>
+<string name="wifi_scan_notify_text_location_off">Програми можуть сканувати сусідні мережі, навіть якщо WLAN вимкнено. Щоб цього не відбувалось, виберіть \"Розширені можливості\"&gt; \"Сканування завжди дозволено\".</string>
+<string name="location_neighborhood_level_wifi" msgid="4234820941954812210">"Місцезнаходження, визначене WLAN"</string>
+<string name="teos_settings_title">Відображення кольорів</string>
+<string name="tilt_scroll_control_summary">Коли цей пункт ввімкнено, в інтерфейсах із підтримкою прокручування нахилом, коли телефон нахилятиметься, автоматично виконуватиметься прокручування вліво/вправо</string>
+<string name="wifi_setting_sleep_policy_title" msgid="9107237003911220057">"Не від’єднуватися від мережі WLAN у режимі сну"</string>
+<string name="location_consent_dialog_title">Попередження про збір даних</string>
+<string name="devices_info_runMemory">"ОЗП: 2,0 ГБ</string>
+<string name="reset_backup_befor_reset_summary">Зберігати резервну копію важливих даних, наприклад контакти, перед скиданням</string>
+<string name="wifi_advanced_titlebar" msgid="4485841401774142908">"Розширені налаштування WLAN"</string>
+<string name="personal_hotspot">"Точка доступу"</string>
+<string name="save_power_summary">"Оберіть програми для узгодження часу пробудження системи"</string>
+<string msgid="1584700623164275282" name="internal_storage_app">"Пам'ять для внутрішніх програм"</string>
+<string name="category_smart">Інтелектуальна</string>
+<string name="show_frame_count_y_coordinate">Координата Y</string>
+<string name="fast_poweron_next_time">Швидке завантаження наступного разу</string>
+<string name="black_screen_camera_gallery_title"> "Режим попереднього перегляду" </string>
+<string name="data_usage_tab_slot2">SIM 2</string>
+<string name="data_usage_tab_slot1">SIM 1</string>
+<string name="show_frame_count_ok_button_text">"OK"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen_summary">Двічі торкніться до вимкненого екрану для його увімкнення</string>
+<string name="black_screen_camera_fast_title"> "Режим камери" </string>
+<string name="sel_sub_summary">Вибрати підписку для SIM-1 та SIM-2</string>
+<string name="character_settings_single_hand_help_message">Щоб відкрити панель, проведіть пальцем з верхньої частини екрану до нижньої, малюючи букву "С"</string>
+<string name="wifi_setup_wizard_next">"Далі"</string>
+<string name="lenovo_exp_content">"Тільки підтримка CN"</string>
+<string name="character_settings_shortcuts_category">Швидкий запуск та робота з програмами</string>
+<string name="gestural_summary">Використання жестів для керування телефоном</string>
+<string name="profile_edit_weaken_title">Зменш. гучність при відповіді</string>
+<string name="character_settings_help_category_title">Довідка</string>
+<string name="profile_settings">Профілі звуку</string>
+<string name="black_screen_settings_shortcut_quick_shots_summary">Зйомка фото подвійним дотиком до центральної кнопки при вимкненому екрані</string>
+<string name="global_single_hand_title">Режим керування однією рукою</string>
+<string name="startup_shutdown_time_errmsg">Проміжок часу між увімкненням і вимкненням має становити не менше 10 хв. Встановіть його ще раз.</string>
+<string name="system_time_am">дп</string>
+<string name="still_sleep_ctrl_summary">Телефон автоматично перейде у стан сну, якщо покласти його на горизонтальну поверхню</string>
+<string name="enable_schpwr">"Увімкнути"</string>
+<string name="save_power_wait_message">"Завантаження програм"</string>
+<string name="schpwr_power_on">"Вмикати о"</string>
+<string name="reboot_progress">Перезавантажити\u2026</string>
+<string name="recovery_data_title">Відновити дані з резервної копії на SD-карті </string>
+<string name="day">"1 дн."</string>
+<string name="multiwindow_settings_summary">Увімкнути мультивікно</string>
+<string msgid="6844156253576174488" name="service_background_processes_ram">"Доступні програми <xliff:g id="MEMORY">%1$s</xliff:g>"</string>
+<string name="mercury_keyboard_summary">Розмір клавіш буде змінюватися відповідно до нахилу телефону для більшої зручності користування однією рукою | Довідка</string>
+<string name="save_power_count">"Загальна кількість вирівняних програм: <xliff:g id="NUMBER">%d</xliff:g>"</string>
+<string name="lockscreen_face_detection_ctrl">Встановлено розблокування через розпізнавання обличчя</string>
+<string name="fuse_backup_data_description">Перед скиданням налаштувань телефону створіть резервні копії контактів, зображень, повідомлень, програм та інших важливих даних</string>
+<string name="settings_header_ringtone_k7">"Параметри мелодії дзвінка"</string>
+<string name="gestural_image_summary">Для переходу між зображеннями прокручуйте екран вліво та вправо | Для переходу від одного спецефекту до іншого прокручуйте екран вгору та вниз</string>
+<string name="wifi_starting" msgid="6716593470710880000">"Увімкнення WLAN..."</string>
+<string name="memory_info">Оперативна пам\'ять</string>
+<string name="set_dds_failed">Помилка встановлення функції передавання даних для підписки.  Очистіть усі існуючі передачі даних та спробуйте знов.</string>
+<string name="device_section_title">"Телефон"</string>
+<string name="wave_not_screenoff_title">Жест не вимикає екран</string>
+<string name="wifi_setup_eap_not_supported" msgid="1955087534276570962">"Під час налаштування неможливо встановити параметри з’єднання WLAN через протокол EAP. Це можна зробити після налаштування в меню Налаштування &gt; Бездротовий зв’язок і мережі."</string>
+<string name="gestural_phone">Відповідь жестом</string>
+<string name="lock_title" product="tablet">"Захист вашого телефону"</string>
+<string name="character_settings_pocket_mode_help_message">Якщо телефон розміщений у кишені, гучність мелодії дзвінка автоматично підвищується.</string>
+<string name="global_action_meeting">"Вібрація"</string>
+<string name="wifi_tether_checkbox_text" msgid="6961605862058056788">"Портат. точка дост. WLAN"</string>
+<string name="unlock_set_unlock_speech_title">Розблокування голосом</string>
+<string name="slide_unlock_help">Коли екран вимкнений, проведіть у його нижній частині зліва направо, щоб розблокувати.</string>
+<string name="character_settings_intelligent_category">Інтелектуальне керування</string>
+<string name="black_screen_settings_broswer_summary">Намалюйте літеру \"e\" на екрані</string>
+<string name="incoming_call_ringer_title1">\"Мелодія дзвінка для вхідних викликів (1)\"</string>
+<string name="incoming_call_ringer_title2">\"Мелодія дзвінка для вхідних викликів (2)\"</string>
+<string name="safety_information">дані щодо безпеки</string>
+<string name="color_light_hasopen">Увімкнено</string>
+<string name="nfc_beam_transmit">Android Transmit</string>
+<string name="wifi_empty_list_wifi_on" msgid="8746108031587976356">"Пошук мереж WLAN…"</string>
+<string name="multiwindow_smart_settings">Розумний мультивіконний режим</string>
+<string name="display_effect_of_screen_contrast_item0">Холодний</string>
+<string name="display_effect_of_screen_contrast_item1">За замо.</string>
+<string name="black_screen_settings_category_shortcut">Швидкий доступ до функцій</string>
+<string name="black_screen_settings_music">Розблок. і запустити плеєр музики</string>
+<string name="unlock_proximity_ctrl_summary">Коли пристрій знаходиться в кишені, то екран буде автоматично вимикатися для уникнення помилкового розблокування.</string>
+<string name="display_effect_of_screen_contrast_item2">Теплий</string>
+<string name="memory_video_usage">"Відео"</string>
+<string name="timing_startup_and_shutdown_settings_title">Заплановане увімкнення та вимкнення</string>
+<string name="mercury_keyboard_help">При активації розумної клавіатури вона буде зміщуватись відповідно до нахилу телефону. Це може суттєво полегшити взаємодію з телефоном однією рукою.</string>
+<string name="wifi_wps_setup_title" msgid="8207552222481570175">"Налаштування захищеної мережі WLAN"</string>
+<string name="restriction_wifi_config_title" msgid="8889556384136994814">"WLAN і мобільні мережі"</string>
+<string name="other_wallpaper">Інші шпалери</string>
+<string name="show_dev_countdown">Зараз ви в кількох кроках від того, щоб стати розробником.</string>
+<string name="os_version">Номер версії системи</string>
+<string name="show_frame_count_title">Увійти в посібник початківця</string>
+<string name="ringtone_picker_more_ringtones_title">"Інші мелодії дзвінка &gt;&gt;&gt;"</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"Увімкнення телефону бічними кнопками | Довідка"</string>
+<string name="crypt_keeper_encrypt_summary" product="default" msgid="514138079795442371">"Вимагає введення цифрового PIN-коду чи пароля для шифрування телефону щоразу при його ввімкненні"</string>
+<string name="category_single_hand">Однією рукою</string>
+<string name="black_screen_settings_shortcut_quick_shots">Зйомка подвійним дотиком</string>
+<string name="black_screen_settings_normal">Розблокування екрану жестом</string>
+<string name="userguide_title">"Керівництво по завантаженню"</string>
+<string name="black_screen_settings_summary_app_selected">Розблокування <xliff:g id="app">%s</xliff:g></string>
+<string name="character_settings_help_title">Довідка про розблокування екрану</string>
+<string name="wifi_setup_title_editing_network" msgid="7304321031985059969">"З\'єднатися з мережею WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="never_timeout">Не переходити до режиму очікування</string>
+<string name="screensaver_settings_disabled_prompt" msgid="3857507943322777651">"Щоб знати, що відбувається з телефоном, коли він у док-станції та/або в режимі сну, увімкніть режим заставки."</string>
+<string name="subscription_02_title">SIM 2</string>
+<string name="category_gesture">Торкання</string>
+<string name="accessibility_script_injection_allowed" msgid="7624804397748427621">"Дозволено"</string>
+<string name="airbuse_phone_info_camera">"Передня 300 000, Задня 5 МП"</string>
+<string name="character_settings_call_voice_category">Виклики і голос</string>
+<string name="lock_title" product="default">Захист телефону</string>
+<string name="devices_info_memory">"Пам\'ять: доступно <xliff:g>%1$s</xliff:g> з 4 ГБ"</string>
+<string name="wifi_wps_onstart_pin" msgid="223344506445335358">"Введіть PIN-код <xliff:g id="NUMBER">%1$s</xliff:g> на своєму маршрутизаторі WLAN. Налаштування може тривати не більше двох хвилин."</string>
+<string name="enable_traces_summary_all" msgid="3950139649125158247">"Усі трасування зараз увімкнено"</string>
+<string name="every_day">"Щодня"</string>
+<string name="voice_wakeup_title">Пробудження голосом</string>
+<string name="side_key_backlight_help">Для увімкнення підсвітки екрану натисніть на клавіші гучності</string>
+<string name="set_voice_error">Помилка встановлення голосової функції для підписки. Підписка не активна.</string>
+<string name="data_usage_enable_mobile_statistics_dialog">Увімкнення цієї функції призводить по підвищеного споживання енергії у мережах із високою швидкістю передавання даних, як-от у LTE...</string>
+<string name="ota_title">Оновлення системи</string>
+<string name="memory_image_usage">"Зображення"</string>
+<string name="hardware_version">Версія обладнання</string>
+<string-array name="contrast"> 
+         
+         
+    <item>За замовчуванням</item>
+        <item>Високий</item>
+    </string-array>
+<string name="crypt_keeper_desc" product="default" msgid="7663118199519229502">"Ви можете шифрувати свої облікові записи, налаштування, завантажені програми та їх дані, медіа-файли й інші файли. Щойно ви зашифруєте свій телефон, потрібно буде вводити цифровий PIN-код чи пароль для розшифрування телефону щоразу під час його ввімкнення. Ви зможете скасувати шифрування, лише відновивши заводські налаштування, що призведе до видалення всіх ваших даних."\n\n"Шифрування триває не менше години. Перш ніж розпочати процес шифрування, переконайтеся, що акумулятор заряджено. Телефон має перебувати в підключеному стані до завершення шифрування. Переривання процесу шифрування призведе до втрати частини чи всіх ваших даних."</string>
+<string name="china_telcom_push_summary">Безкоштовна послуга Push від China Telecom</string>
+<string name="color_light_missed_call">Пропущені виклики</string>
+<string name="devices_info_products_version">\"Модель: Lenovo K910\"</string>
+<string name="usb_mtp_summary" msgid="4617321473211391236">"Підключення в якості MTP накопичувача. Рекомендується для операційних систем Windows Vista і новіших. Для роботи з Windows XP необхідно встановити WMP 10"</string>
+<string name="what_lenovoid_cando_title"> "Паролі з\'єдн. Що я можу зробити? "</string>
+<string name="k6kk_phone_info_cpu">\"чотириядерний, 2,2 ГГц\"</string>
+<string name="smart_answer_incommingcall_summary">При надходженні вхідного виклику користувач може відповісти на виклик певним жестом</string>
+<string name="gadget_state_template" msgid="5156935629902649932">"<xliff:g id="ID_1">%1$s</xliff:g> <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+<string name="k6kk_phone_info_camera">"Передня – 5 МП, задня – 13 МП"</string>
+<string name="wifi_setup_title" msgid="2970260757780025029">"Налаштування WLAN"</string>
+<string name="system_shortcutbar_title">"Системна панель ярликів"</string>
+<string name="call_ring_pocket_enable_title">"Кишеньковий режим"</string>
+<string name="schpwr_shutdown_message_second">"Пристрій буде вимкнено через (сек.) <xliff:g id="second">%s</xliff:g>"</string>
+<string name="smart_rotete_cbox_summary">Розумний</string>
+<string name="gestural_gesture">Управління жестами</string>
+<string name="black_screen_settings_quick_shots_three">три знімки</string>
+<string name="smart_call_answer_settings_summary">Автоматично відповідати на виклик при піднесенні телефону до вуха</string>
+<string name="wifi_wps_onstart_pbc" msgid="5940801028985255304">"Натисніть кнопку \"Налаштування захищеної мережі WLAN\" на маршрутизаторі. Вона може називатися \"WPS\" або містити такий символ:"</string>
+<string name="crypt_keeper_final_desc" product="default" msgid="5682944380460921880">"Операція шифрування незворотна. Якщо її перервати, ви втратите дані. Шифрування триває не менше години, протягом чого ваш телефон перезавантажиться декілька разів."</string>
+<string name="wifi_quick_toggle_summary" msgid="2696547080481267642">"Увімкнути WLAN"</string>
+<string name="k6kk_phone_info_screen">\"Роздільна здатність: 1080*1920, Розмір: 5,5 дюйма\"</string>
+<string name="swing_lock_help">Струсніть телефон, щоб заблокувати екран</string>
+<string name="software_version">Версія програмного забезпечення</string>
+<string name="header_category_lock_unlock">БЛОКУВАННЯ ТА ЕКРАН</string>
+<string name="gestural_gesture_summary">Жести вгору, вниз, вліво і вправо можуть використовуватися для переміщення у відповідні напрямки. Ця функція не працює в аудіо та відеоплеєрі, а також в браузері</string>
+<string name="black_screen_settings_quick_shots_six">шість знімків</string>
+<string name="show_frame_count_bit">Біт</string>
+<string name="wlan_share">Спільне використання WLAN</string>
+<string name="bottom_shortcutbar_title">"Нижня панель ярликів"</string>
+<string name="smart_calling_summary">Автоматично здійснювати виклик при виборі контакту та піднесенні телефону до вуха</string>
+<string name="usage_type_data_wifi_send" msgid="7178327382353096029">"Дані WLAN надіслано"</string>
+<string name="double_click_menu_enabled_title">\"Нат. і ут. МЕНЮ для ак. г. фун.\"</string>
+<string name="glove_mode_summary">Коли ввімк. вис. чутл. до дотиків, можна торкатись екрана в рукавичках</string>
+<string name="gestural_v2">3D-жести</string>
+<string name="double_click_home_enabled_title">"Подвійне натискання клавіші ГОЛОВНА активує голос"</string>
+<string name="backup_data_section_title">Резервне копіювання даних</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"Зараз увімкнено стільки трасувань: <xliff:g id="NUM">%1$d</xliff:g>"</string>
+<string name="show_frame_count_summary">Показати кількість кадрів у разі ввімкнення.</string>
+<string name="wifi_quick_toggle_title" msgid="8850161330437693895">"WLAN"</string>
+<string name="reset_backup_befor_reset_title">Зберігати резервну копію даних перед скиданням</string>
+<string name="restriction_wifi_config_summary" msgid="70888791513065244">"Дозволити вносити зміни в налаштування WLAN і мобільних мереж"</string>
+<string name="reboot">"Перезапуск"</string>
+<string name="bluetooth_on_time" msgid="3056108148042308690">"Час роботи WLAN"</string>
+<string name="quicksettings">"швидке налаштування"</string>
+<string name="color_light_demo">Демонстрація роботи</string>
+<string name="sim_settings_title">Параметри SIM-карт</string>
+<string name="hours"><xliff:g id="hours">%s</xliff:g> годин</string>
+<string name="save_power_title">"Узгодження часу пробудження системи"</string>
+<string name="header_category_call_message">ВИКЛИК ТА ПОВІДОМЛЕННЯ</string>
+<string name="show_hw_overdraw" msgid="1136884304711318251">"Показати накладання GPU"</string>
+<string name="display_effect_of_screen_hue_title">відтінок</string>
+<string name="whatis_lenovoid_summary"> "використайте свій номер телефону як пароль облікового запису Lenovo, станьте членом Асоціації. "</string>
+<string name="data_usage_menu_show_wifi" msgid="8266875319417201085">"Показувати використання WLAN"</string>
+<string name="master_clear_desc" product="default" msgid="9165016501623540228">"Це видалить усі дані з "<b>"внутрішньої пам’яті"</b>" вашого телефону, зокрема:"\n\n<li>"ваш обліковий запис Google"</li>\n<li>"дані й налаштування системи та програм"</li>\n<li>"завантажені програми"</li>"."</string>
+<string name="data_summary">Виберіть підписку для викликів із передаванням даних</string>
+<string name="savepower_all_title">"Усі"</string>
+<string name="black_screen_settings_flash_mode_auto">Автоматичний</string>
+<string name="wifi_setting_frequency_band_title" msgid="3655327399028584656">"Діапазон частот WLAN"</string>
+<string name="hide_recent_settings">потягніть донизу, щоб показати останні налаштування</string>
+<string name="showing_color_light">Демонстрація роботи індикатора </string>
+<string name="system_time_pm">пп</string>
+<string name="reset_skip_backup_summary">Виберіть цей параметр для елементів, резервну копію яких уже було створено або які не потребують її створення</string>
+<string name="wifi_stopping" msgid="244864762599017659">"Вимкнення WLAN..."</string>
+<string name="wifi_wps_connected" msgid="5754399645462924103">"З’єднано з мережею WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="global_action_outdoors">"Надворі"</string>
+<string name="schpwr_shutdown_message">"Пристрій буде вимкнено через (сек) <xliff:g id="seconds">%s</xliff:g>"</string>
+<string name="overturn_lock_ctrl_summary">\"Перегорніть телефон для блокування екрана\"</string>
+<string name="schedule_power_on_off_time">"Час"</string>
+<string name="show_screen_frame_count">Показати кількість кадрів екрана</string>
+<string name="timing_startup_head_text">"Вмикати о"</string>
+<string name="wifi_setting_summary">Якщо введено місцезнаходження підключеної точки доступу та наявні дані GRPS，прив\'язати місцезнаходження</string>
+<string name="unsupported_headset_warning" product="default">
+       "Додаток, що не підтримується"
+    </string>
+<string name="overturn_lock_ctrl">\"Перегорніть для блокування екрана\"</string>
+<string name="restart_confirm_question">Перезавантажити?</string>
+<string name="multiwindow_divide_settings">Мультивік. режим з розділ. екрану</string>
+<string name="backup_data_to_sdcard_title">Зберегти резервну копію даних на SD-карту</string>
+<string name="data_title">Виклик із передаванням даних</string>
+<string name="sim_not_available">SIM-карта недоступна</string>
+<string name="preference_status_open">"Увімкнено"</string>
+<string-array name="saturation"> 
+         
+         
+         
+    <item>М\'який</item>
+        <item>За замовчуванням</item>
+        <item>Ясний</item>
+    </string-array>
+<string name="multiwindow_smart_settings_summary">Якщо під час перегляду відео на весь екран в горизонтальній орієнтації вам надійде повідомлення, то поверніть телефон у вертикальне положення, щоб автоматично відобразити кілька вікон.</string>
+<string name="user_you_section" msgid="6247838798859425408">"Ви"</string>
+<string name="backup_data_to_sdcard_summary">Зберегти резервну копію даних телефону на SD-карту</string>
+<string name="airbuse_phone_info_runMemory">"1,0 ГБ"</string>
+<string name="whatis_lenovoid_title"> "Що таке пароль з\'єднання? "</string>
+<string name="wifi_setup_description_connected" msgid="5235991893829582459">"Торкніться опції "<b>"Далі"</b>", щоб продовжити налаштування."\n\n"Торкніться опції "<b>"Назад"</b>", щоб з\'єднатися з іншою мережею WLAN."</string>
+<string name="black_screen_face_recognization_title"> "Режим розпізнавання обличчя" </string>
+<string name="minute">"1 хв."</string>
+<string name="unlock_settings_title">"Розблокувати"</string>
+<string name="schedule_power_off_set">Встановити графік вимикання</string>
+<string name="location_mode_battery_saving_description" msgid="1728668969743485109">"Використовувати WLAN і мобільні мережі для визначення місцезнаходження"</string>
+<string name="black_screen_handler_title"> "Жести на чорному екрані" </string>
+<string name="wide_touch_float_button_summary">Налаштувати додаткове меню з програмами та командами</string>
+<string name="black_screen_settings_camera_summary">Намалюйте літеру \"c\" на екрані</string>
+<string name="share_music_a2dp_headphones_control_title">Спільне керування музикою</string>
+<string name="location_consent_dialog_message">Ви бажаєте дозволити службі розташування збирати анонімну інформацію про місцезнаходження? Зверніть увагу, що деякі дані можуть зберігатися на вашому пристрої. Збір даних може відбуватися навіть тоді, коли на пристрої не запущена  жодна програма.</string>
+<string name="phone_car_mode_title">Режим \"За кермом\"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> хв."</string>
+<string name="global_action_silence">"Без звуку"</string>
+<string name="wifi_display_summary_off" msgid="2445210133184740611">"Вимкнено"</string>
+<string name="usergudie_button_text">"Введіть параметри завантаження"</string>
+<string name="color_light_hasclose">Вже закрито</string>
+<string name="backup_recovery_dialog_message">Припинити резервне копіювання або відновлення даних програми?</string>
+<string name="ringtone_and_sound_settings">"Мелодія і звук"</string>
+<string name="charge_stream_min">Потік зарядного струму становить 1500 мА </string>
+<string name="k6kk_phone_info_runMemory">"2,0 ГБ"</string>
+<string name="gestural_broswer">Керування браузером жестами</string>
+<string name="black_screen_time_service_title"> "Режим сигналу голосом" </string>
+<string name="playertutorial_title">Довідка</string>
+<string name="dtmf_settings_title">"Клавіатура"</string>
+<string name="status_wifi_mac_address" msgid="2202206684020765378">"MAC-адреса WLAN"</string>
+<string name="timing_shutdown_head_text">"Вимикати о"</string>
+<string name="black_screen_settings_vedio_summary">Намалюйте літеру \"v\" на екрані</string>
+<string name="black_screen_time_show_title"> "Режим відображення" </string>
+<string name="subs_settings">Статус SIMS</string>
+<string name="weather_live_wallpaper">Динамічні шпалери на тему погоди</string>
+<string name="data_usage_menu_restrict_systembgdata">\"Дозволити використання фонових даних системи\"</string>
+<string name="gestural_image">Керування зображеннями жестами</string>
+<string name="location_settings_title" msgid="1369675479310751735">"Місцезнаходження"</string>
+<string name="phone_info_unset">Скидання відомостей про телефон</string>
+<string name="wifi_menu_p2p" msgid="7619851399250896797">"WLAN Direct"</string>
+<string name="wide_touch_float_button">Широкий дотик</string>
+<string name="wifi_empty_list_user_restricted">У вас немає дозволу на змінення мережі WLAN.</string>
+<string name="airbuse_phone_info_cpu">"Qualcomm MSM8612  4*1,2 ГГц"</string>
+<string name="schpwr_power_off">"Вимикати о"</string>
+<string name="fuse_backup_data_to_cloud_title">Зберегти резервну копію в хмарі</string>
+<string name="double_click_menu_enabled_description">\"Для активації голосової функції натисніть та утримуйте (клавішу МЕНЮ)\"</string>
+<string name="display_effect_of_screen_sharpen_item0">За замо.</string>
+<string name="enable_traces_dialog_title" msgid="5026490474669452929">"Вибрати ввімкн.трасування"</string>
+<string name="display_effect_of_screen_sharpen_item1">Підвищити різкість</string>
+<string name="global_action_general">"Загальний"</string>
+<string name="backup_data_description">"Створіть резервну копію контактів і інших важливих даних, перш ніж скинути параметри телефону"</string>
+<string name="all_setings_title">"Налаштування"</string>
+<string name="wifi_tether_failed_subtext" msgid="2654888578056042315">"Помилка порт. точки дост. WLAN"</string>
+<string name="enable_traces_summary_none" msgid="1867562808503494163">"Усі трасування зараз вимкнено"</string>
+<string name="black_screen_settings_camera">Розблок. і запустити камеру камери</string>
+<string name="call_ring_pocket_enable_summary">"Максимальна гучність сигналу у кишені чи у чохлі"</string>
+<string name="wifi_display_summary_disabled" msgid="5318394806146587849">"Вимкнено"</string>
+<string name="data_usage_enable_mobile_statistics">Вести статистику</string>
+<string name="touch_free_phone">Безкоштовний дзвінок </string>
+<string name="double_click_home_enabled_description">\"Для активації голосової функції натисніть та утримуйте (клавішу МЕНЮ)\"</string>
+<string name="black_screen_settings_quick_shots_eight">вісім знімків</string>
+<string name="black_screen_settings_vedio">Розблок. і запустити відеоплеєр відео</string>
+<string name="backup_data_to_device_summary">Передача даних на інший пристрій за допомогою SHAREit</string>
+<string name="disable_schpwr">"Вимкнути"</string>
+<string name="fuse_backup_data_to_cloud_summary">Зберегти резервну копію даних телефону у хмарі</string>
+<string name="lll_pbtn_alert">"Утримуйте кнопку живлення <xliff:g id="COUNT_DOWN_TIME">%1$s</xliff:g>, щоб вимкнути пристрій..."</string>
+<string name="profile_edit_pocket_help">"Максимальна гучність сигналу у кишені чи у чохлі"</string>
+<string name="monotype_preference_title">Стиль шрифту</string>
+<string name="call_ring_weaken_enable_title">Зменшити гучність при відповіді</string>
+<string name="subscription_01_title">SIM 1</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> дні"</string>
+<string name="wifi_switch_summary">"Ви можете зав\'язати поточне підключення до бездротової мережі з поточним розташуванням. При поверненні до зв\'язаного розташування пристрій автоматично підключиться до мережі"</string>
+<string name="airplane_open_confirm">"Автономний режим"</string>
+<string name="smart_standby_ctrl">Розумний режим очікування</string>
+<string name="display_effect_of_screen_sharpen_title">Різкість</string>
+<string name="devices_info_camera">\"Камера: передня – 5 МП, задня – 13 МП\"</string>
+<string name="close_home_landscape_title">Вимкнення центральної кнопки</string>
+<string name="schedule_power_on_off_set">Встановити графік увімкнення і вимикання</string>
+<string name="flip_screen_control_title">Переверніть екран для керування</string>
+<string name="display_effect_of_screen_cancel">Скасувати</string>
+<string name="devices_info_screen">"Screen: 1080*720   5.0-inch"</string>
+<string name="character_settings_side_key_backlight_screen_help_message">Щоб увімкнути підсвічування, натисніть клавішу гучності.</string>
+<string name="poweron_nosim">SIM-карту не знайдено</string>
+<string name="shellt_phone_info_screen">\"Роздільна здатність: 720P, Розмір: 6,0 дюйма\"</string>
+<string name="location_mode_high_accuracy_description" msgid="6418936349431602808">"Використовувати GPS, WLAN і мобільні мережі для визначення місцезнаходження"</string>
+<string name="track_frame_time_summary" msgid="447577515813970287">"Вимірювати час роботи в adb shell dumpsys gfxinfo"</string>
+<string name="font_settings_title">\"Настройки шрифту\"</string>
+<string name="voice_wakeup_summary">Система може активуватись звуком голосу</string>
+<string name="smart_answer_incommingcall_title">Інтелектуальна відповідь</string>
+<string name="wifi_required_info_text" msgid="9014073093293520112">"Щоб завершити налаштування, вашому планшетному ПК потрібен доступ до WLAN. Після налаштування можна переключатися між мобільним передаванням даних і WLAN."</string>
+<string name="gestural_ebook">Керування електронними книгами жестами</string>
+<string name="character_settings_black_screen_help_message">Звичайне розблокування: проведіть у нижній частині екрана вліво або вправо, щоб розблокувати його. Для входу у програму: виконайте розблокування, щоб отримати доступ до камери, і намалюйте літеру \"C\" на екрані. Ця функція впливає на споживання енергії в режимі очікування.</string>
+<string name="charge_stream_max">Потік зарядного струму становить 2000 мА </string>
+<string name="power_off">"Вимкнути"</string>
+<string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"Щоб покращити точність даних про місцезнаходження, а також для інших цілей, програма <xliff:g id="APP_NAME">%1$s</xliff:g> хоче вмикати сканування мережі, навіть коли WLAN вимкнено.\n\nДозволити це для всіх програм, які потребують сканування?"</string>
+<string name="global_single_hand_summary">Панель для керування однією рукою</string>
+<string name="set_data_subscription_progress">Триває встановлення функції передавання даних для підписки</string>
+<string name="color_light">Індикатор</string>
+<string name="knock_light_title">Вмикання підсвітки дотиком</string>
+<string name="show_frame_count_x_coordinate">Координата X</string>
+<string name="wifi_tether_configure_subtext" msgid="1927454307836232128">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> портат. точка дост. WLAN"</string>
+<string msgid="7583975676795574276" name="service_foreground_processes_ram">"Використовуються програми <xliff:g id="MEMORY">%1$s</xliff:g>"</string>
+<string name="tilt_scroll_control_title">Прокручування нахилом</string>
+<string name="roaming_time_settings_zone">Рекомендований часовий пояс</string>
+<string name="volume_title">"Рівень"</string>
+<string name="black_screen_settings_summary">Розблокування екрану та запуск програм</string>
+<string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"Потрібно ввести PIN-код або пароль для блокування екрана"</string>
+<string name="wifi_setup_wizard_skip">"Пропустити"</string>
+<string name="hour">"1 год."</string>
+<string name="black_screen_settings_flash_mode">Спалах</string>
+<string name="lock_intro_message" product="default">Захистіть свій телефон від несанкціонованого використання, створивши особистий жест розблокування екрана. Проведіть пальцем по екрану, що з\'явиться, та з\'єднайте принаймні чотири точки в довільному порядку.
+        \n\nГотові починати? Торкніться \"Далі\".
+    </string>
+<string name="gestural">Керування жестами</string>
+<string name="preference_status_unknown">"Невідомо"</string>
+<string name="simple_settings">Посібник початківця</string>
+<string name="startup_confirm_auto_shutdown">Живлення телефону буде вимкнено через %s с.</string>
+<string name="A_gps_summary"> використовуйте допоміжні дані, щоб скоротити фіксований час встановлення місцезнаходження за допомогою GPS</string>
+<string name="safety_information_content">Щоб оновити системне програмне забезпечення телефону, слід скористатися відповідною функцією (оновлення за допомогою бездротового з\'єднання) телефону Lenovo або слід звернутися до офіційного представника з постгарантійного обслуговування компанії Lenovo. Оновлення системного ПЗ в інший спосіб може призвести до пошкодження пристрою або втрати даних, відмови функцій захисту системи, підвищення ризику порушення безпеки системи. Компанія Lenovo не несе відповідальності за обслуговування в разі пошкодження пристрою через недотримання зазначених вище вимог.</string>
+<string name="color_light_other_summary">Weixin, QQ, Weibo</string>
+<string name="incoming_call_ringer_title">"Мелодія виклику "</string>
+<string name="unlock_set_unlock_speechpwd_title">"Використання голосового пароля та жесту для захисту"</string>
+<string name="display_effect_of_screen_contrast_title">Контрастність</string>
+<string name="crypt_keeper_dialog_need_password_message" msgid="4071395977297369642">"Щоб почати шифрування, потрібно встановити PIN-код або пароль для блокування екрана."</string>
+<string name="accessibility_script_injection_button_disallow" msgid="5697152768523270885">"Не дозволяти"</string>
+<string name="character_settings_mercury_keyboard_help_message">Під час використання клавіатури вона змінюватиметься відповідно до кута нахилу телефону, що полегшить користування ним однією рукою. Щоб активувати розумну клавіатуру, зсуньте екран, коли клавіатура буде розташована рівно.</string>
+<string name="startup_confirm_airplane_turn_off">Вийти з режиму \"У літаку\"?</string>
+<string name="wifi_access_points" msgid="2664629396767022441">"WLAN мережі"</string>
+<string name="header_category_personalcustom">Персоналізація</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"Торкніться ОК, щоб зупинити службу <xliff:g id="SERVICE">%1$s</xliff:g>."</string>
+<string name="unlock_set_unlock_speechnormal_title">"Швидке розблокування голосом"</string>
+<string name="headset_play_mms_enabled_title">"Гарнітура відтворює MMS"</string>
+<string name="black_screen_notification_title"> "Вібросигнал для непрочитаного повідомлення" </string>
+<string name="set_dds_error">Помилка встановлення функції передавання даних для підписки.</string>
+<string name="shutdown_time">Вимкнути живлення о</string>
+<string-array name="alarm_set">
+        <item>Установлено час увімкнення, до якого залишилось менше 1 хвилини.</item>
+        <item>Установлено час увімкнення, до якого залишилось <xliff:g id="DAYS">%1$s</xliff:g>.</item>
+        <item>Установлено час увімкнення, до якого залишилось <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Установлено час увімкнення, до якого залишилось <xliff:g id="DAYS">%1$s</xliff:g> і <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Установлено час увімкнення, до якого залишилось <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Установлено час увімкнення, до якого залишилось <xliff:g id="DAYS">%1$s</xliff:g> і <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Установлено час увімкнення, до якого залишилось <xliff:g id="HOURS">%2$s</xliff:g> і <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Установлено час увімкнення, до якого залишилось <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g>, і <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Установлено час вимкнення, до якого залишилось менше 1 хвилини.</item>
+        <item>Установлено час вимкнення, до якого залишилось <xliff:g id="DAYS">%1$s</xliff:g>.</item>
+        <item>Установлено час вимкнення, до якого залишилось <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Установлено час вимкнення, до якого залишилось <xliff:g id="DAYS">%1$s</xliff:g> і <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Установлено час вимкнення, до якого залишилось <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Установлено час вимкнення, до якого залишилось <xliff:g id="DAYS">%1$s</xliff:g> і <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Установлено час вимкнення, до якого залишилось <xliff:g id="HOURS">%2$s</xliff:g> і <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Установлено час вимкнення, до якого залишилось <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g>, і <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+    </string-array>
+<string name="camera_info">Камери</string>
+<string name="startup_auto_shutdown_title">Автоматичне вимкнення</string>
+<string name="nfc_not_inservice">NFC-адаптер не працює!</string>
+<string name="black_screen_settings_quick_shots_nums">Швидка зйомка</string>
+<string name="i_know_it">Мені відомо</string>
+<string name="fuse_recovery_data_from_cloud_summary">Торкніться, щоб відновити резервну копію даних у хмарі</string>
+<string name="accessibility_script_injection_button_allow" msgid="2201503285877102870">"Дозволити"</string>
+<string name="quicksettings_summary">Вітаємо вас із придбанням телефону Lenovo! Розпочніть роботу зі швидкого налаштування. Щоб виконати\n індивідуальне налаштування, перейдіть до розділу "Налаштування системи".</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl">"Розблок. клавішами гучності"</string>
+<string name="backup_data">"Зробіть резервну копію даних, перш ніж скинути параметри телефону"</string>
+<string name="fuse_recovery_data_from_cloud_title">Відновити дані із хмари</string>
+<string name="shellt_phone_info_cpu">"Qualcomm MSM8926  4*1,2 ГГц"</string>
+<string name="still_sleep_title">Не торкайтеся для переходу до режиму сну</string>
+<string name="usb_ptp_summary" msgid="7673397474756664929">"Дозволяє передавати фото за допомогою програмного забезпечення камери, а також передавати будь-які файли на комп’ютери, які не підтримують MTP"</string>
+<string name="color_light_other">"Інша"</string>
+<string name="black_screen_settings_broswer">Розблок. і запустити браузер браузера</string>
+<string name="schedule_power_on_off_repeat">"НАЗАД"</string>
+<string name="display_effect_of_screen_saturation_item1">За замо.</string>
+<string name="show_frame_count_cancel_button_text">"Скасувати"</string>
+<string name="display_effect_of_screen_saturation_item0">М\'який</string>
+<string name="display_effect_of_screen_saturation_item2">Ясний</string>
+<string name="wifi_connect_failed_message" product="default" msgid="2185803140161396572">"Телефон не зміг під’єднатися до цієї мережі WLAN."</string>
+<string name="processor_info">Процесор</string>
+<string name="data_usage_metered_wifi" msgid="8540872226614404873">"Мережі WLAN"</string>
+<string name="shutdown_alarm_confirm">"Будильник встановлено на <xliff:g id="ALARM_TIME">%1$s</xliff:g>."</string>
+<string name="wave_wakeup_title">Пробудження сигналом</string>
+<string name="voice_summary">Виберіть підписку для голосового виклику</string>
+<string name="wifi_tether_configure_ap_text" msgid="7974681394041609308">"Налаштувати точку доступу WLAN"</string>
+<string name="black_screen_settings_normal_summary">Для розблокування можна провести вздовж нижнього краю екрана зліва направо</string>
+<string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Всі дані користувача</xliff:g> (включаючи музику, зображення та інші дані) на <xliff:g>внутрішньому накопичувачі</xliff:g> буде видалено. Зробіть резервну копію своїх даних перед скиданням.\"</string>
+<string name="wifi_p2p_settings_title" msgid="5444461191435291082">"WLAN Direct"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen">Розблок. подвійним дотиком</string>
+<string name="flip_screen_control_summary">Переверніть телефон, щоб увімкнути або вимкнути екран</string>
+<string name="wifi_setup_title_connecting_network" msgid="3747859666621319757">"Під’єднання до мережі WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>..."</string>
+<string name="screen_info">"Екран"</string>
+<string name="startup_time">Увімкнути живлення о</string>
+<string name="keyboard_lights_title">Підсвічування кнопок</string>
+<string name="wifi_poor_network_detection_summary" msgid="7843672905900544785">"Не використовувати мережу WLAN, якщо немає стійкого з’єднання з Інтернетом"</string>
+<string name="muti_window_summary">Для одночасного відображення й виконання процесів на одному екрані забезпечено підтримку вікон кількох завдань</string>
+<string name="credentials_configure_lock_screen_hint" msgid="6757119179588664966">"Щоб використовувати сховище облікових даних, потрібно встановити PIN-код або пароль для блокування екрана."</string>
+<string name="shellt_phone_info_runMemory">"1,0 ГБ"</string>
+<string name="roaming_time_settings_time_display">Програма відображення часу</string>
+<string name="header_category_other">"інше"</string>
+<string name="data_usage_metered_wifi_disabled" msgid="5502020778468643732">"Щоб вибрати мобільні точки доступу, увімкніть WLAN."</string>
+<string name="recovery_data_section_title">Відновлення даних</string>
+<string name="gestural_ebook_summary">Для керування перегортанням сторінок в електронній книзі прокручуйте екран вліво та вправо</string>
+<string name="auto_shutdown_interrupted">Заплановане вимкнення перервано</string>
+<string name="start_camera_gesture_summary">Швидкий запуск камери жестом</string>
+<string name="wifi_connect_failed_message" product="tablet" msgid="4474691090681670156">"Планшетний ПК не зміг під’єднатися до цієї мережі WLAN."</string>
+<string name="phone_car_mode_summary">Параметри режиму \"За кермом\"</string>
+<string name="data_connect_settings_title">Передача даних</string>
+<string name="still_sleep_summary">Якщо телефону не торкатися, він перейде до режиму сну</string>
+<string name="theme_settings_title">"Оформлення"</string>
+<string name="smart_rotete_cbox_title">Автоповорот екранууу</string>
+<string name="recovery_data_from_device_summary">Передача даних з іншого пристрою за допомогою SHAREit</string>
+<string name="voice_call_way_title">"Спосіб голосового виклику"</string>
+<string name="gestural_music">Керування музикою жестами</string>
+<string name="color_light_unread_mms">Непрочитані повідомлення</string>
+<string name="stop_color_light">Зупинити</string>
+<string name="save_power_wait_title">"Зачекайте..."</string>
+<string name="black_screen_settings">Розблокування чорного екрана</string>
+<string name="savepower_black_title">"Чорний список"</string>
+<string name="set_dds_success">Функцію передавання даних для підписки успішно встановлено</string>
+<string name="multiwindow_summary">"Цей режим дозволяє працювати з декількома програмами одночасно"</string>
+<string name="lock_intro_message" product="tablet">"Захистіть свій планшетний ПК від несанкціонованого використання, створивши особистий ключ розблокування екрана. На наступному екрані пальцем з’єднайте крапки в будь-якому порядку. Потрібно з’єднати принаймні чотири крапки. "\n\n"Готові? Торкніться опції \"Далі\"."</string>
+<string name="show_dialog">Не нагадувати</string>
+<string name="close_home_landscape_summary">Вимикати кнопку переходу на домашній екран при горизонтальній орієнтації пристрою</string>
+<string name="airbuse_phone_info_screen">"\Роздільна здатність: qHD960*540, Розмір: 6,0 дюйма\"</string>
+<string name="shutdown_time_enabled">Вимкнення живлення за графіком</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> може збирати весь введений вами текст, окрім паролів. Це включає особисті дані, як-от номери кредитних карток. Також можуть збиратися дані про вашу взаємодію з телефоном."</string>
+<string name="black_screen_settings_select_app">Виберіть програму, яку потрібно закріпити</string>
+<string name="incoming_mms_ringer_title">"Мелодія повідомлень"</string>
+<string name="no_sim_info">SIM-карта відсутня.\nДоступ до меню неможливий</string>
+<string name="wifi_settings" msgid="29722149822540994">"WLAN"</string>
+<string-array name="hue"> 
+         
+         
+         
+    <item>Холодний</item>
+        <item>За замовчуванням</item>
+        <item>Теплий</item>
+    </string-array>
+<string name="wifi_suspend_optimizations" msgid="1220174276403689487">"Оптимізація WLAN"</string>
+<string name="wifi_on_time" msgid="3208518458663637035">"Час роботи WLAN"</string>
+<string name="recovery_data_summary">Торкніться, щоб відкрити резервну копію даних на SD-карті</string>
+<string-array name="sharpen"> 
+         
+         
+    <item>За замовчуванням</item>
+        <item>Підвищити різкість</item>
+    </string-array>
+<string name="wifi_menu_wps_pin" msgid="6426448256268695933">"Ввести PIN-код WPS"</string>
+<string name="poweron_emergencycallonly">"Лише аварійні виклики"</string>
+<string name="data_usage_disable_mobile_statistics_dialog">Якщо цю функцію вимкнено, збір статистики про передавання даних не відбуватиметься.</string>
+<string name="wifi_switch_settings_title">Зв\'язати WLAN з місцезнаходженням</string>
+<string name="schedule_power_on_off_settings_title">Заплановане увімкнення та вимкнення</string>
+<string name="gestural_broswer_summary">Прокручуйте екран вгору та вниз, щоб переглядати сторінки браузера</string>
+<string name="wifi_scan_notify_text_location_on">Для більш точного визначення місцезнаходження, а також для інших цілей, Google та інші програми можуть сканувати сусідні мережі, навіть за вимкненої мережі WLAN. Щоб цього не відбувалось, виберіть \"Розширені можливості\"&gt; \"Сканування завжди дозволено\".</string>
+<string name="gestural_vedio_summary">Прокручуйте екран вліво та вправо для керування відтворенням відео | Прокручуйте екран вгору та вниз для коригування гучності</string>
+<string name="lenovo_recent_settings">Останні налаштування</string>
+<string name="no_ftp_app">Немає програм, що підтримують FTP</string>
+<string name="accessibility_toggle_script_injection_preference_title" msgid="7950932054266694403">"Покращувати веб-доступність"</string>
+<string name="phone_info">Про телефон</string>
+<string name="sel_sub_title">Налаштувати підписки </string>
+<string name="accessibility_script_injection_disallowed" msgid="8639525487720429182">"Не дозволено"</string>
+<string name="start_camera_gesture_title">Жести камери</string>
+<string name="rotate_type_choose_cancel">Скасувати</string>
+<string name="lockscreen_knock_on_ctrl_summary">Двічі клацніть, щоб увімкнути екран телефону</string>
+<string name="airplane_open_confirm_message">Активувати автономний режим?</string>
+<string name="data_usage_restrict_background_multiuser" product="default" msgid="8025473178302056174">"Якщо обмежити мобільне передавання даних у фоновому режимі, деякі програми та служби працюватимуть лише під час з’єднання з мережею WLAN."\n\n"Таке налаштування впливає на всіх користувачів цього телефону."</string>
+<string name="savepower_white_title">"Білий список"</string>
+<string name="lenovoID_registered_title">"Погодьтеся використовувати свій номер мобільного телефону як Lenovo ID (пароль облікового запису Lenovo)"</string>
+<string name="mannual">Увійти в посібник початківця</string>
+<string name="header_category_personalcustom_k7">"Особисті"</string>
+<string name="china_telcom_push_title">China Telecom Yi Push</string>
+<string name="location_network_based" msgid="7472814266821714527">"Навігація по WLAN та моб. мережам"</string>
+<string name="header_category_singlehand_settings">"Параметри для користування однією рукою"</string>
+<string name="devices_info_buildNumber">"Номер збірки: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="location_improve_allow">Сервіси геолокації, що використовують дані WLAN та мобільних мереж</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"Зупинити службу <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="schedule_power_on_set">Встановити графік увімкнення</string>
+<string name="lockscreen_shake_unlock_ctrl">Блокування струшуванням</string>
+<string name="call_ring_weaken_enable_summary">Автоматичне зменшення гучності звукового сигналу при взятті телефону | Довідка</string>
+<string name="wifi_popup_0">Зв\'язати з підключеною програмою.\nПісля входу до цього розташування з\'явиться повідомлення.</string>
+<string name="wifi_popup_2">Не зв\'язувати з розташуванням</string>
+<string name="wifi_popup_1">Зв\'язати з поточним розташуванням</string>
+<string name="double_click_muti_window_title">Мультивіконний режим</string>
+<string name="roaming_settings_title">Параметри роумінгу</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"Дозволити програмам установлювати сценарії від Google, які зроблять веб-вміст більш доступним?"</string>
+<string name="enter_bright_mode_warning" product="default"> "Відкритий звук, чіткіші дзвінки" </string>
+<string name="character_setings_title">"Функції"</string>
+<string name="backup_recovery_data_summary">Резервне копіювання або відновлення даних програми на телефоні</string>
+<string name="wifi_settings_title" msgid="3103415012485692233">"WLAN"</string>
+<string name="security_settings_title">"Безпека та екран блокування"</string>
+<string name="black_screen_settings_flash_mode_on">Відкрити</string>
+<string name="black_screen_settings_quick_shots_one">один знімок</string>
+<string name="leave_bright_mode_warning" product="default"> "Функцію вимкнуто" </string>
+<string name="black_screen_settings_music_summary">Намалюйте літеру \"М\" на екрані</string>
+<string name="quicksettings_title">Швидке налаштування</string>
+<string name="summary_keyboard_lights">Інтелектуальне керування</string>
+<string name="backup_recovery_data_title">Резервне копіювання та відновлення</string>
+<string name="poweron_nouim">UIM не знайдено</string>
+<string name="wifi_suspend_optimizations_summary" msgid="7774946457510541054">"Мінімізувати використання заряду акумулятора, коли ввімкнено WLAN"</string>
+<string name="gestural_vedio">Керування відео жестами </string>
+<string name="gadget_toggle_wifi" msgid="2382963973155082629">"Оновлення налашт. WLAN"</string>
+<string name="backup_data_recovery_section_title">Резервне копіювання та відновлення даних</string>
+<string name="share_music_a2dp_headphones_control_summary">Після активації цієї функції ділитися музикою можна як через гарнітуру Bluetooth, так і через дротові навушники.</string>
+<string name="memory_os_size">Система</string>
+<string name="revert">"Відмінити"</string>
+<string name="usage_type_data_wifi_recv" msgid="7822328607564241372">"Дані WLAN отримано"</string>
+<string name="double_click_dock_enabled_title">"Подвійне натискання значку ДОК активує голос"</string>
+<string name="color_light_battery">"Акумулятор"</string>
+<string name="internal_version">Внутрішній номер версії</string>
+<string name="preference_status_close">"Вимкнено"</string>
+<string name="apn_call_number">Номер телефону PPP</string>
+<string name="sound_settings_title">"Звук"</string>
+<string name="set_priority_sub_error">Помилка встановлення пріоритетної підписки. Підписка не активна.</string>
+<string name="common_setings_title">"Основні"</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="sms_summary">Виберіть підписку для надсилання SMS-повідомлень</string>
+<string name="devices_info_firmwareVersion">"Номер версії Android: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="wifi_settings_category" msgid="2810363951104753710">"Налашт-ня WLAN"</string>
+<string name="show_hw_overdraw_summary" msgid="4295714000923082647">"Від кращого до гіршого: синій, зелений, світло-червоний, червоний"</string>
+<string name="show_recent_settings">Потягніть догори, щоб сховати настройки</string>
+<string name="global_action_restart">"Перезапуск"</string>
+<string name="color_light_call">"Набрати"</string>
+    <string name="eap_sim_aka_airplanemode">Для використання EAP-SIM/AKA вимкніть режим У літаку</string>
+    <string name="wifi_ap_bandwidth_chart_title">Швидкість даних в режимі реального часу</string>
+    <string name="single_hand_title">Мікро-екран для однієї руки</string>
+    <string name="pch_warning_message">Швидкість передачі даних буде знижуватися.</string>
+    <string name="dlg_error_unmount_usb_text" product="default">"Не вдалося відключити карту SD. Повторіть спробу пізніше."</string>
+    <string name="move_success">Переміщення виконано! Деякі програми неможливо перемістити на карту пам\'яті за замовчуванням. <xliff:g>%1$s</xliff:g> програм переміщено успішно!</string>
+    <string name="AGPS_NOTIFY_ONLY">Повідомлення про запит розташування</string>
+    <string name="agps_str_deny">ЗАПЕРЕЧИТИ</string>
+    <string name="privacy_backup_userdata_category_title">Резервне копіювання даних</string>
+    <string name="usb_ums_without_external_sd_summary">"Зовнішня карта пам\'яті не виявлена, вбудована карта пам\'яті не підтримує режим U disk, тож він недоступний"</string>
+    <string name="privacy_category_title_cloud">Хмара</string>
+    <string name="wifi_backup_category_title">Резервна копія WLAN</string>
+    <string name="display_effect_of_screen_reset">"Віднов."</string>
+    <string name="double_click_tip">Двічі клацніть тут</string>
+    <string name="ipo_title">Швидке завантаження</string>
+    <string name="authdlg_message">\'%1$s\' запитує дозвіл на підключення до %2$s.</string>
+    <string name="lockdown_vpn_already_connected">Завжди VPN включений для зв\'язку.</string>
+    <string name="usb_connect_as_cdrom_category">"Підключити, як CD-ROM"</string>
+    <string name="wifi_ap_max_connection_title">Максимальна кількість підключень</string>
+    <string name="launch_main">Запустити програму як основну діяльність</string>
+    <string name="usbsetting_help_content">1. USB накопичувач (UMS). В цьому режимі телефон підключається як звичайний накопичувач. Рекомендовано для комп\'ютерів з Windows XP. Для активації необхідно натиснути на кнопку "Увімкнути USB накопичувач". \n\n
+2. Пристрій зберігання (MTP). Цей режим дозволяє переглядати та передавати файли. Даний режим рекомендований для Windows Vista, 7 та 8. Для його роботи з Windows XP необхідно встановити драйвер. \n\n
+3. Камера (PTP). Цей режим дозволяє передавати фото за допомогою спеціальних програм. Ця функція доступна на більшості комп\'ютерів. \n\n
+4. Налагодження USB. Ця опція необхідна лише для розробників програм, оновлення прошивок та інших операцій. \n\n
+5. USB-модем. В цьому режимі комп\'ютер може отримати доступ до Інтернету через даний пристрій. В цьому режимі доступ до пам\'яті телефону обмежений.</string>
+    <string name="title_lcd_invert">Змінити кольори РК-екрана на негатив</string>
+    <string name="test_area">ДІЛЯНКА ТЕСТУ:</string>
+    <string name="wfd_change_resolution_menu_title">Змінити чіткість</string>
+    <string name="smart_scene_summary">"Автоматичний вибір режиму роботи в залежності від часу та безпровідних мереж"</string>
+    <string name="lenovo_system_update">"Оновлення системи"</string>
+    <string name="wifi_ap_reset_OOB_title">Скинути мережу SSID, безпека і пароль до типових параметрів (інтегрована конфігурація WPS)</string>
+    <string name="mouse_primary_button_title">Поміняти основну і другорядну кнопки</string>
+    <string name="wide_touch_summary">Налаштувати додаткове меню з програмами та командами</string>
+    <string name="try_swing_lock_result_longer">Невідповідний рівень тремтіння. Повторіть спробу</string>
+    <string name="bluetooth_ask_enablement_ext">Програма <xliff:g>%1$s</xliff:g> намагається ввімкнути Bluetooth.</string>
+    <string name="wifi_ap_reset_OOB">Скинути OOB</string>
+    <string name="side_key_backlight_title">"Розблок. клавішами гучності"</string>
+    <string name="privacy_restore_userdata_summary">Виберіть відновлення даних із накопичувача</string>
+    <string name="swing_lock">Блокування струшуванням</string>
+    <string name="default_name">За умовчанням</string>
+    <string name="gesture_rotete_cbox_summary">Торкання</string>
+    <string name="usb_sharing_title">USB інтернет</string>
+    <string name="wifi_restore_category_title">Відновлення WLAN</string>
+    <string name="landscape_launcher_none">"Немає"</string>
+    <string name="drm_reset_toast_msg">Ліцензії були успішно видалені.</string>
+    <string name="ringtone_settings">Мелодії та гучність</string>
+    <string name="network_synchronization_enable_confirm">Для синхронізації мережі необхідно отримати допоміжні дані через бездротове з\'єднання; це може призвести до додаткових витрат. Ви дійсно хочете почати синхронізацію?</string>
+    <string name="usb_charge_title">Тільки заряджання</string>
+    <string name="runningapp_stop_dlg_title">Зупинити службу?</string>
+    <string name="sim_remain">(Залишилось:<xliff:g id="remains">%d</xliff:g>)</string>
+    <string name="lockscreen_style_default_desc">"Швидкий доступ до програм в екрані блокування"</string>
+    <string name="pin_scroll_summary">Під час прокручування списку до верху зупиніться на деякий час і відпустіть палець. Список буде закріплено для зручності.</string>
+    <string name="AGPS_DEFAULT_STRING">A-GPS типові параметри</string>
+    <string name="vpn_lockdown_savelogin_error">Якщо VPN завжди ввімкнено, потрібно зберегти інформацію для входу в обліковий запис. </string>
+    <string name="smart_call_answer_title">Автоматична відповідь</string>
+    <string name="sim_slot">Слот SIM-карти</string>
+    <string name="stop_select_app">"Вибрати зупинити?"</string>
+    <string name="wifi_ap_client_block_title">"Блокув."</string>
+    <string name="usb_sharing_summary">Надати спільний доступ до Інтернету Windows PC через USB кабель</string>
+    <string name="current_suffix">"(Поточний)"</string>
+    <string name="wifi_backup">Рез. копіювання налаштувань</string>
+    <string name="agps_profile_select_Title">Профіль SUPL</string>
+    <string name="usb_tether">Доступ до мережі через USB</string>
+    <string name="single_hand_summary">Керуйте телефоном лише однією рукою</string>
+    <string name="smart_scene_title">Інтелектуальні режими</string>
+    <string name="cpu_dtm_summary">Обмежити максимальну продуктивність процесора для економії заряду батареї та підтримки нижньої температури пристрою.</string>
+    <string name="dlg_confirm_unmount_usb_title" product="default">"Відключити карту SD?"</string>
+    <string name="battery_percent">Заряд акумулятора</string>
+    <string name="server_lenovo_exp_dialogmsg">У разі виходу з програми Lenovo Enhanced Experience деякі програми можуть працювати неправильно. Це може погіршити обслуговування виробу та роботу з ним. Вийти?</string>
+    <string name="apn_port_warning">Значення порта мусить бути від  1 до 65535!</string>
+    <string name="agps_str_allow">ДОЗВОЛИТИ</string>
+    <string name="tethered_ipv4v6">(IPv6 доступний)</string>
+    <string name="autopop_warning_title">Не нагадувати наступного разу?</string>
+    <string name="prevent_misoperation_title">Режим блокування набору в кишені</string>
+    <string name="default_soft_setting">Параметри ПЗ за замовчуванням</string>
+    <string name="lockscreen_style_set">"Встановити блокування екрану"</string>
+    <string name="wifi_backup_ok">Резервне копіювання успішне!</string>
+    <string name="wifi_backup_failed">Резервне копіювання не виконано.</string>
+    <string name="dlg_default_write_disk0_change_msg">"Якщо ви виберете SD-карту, програмами, які встановлені на USB носій, неможливо буди користуватися і пристрій буде перезавантажений, ви впевнені, що хочете вибрати SD-карту?"</string>
+    <string name="MobileNetwork_SIM2_Active">SIM2 активна</string>
+    <string name="eap_sim_slot_0">SIM-карта Слот 1</string>
+    <string name="smart_standby_ctrl_description">Автоматично вмикати підсвітку, відкривши камеру і потримавши певний час перед обличчям</string>
+    <string name="eap_sim_slot_1">SIM-карта Слот 2</string>
+    <string name="auto_rotete_cbox_summary">Автоматичний</string>
+    <string name="wifi_restore_ok">Відновлення успішне!</string>
+    <string name="auto_time_off">"Закрити"</string>
+    <string name="passpoint_certificate">Сертифікат</string>
+    <string name="audio_profile_error">"Помилка"</string>
+    <string name="dlg_mount_external_sd_summary" product="default">Якщо ви підключите SD-карту, буде припинено використання деяких програм.</string>
+    <string name="wifi_channel">Популярні канали</string>
+    <string name="agps_str_verify">Підтвердження</string>
+    <string name="personal_hotsport_title">Точка доступу</string>
+    <string name="bluetooth_stop_search_for_devices">Зупинити пошук</string>
+    <string name="phone_model_number">"Модель телефону"</string>
+    <string name="akp_installer_settings_title">Встановлювач програми</string>
+    <string name="authdlg_service_pbap">завантажити контакти на цей телефон</string>
+    <string name="wifi_security_wapi_certificate">сертифікат WAPI</string>
+    <string name="gps_time_sync_attention_gps_off">Для використання часу, який надає GPS, спершу необхідно увімкнути GPS. Потім на визначення розташування отримання GPS займе майже 1 хвилину. Крім того, GPS може не надати час через слабкий навколишній сигнал. \n\nВи впевнені, що хочете увімкнути GPS і зачекати, доки він надасть дані про час?</string>
+    <string name="launch_activitie">Запустити</string>
+    <string name="sd_eject_usbstorage_summary" product="default">"Відключити внутр. носій USB"</string>
+    <string name="smart_call_answer_summary">Відповідати на виклик при піднятті телефону</string>
+    <string name="tethering_apn_settings_summary">Параметри APN для маршрутизації</string>
+    <string name="hdmi_settings">Параметри HDMI</string>
+    <string name="try_swing_lock_result_harder">Невідповідний рівень тремтіння. Повторіть спробу</string>
+    <string name="usb_ums_with_external_sd_summary">"Підключення в якості звичайної USB-флешки. Рекомендується для Windows XP та інших систем."</string>
+    <string name="gemini_data_connection_progress_message">"Зачекайте..."</string>
+    <string name="display_effect_of_screen_toast_title">Оскільки не було вибрано команди "Застосувати" &gt; "Зберегти" &gt; "Ефекти екрана", після перезавантаження комп\'ютера значення буде скинуто</string>
+    <string name="privacy_category_title_sd">Внутрішня пам\'ять та карта</string>
+    <string name="privacy_backup_userdata_text">Зберігати резервні копії SMS, контактів і журналів викликів на внутрішньому накопичувачі?</string>
+    <string name="mobile">Передача даних</string>
+    <string name="choose_soft_place">Виберіть місце для встановлення програмного забезпечення</string>
+    <string name="display_smart_standby">Розумне очікування</string>
+    <string name="ims_toggle_summary">Надання послуг мультимедійної підсистеми IP </string>
+    <string name="bluetooth_ask_establish_connection_ext">"Програма <xliff:g>%1$s</xliff:g> намагається з\'єднатися з <xliff:g>%2$s</xliff:g> через Bluetooth."</string>
+    <string name="wifi_advanced_ipv6_address_title">Адреса IPv6</string>
+    <string name="clear_motion_summary">Підсилювач щільності відео</string>
+    <string name="rcse_settings_title">параметри joyn</string>
+    <string name="voice_ui_title">"Голосове керування"</string>
+    <string name="bluetooth_ftp_profile_summary_use_for">"Викор. для перед. файлів"</string>
+    <string name="select_memory">Пам\'ять по замовчуванню</string>
+    <string name="usb_ums_summary">"Рекомендовано XP. Дозволяє передавати файли між вашим комп'ютером і пристроєм з Android."</string>
+    <string name="clear_cache_msg">Очищено. Звільнено <xliff:g>%1$s</xliff:g> пам\'яті.</string>
+    <string name="data_usage_more_settings">Додаткові параметри</string>
+    <string name="dlg_confirm_unmount_usb_text" product="default">"У разі відключення карти SD деякі програми, якими ви користуєтеся, припинять роботу та можуть бути недоступними до повторного підключення карти SD."</string>
+    <string name="cpu_dtm_title">Режими енергозбереження ЦП</string>
+    <string name="display_effect_of_screen_dialog_ok">OK</string>
+    <string name="smart_roll_summary">Потягніть за край екрану для зміни розташування кнопок</string>
+    <string name="light_settings">Індикатор</string>
+    <string name="agps_str_notify">"Сповіщення"</string>
+    <string name="unmount_usb_inform_text" product="default">"Карту SD буде відключено."</string>
+    <string name="agps_OK">"OK"</string>
+    <string name="hotknot_explained_description">Дозволити обмін даними, коли екран торкається іншого пристрою</string>
+    <string name="wifi_restore_title">Відновлення конфігурації WLAN</string>
+    <string name="security_not_set">Рівень безпеки не встановлено</string>
+    <string name="bluetooth_ask_establish_connection">"Програма намагається з\'єднатися з <xliff:g>%1$s</xliff:g> через Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">"Програма <xliff:g>%1$s</xliff:g> намагається ввімкнути Bluetooth, щоб з\'єднатися з <xliff:g>%2$s</xliff:g>."</string>
+    <string name="sd_eject_usbstorage" product="default">"Відключити носій USB"</string>
+    <string name="swing_lock_summary">Блокування смартфону струшуванням | Довідка</string>
+    <string name="usb_tether_type_title">Тип маршрутизації USB</string>
+    <string name="gesture_series_title">Операції за вимкненого екрана</string>
+    <string name="header_category_system_and_key">Робота гарячих клавіш</string>
+    <string name="wifi_ap_client_ip_label">IP адреса:</string>
+    <string name="wifi_ap_title">Статистика</string>
+    <string name="gemini_sim_management_title">Керування SIM картами</string>
+    <string name="try_it">Спробуйте</string>
+    <string name="AGPS_NOTIFY_PRIVACY"> Запит розташування (конфіденційність)</string>
+    <string name="pch_call_prefer_summary_on">Переважно виклики</string>
+    <string name="wifi_hotspot_suspend_optimizations">Оптимізація ТД WLAN </string>
+    <string name="network_synchronization_enable_allow">"Продовжити"</string>
+    <string name="wifi_ipv4_address">IPv4 адреса</string>
+    <string name="autopop_warning_message">Якщо зняти галочку, це вікно не з\`явиться під час наступного підключення телефону до комп\'ютера. Ви можете відкрити це вікно, натиснувши на кнопку Системні повідомлення. </string>
+    <string name="launch_error">"Не вдається запустити програму!"</string>
+    <string name="wifi_no_cert_for_wapi">Не вдалося знайти сертифікації для поточного підключення AP</string>
+    <string name="custom_theme_name">Новий [%1$s]</string>
+    <string name="wifi_tethering_title">Бездротова точка доступу WLAN</string>
+    <string name="passpoint_config_credential_type">Тип облікових даних</string>
+    <string name="smart_roll_title">Зміна полож.</string>
+    <string name="tethered_ipv6_title">Параметри бездротової точки доступу і маршрутизації</string>
+    <string name="display_effect_of_screen_soft">М\'який</string>
+    <string name="wifi_ap_connected_title">Підключені користувачі</string>
+    <string name="tvout_settings">ТБ вихід</string>
+    <string name="side_key_backlight_summary">"Увімкнення телефону бічними кнопками | Довідка"</string>
+    <string name="authdlg_service_ftp">передача файлів із цього телефону</string>
+    <string name="loading">"Завант-ня..."</string>
+    <string name="profile_edit_pocket_title">"Кишеньковий режим"</string>
+    <string name="display_effect_of_screen_warm">Теплий</string>
+    <string name="display_effect_of_screen_default">За умовчанням</string>
+    <string name="wifi_restore_summary">Відновлення конфігурації WLAN (наприклад, облікового запису/пароля) з LeCloud</string>
+    <string name="stop_all_app">"Зупинити все"</string>
+    <string name="sd_insert_usb_summary" product="default">"Вставте носій USB для підключ."</string>
+    <string name="dlg_mount_external_sd_title" product="default">Встановити SD-карту?</string>
+    <string name="credentials_none">Наразі жодних доказів немає</string>
+    <string name="privacy_backup_userdata_summary">Створюйте резервні копії даних на накопичувачі</string>
+    <string name="mtk_thememanager_title">Тема</string>
+    <string name="wifi_ap_bandwidth_enable">Увімкнути смугу пропускання</string>
+    <string name="passpoint_supported">Підтримується</string>
+    <string name="screen_timeout_CU">Час відключення екрану</string>
+    <string name="vpn_delete">Дійсно видалити?</string>
+    <string name="privacy_backup_userdata_summary_cloud">Копіювати дані з телефону в хмару</string>
+    <string name="bluetooth_advanced_settings">"Розширені налаштування"</string>
+    <string name="gemini_default_sim_never">"Вимк."</string>
+    <string name="bluetooth_profile_ftp">"Передавання файлів"</string>
+    <string name="try_swing_lock_info">Струсніть телефон, щоб заблокувати екран</string>
+    <string name="network_synchronization_enable_deny">"Скасувати"</string>
+    <string name="sim_enter_pin_hints">(Введіть 4-8 цифр)</string>
+    <string name="ipo_summary_on">Вимкнути швидке завантаження</string>
+    <string name="authorizaion_failed_error">Помилка автентифікації. Неможливо підключитися до віддаленого пристрою.</string>
+    <string name="ipo_summary_off">Увімкнути швидке завантаження</string>
+    <string name="display_settings_scences_title">Оформлення</string>
+    <string name="runningapp_stop_dlg_text" product="tablet">Якщо ви зупините використання цієї послуги, деякі
+        функції планшету можуть працювати з помилками, доки ви не вимкнете телефон
+        і не увімкнете його знову.</string>
+    <string name="usbsetting_usbmassstorage_wait">Зачекайте...</string>
+    <string name="wifi_WEP_transmit_key">Передати ключ</string>
+    <string name="move_to_sdcard">Перейдіть до карти пам\'яті за замовчуванням</string>
+    <string name="gps_time_sync_attention_gps_on">Визначення розташування GPS потребує майже 1 хвилину. Крім того, GPS може не надати дані про час через слабкий навколишній сигнал.\n\nВи впевнені, що хочете використовувати час, який надає GPS?</string>
+    <string name="bluetooth_turning_on_failed">Не вдалося відкрити Bluetooth</string>
+    <string name="wifi_tether_wps_connect_title">WPS підключення</string>
+    <string name="tether_title">Особиста точка доступу</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Запит розташування (вимкнути, якщо немає відповіді)</string>
+    <string name="authdlg_auto_reply">Більше не запитувати</string>
+    <string name="move_tomemory_success">Переміщення виконано! <xliff:g>%1$s</xliff:g> програм переміщено успішно!</string>
+    <string name="eap_sim_aka_no_sim_slot_selected">Ви повинні вибрати слот SIM-карти, який буде використовуватися для EAP-SIM/AKA</string>
+    <string name="passpoint_summary">Автоматичне підключення до ТД, активованої проміжною точкою</string>
+    <string name="usb_ums_title">"Накопичувач USB"</string>
+    <string name="usb_bicr_summary">Показати віртуальний CD-ROM, який містить деякі корисні програми.</string>
+    <string name="authdlg_service_map">доступ до повідомлень із цього телефону</string>
+    <string name="slide_unlock_title">Розблокування жестом</string>
+    <string name="authdlg_service_spp">послідовний порт Bluetooth на цьому телефоні</string>
+    <string name="display_effect_of_screen_dialog_title">Обраний колір буде застосовано після змінення яскравості екрана</string>
+    <string name="move_select">Перемістити вибрані програми? Деякі програми неможливо перемістити на карту пам\'яті за замовчуванням.</string>
+    <string name="wifi_restore_failed">Відновлення не виконано.</string>
+    <string name="landscape_launcher_title">Панель запуску пейзаж </string>
+    <string name="usb_sharing_info_title">Через Інтернет</string>
+    <string name="clear_cache">Очистити кеш</string>
+    <string name="authdlg_service_default">цей телефон</string>
+    <string name="wifi_tether_auto_disable_title">Тримати точку доступу WLAN увімкненою</string>
+    <string name="wifi_backup_summary">Резервне копіювання конфігурації WLAN (наприклад, облікового запису/пароля) до LeCloud</string>
+    <string name="storage_phone">Пам\'ять телефону</string>
+    <string name="hdmi_audio_toggler">"Звук"</string>
+    <string name="NI_Request_ID">Код ініціатору запиту</string>
+    <string name="passpoint_config_eap_method">"Метод EAP"</string>
+    <string name="wifi_ap_wps_mode_title">Режим WPS</string>
+    <string name="authdlg_title">Запит на авторизацію Bluetooth</string>
+    <string name="usb_bicr_title">Вбудований CD-ROM</string>
+    <string name="double_click_title">Швидкість подвійного клацання</string>
+    <string name="pin_scroll_title">Прокрутіть, щоб закріпити список</string>
+    <string name="wifi_backup_title">Резервна копія WLAN</string>
+    <string name="eap_sim_aka_no_sim_error">Ви повинні вставити SIM-карту, яка буде використовуватися для EAP-SIM/AKA</string>
+    <string name="wifi_wps_fail_error">Не вдалося встановити захист WLAN, спробуйте ще раз.</string>
+    <string name="bluetooth_ftp_profile_summary_connected">"Підключення для передачі файлів"</string>
+    <string name="privacy_backup_userdata_title_cloud">Копіювати в хмару</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">Мінімізуйте користування батареєю, коли увімкнена ТД WLAN</string>
+    <string name="privacy_restore_userdata_category_title">Відновлення даних</string>
+    <string name="gesture_series_summary">Розблоковуйте екран, коли він вимкнений, а також швидко запускайте програми</string>
+    <string name="auto_popup">Не показувати це вікно наступного разу.</string>
+    <string name="MobileNetwork_SIM1_Active">SIM1 активна</string>
+    <string name="move_app_to_where">"Перем. на "<xliff:g id="location">%s</xliff:g>
+  </string>
+    <string name="launch_main_label">Запустити програму</string>
+    <string name="akp_installer_settings_summary">Встановіть програму з пам\'яті телефону або карти пам\'яті</string>
+    <string name="tv_system_title">Телесистема</string>
+    <string name="NI_Request_ClientName">Ім\'я клієнта</string>
+    <string name="profile_edit_pocket_summary">"Максимальна гучність сигналу у кишені чи у чохлі"</string>
+    <string name="profile_edit_weaken_summary">Автоматичне зменшення гучності звукового сигналу при взятті телефону | Довідка</string>
+    <string name="privacy_restore_userdata_summary_cloud">Відновити дані з хмари</string>
+    <string name="display_effect_of_screen_cool">Холодний</string>
+    <string name="lock_screen_notifications_title">Повідомлення на екрані блокування</string>
+    <string name="header_category_call_and_msg">Дзвінки та надсилання повідомлень</string>
+    <string name="status_imei_slot1">IMEI (Слот1)</string>
+    <string name="wifi_ap_client_details_title">"Деталі"</string>
+    <string name="server_lenovo_exp_title">Погоджуюся брати участь у програмі Lenovo Experience</string>
+    <string name="status_imei_slot2">IMEI (Слот2)</string>
+    <string name="header_category_lock_and_screen">Екран блокування та екран</string>
+    <string name="passpoint_append_summary">(через Проміжну точку)</string>
+    <string name="lock_screen_style_title">Стиль блокування екрану</string>
+    <string name="privacy_restore_userdata_title_cloud">Відновити з хмари</string>
+    <string name="app_privacy_settings">Настройки конфіденційності програм</string>
+    <string name="drm_reset_dialog_msg">Ця операція призведе до видалення всіх ліцензій на цьому пристрої. Продовжити?</string>
+    <string name="wapi_as_certificate">ASE сертифікат</string>
+    <string name="erase_external_storage_description_fuse">"Стерти всі дані на внутрішній карті пам'яті, такі як музика й зображення"</string>
+    <string name="wifi_tether_auto_channel_width_text">Авто 20/40 МГц</string>
+    <string name="bluetooth_security_confirm">"Запит на дозвіл Bluetooth"</string>
+    <string name="slide_unlock_summary">Для розблокування екрану провести по його нижній частині зліва направо | Довідка</string>
+    <string name="wifi_tether_auto_channel_text">"Автом."</string>
+    <string name="usb_charge_summary">В цьому режимі всі функції USB вимикаються, що дозволяє прискорити заряджання.</string>
+    <string name="long_menu_active_voice_summary">Коли екран підсвічено, натисніть і утримуйте клавішу меню, щоб активувати голосову функцію</string>
+    <string name="wifi_ap_time_duration">Загальний час:<xliff:g id="time">%1$s</xliff:g>
+  </string>
+    <string name="wifi_ap_client_mac_label">MAC адреса:</string>
+    <string name="wifi_advanced_ipv4_address_title">IPv4 адреса</string>
+    <string name="hdmi_video_resolution">Роздільна здатність відео</string>
+    <string name="tethered_ipv4">(IPv6 недоступний)</string>
+    <string name="soft_permission">Керування дозволами</string>
+    <string name="authdlg_service_dun">послуга комутованого з\'єднання з мережею з цього телефону</string>
+    <string name="privacy_backup_userdata_title">Створити резервну копію</string>
+    <string name="prevent_misoperation_summary">Якщо телефон розміщений у кишені, використовуйте датчик наближення, щоб уникнути ненавмисного ввімкнення</string>
+    <string name="tethered_ipv6">(Доступний тільки IPv6)</string>
+    <string name="wifi_ipv6_address">Адреса IPv6</string>
+    <string name="wifi_ap_bandwidth_title">Використання смуги пропускання</string>
+    <string name="tethering_apn_settings_title">Параметри APN</string>
+    <string name="erase_external_storage_fuse">"Форматування вбудованої карти пам'яті"</string>
+    <string name="server_lenovo_exp_summery">Збір даних для покращення виробу та обслуговування</string>
+    <string name="usbsetting_usbmassstorage_close">Закрити USB накопичувач</string>
+    <string name="wifi_ap_no_connected">0 підключених користувачів</string>
+    <string name="wifi_channel_width">Ширина каналу</string>
+    <string name="dlg_default_write_disk1_change_msg">"Якщо ви виберете USB носій, програмами, які встановлені на SD-карту, неможливо буди користуватися і пристрій буде перезавантажений, ви впевнені, що хочете вибрати USB носій?"</string>
+    <string name="wifi_ap_bandwidth_chart_summary">Вимірюється телефоном, швидкість передачі даних вашого оператора и дані обліку можуть відрізнятися.</string>
+    <string name="usbsetting_help_title">Довідка</string>
+    <string name="bluetooth_remote_device">пристрої Bluetooth</string>
+    <string name="long_menu_active_voice">Активація функції голосового керування за допомогою клавіші \"Меню\"</string>
+    <string name="mouse_primary_button_dialog_title">Поміняти основну кнопку</string>
+    <string name="authdlg_service_decline">"Відхилити"</string>
+    <string name="move_select_short">"Перемістити вибрану програму?"</string>
+    <string name="display_effect_of_screen_bright">Яскравий</string>
+    <string name="hdmi_video_toggler">"Відео"</string>
+    <string name="wifi_tether_wps_pin_error">Невірний PIN-код</string>
+    <string name="hdmi_toggler">"HDMI"</string>
+    <string name="auto_time_on">"Дата та час мережі"</string>
+    <string name="usb_sharing_info_step_1">"1. Відкрити мережеві підключення на вашому ПК з Windows."</string>
+    <string name="button_brightness">Підсвітка кнопок</string>
+    <string name="display_default">"Екран"</string>
+    <string name="pch_toggle_title">Режим переважної GPRS передачі</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Запит розташування (дозволити, якщо немає відповіді)</string>
+    <string name="usb_sharing_info_step_3">"3. Перейдіть на вкладку спільний доступ і виберіть \"Дозволити іншим користувачам мережі підключатися через Інтернет підключення цього комп\'ютера (якщо з\'явиться надпис \'Підключення до домашньої мережі\', виберіть щойно додану мережу, яка представляє USB Інтернет)".</string>
+    <string name="wifi_ap_wps_pin_title">Тип PIN-карти клієнта</string>
+    <string name="usb_sharing_info_step_2">"2. Клацніть правою кнопкою миші підключення, до якого ви хочете надати спільний доступ, а потім натисніть кнопку параметри."</string>
+    <string name="runningapp_stop_dlg_text" product="default">Якщо ви зупините цю послугу, деякі
+        функції телефону можуть перестати правильно працювати, доки ви не вимкнете телефон
+        і не увімкнете його знову.</string>
+    <string name="wifi_tether_wps_connect_summary">продовжується обраний режим встановлення захисту WLAN</string>
+    <string name="wizard_title">Довідка</string>
+    <string name="location_settings_label">Локальний інженерний режим</string>
+    <string name="sim_status_title">Статус SIM-карти</string>
+    <string name="auto_rotate_type">Авто-повертання екрану</string>
+    <string name="wifi_hex_password">Шістнадцятиричний пароль.</string>
+    <string name="pch_data_prefer_summary_off">Переважно дані</string>
+    <string name="wifi_WEP_secury_key">Ключ безпеки</string>
+    <string name="passpoint_username_pw">"Ім'я користувача/Пароль"</string>
+    <string name="dlg_default_write_disk_change_msg">Основний диск для запису був змінений, необхідно зараз виконати перезавантаження!</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off" msgid="1225626898926363100">"Щоб переглянути пристрої, увімкніть бездротовий екран."</string>
+    <string name="drm_settings_title">Скидання DRM</string>
+    <string name="notification_settings_title">Панель сповіщень</string>
+    <string name="wifi_ap_client_unblock_title">розблокувати</string>
+    <string name="authdlg_service_opp">цей телефон</string>
+    <string name="display_personalize">Персоналізація</string>
+    <string name="usb_tethering_select_version">Виберіть версію системи ПК</string>
+    <string name="drm_settings_summary">Видалити всі DRM ліцензії</string>
+    <string name="hdmi_settings_summary">Натисніть, щоб налаштувати HDMI</string>
+    <string name="wifi_ap_no_blocked">0 заблокованих користувачів</string>
+    <string name="smart_rotate_type">Розумний поворот екрану</string>
+    <string name="wifi_tether_setting_title">Основні параметри</string>
+    <string name="master_clear_error">SYNCit вимкнено. Увімкніть програму.</string>
+    <string name="tvout_settings_summary">Параметри ТБ виходу</string>
+    <string name="try_swing_lock_result_ok">Метод правильний. Можна використати цю функцію</string>
+    <string name="wifi_ap_wps_dialog_title">WPS підключення</string>
+    <string name="authdlg_service_accept">Авторизація</string>
+    <string name="dialog_title_button_brightness">Підсвітка кнопок</string>
+    <string name="move_to_phone">Перейти до телефону</string>
+    <string name="usbsetting_usbmassstorage_open">Відкрити USB накопичувач</string>
+    <string name="wide_touch_title">Додаткове меню</string>
+    <string name="wifi_ap_blocked_title">Заблоковані користувачі</string>
+    <string name="gesture_rotate_type">Торкання для повороту екрану</string>
+    <string name="sd_mount_usbstorage" product="default">"Підключити носій USB"</string>
+    <string name="vpn_delete_title">Видалити</string>
+    <string name="wifi_ap_total_data">Загальна кількість використаних даних:<xliff:g id="time">%1$s</xliff:g>
+  </string>
+    <string name="unlock_set_unlock_mode_voice_weak">Розблокування голосом</string>
+    <string name="audio_profile_settings_title_lap">Аудіо профілі</string>
+    <string name="storage_path0">Пристрій USB</string>
+    <string name="uninstall_select">Видалити вибране?</string>
+    <string name="storage_path1">SD-карта</string>
+    <string name="install_local">Місце для встановлення програмного забезпечення</string>
+    <string name="server_lenovo_exp_cancel">Скасувати</string>
+    <string name="hdmi_auto">"АВТОМ."</string>
+    <string name="server_lenovo_exp_dlg_title">Попередження</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">"Програма намагається ввімкнути Bluetooth, щоб з\'єднатися з <xliff:g>%1$s</xliff:g>."</string>
+    <string name="lock_screen_notifications_summary">Показувати повідомлення на екрані блокування</string>
+    <string name="wapi_user_certificate">"Сертиф. корист-ча"</string>
+    <string name="privacy_restore_userdata_title">Відновити з резервної копії</string>
+
+    <string name="dlg_error_unmount_usb_title" product="default">Поточний</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Поточний</string>
+    <string name="server_lenovo_exp_ok">"OK"</string>
+    <string name="summary_lcd_invert">Поточний</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Поточний</string>
+
+    <string name="power_settings">Енергозбереження</string>
+    <string name="multiwindow_settings">Мультивікно</string>
+    <string name="night_mode_summary">Цей режим підходить для використання пристрою вночі. Зверніть увагу, що деякі елементи інтерфейсу програм можуть бути неактивними.</string>
+    <string name="long_press_back_finish_title">Натисніть і утримуйте клавішу \"Назад\", щоб вийти</string>
+    <string name="night_mode">Нічний режим</string>
+    <string name="long_press_back_finish_summary">Натисніть і утримуйте клавішу \"Назад\", щоб вийти з поточної програми</string>
+    <string name="change_settings_to_all_settings">Перейти до настройок</string>
+    <string name="touch_free_phone_dial">Безконтактний набір</string>
+    <string name="tilt_slide_summary">Нахиляйте вліво/вправо для перегляду слайдів</string>
+    <string name="change_settings_to_recent">Перейти до нещодавно встановлених настройок</string>
+    <string name="touch_free_phone_answer">Безконтактна відповідь</string>
+    <string name="recent_settings_empty">Настройки системи не змінювались нещодавно</string>
+    <string name="recent_settings">Нещодавно встановлені настройки</string>
+    <string name="tilt_slide_title">Нахил слайду</string>
+    <string name="display_effect_type_hue_cool">Soğuk renk</string>
+    <string name="display_effect_buttom_text_cancel">Скасувати</string>
+    <string name="display_effect_mode_default_summary">Режим по замовчуванню з оптимальною передачею кольору.</string>
+    <string name="display_effect_mode_auto_summary">Tarayıcı uygulamasına ve ortama göre modu otomatik olarak değiştirir.</string>
+    <string name="display_effect_type_hue">Ton</string>
+    <string name="display_effect_mode_default_title">Звичайний режим</string>
+    <string name="display_effect_mode_comfirtable_title">Комфортний режим</string>
+    <string name="display_effect_type_contrast_sharp">Keskin</string>
+    <string name="display_effect_mode_comfirtable_summary">Цей режим дозволяє зняти навантаження з очей при тривалому користуванні телефоном.</string>
+    <string name="display_effect_type_hue_warm">Sıcak renk</string>
+    <string name="display_effect_type_saturation">Doygunluk</string>
+    <string name="display_effect_mode_auto_title">Otomatik mod</string>
+    <string name="display_effect_mode_ultra_bright_summary">Режим з підвищеною яскравістю і підвищеним енергоспоживанням.</string>
+    <string name="display_effect_smart_brightness_title">Режим інтенс. зовн. освітлення</string>
+    <string name="display_effect_buttom_text_apply">Прийняти</string>
+    <string name="display_effect_mode_ultra_bright_title">Режим підвищеної яскравості</string>
+    <string name="display_effect_category_title_commom_mode">Загальні режими</string>
+    <string name="display_effect_mode_outdoor_title">Zorlu ışık modu</string>
+    <string name="display_effect_type_saturation_bright">Parlak</string>
+    <string name="display_effect_type_contrast">Kontrast</string>
+    <string name="display_effect_mode_outdoor_summary">Dışarıda ve zorlu ışık koşullarında bulunduğunuzda kullanım için uygundur. Dış mekanlarda görünürlüğü artırır. Bu mod bekleme işlevlerini etkiler; normal kullanıcıların dikkatli olması önerilir!</string>
+    <string name="display_effect_category_title_smart">Інтелектуальні режими</string>
+    <string name="display_effect_mode_custom_title">Режим користувача</string>
+    <string name="display_effect_mode_custom_summary">Режим з можливістю налаштування окремих параметрів.</string>
+    <string name="display_effect_smart_brightness_summary">В цьому режимі пристрій відслідковує освітленість оточуючого середовища. Якщо вона занадто висока, то вмикається спеціальний режим, що покращує видимість зображення на екрані.</string>
+<string name="device_info" msgid="3191876744469364173">"Інформація про пристрій"</string>
+
+    <string name="display_effect_type_hue_default">"Звичайний"</string>
+    <string name="display_effect_type_contrast_soft">Пастель</string>
+    <string name="display_effect_type_saturation_default">"Звичайний"</string>
+    <string name="display_effect_type_contrast_default">"Звичайний"</string>
+    <string name="display_effect_type_saturation_soft">Пастель</string>
+<string name="pocket_mode_title">"Кишеньковий режим"</string>
+<string name="pocket_mode_summary">"Максимальна гучність сигналу у кишені чи у чохлі"</string>
+<string name="pocket_mode_help">"Максимальна гучність сигналу у кишені чи у чохлі"</string>
+<string name="ringtone_weaken_title">Зменш. гучність при відповіді</string>
+<string name="ringtone_weaken_summary">Автоматичне зменшення гучності звукового сигналу при взятті телефону | Довідка</string>
+<string name="ringtone_weaken_help">Під час відповіді на виклик гучність мелодії дзвінка знижується.</string>
+<string name="gesture_topspeed_snap_title">Зйомка подвійним дотиком</string>
+<string name="gesture_topspeed_snap_summary">Зйомка фото подвійним дотиком до центральної кнопки при вимкненому екрані</string>
+<string name="gesture_light_up_screen_summary">"Вмикати та вимикати підсвічування екрану подвійним дотиком до нього"</string>
+<string name="gesture_light_up_screen_title">"Вмикання підсвітки дотиком"</string>
+<string name="usb_detail_message">"Скористайтеся комп'ютером для налаштування свого телефона. Для отримання офіційного програмного забезпечення Lenovo, перейдіть на сторінку http://sj.lenovo.com."</string>
+<string name="bluetooth_confirm_device_pair">З\'єднати з:</string>
+<string name="wifi_ap_less">Мережі з хорошим прийомом</string>
+<string name="usb_adb_summary">Активація режиму налагодження, що дозволяє керувати пристроєм з комп\'ютера.</string>
+<string name="wifi_ap_more">Показати всі мережі</string>
+<string name="bluetooth_confirm_passkey_show">Ви маєте побачити цей пароль:</string>
+<string name="usb_adb_title">Налагодження USB (ADB)</string>
+<string name="wifi_wapi_cert_install">Встановити сертифікат WAPI</string>
+<string name="location_agps_pref_apn_title">Пріоритетні точки доступу</string>
+<string name="location_agps_roaming_help">Увага! Якщо вибрати ВСІ МЕРЕЖІ, щоб відкрити AGPS, це може привести до підвищення плати за розмови в роумінгу ！</string>
+<string name="wifi_wapi_cert_install_button">"Установити"</string>
+<string name="wifi_wapi_cert_create_subdir">Створити каталог</string>
+<string name="wifi_wapi_cert_mgmt_user_dont_exist">Введіть ім\'я користувацького сертифікату</string>
+<string name="wifi_wapi_user_cert">Сертифікат користувача</string>
+<string name="location_agps_apn_summary">Виберіть потрібний тип точки доступу</string>
+<string name="location_agps_apn_choose_dialog_title">Типи точки доступу</string>
+<string name="location_agps_si_mode_dialog_title">Метод AGPS</string>
+<string name="wifi_wapi_cert_mgmt_subdir_exist">Введіть інше ім\'я каталогу, бо таке ім\'я каталогу вже існує</string>
+<string name="location_agps_pref_reset_type_title">Пріоритетний тип скидання</string>
+<string name="wifi_wapi_as_cert">Сертифікат AS</string>
+<string name="supl_not_set">"&lt;Не налаштовано&gt;"</string>
+<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Введіть ім\'я каталогу, який ви збираєтеся створити!</string>
+<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Неприпустимий формат користувацького сертифікату! Встановіть правильний користувацький сертифікат</string>
+<string name="location_agps_si_mode">Режим AGPS SI</string>
+<string name="location_agps_reset_type_summary">Виберіть потрібний тип скидання</string>
+<string name="location_agps_supl_settings">Налаштування SUPL</string>
+<string name="wifi_wapi_cert_mgmt_subdir_create_fail">Помилка створення каталогу</string>
+<string name="wifi_wapi_cert_mgmt_as_dont_exist">SD-карта не має сертифікату AS, перевірте його!</string>
+<string name="invalid_network_mode">Невірний режим мережі</string>
+<string name="location_agps_si_mode_summary">Вибрати пріоритетний спосіб AGPS</string>
+<string name="location_agps_reset_type">Типи скидання</string>
+<string name="not_support_choose">Слот 2 не підтримує режим вибору мережі</string>
+<string name="location_agps_supl_server_addr">"Адреса сервера"</string>
+<string name="location_agps_pref_si_title">Пріоритетний режим</string>
+<string name="location_agps_def_reset_type">ГАРЯЧИЙ</string>
+<string name="wifi_wapi_cert_uninstall">Видалити сертифікат WAPI</string>
+<string name="location_agps_def_network_mode">HOME</string>
+<string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введіть ім\'я сертифікату AS</string>
+<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Неприпустимий формат сертифікату AS! Встановіть правильний сертифікат AS</string>
+<string name="location_agps_apn_type">Типи точки доступу</string>
+<string name="location_agps_register_network_type">Тип мережі доступу</string>
+<string name="wifi_wapi_cert_uninstall_button">"Видалити"</string>
+<string name="location_agps_supl_server_port">Порт сервера</string>
+<string name="location_agps_register_network_type_summary">Вибрати мережу доступу для увімкнення AGPS...</string>
+<string name="location_agps_params_settings_title">Налаштування AGPS</string>
+<string name="wifi_wapi_cert_mgmt_titlebar">Керування сертифікатом WAPI</string>
+<string name="wifi_wapi_cert_cancel_button">"Скасувати"</string>
+<string name="wifi_wapi_cert_delet_subdir">Вибрати сертифікат програмного комплексу</string>
+<string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введіть ім\'я користувацького сертифікату</string>
+<string name="location_agps_pref_network_title">Пріоритетна мережа</string>
+<string name="location_agps_register_network_type_dialog_title">Вибрати мережу</string>
+<string name="smart_standby_enable_title">Розумний режим очікування</string>
+<string name="smart_standby_enable_summary">"Коли вмикається екран, у випадку виявлення очей, спрямованих на нього, він залишатиметься ввімкненим; якщо кут нахилу завеликий або освітлення недостатнє, імовірність розпізнавання знижується"</string>
+<string name="phone_storage_info">Пам\'ять телефону</string>
+    <string name="usb_detail_title">Отримайте офіційне програмне забезпечення Lenovo</string>
+    <string name="processor_unit_info">Процесори</string>
+    <string name="night_mode_tip_secure_button">Відключіть режим нічного читання і натисніть знову</string>
+    <string name="location_agps_reset_type_choose_dialog_title">Усі типи запуску</string>
+    <string name="wide_touch_help">Відкрийте панель ярликів та програм, натиснувши кнопку переходу.</string>
+    <string name="lenovo_cloud">Служба хмарного зберігання даних</string>
+    <string name="zone_auto_summaryOn_not_row">"Використовувати часову зону, надану мережею. Ця функція залежить від постачальника послуги та не підтримується в деяких країнах"</string>
+    <string name="zone_auto_summaryOff_not_row">"Використовувати часову зону, надану мережею. Ця функція залежить від постачальника послуги та не підтримується в деяких країнах"</string>
+    <string name="location_agps_settings_title">НалаштуванняAGPS</string>
+    <string name="night_mode_notification_title">Режим нічного читання ввімкнено</string>
+    <string name="night_mode_notification_text">Натисніть для вимкнення режиму нічного читання</string>
+<string name="wifi_account_share">@string/wlan_share</string>
+<string name="wifi_status_test">Статус WLAN-карти</string>
+<string name="wifi_signal_strong_title">"Підсилення сигналу WLAN"</string>
+<string name="wifi_signal_strong_summary">"Автоматично підсилює сигнал для забезпечення кращого з\'єднання, коли сигнал з\'єднання слабкий." </string>
+    <string name="do_not_distube">"Режим \"Не турбувати\""</string>
+    <string name="gesture_light_up_off_screen_title">"Двічі торкніться екрану для увімкнення/вимкнення"</string>
+    <string name="StorageDialog_summary">Якщо система виявить, що зовнішній накопичувач вийнято, вона перейде на використання інтегрованої пам\'яті та перезавантажиться. Підтвердити перезавантаження? \n\n Якщо зовнішній накопичувач вставлено повторно, перезавантаження не потрібне!</string>
+    <string name="StorageDialog_comfirm">Перезавантажити</string>
+    <string name="StorageDialog_title">Увага!</string>
+    <string name="dlg_default_write_disk_encrypted_msg">Якщо телефон зашифровано, для надійного захисту особистих даних основним сховищем завжди слід призначати вбудований накопичувач.</string>
+</resources>

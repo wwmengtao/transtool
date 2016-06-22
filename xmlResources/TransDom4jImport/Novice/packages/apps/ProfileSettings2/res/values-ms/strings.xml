@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project Licensed under the 
+	Apache License, Version 2.0 (the "License"); you may not use this file except 
+	in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 
+	Unless required by applicable law or agreed to in writing, software distributed 
+	under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES 
+	OR CONDITIONS OF ANY KIND, either express or implied. See the License for 
+	the specific language governing permissions and limitations under the License. --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+	<string name="yes" msgid="4676390750360727396">"Ya"</string>
+	<string name="no">"Tiada"</string>
+	<string name="silent_mode_title" msgid="3181479108593217704">"Mod Senyap"</string>
+	<string name="ringtone_title" msgid="5379026328015343686">"Nada dering"</string>
+	<string name="ringtone_summary">Kemahiran&lt;cf font="Arial"&gt;:&lt;/cf&gt;</string>
+	<string name="all_volume_title" msgid="4296957391257836961">"Kelantangan"</string>
+	<string name="musicfx_title" msgid="3415566786340790345">"Kesan Bunyi"</string>
+	<string name="ring_volume_title">Kelantangan</string>
+	<string name="vibrate_in_silent_title" msgid="3897968069156767036">"Getar dalam Mod Senyap"</string>
+	<string name="vibrate_title" msgid="6045820877942801599">"Getar"</string>
+
+	<string name="sound_settings_title" msgid="8735891486683305886">"Bunyi"</string>
+	<string name="silent_mode_summary" msgid="3309650676072917899">"Mod senyap kecuali untuk media dan penggera"</string>
+	<string name="silent_mode_incl_alarm_summary" msgid="2088830834182228458">"Mod senyap untuk semua bunyi bukan multimedia"</string>
+	<string name="ring_volume_summary">"Tetapkan kelantangan untuk nada dering, mesej dan pemberitahuan"</string>
+	<string name="vibrate_in_silent_summary" msgid="3312600513070076281">"Benarkan getaran semasa mod senyap"</string>
+	<string name="vibrate_summary" msgid="7378130397830790458">"Getaran untuk menerima panggilan dan pemberitahuan"</string>
+	<string name="notification_sound_title" msgid="312032901303146002">"Pemberitahuan lalai"</string>
+	<string name="notification_pulse_title" msgid="1247988024534030629">"Lampu penunjuk berkelip untuk pemberitahuan"</string>
+	<string name="incoming_call_volume_title" msgid="8073714801365904099">"Nada dering"</string>
+	<string name="notification_volume_title" msgid="2012640760341080408">"Pemberitahuan"</string>
+	<string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"Gunakan kelantangan panggilan masuk sebagai kelantangan untuk pemberitahuan"</string>
+	<string name="notification_sound_summary">Kemahiran&lt;cf font="Arial"&gt;:&lt;/cf&gt;</string>
+	<string name="notification_pulse_summary" msgid="6899220780534617152">"Lampu penunjuk bola jejak akan berkelip apabila menerima pemberitahuan baru"</string>
+	<string name="notification_sound_dialog_title" msgid="9052854168612951170">"Pilih nada dering pemberitahuan"</string>
+	<string name="media_volume_title" msgid="3576565767317118106">"Media"</string>
+	<string name="media_volume_summary" msgid="5363248930648849974">"Setkan kelantangan muzik dan video"</string>
+	<string name="alarm_volume_title" msgid="2285597478377758706">"Penggera"</string>
+	<string name="dtmf_tone_enable_title">Nada sentuh pad dail</string>
+	<string name="sound_effects_enable_title">Bunyi sentuhan</string>
+	<string name="lock_sounds_enable_title" msgid="450098505659399520">"Bunyi kunci skrin"</string>
+	<string name="haptic_feedback_enable_title" msgid="2438293710530828760">"Bergetar pada sentuhan"</string>
+	<string name="audio_record_proc_title" msgid="4271091199976457534">"Kurangkan bunyi"</string>
+	<string name="volume_media_description" msgid="7949355934788807863">"Muzik, video, permainan dan media lain"</string>
+	<string name="volume_ring_description">Nada Dering dan Mesej</string>
+	<string name="volume_notification_description" msgid="5810902320215328321">"Pemberitahuan"</string>
+	<string name="volume_alarm_description" msgid="8322615148532654841">"Penggera"</string>
+	<string name="dtmf_tone_enable_summary_on">Main nada semasa menggunakan pad dail</string>
+	<string name="dtmf_tone_enable_summary_off">Main nada semasa menggunakan pad dail</string>
+	<string name="sound_effects_enable_summary_on">Main bunyi semasa membuat pemilihan skrin</string>
+	<string name="sound_effects_enable_summary_off">Main bunyi semasa membuat pemilihan skrin</string>
+	<string name="lock_sounds_enable_summary_on" msgid="145741024028391473">"Mainkan bunyi semasa mengunci dan membuka kunci skrin"</string>
+	<string name="lock_sounds_enable_summary_off" msgid="8481243116223542804">"Mainkan bunyi semasa mengunci dan membuka kunci skrin"</string>
+	<string name="haptic_feedback_enable_summary_on" msgid="1875779656524793053">"Getar semasa menekan kekunci lembut dan bertukar antara UI tertentu"</string>
+	<string name="haptic_feedback_enable_summary_off" msgid="7287885436963105314">"Getar semasa menekan kekunci lembut dan bertukar antara UI tertentu"</string>
+	<string name="audio_record_proc_summary" msgid="8113628457499616498">"Kurangkan bunyi latar belakang apabila bercakap atau merakam" "</string>
+
+	<string name="Ringtone_profile_title">Seting nada dering</string>
+	<string name="Ringtone_profile_summary">Setkan nada dering untuk panggilan masuk dan isyarat mesej</string>
+
+
+	<string name="turn_cr_title">"Seting gelang warna"</string>
+	<string name="turn_cr_on">"Ambil perkhidmatan gelang warna"</string>
+	<string name="turn_cr_off">"Seting gelang warna tidak aktif"</string>
+	<string name="turn_cr_title_ongoing">"Mengambil mesej seting gelang warna"</string>
+	<string name="turn_cr_title_success">"Mesej seting gelang warna berjaya diambil"</string>
+	<string name="turn_cr_title_fail">"Gagal mengambil mesej seting gelang warna"</string>
+	<string name="turn_cr_sms_fail">"Gagal menghantar mesej seting gelang warna"</string>
+	
+	<!-- Profile Settings -->
+	<string name="profile_select_label">Seting Profil</string>
+	<string name="profile_options_label">Seting Profil Diperibadikan</string>
+	<string name="general_profile_title">Piawai</string>
+	<string name="silence_profile_title">Senyap</string>
+	<string name="meeting_profile_title">Getar</string>
+	<string name="outdoors_profile_title">Luar</string>
+	<string name="general_profile_summary">Tetapan jenis deringan, nada dering, dsb dalam profil Umum</string>
+	<string name="meeting_profile_summary">Tetapan maklum balas haptik dalam profil Getaran</string>
+	<string name="silence_profile_summary">Tetapan maklum balas haptik dalam profil Senyap</string>
+	<string name="outdoors_profile_summary">Tetapan jenis deringan, nada dering, dsb dalam profil Luaran</string>
+	<string name="sum_profile_settings">Tukar profil dan seting profil diperibadikan</string>
+
+	<string name="set_profile_title">Seting diperibadikan</string>
+	<string name="call_ringtone_title">Nada dering panggilan masuk</string>
+	<string name="call_ringtone_summary">Setkan nada dering panggilan masuk</string>
+	<string name="message_sound_title">Nada dering mesej</string>
+	<string name="message_sound_summary">Setkan nada dering untuk mesej, MMS dan pemberitahuan</string>
+	<string name="mail_sound_title">Nada dering untuk mel masuk</string>
+	<string name="mail_sound_summary">Setkan nada dering untuk mel masuk</string>
+	<string name="alarm_alert_title">Nada dering jadual</string>
+	<string name="alarm_alert_summary">Setkan nada dering jadual</string>
+	<string name="push_sound_title">Nada dering untuk perkhidmatan push</string>
+	<string name="push_sound_summary">Setkan nada dering perkhidmatan push</string>
+	<string name="push_mail_ringtone_switch_title">Perkhidmatan push dan isyarat mel</string>
+	<string name="push_mail_ringtone_switch_summary_on">Isyarat nada dering diaktifkan</string>
+	<string name="push_mail_ringtone_switch_summary_off">Isyarat nada dering tidak aktif</string>
+
+	<string name="startup_sound_title">Nada Dering Lenovo</string>
+	<string name="startup_sound_summary_on">Setkan nada dering Lenovo semasa hidupkan/matikan telefon</string>
+	<string name="startup_sound_summary_off">Setkan nada dering Lenovo semasa hidupkan/matikan telefon</string>
+
+	<string name="remind_title">Mod peringatan</string>
+	<string name="remind_summary">Setkan mod peringatan am</string>
+	<string name="profile_settings">Edit profil</string>
+	<string name="progress_title">Edit profil</string>
+	<string name="progress_message">Sila tunggu...</string>
+
+	<!-- Mini -->
+	<string name="volume">"Kelantangan"</string>
+	<string name="ringtone_settings_title">Panggilan masuk</string>
+	<string name="feedback_title" msgid="1480844520622721141">"Sistem"</string>
+	<string name="threeg_call_sound_title">Nada dering</string>
+	<string name="threeg_message_sound_title">Nada dering mesej</string>
+	<string name="twog_call_sound_title">Nada dering</string>
+	<string name="twog_message_sound_title">Nada dering mesej</string>
+	<string name="threeg_unable">Kad SIM 1 tidak tersedia</string>
+	<string name="twog_unable">Kad SIM 2 tidak tersedia</string>
+  
+    <string name="convention" msgid="1488759370067953996">"Biasa"</string>
+    <string name="cate_call_ringtone">Panggilan masuk</string>
+    <string name="cate_message_ringtone">Pemesejan</string>
+    
+     <string name="pocket_mode_title">Mod poket</string>
+     <string name="pocket_mode_summary">Kelantangan nada dering dikurangkan secara automatik semasa mengangkat telefon</string>
+
+    <string name="set_default_phone_ringtone">"Tetapkan nada dering panggilan lalai anda"</string>
+    <string name="set_default_message_ringtone">Tetapkan nada dering pemesejan lalai anda</string>
+    <string name="message">Pemesejan</string>
+    <string name="sim_message_one">Nada dering mesej</string>
+    <string name="sim_call_one">Nada dering (SIM1)</string>
+    <string name="sim_call_two">Nada dering (SIM2)</string>
+    <string name="audio_profile_add">Tambah</string>
+    <string name="audio_profile_rename">Namakan Semula</string>
+    <string name="audio_profile_enable">Dayakan</string>
+    <string name="audio_profile_delete">"Padam"</string>
+    <string name="audio_profile_message_delete">Profil 
+        <xliff:g id="profile">%s</xliff:g> akan dipadam
+    </string>
+    <string name="audio_profile_message_name_error">Nama input telah wujud</string>
+    <string name="audio_profile_message_rename">Sila input nama profil baru</string>
+    <string name="audio_profile_error">Ralat</string>
+    <string name="profile_category_custom_title">Profil pratakrif pengguna</string>
+    <string name="audio_profile_message_reset">Semua tetapan profil audio akan diset semula ke lalai</string>
+    <string name="audio_profile_reset">"Tetapkan semula"</string>
+    <string name="audio_profile_message_name_length_wrong">Nama mesti mengandungi sekurang-kurangnya satu aksara</string>
+    <string name="profile_category_checked_title">Tetapan profil</string>
+    <string name="sim_message_sim_one">Nada dering mesej (SIM1)</string>
+    <string name="set_default_notification_ringtone">Tetapkan Nada Dering Pemberitahuan Lalai</string>
+    <string name="volume_alarm_mute">"Senyapkan penggera"</string>
+    <string name="sim_call">Nada dering</string>
+    <string name="audio_profile_message_overflow">Anda hanya dibenarkan untuk menambah 4 profil tersuai</string>
+    <string name="volume_notification_mute">"Pemberitahuan senyap"</string>
+    <string name="volume_ring_mute">"Senyapkan nada dering &amp; pemberitahuan"</string>
+    <string name="ringtone_and_sound_settings">"Nada Dering Dan Bunyi"</string>
+    <string name="volume_media_mute">"Senyapkan muzik &amp; media lain"</string>
+    <string name="sim_message_sim_two">Nada dering mesej (SIM2)</string>
+</resources>

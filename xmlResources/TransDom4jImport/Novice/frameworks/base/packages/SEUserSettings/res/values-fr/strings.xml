@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">Environnement général</string>
+<string name="user_auto_start_user_summary">Lancez automatiquement l\'environnement sécurisé en arrière-plan au démarrage</string>
+<string name="user_setup_seuser_msg">L\'environnement sécurisé est activé. Activer maintenant et finaliser l\'installation ?</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"Contrôlées par <xliff:g id="APP">%1$s</xliff:g>"</string>
+<string name="user_config_apps_for_seuser">Configurez l\'application que vous devez installer dans l\'environnement actuel</string>
+<string name="user_add_seuser_msg">L\'environnement sécurisé n\'est pas encore activé. L\'activer maintenant ?</string>
+<string name="user_auto_start_user">Lancez l\'environnement sécurisé au démarrage</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"Pas maintenant"</string>
+<string name="user_need_lockscreen_for_seuser_msg">Vous devez activer le verrouillage d\'écran afin de protéger vos applications et données en mode de sécurité.</string>
+<string name="user_share_data_summary">Le partage des contacts, des SMS, des journaux d\'appels et d\'autres données dans les deux environnements prend effet après le redémarrage</string>
+<string name="app_name" msgid="1626402585530130914">"Paramètres"</string>
+<string name="done_button" msgid="1991471253042622230">"OK"</string>
+<string name="user_share_data">Partage de données</string>
+<string name="user_float_switch_button_summary">Affichez le bouton flottant à l\'écran pour faciliter le basculement entre les environnements</string>
+<string name="user_security_mode">Environnement sécurisé</string>
+<string name="user_float_switch_button">Bouton flottant</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"Définir verrouillage écran"</string>
+    <string name="user_guide_title_2">Configurer le mode actuel </string>
+    <string name="user_guide_title_3">Notifications entre les modes</string>
+    <string name="user_guide_title_1">Introduction au mode sécurité</string>
+    <string name="user_guide_title_4">Isolement et partage des données </string>
+    <string name="user_guide_desc_1">Le mode sécurité vous permet de choisir des mots de passe pour vos comptes, fonds d\'écran et écrans de verrouillage différents de ceux utilisés dans le mode actuel. Appuyez sur l\'icône \"Mode sécurité\" de la barre d\'état pour changer rapidement de mode.</string>
+    <string name="user_guide_desc_2">Appuyez longuement sur l\'icône \"Mode sécurité\" de la barre d\'état pour ouvrir l\'interface de configuration du mode actuel. Vous pouvez configurer l\'application que vous devez installer dans l\'environnement actuel.</string>
+    <string name="user_guide_desc_3">En mode normal, toutes les notifications provenant d\'applications en mode sécurité s\'affichent aussi dans la barre d\'état. Un point rouge apparaît sur l\'icône de notification, afin de différencier ces notifications de celles du mode actuel. Changez de mode pour afficher ces notifications.</string>
+    <string name="user_guide_desc_4">Les données d\'application et les documents des deux modes sont stockés de manière totalement séparée. Le contenu de la carte SD du mode normal peut être affiché dans le répertoire OpenUserData de la carte SD du mode sécurisé. Le contraire n\'est pas possible. Le journal d\'appel, le journal des messages et les contacts sont partagés entre les deux modes afin de garantir le bon fonctionnement des fonctions d\'appel et de messagerie dans les deux modes.</string>
+    <string name="user_remove_secure_user">Supprimer l\'environnement sécurisé</string>
+    <string name="user_privacy_mgt_summary">Limiter l\'accès des applications aux contacts, aux messages et au journal d\'appel.</string>
+    <string name="user_remove_secure_user_reboot_msg">Les données d\'application, photos et fichiers situés dans l\'environnement sécurisé seront effacés. Le système va redémarrer pour appliquer les modifications. Supprimer ?</string>
+    <string name="user_bgapp_mgt">Limiter les applications d\'arrière-plan</string>
+    <string name="user_privacy_mgt">Contrôle de l\'accès aux données personnelles</string>
+    <string name="user_privacy_mgt_msg">Empêche l\'application d\'accéder aux contacts, aux messages et au journal d\'appel.</string>
+    <string name="user_bgapp_mgt_summary">Empêche le démarrage automatique des applications et clôt leurs processus d\'arrière-plan</string>
+    <string name="user_remove_secure_user_msg">Les données d\'application, photos et fichiers situés dans l\'environnement sécurisé seront effacés. Supprimer ?</string>
+    <string name="user_bgapp_mgt_msg">Empêche le démarrage automatique de l\'application et clôt ses processus d\'arrière-plan Ne s\'applique pas aux applications nécessitant une exécution en arrière-plan telles qu\'une messagerie e-mail ou WhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">L\'application n\'est installée dans aucun autre environnement et sera entièrement supprimée de votre téléphone après l\'installation. Désinstaller ?</string>
+<string name="help_label">"aide"</string>
+    <string name="user_uninstall_app_msg">)Voulez-vous désinstaller cette application dans l\'environnement actuel ?</string>
+</resources>

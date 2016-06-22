@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"WLAN信号增强"</string>
+    <string name="dlg_msg">"检测到您的WLAN信号非常弱，为了更好的连接网络，已自动开启WLAN信号增强功能。您也可以在系统设置-WLAN中进行此功能设置。"</string>
+    <string name="dlg_ok">"确定"</string>
+    <string name="dlg_no">"否"</string>   
+</resources>

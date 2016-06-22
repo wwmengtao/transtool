@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="other_wallpaper">Інші шпалери</string>
+<string name="show_dev_countdown">Зараз ви в кількох кроках від того, щоб стати розробником.</string>
+<string name="os_version">Номер версії системи</string>
+<string name="show_frame_count_title">Увійти в посібник початківця</string>
+<string name="select_subscription">Вибрати підписку</string>
+<string name="usergudie_button_text">"Введіть параметри завантаження"</string>
+<string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Всі дані користувача</xliff:g> (включаючи музику, зображення та інші дані) на <xliff:g>внутрішньому накопичувачі</xliff:g> буде видалено. Зробіть резервну копію своїх даних перед скиданням.\"</string>
+<string name="authdlg_message">\'%1$s\' запитує дозвіл на підключення до %2$s.</string>
+<string name="whatis_lenovoid_cando_summary"> "необмежений доступ до асоціацій для різних програм, хмарних служб і послуг. Одна картка в наявності, розблокована. "</string>
+<string name="userguide_title">"Керівництво по завантаженню"</string>
+<string name="enable_traces_title" msgid="7448835465859512430">"Увімкнути трасування"</string>
+<string name="color_light_hasclose">Вже закрито</string>
+<string name="backup_recovery_dialog_message">Припинити резервне копіювання або відновлення даних програми?</string>
+<string name="never_timeout">Не переходити до режиму очікування</string>
+<string name="playertutorial_title">Посібник для новачка</string>
+<string name="startup_time">Увімкнути живлення о</string>
+<string name="keyboard_lights_title">Підсвічування кнопок</string>
+<string name="show_frame_count_size">Розмір</string>
+<string name="accessibility_script_injection_allowed" msgid="7624804397748427621">"Дозволено"</string>
+<string name="teos_settings">Відображення кольорів</string>
+<string name="timing_shutdown_head_text">"Вимикати о"</string>
+<string name="display_effect_of_screen_saturation_title">Насич.</string>
+<string name="lock_title" product="default">Захист телефону</string>
+<string name="lock_wallpaper">Заблокувати шпалери</string>
+<string name="devices_info_memory">"Пам\'ять: доступно <xliff:g>%1$s</xliff:g> з 4 ГБ"</string>
+<string name="roaming_time_settings_time_display">Програма відображення часу</string>
+<string name="weather_live_wallpaper">Динамічні шпалери на тему погоди</string>
+<string name="enable_traces_summary_all" msgid="3950139649125158247">"Усі трасування зараз увімкнено"</string>
+<string name="data_usage_menu_restrict_systembgdata">\"Дозволити використання фонових даних системи\"</string>
+<string name="recovery_data_section_title">Відновлення даних</string>
+<string name="devices_info_cpu">\"ЦП: чотириядерний, 2,2 ГГц\"</string>
+<string name="version_info">Інформація про версію</string>
+<string name="desktop_wallpaper">Шпалери робочого столу</string>
+<string name="location_network_service">Технологія Qualcomm iZat</string>
+<string name="data_usage_enable_mobile_statistics_dialog">Увімкнення цієї функції призводить по підвищеного споживання енергії у мережах із високою швидкістю передавання даних, як-от у LTE...</string>
+<string name="reset_skip_backup_title">Не створювати резервну копію даних</string>
+<string name="data_connect_settings_title">Передача даних</string>
+<string name="fuse_backup_data_to_cloud_title">Зберегти резервну копію в хмарі</string>
+<string name="ota_title">Оновлення системи</string>
+<string name="theme_settings_title">"Оформлення"</string>
+<string name="roaming_time_settings_category">Налаштування міжнародного роумінгу</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> може збирати весь введений вами текст, окрім паролів. Це включає особисті дані, як-от номери кредитних карток. Також можуть збиратися дані про вашу взаємодію з планшетним ПК."</string>
+<string name="display_effect_of_screen_sharpen_item0">За замо.</string>
+<string name="enable_traces_dialog_title" msgid="5026490474669452929">"Вибрати ввімкн.трасування"</string>
+<string name="authdlg_service_pbap">завантажити контакти на цей телефон</string>
+<string name="display_effect_of_screen_sharpen_item1">Підвищити різкість</string>
+<string name="backup_data_description">"Створіть резервну копію контактів і інших важливих даних, перш ніж скинути параметри телефону"</string>
+<string name="all_setings_title">"Всі налаштування"</string>
+<string name="hardware_version">Версія обладнання</string>
+<string name="color_light_unread_mms">Непрочитані повідомлення</string>
+<string-array name="contrast"> 
+         
+         
+    <item>За замовчуванням</item>
+        <item>Високий</item>
+    </string-array>
+<string name="enable_traces_summary_none" msgid="1867562808503494163">"Усі трасування зараз вимкнено"</string>
+<string name="china_telcom_push_summary">Безкоштовна послуга Push від China Telecom</string>
+<string name="products_version">Модель</string>
+<string name="color_light_missed_call">Втрачений виклик</string>
+<string name="stop_color_light">припинити</string>
+<string name="devices_info_products_version">\"Модель: Lenovo K910\"</string>
+<string name="data_usage_enable_mobile_statistics">Вести статистику</string>
+<string name="startup_time_enabled">Увімкнення живлення за графіком</string>
+<string name="what_lenovoid_cando_title"> "Паролі з\'єдн. Що я можу зробити? "</string>
+<string name="save_power_wait_title">"Зачекайте..."</string>
+<string name="savepower_black_title">"Чорний список"</string>
+<string name="framework_version">Номер версії Android</string>
+<string name="fuse_backup_data_to_cloud_summary">Зберегти резервну копію даних телефону у хмарі</string>
+<string name="display_effect_of_screen_apply">Застосувати</string>
+<string name="lock_intro_message" product="tablet">"Захистіть свій планшетний ПК від несанкціонованого використання, створивши особистий ключ розблокування екрана. На наступному екрані пальцем з’єднайте крапки в будь-якому порядку. Потрібно з’єднати принаймні чотири крапки. "\n\n"Готові? Торкніться опції \"Далі\"."</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"Використовувати службу <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="monotype_preference_title">Стиль шрифту</string>
+<string name="shutdown_time_enabled">Вимкнення живлення за графіком</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> може збирати весь введений вами текст, окрім паролів. Це включає особисті дані, як-от номери кредитних карток. Також можуть збиратися дані про вашу взаємодію з телефоном."</string>
+<string name="wifi_switch_summary">"Ви можете зав\'язати поточне підключення до бездротової мережі з поточним розташуванням. При поверненні до зв\'язаного розташування пристрій автоматично підключиться до мережі"</string>
+<string name="screensaver_timeout_zero_summary">"Ніколи"</string>
+<string name="airplane_open_confirm">"Режим \"У літаку\""</string>
+<string name="incoming_mms_ringer_title">"Мелодія повідомлень"</string>
+<string name="software_version">Версія програмного забезпечення</string>
+<string name="display_effect_of_screen_sharpen_title">Різкість</string>
+<string name="devices_info_camera">\"Камера: передня – 5 МП, задня – 13 МП\"</string>
+<string-array name="hue"> 
+         
+         
+         
+    <item>Холодний</item>
+        <item>За замовчуванням</item>
+        <item>Теплий</item>
+    </string-array>
+<string name="playersTutorial_stoped">Програму PlayersTutorial зупинено.</string>
+<string name="lenovo_exp_title">Я погоджуюся брати участь у програмі Lenovo Experience</string>
+<string name="authdlg_service_ftp">передача файлів із цього телефону</string>
+<string name="show_frame_count_bit">Біт</string>
+<string name="display_effect_of_screen_cancel">Скасувати</string>
+<string name="recovery_data_summary">Торкніться, щоб відкрити резервну копію даних на SD-карті</string>
+<string name="wlan_share">\"Спільне використання WLAN\"</string>
+<string-array name="sharpen"> 
+         
+         
+    <item>За замовчуванням</item>
+        <item>Підвищити різкість</item>
+    </string-array>
+<string name="devices_info_screen">"Screen: 1080*720   5.0-inch"</string>
+<string name="track_frame_time_summary" msgid="447577515813970287">"Вимірювати час роботи в adb shell dumpsys gfxinfo"</string>
+<string name="font_settings_title">\"Настройки шрифту\"</string>
+<string name="exit">вийти</string>
+<string name="data_usage_disable_mobile_statistics_dialog">Якщо цю функцію вимкнено, збір статистики про передавання даних не відбуватиметься.</string>
+<string name="wifi_switch_settings_title">Зв\'язати WLAN з місцезнаходженням</string>
+<string name="unlock_proximity_ctrl">Блокування в кишені</string>
+<string name="authorizaion_failed_error">Помилка автентифікації. Неможливо підключитися до віддаленого пристрою.</string>
+<string name="teos_settings_title">Відображення кольорів</string>
+<string name="accessibility_toggle_script_injection_preference_title" msgid="7950932054266694403">"Покращувати веб-доступність"</string>
+<string name="backup_data_section_title">Резервне копіювання даних</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"Зараз увімкнено стільки трасувань: <xliff:g id="NUM">%1$d</xliff:g>"</string>
+<string name="show_frame_count_summary">Показати кількість кадрів у разі ввімкнення.</string>
+<string name="accessibility_script_injection_disallowed" msgid="8639525487720429182">"Не дозволено"</string>
+<string name="authdlg_auto_reply">Більше не запитувати</string>
+<string name="reset_backup_befor_reset_title">Зберігати резервну копію даних перед скиданням</string>
+<string name="location_consent_dialog_title">Попередження про збір даних</string>
+<string name="airplane_open_confirm_message">"Дозволити перейти в режим \"У літаку\"?"</string>
+<string name="color_light">Індикатор</string>
+<string name="devices_info_runMemory">"ОЗП: 2,0 ГБ</string>
+<string name="show_frame_count_x_coordinate">Координата X</string>
+<string name="reset_backup_befor_reset_summary">Зберігати резервну копію важливих даних, наприклад контакти, перед скиданням</string>
+<string name="authdlg_service_map">доступ до повідомлень із цього телефону</string>
+<string name="quicksettings">"швидке налаштування"</string>
+<string name="personal_hotspot">"Точка доступу"</string>
+<string name="color_light_demo">Демонстрація індикатора</string>
+<string name="authdlg_service_spp">послідовний порт Bluetooth на цьому телефоні</string>
+<string name="savepower_white_title">"Білий список"</string>
+<string name="sim_settings_title">Настройки двох карт</string>
+<string name="save_power_summary">"Оберіть програми для узгодження часу пробудження системи"</string>
+<string name="lenovoID_registered_title">"Погодьтеся використовувати свій номер мобільного телефону як Lenovo ID (пароль облікового запису Lenovo)"</string>
+<string name="mannual">Увійти в посібник початківця</string>
+<string name="save_power_title">"Узгодження часу пробудження системи"</string>
+<string name="authdlg_service_default">цей телефон</string>
+<string name="header_category_personalcustom_k7">"Особисті"</string>
+<string name="show_frame_count_y_coordinate">Координата Y</string>
+<string name="roaming_time_settings_zone">Рекомендований часовий пояс</string>
+<string name="data_usage_tab_slot2">SIM 2</string>
+<string name="data_usage_tab_slot1">SIM 1</string>
+<string name="devices_info_buildNumber">"Номер збірки: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="show_frame_count_ok_button_text">"OK"</string>
+<string name="volume_title">"Рівень"</string>
+<string name="location_improve_allow">Сервіси геолокації, що використовують дані WLAN та мобільних мереж</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"Зупинити службу <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="authdlg_title">Запит на авторизацію Bluetooth</string>
+<string name="display_effect_of_screen_hue_title">відтінок</string>
+<string name="lock_intro_message" product="default">Захистіть свій телефон від несанкціонованого використання, створивши особистий жест розблокування екрана. Проведіть пальцем по екрану, що з\'явиться, та з\'єднайте принаймні чотири точки в довільному порядку.
+        \n\nГотові починати? Торкніться \"Далі\".
+    </string>
+<string name="whatis_lenovoid_summary"> "використайте свій номер телефону як пароль облікового запису Lenovo, станьте членом Асоціації. "</string>
+<string name="lenovo_exp_content">"Тільки підтримка CN"</string>
+<string name="simple_settings">Посібник початківця</string>
+<string name="A_gps_summary"> використовуйте допоміжні дані, щоб скоротити фіксований час встановлення місцезнаходження за допомогою GPS</string>
+<string name="safety_information_content">Щоб оновити системне програмне забезпечення телефону, слід скористатися відповідною функцією (оновлення за допомогою бездротового з\'єднання) телефону Lenovo або слід звернутися до офіційного представника з постгарантійного обслуговування компанії Lenovo. Оновлення системного ПЗ в інший спосіб може призвести до пошкодження пристрою або втрати даних, відмови функцій захисту системи, підвищення ризику порушення безпеки системи. Компанія Lenovo не несе відповідальності за обслуговування в разі пошкодження пристрою через недотримання зазначених вище вимог.</string>
+<string name="color_light_other_summary">Weixin, QQ, Weibo</string>
+<string name="incoming_call_ringer_title">"Мелодія виклику "</string>
+<string name="roaming_settings_title">Параметри роумінгу</string>
+<string name="profile_settings">Параметри профілю</string>
+<string name="unlock_set_unlock_speechpwd_title">"Використання голосового пароля та жесту для захисту"</string>
+<string name="display_effect_of_screen_contrast_title">Контрастність</string>
+<string name="startup_shutdown_time_errmsg">Проміжок часу між увімкненням і вимкненням має становити не менше 10 хв. Встановіть його ще раз.</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"Дозволити програмам установлювати сценарії від Google, які зроблять веб-вміст більш доступним?"</string>
+<string name="accessibility_script_injection_button_disallow" msgid="5697152768523270885">"Не дозволяти"</string>
+<string name="data_summary">Передача даних</string>
+<string name="savepower_all_title">"Усі"</string>
+<string name="system_time_am">дп</string>
+<string name="character_setings_title">"Додаткові"</string>
+<string name="backup_recovery_data_summary">Резервне копіювання або відновлення даних програми на телефоні</string>
+<string name="showing_color_light">Показувати кольорову світлоіндикацію </string>
+<string name="system_time_pm">пп</string>
+<string name="reset_skip_backup_summary">Виберіть цей параметр для елементів, резервну копію яких уже було створено або які не потребують її створення</string>
+<string name="header_category_personalcustom">Персоналізація</string>
+<string name="save_power_wait_message">"Завантаження програм"</string>
+<string name="quicksettings_title">Швидке налаштування</string>
+<string name="summary_keyboard_lights">Інтелектуальне керування</string>
+<string name="authdlg_service_dun">послуга комутованого з\'єднання з мережею з цього телефону</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"Торкніться ОК, щоб зупинити службу <xliff:g id="SERVICE">%1$s</xliff:g>."</string>
+<string name="recovery_data_title">Відновити дані з резервної копії на SD-карті </string>
+<string name="unlock_set_unlock_speechnormal_title">"Швидке розблокування голосом"</string>
+<string name="backup_recovery_data_title">Резервне копіювання або відновлення даних програми</string>
+<string name="show_screen_frame_count">Показати кількість кадрів екрана</string>
+<string name="timing_startup_head_text">"Вмикати о"</string>
+<string name="wifi_setting_summary">Якщо введено місцезнаходження підключеної точки доступу та наявні дані GRPS，прив\'язати місцезнаходження</string>
+<string name="save_power_count">"Загальна кількість вирівняних програм: <xliff:g id="NUMBER">%d</xliff:g>"</string>
+<string name="shutdown_time">Вимкнути живлення о</string>
+<string name="bluetooth_remote_device">пристрої Bluetooth</string>
+<string name="fuse_backup_data_description">Перед скиданням налаштувань телефону створіть резервні копії контактів, зображень, повідомлень, програм та інших важливих даних</string>
+<string name="backup_data_to_sdcard_title">Зберегти резервну копію даних на SD-карту</string>
+<string name="authdlg_service_decline">"Відхилити"</string>
+<string name="backup_data_recovery_section_title">Резервне копіювання та відновлення даних</string>
+<string name="settings_header_ringtone_k7">"Параметри мелодії дзвінка"</string>
+<string name="fuse_recovery_data_from_cloud_summary">Торкніться, щоб відновити резервну копію даних у хмарі</string>
+<string name="i_know_it">Мені відомо</string>
+<string name="accessibility_script_injection_button_allow" msgid="2201503285877102870">"Дозволити"</string>
+<string name="quicksettings_summary">Вітаємо вас із придбанням телефону Lenovo! Розпочніть роботу зі швидкого налаштування. Щоб виконати\n індивідуальне налаштування, перейдіть до розділу "Налаштування системи".</string>
+<string name="backup_data">"Зробіть резервну копію даних, перш ніж скинути параметри телефону"</string>
+<string name="sim_not_available">SIM-карта недоступна</string>
+<string name="preference_status_open">"Відкр."</string>
+<string-array name="saturation"> 
+         
+         
+         
+    <item>М\'який</item>
+        <item>За замовчуванням</item>
+        <item>Ясний</item>
+    </string-array>
+<string name="color_light_battery">"Акумулятор"</string>
+<string name="lock_title" product="tablet">"Захист вашого телефону"</string>
+<string name="unlock_set_unlock_speech_title">Розблокування голосом</string>
+<string name="user_you_section" msgid="6247838798859425408">"Ви"</string>
+<string name="internal_version">Внутрішній номер версії</string>
+<string name="backup_data_to_sdcard_summary">Зберегти резервну копію даних телефону на SD-карту</string>
+<string name="fuse_recovery_data_from_cloud_title">Відновити дані із хмари</string>
+<string name="safety_information">дані щодо безпеки</string>
+<string name="authdlg_service_opp">цей телефон</string>
+<string name="whatis_lenovoid_title"> "Що таке пароль з\'єднання? "</string>
+<string name="color_light_hasopen">Вже відкрито</string>
+<string name="preference_status_close">"Закрити"</string>
+<string name="apn_call_number">Номер телефону PPP</string>
+<string name="sound_settings_title">"Звук"</string>
+<string name="color_light_other">"Інша"</string>
+<string name="authdlg_service_accept">Авторизація</string>
+<string name="display_effect_of_screen_contrast_item0">Холодний</string>
+<string name="common_setings_title">"Основні"</string>
+<string name="display_effect_of_screen_contrast_item1">За замо.</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="unlock_proximity_ctrl_summary">Коли пристрій знаходиться в кишені, то екран буде автоматично вимикатися для уникнення помилкового розблокування.</string>
+<string name="display_effect_of_screen_contrast_item2">Теплий</string>
+<string name="timing_startup_and_shutdown_settings_title">Заплановане увімкнення та вимкнення</string>
+<string name="devices_info_firmwareVersion">"Номер версії Android: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="show_hw_overdraw_summary" msgid="4295714000923082647">"Від кращого до гіршого: синій, зелений, світло-червоний, червоний"</string>
+<string name="display_effect_of_screen_saturation_item1">За замо.</string>
+<string name="display_effect_of_screen_saturation_item0">М\'який</string>
+<string name="show_frame_count_cancel_button_text">"Скасувати"</string>
+<string name="location_consent_dialog_message">Ви бажаєте дозволити службі розташування збирати анонімну інформацію про місцезнаходження? Зверніть увагу, що деякі дані можуть зберігатися на вашому пристрої. Збір даних може відбуватися навіть тоді, коли на пристрої не запущена  жодна програма.</string>
+<string name="color_light_call">"Набрати"</string>
+<string name="display_effect_of_screen_saturation_item2">Ясний</string>
+    <string name="subscription_02_title">SIM 2</string>
+    <string name="operator_name_china_mobile">"China Mobile"</string>
+    <string name="operator_name_china_telcom">"China Telcom"</string>
+    <string name="show_password_summary">Поточний</string>
+    <string name="action_settings">"Налаштування"</string>
+    <string name="subscription_01_title">SIM 1</string>
+    <string name="china_telcom_push_title">China Telecom Yi Push</string>
+    <string name="hello_world">Привіт усім!</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="operator_name_china_unicom">"China Unicom"</string>
+    <string name="apprateinfo">"Використання даних"</string>
+    <string name="app_name">com.datasummary.LeoDataSummary</string>
+    <string name="uid">ідентифікатор користувача</string>
+    <string name="current_month">"За поточний місяць було передано "</string>
+    <string name="info">" даних згідно з вимірюванням телефону."</string>
+    <string name="appname">назва програми</string>
+    <string name="disable">вимкнути</string>
+    <string name="today">сьогодні</string>
+    <string name="appcontrol">Брандмауер мережі</string>
+</resources>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<string name="app_name">玩家教程</string>
+    
+<string name="searchresult">查询结果</string>   
+<string name="searchLabel">查询</string>
+<string name="searchHint">请输入查询内容</string>
+<string name="searchnoresult">没有匹配的结果</string>
+<string name="nolenovowizard">系统中找不到快速入门应用</string>
+    
+	<!-- file.xml -->
+<string name="lessons">快速入门</string>
+<string name="functionkeyscontent">功能键</string>
+<string name="mainscreen">主屏幕</string>
+<string name="notificationbar">通知栏</string>
+<string name="call">通话</string>
+<string name="callringtone">来电铃声</string>
+<string name="contactsmanage">联系人管理</string>
+<string name="message">信息</string>
+<string name="applist">应用列表</string>
+<string name="network">网络服务</string>
+<string name="dualsim">双卡使用</string>
+<string name="setting">系统设置</string>
+<string name="connect">连接电脑</string>
+<string name="backupandrestore">备份恢复</string>
+<string name="hotspot">个人热点</string>
+<string name="batterysaving">乐省电</string>
+<string name="otg">OTG功能</string>
+	
+	<!-- applist.xml -->
+<string name="applist_edit">1. 长按进入编辑</string>
+<string name="applist_edit_description">长按应用菜单，即进入编辑界面。</string>
+<string name="applist_uninstall">1. 快速卸载</string>
+<string name="applist_uninstall_description">若想卸载某个应用，则应点击并按住该应用程序直到上方出现一个红色的叉号，然后点击此叉号即可删除此应用程序。</string>
+<string name="applist_move">2. 移动位置</string>
+<string name="applist_move_description">长按某应用程序图标，可将其拖动到桌面上的任意空白位置。</string>
+    
+    <!-- backupandrestore.xml -->
+<string name="backupandrestore_content">1. 备份内容</string>
+<string name="backupandrestore_content_description">“乐同步”备份“联系人”、“短信”和“通话记录”等数据到您的SD卡中。当然，用户首先需要拥有联想通行证。</string>
+<string name="backupandrestore_backup">2. 备份操作</string>
+<string name="backupandrestore_backup_description">点击应用列表中的“乐同步”图标，选择“联系人”、“短信”及“通话记录”等内容进行备份。</string>
+<string name="backupandrestore_restore">3. 恢复操作</string>
+<string name="backupandrestore_restore_description">点击应用列表中的“乐同步”图标，选择“联系人”、“短信”及“通话记录”等内容进行恢复。</string>
+
+    <!-- batterysaving.xml -->
+<string name="batterysaving_introduce">1. 实用小部件</string>
+<string name="batterysaving_introduce_description">长按主屏幕的空闲位置，在底部弹出的菜单中选择“窗口小部件”，找到“乐省电”即可添加到桌面。</string>
+<string name="batterysaving_lowbattery">1. 省电模式切换设置</string>
+<string name="batterysaving_lowbattery_descritpion">首页上有日常、省电和应急模式，前两种模式可在用户点击选中后进入设置界面进行详细配置（设置界面可通过点击左上角菜单按钮或向右滑动屏幕进入）。</string>
+<string name="batterysaving_mode">2. 实用工具</string>
+<string name="batterysaving_mode_description">设置界面的“工具”栏有耗电排行、应用冻结等实用工具。</string>
+<string name="batterysaving_screen">3. 定时切换</string>
+<string name="batterysaving_screen_description">首页设有定时切换功能，比如可以切换23：00-6：00这一时间段为应急省电模式。</string>
+       
+    <!-- call.xml -->
+<string name="call_mode">1. 发起呼叫方式</string>
+<string name="call_mode_description">在拨号、联系人列表、通话记录、信息等界面发起呼叫。</string>
+<string name="call_volume">2. 通话音量调节</string>
+<string name="call_volume_description">在通话过程中，使用侧键即可对通话的音量进行调节。</string>
+<string name="call_bluetooth">3. 蓝牙接听切换</string>
+<string name="call_bluetooth_description">如果连接好蓝牙耳机，在免提的位置有显示蓝牙入口，点击可弹出相关的菜单选项。</string>
+<string name="call_record">4. 通话录音</string>
+<string name="call_record_description">在通话时点击下方“录音”图标即可进行录音，再点击即可进行停止录音操作。</string>
+<string name="call_speedcall">5. 大头贴快速拨打</string>
+<string name="call_speedcall_description">点击联系人大头贴，可直接调出拨号、发信息等快捷操作。</string>
+<string name="call_mapping">6. 拨号键盘姓名匹配</string>
+<string name="call_mapping_description">拨号键盘除了电话号码匹配，还可以进行用户姓名首字母和全拼匹配。</string>
+<string name="call_ip">7. IP拨号</string>
+<string name="call_ip_description">在通话设置（拨号键盘按“菜单键”）中进行IP拨号设置，使用时，只需输入号码后按菜单键，选择“IP拨号”即可。</string>
+<string name="call_endcall">8. 按“电源键”结束通话</string>
+<string name="call_endcall_description">选择在通话过程中使用电源键进行结束通话操作，可在通话设置中进行设置。（通话设置可在拨号键盘按“菜单键”调出设置选项）</string>
+<string name="call_sensor">9. 近距离感应器</string>
+<string name="call_sensor_description">选择在接听电话时手机接近头部，屏幕自动变暗的感应，可在通话设置中进行设置。</string>
+<string name="call_smartsound">10. 智音功能</string>
+<string name="call_smartsound_description">智音（英文：SmartSound）：在通话过程中将通话环境噪音智能降噪提高通话的音质，可在通话设置中进行设置。（通话设置可在拨号键盘按“菜单键”调出设置选项）</string>
+           
+    <!-- callringtone.xml -->
+<string name="callringtone_choose">1. 来电铃声选择</string>
+<string name="callringtone_choose_description">在“系统设置-情景模式-标准/户外”目录下，打开“来电铃声”即可进行铃声切换，也可以从自己手机媒体库中寻找铃声。</string>
+<string name="callringtone_adjust">2. 来电音量调节</string>
+<string name="callringtone_adjust_description">1）在“系统设置-情景模式-标准/户外”目录下，打开“音量”对手机音量进行调节  2）在主屏幕下，直接按手机侧键音量键，即可进行音量调节。</string>
+<string name="callringtone_mute">3. 来电时立即静音</string>
+<string name="callringtone_mute_description">手机来电时，短按手机右侧的任一音量键或电源键即可关掉铃声。</string>
+       
+    <!-- connect.xml -->
+<string name="connect_device">1. 作为存储设备</string>
+<string name="connect_device_description">连接数据线，手机自动弹出“USB计算机连接”界面（也可在下拉通知栏，点击“USB计算机连接”弹出该界面)。在打开的界面可选择MTP存储设备或相机（PTP）。</string>
+<string name="connect_mode">2. 存储设备的两种模式</string>
+<string name="connect_mode_description">1）MTP存储设备，将手机作为U盘进行文件复制，同时可在手机端进行文件管理，可即插即用。计算机XP系统及以下需要安装Windows mediaplayer 11及以上版本驱动。2）PTP：使您能够使用相机软件传输照片，计算机XP系统及以下需要安装驱动。计算机XP系统及以下需要安装Windows mediaplayer 11及以上版本驱动</string>
+<string name="connect_pc">3. 作为PC同步</string>
+<string name="connect_pc_description">连接数据线，手机自动弹出“USB计算机连接”界面（也可在下拉通知栏，点击“USB计算机连接”弹出该界面)。勾选“USB调试连接”，连接后可在计算机端使用豌豆荚或91手机助手、乐助手等工具软件管理手机。</string>
+       
+    <!-- contactsmanage.xml -->
+<string name="contactsmanage_add">1. 添加联系人</string>
+<string name="contactsmanage_add_description">在联系人列表直接点击带“+”的添加联系人图标。</string>
+<string name="contactsmanage_remove">2. 删除联系人</string>
+<string name="contactsmanage_remove_description">长按联系人列表的联系人，在弹出的菜单中选择“删除联系人”，用户也可以选择“多选删除”选项删除多个联系人。</string>
+<string name="contactsmanage_lookup">3. 查找联系人</string>
+<string name="contactsmanage_lookup_description">1）联系人列表界面，使用右侧的26字母定位条，即可进行与联系人姓首字母的快速定位。2）联系人列表界面，使用搜索框，可输入联系人姓名首字母、全拼或联系电话进行搜索。</string>
+<string name="contactsmanage_copy">4. 复制联系人</string>
+<string name="contactsmanage_copy_description">长按联系人列表的联系人，在弹出的菜单中选择“复制联系人”，即可进行SIM卡和手机之间联系人复制。</string>
+<string name="contactsmanage_share">4. 分享联系人</string>
+<string name="contactsmanage_share_description">长按联系人列表的联系人，在弹出的菜单中选择“分享联系人”，即可通过短信/彩信等各种方式分享指定联系人。</string>
+       
+    <!-- dualsim.xml -->
+<string name="dualsim_setting">1. 双卡设置</string>
+<string name="dualsim_setting_description">使用双卡的用户，在“系统设置-SIM卡管理”中可进行双卡设置，可以进行主卡设置也可取消主卡。</string>
+<string name="dualsim_switch">2. 快速切换主卡</string>
+<string name="dualsim_switch_description">已设置主卡时，可在拨打电话和发送短信相关界面，下拉通知面板进行主卡切换。</string>
+       
+    <!-- fmtansmitter.xml -->
+<string name="fmtansmitter_definition">1. FM发射器定义</string>
+<string name="fmtansmitter_definition_description">开启FM发射器后，所有的手机音频信号都会由FM发射出去，可以使用其他的设备进行接收音频，手机本身无法听到音频。</string>
+<string name="fmtansmitter_guide">2. FM发射器使用</string>
+<string name="fmtansmitter_guide_description">1）打开应用列表中的FM发射器，开启界面上的开关; 2）点击下方的搜索按钮看，寻找空闲的频道; 3）将其他接收设备调整频道至设置的空闲频道上，即可进行接收音频。</string>
+       
+    <!-- functionkeyscontent.xml -->
+<string name="functionkeyscontent_introduce">1. 功能键介绍</string>
+       
+    <!-- hotspot.xml -->
+<string name="hotspot_definition">1. 个人热点定义</string>
+<string name="hotspot_definition_description">个人热点，即使其他设备通过您的手机的网络进行互联网的连接。</string>
+<string name="hotspot_setting">2. 个人热点的设置方式</string>
+<string name="hotspot_setting_description">个人热点一共有三种设置方式:1）WLAN连接方式，即将手机作为移动AP，使其他设备通过WLAN方式进行连接; 2）蓝牙连接方式，即将其他设备和手机进行蓝牙配对，使得其他设备可以通过蓝牙的方式进行连接; 3）USB连接方式，即将其他设备和手机之间使用数据线的方式连接。</string>
+<string name="hotspot_method">3. 个人热点的操作方法</string>
+<string name="hotspot_method_description">1）在应用列表中，选中“个人热点”；2）在三种连接方式中，选择适合自己的方式；3）在其他需要通过您手机上网的设备上，根据您选择的连接方式，进行建立连接; 4）建立完连接后，其他设备就可以通过您的手机进行上网了。</string>
+       
+    <!-- mainscreen.xml -->
+<string name="mainscreen_move">1. 移动项目</string>
+<string name="mainscreen_move_description">长按需要移动的项目，将项目拖至所需要的空闲位置。</string>
+<string name="mainscreen_delete">2. 删除项目</string>
+<string name="mainscreen_delete_description">长按需要删除的项目，屏幕上方会出现删除图标，将项目拖动至删除图标释放即可删除。</string>
+<string name="mainscreen_add">3. 增加项目</string>
+<string name="mainscreen_add_description">长按主屏幕的空闲位置，在”小部件”中点击要添加的项目图标，此项目即被添加到桌面上。</string>
+<string name="mainscreen_icon">2. 状态栏图标</string>
+<string name="mainscreen_fourgrass_edit">5. 四叶草编辑</string>
+<string name="mainscreen_fourgrass_edit_description">长按四叶草上需要编辑的项目，进行项目的替换。</string>
+<string name="mainscreen_fourgrass_delete">6. 四叶草删除</string>
+<string name="mainscreen_fourgrass_delete_desecription">长按四叶草中间，即可进入删除操作，将四叶草拖至上方“删除”即可。</string>
+<string name="mainscreen_fourgrass_restore">7. 四叶草恢复</string>
+<string name="mainscreen_fourgrass_restore_description">长按桌面空白处，在底部弹出的菜单中选择“四叶草”即可恢复。注意需要桌面上留足空余的空间。</string>
+<string name="mainscreen_wallpaper">3. 更换主题和壁纸</string>
+<string name="mainscreen_wallpaper_description">点击手机左下角的菜单键，在弹出的菜单中选择“主题”或者“壁纸”进行更换。</string>
+<string name="mainscreen_folder">6. 建立文件夹</string>
+<string name="mainscreen_folder_description">如待机界面的快捷方式过多，可将快捷方式长按拖至另外一个快捷方式图标上，就自动形成文件夹。</string>
+<string name="mainscreen_thumbnail">4. 查看桌面缩略图</string>
+<string name="mainscreen_thumbnail_description">在桌面双指捏起，即可查看桌面的缩略图。</string>
+           
+    <!-- message.xml -->
+<string name="message_send">1. 发送信息</string>
+<string name="message_send_description">1)在应用列表中打开“联系人”，点击需要发送短信的联系人，在弹出的界面中点击短信图标；2) 在应用列表中打开“联系人”，点击需要发送短信的联系人的大头贴，在弹出的界面中点击短信图标；3)在“通话记录”中点击需要发送短信的联系人，在弹出的界面中点击短信图标。</string>
+<string name="message_zoom">2. 信息字体缩放</string>
+<string name="message_zoom_description">两指向外扩张字体变大 ，两指向内收缩字体变小。</string>
+<string name="message_delete">3. 删除信息</string>
+<string name="message_delete_description">在信息列表中长按需要删除的信息，在弹出的菜单中选择“删除”。</string>
+<string name="message_save">4. 保存到SIM卡</string>
+<string name="message_save_description">在信息详情界面，长按需要保存到SIM卡的信息，在弹出的选项中选择“保存信息到SIM卡”即可。也可以点击需要保存的短信，点击弹出的“更多”按钮，弹出的菜单中选择“保存信息到SIM卡”。</string>
+
+       
+    <!-- network.xml -->
+<string name="network_data">1. 数据服务使用</string>
+<string name="network_data_description">数据服务开启和关闭：1)下拉通知面板点击数据服务图标开启和关闭数据服务;2)在“系统设置”中点击“数据连接”开启和关闭数据服务。需注意，数据服务会根据您所使用的运营商的流量实际使用情况进行费用收取。</string>
+<string name="network_wlan">2. WLAN使用</string>
+<string name="network_wlan_description">1）WLAN开启和关闭：下拉通知面板点击开关进行对WLAN的快速开启和关闭，长按进入WLAN设置。您也可以在“系统设置-系统设置-无线和网络”中进行开关。2）WLAN设置：热点被首次使用时需要进行设置，在WLAN设置界面，打开WLAN后，即自动搜索WLAN热点，点击指定热点进行连接，根据提示内容进行配置（如输入密码等）。下次在参数未变的情况下，只需打开WLAN就可自动连接已配置过的热点。3）WLAN使用状态：在状态栏中您看到已经有WLAN图标，说明正在使用WLAN。</string>
+<string name="network_hotspot">3. 个人热点使用</string>
+<string name="network_hotspot_description">个人热点是指通过您手机的网络，使其它设备进行互联网连接。这将会对手机产生一定的流量费用。打开您应用程序列表的个人热点，然后根据您的实际情况选择使用USB、WLAN或蓝牙的方式进行连接。</string>
+       
+    <!-- notificationbar.xml -->
+<string name="notificationbar_open">1. 打开通知面板</string>
+<string name="notificationbar_open_description">按住屏幕顶部，往下拉，即可打开通知面板。</string>
+<string name="notificationbar_close">2. 关闭通知面板</string>
+<string name="notificationbar_close_description">底部往上拖动，即可将通知面板收起。</string>
+<string name="notificationbar_quick">3. 快捷开关</string>
+<string name="notificationbar_quick_description">通知栏界面上方有关于情景模式、网络设置、显示亮度等快捷开关，可以直接操作，长按进入具体的设置界面。</string>
+       
+    <!-- setting.xml -->
+<string name="setting_display">1. 显示设置</string>
+<string name="setting_display_description">在”系统设置-显示”中进行对屏幕的亮度调整、自动转变屏幕方向的设置、以及待机亮屏时间的调整。</string>
+<string name="setting_secure">2. 安全设置</string>
+<string name="setting_secure_description">如需对手机设定解锁密码，可在“系统设置--安全与锁屏“中进行设置。</string>
+<string name="setting_resotre">3. 恢复出厂设置</string>
+<string name="setting_resotre_description">在”系统设置-备份和重置“中可进行恢复出厂设置，需特别注意进行此项操作会对您手机数据进行清除，在恢复出厂设置前请先备份重要数据。</string>
+
+    <!-- otg.xml -->
+<string name="otg_charge">1. 动力仓充电</string>
+<string name="otg_charge_description">通过OTG转接线将需要充电的手机连接到本设备即可实现充电，此时，本设备处于大电流放电状态，电池电量消耗会较快。注意当被充电手机处于关机状态时，本设备不做连接提示。</string>
+    
+    <string name="backupandrestore_other_description">除了使用“乐同步”，您还可以在“系统设置”内选择“备份和重置”对信息、联系人和通话记录进行备份和恢复操作。</string>
+    <string name="backupandrestore_other">4. 其他备份恢复方式</string>
+    <string name="character">特色功能</string>
+    <string name="character_functions_description">用户可以到<b>系统设置->特色设置</b>中查看手机的特色功能及其描述.</string>
+</resources>

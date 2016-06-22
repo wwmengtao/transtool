@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+	<string name="yes" msgid="4676390750360727396">"Có"</string>
+	<string name="no" msgid="6731231425810196216">"Không có"</string>
+	<string name="silent_mode_title" msgid="3181479108593217704">"Chế độ tắt âm"</string>
+	<string name="ringtone_title" msgid="5379026328015343686">"Nhạc chuông"</string>
+	<string name="ringtone_summary" msgid="2630023412632683493"/>
+	<string name="all_volume_title" msgid="4296957391257836961">"Âm lượng"</string>
+	<string name="musicfx_title" msgid="3415566786340790345">"Hiệu ứng nhạc"</string>
+	<string name="ring_volume_title">Âm lượng</string>
+	<string name="vibrate_in_silent_title" msgid="3897968069156767036">"Báo rung khi tắt âm"</string>
+	<string name="vibrate_title" msgid="6045820877942801599">"Rung"</string>
+
+	<string name="sound_settings_title" msgid="8735891486683305886">"Âm thanh"</string>
+	<string name="silent_mode_summary" msgid="3309650676072917899">"Mọi âm thanh đều được tắt trừ media và đồng hồ"</string>
+	<string name="silent_mode_incl_alarm_summary" msgid="2088830834182228458">"Tắt mọi âm thanh không phải đa phương tiện"</string>
+	<string name="ring_volume_summary">"Cài đặt âm lượng cho âm cuộc gọi, âm tin nhắn và thông báo"</string>
+	<string name="vibrate_in_silent_summary" msgid="3312600513070076281">"Cho phép phản hồi báo rung ở chế độ tắt âm"</string>
+	<string name="vibrate_summary" msgid="7378130397830790458">"Gửi phản hồi báo rung khi nhận cuộc gọi hay thông báo"</string>
+	<string name="notification_sound_title" msgid="312032901303146002">"Âm thông báo"</string>
+	<string name="notification_pulse_title" msgid="1247988024534030629">"Đèn báo nhấp nháy khi có thông báo"</string>
+	<string name="incoming_call_volume_title" msgid="8073714801365904099">"Nhạc chuông"</string>
+	<string name="notification_volume_title" msgid="2012640760341080408">"Thông báo"</string>
+	<string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"Dùng âm lượng gọi đến làm âm lượng thông báo"</string>
+	<string name="notification_sound_summary" msgid="2953599929394109819"/>
+	<string name="notification_pulse_summary" msgid="6899220780534617152">"Khi nhận thông báo mới, đèn báo bánh lăn sẽ nhấp nháy liên tục"</string>
+	<string name="notification_sound_dialog_title" msgid="9052854168612951170">"Chọn nhạc chuông thông báo"</string>
+	<string name="media_volume_title" msgid="3576565767317118106">"Media"</string>
+	<string name="media_volume_summary" msgid="5363248930648849974">"Cài âm lượng nhạc và video"</string>
+	<string name="alarm_volume_title" msgid="2285597478377758706">"Đồng hồ"</string>
+	<string name="dtmf_tone_enable_title">Âm phím khi quay số</string>
+	<string name="sound_effects_enable_title">Âm khi chạm</string>
+	<string name="lock_sounds_enable_title" msgid="450098505659399520">"Âm khóa màn hình"</string>
+	<string name="haptic_feedback_enable_title" msgid="2438293710530828760">"Rung khi bấm"</string>
+	<string name="audio_record_proc_title" msgid="4271091199976457534">"Khử ồn"</string>
+	<string name="volume_media_description" msgid="7949355934788807863">"Nhạc, video, trò chơi và phương tiện khác"</string>
+	<string name="volume_ring_description">Cuộc gọi và tin nhắn</string>
+	<string name="volume_notification_description" msgid="5810902320215328321">"Tin nhắn và thông báo"</string>
+	<string name="volume_alarm_description" msgid="8322615148532654841">"Đồng hồ"</string>
+	<string name="dtmf_tone_enable_summary_on">Âm thanh khi quay số</string>
+	<string name="dtmf_tone_enable_summary_off">Âm thanh khi quay số</string>
+	<string name="sound_effects_enable_summary_on">Âm thanh khi thực hiện lựa chọn trên màn hình</string>
+	<string name="sound_effects_enable_summary_off">Âm thanh khi thực hiện lựa chọn trên màn hình</string>
+	<string name="lock_sounds_enable_summary_on" msgid="145741024028391473">"Phát âm khi khóa và mở khóa màn hình"</string>
+	<string name="lock_sounds_enable_summary_off" msgid="8481243116223542804">"Phát âm khi khóa và mở khóa màn hình"</string>
+	<string name="haptic_feedback_enable_summary_on" msgid="1875779656524793053">"Báo rung khi bấm phím chọn và thực hiện các tương tác giao diện người dùng nhất định"</string>
+	<string name="haptic_feedback_enable_summary_off" msgid="7287885436963105314">"Báo rung khi bấm phím chọn và thực hiện các tương tác giao diện người dùng nhất định"</string>
+	<string name="audio_record_proc_summary" msgid="8113628457499616498">"Khử tạp âm khi đang gọi hay ghi âm"</string>
+
+	<string name="Ringtone_profile_title">Cài nhạc chuông</string>
+	<string name="Ringtone_profile_summary">Cài nhạc chuông và thông báo tin nhắn</string>
+
+
+	<string name="turn_cr_title">"Nhạc chuông đa âm"</string>
+	<string name="turn_cr_on">"Hãy nhận dịch vụ nhạc chuông đa âm"</string>
+	<string name="turn_cr_off">"Nhạc chuông đa âm được cài sang TẮT"</string>
+	<string name="turn_cr_title_ongoing">"Đang nhận tin nhắn cài đặt nhạc chuông đa âm"</string>
+	<string name="turn_cr_title_success">"Đã nhận thành công tin nhắn cài đặt nhạc chuông đa âm"</string>
+	<string name="turn_cr_title_fail">"Không thể nhận tin nhắn cài đặt nhạc chuông đa âm"</string>
+	<string name="turn_cr_sms_fail">"Không thể gửi tin nhắn cài đặt nhạc chuông đa âm"</string>
+	
+	<!-- Profile Settings -->
+	<string name="profile_select_label">Cấu hình</string>
+	<string name="profile_options_label">Cài tùy chỉnh chế độ cấu hình</string>
+	<string name="general_profile_title">Chung</string>
+	<string name="silence_profile_title">Im lặng</string>
+	<string name="meeting_profile_title">Rung</string>
+	<string name="outdoors_profile_title">Ngoài trời</string>
+	<string name="general_profile_summary">Cài nhạc chuông, rung, …</string>
+	<string name="meeting_profile_summary">Bật/tắt rung khi chạm</string>
+	<string name="silence_profile_summary">Bật/tắt rung khi chạm</string>
+	<string name="outdoors_profile_summary">Cài nhạc chuông, rung, …</string>
+	<string name="sum_profile_settings">Chuyển đổi cài đặt chế độ cấu hình và tùy chỉnh chế độ cấu hình</string>
+
+	<string name="set_profile_title">Cài đặt tùy chỉnh</string>
+	<string name="call_ringtone_title">Nhạc chuông</string>
+	<string name="call_ringtone_summary">Cài nhạc chuông</string>
+	<string name="message_sound_title">Âm báo tin nhắn</string>
+	<string name="message_sound_summary">Cài âm báo MMS và SMS</string>
+	<string name="mail_sound_title">Âm báo email</string>
+	<string name="mail_sound_summary">Cài âm báo email</string>
+	<string name="alarm_alert_title">Âm báo lịch</string>
+	<string name="alarm_alert_summary">Cài âm báo lịch</string>
+	<string name="push_sound_title">Âm báo dịch vụ push</string>
+	<string name="push_sound_summary">Cài âm báo dịch vụ push</string>
+	<string name="push_mail_ringtone_switch_title">Âm báo dịch vụ push và email</string>
+	<string name="push_mail_ringtone_switch_summary_on">Đã mở báo nhắc nhạc chuông</string>
+	<string name="push_mail_ringtone_switch_summary_off">Đã tắt báo nhắc nhạc chuông</string>
+
+	<string name="startup_sound_title">Âm bật tắt máy</string>
+	<string name="startup_sound_summary_on">Điều khiển phát âm thanh khi bật tắt máy</string>
+	<string name="startup_sound_summary_off">Điều khiển phát âm thanh khi bật tắt máy</string>
+
+	<string name="remind_title">Cách báo nhắc</string>
+	<string name="remind_summary">Cài báo nhắc chung</string>
+	<string name="profile_settings">Cấu hình</string>
+	<string name="progress_title">Cấu hình âm thanh</string>
+	<string name="progress_message">Hãy đợi....</string>
+
+	<!-- Mini -->
+	<string name="volume">Âm lượng</string>
+	<string name="ringtone_settings_title">Cuộc gọi đến</string>
+	<string name="feedback_title" msgid="1480844520622721141">"Hệ thống"</string>
+	<string name="threeg_call_sound_title">Nhạc chuông</string>
+	<string name="threeg_message_sound_title">Âm báo tin nhắn</string>
+	<string name="twog_call_sound_title">Nhạc chuông</string>
+	<string name="twog_message_sound_title">Âm báo tin nhắn</string>
+	<string name="threeg_unable">Thẻ SIM1 không có sẵn</string>
+	<string name="twog_unable">Thẻ SIM2 không có sẵn</string>
+  
+    <string name="convention" msgid="1488759370067953996">"Chung"</string>
+    <string name="cate_call_ringtone">Cuộc gọi đến</string>
+    <string name="cate_message_ringtone">Tin nhắn</string>
+
+    <string name="set_default_phone_ringtone">"Cài chuông cuộc gọi mặc định"</string>
+    <string name="set_default_message_ringtone">Cài đặt nhạc chuông tin nhắn mặc định</string>
+    <string name="message">Tin nhắn</string>
+    <string name="sim_message_one">Nhạc chuông tin nhắn</string>
+    <string name="sim_call_one">Nhạc chuông (sim 1)</string>
+    <string name="sim_call_two">Nhạc chuông (sim 2)</string>
+    <string name="audio_profile_add">Thêm</string>
+    <string name="audio_profile_rename">Đổi tên</string>
+    <string name="audio_profile_enable">Bật</string>
+    <string name="audio_profile_delete">"Xóa"</string>
+    <string name="audio_profile_message_delete">Cấu hình 
+        <xliff:g id="profile">%s</xliff:g> sẽ bị xóa
+    </string>
+    <string name="audio_profile_message_name_error">Tên vừa nhập đã có</string>
+    <string name="audio_profile_message_rename">Hãy nhập tên cấu hình mới</string>
+    <string name="audio_profile_error">Lỗi</string>
+    <string name="profile_category_custom_title">Cấu hình tự chọn</string>
+    <string name="audio_profile_message_reset">Mọi cài đặt cấu hình âm thanh sẽ được cài về mặt định</string>
+    <string name="audio_profile_reset">"Đặt lại"</string>
+    <string name="audio_profile_message_name_length_wrong">Tên phải chứa ít nhất một ký tự</string>
+    <string name="profile_category_checked_title">Cài đặt cấu hình</string>
+    <string name="sim_message_sim_one">Nhạc chuông tin nhắn (sim 1)</string>
+    <string name="set_default_notification_ringtone">Cài đặt âm thông báo mặc định</string>
+    <string name="volume_alarm_mute">"Tắt tiếng báo thức"</string>
+    <string name="sim_call">Nhạc chuông</string>
+    <string name="audio_profile_message_overflow">Bạn chỉ được phép thêm 4 cấu hình tùy chỉnh</string>
+    <string name="volume_notification_mute">"Tắt tiếng thông báo"</string>
+    <string name="volume_ring_mute">"Tắt tiếng nhạc chuông &amp; thông báo"</string>
+    <string name="ringtone_and_sound_settings">"Nhạc chuông Và Âm thanh"</string>
+    <string name="volume_media_mute">"Tắt tiếng nhạc &amp; phương tiện khác"</string>
+    <string name="sim_message_sim_two">Nhạc chuông tin nhắn (sim 2)</string>
+</resources>

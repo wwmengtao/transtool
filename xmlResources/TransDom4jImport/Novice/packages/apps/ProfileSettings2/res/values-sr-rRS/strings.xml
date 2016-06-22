@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+
+    <string name="no">"Nijedan"</string>
+    <string name="ringtone_title">"Zvuk zvona"</string>
+    <string name="ringtone_summary">"Aplikacija nije pronađena"</string>
+    <string name="all_volume_title">"Jačina zvuka"</string>
+    <string name="musicfx_title">"Muzički efekti"</string>
+    <string name="ring_volume_title">"Jačine zvuka"</string>
+    <string name="vibrate_title">"Vibracija"</string>
+    <string name="sound_settings_title">"Zvuk"</string>
+    <string name="notification_sound_title">"Podrazumevano obaveštenje"</string>
+    <string name="incoming_call_volume_title">"Zvukovi zvona"</string>
+    <string name="notification_volume_title">"Obaveštenje"</string>
+    <string name="notification_sound_summary">"Aplikacija nije pronađena"</string>
+    <string name="media_volume_title">"Mediji"</string>
+    <string name="alarm_volume_title">"Sat"</string>
+    <string name="sound_effects_enable_title">"Zvuci pri dodiru"</string>
+    <string name="lock_sounds_enable_title">"Zvuk zaključavanja ekrana"</string>
+    <string name="haptic_feedback_enable_title">"Vibriraj pri dodiru"</string>
+    <string name="volume_ring_description">"Jačina melodije zvona"</string>
+    <string name="volume_notification_description">"Obaveštenje"</string>
+    <string name="volume_alarm_description">"Sat"</string>
+    <string name="profile_select_label">"Zvuk"</string>
+    <string name="general_profile_title">"Opšte"</string>
+    <string name="silence_profile_title">"Nečujno"</string>
+    <string name="meeting_profile_title">"Vibracija zvona"</string>
+    <string name="profile_settings">"Zvuk"</string>
+    <string name="progress_title">"Podešavanja profila"</string>
+    <string name="volume">"Jačina zvuka"</string>
+    <string name="ringtone_settings_title">"Dolazni pozivi"</string>
+    <string name="feedback_title">"Sistem"</string>
+    <string name="threeg_call_sound_title">"Zvuk zvona"</string>
+    <string name="twog_call_sound_title">"Zvuk zvona"</string>
+    <string name="convention">"Opšte"</string>
+    <string name="cate_call_ringtone">"Dolazni pozivi"</string>
+    <string name="cate_message_ringtone">"Razmena poruka"</string>
+    <string name="message">"Razmena poruka"</string>
+    <string name="audio_profile_add">"Dodaj"</string>
+    <string name="audio_profile_reset">"Ponovo postavi"</string>
+    <string name="audio_profile_rename">"Preimenovanje"</string>
+    <string name="audio_profile_error">"Greška"</string>
+    <string name="audio_profile_delete">"Izbriši"</string>
+    <string name="audio_profile_enable">"Omogući"</string>
+    <string name="volume_media_mute">"Isključi muziku i druge medije"</string>
+    <string name="volume_ring_mute">"Isključi zvuk melodije zvona i obaveštenja"</string>
+    <string name="volume_notification_mute">"Isključi zvuk obaveštenja"</string>
+    <string name="volume_alarm_mute">"Isključi zvuk alarma"</string>
+    <string name="dtmf_tone_enable_title" msgid="827601042915852989">"Tonovi pri dodiru numeričke tastature"</string>
+    <string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"Koristi jačinu zvuka dolaznog poziva za obaveštenja"</string>
+    <string name="notification_sound_dialog_title" msgid="3805140135741385667">"Podrazumevani zvuk obaveštenja"</string>
+    <string name="yes">"Da"</string>
+    <string name="media_volume_summary" msgid="5363248930648849974">"Podešavanje jačine zvuka za muziku i video snimke"</string>
+    <string name="vibrate_in_silent_title" msgid="3897968069156767036">"Vibracija u nečujnom režimu"</string>
+    <string name="volume_media_description" msgid="7949355934788807863">"Muzika, video, igre i drugi mediji"</string>
+    <string name="notification_pulse_title" msgid="1247988024534030629">"Pulsirajuće obaveštenje"</string>
+    <string name="audio_record_proc_title" msgid="4271091199976457534">"Umanjivanje šuma"</string>
+    <string name="set_default_notification_ringtone">Podešavanje podrazumevanog zvuka sistemskog obaveštenja</string>
+    <string name="audio_profile_message_delete">Profil <xliff:g id="profile">%s</xliff:g> biće izbrisan</string>
+    <string name="ring_volume_summary">"Podešavanje jačine zvona za pozive, poruke i zvukove obaveštenja"</string>
+    <string name="audio_profile_message_rename">Unesite ime novog profila</string>
+    <string name="audio_profile_message_overflow">Možete da dodate najviše 4 prilagođena profila</string>
+    <string name="audio_profile_message_name_error">Uneto ime već postoji</string>
+    <string name="vibrate_summary">"Vibracija uređaja za dolazne pozive i poruke"</string>
+    <string name="audio_profile_message_reset">Sve postavke zvučnih profila biće vraćeni na podrazumevane vrednosti</string>
+    <string name="vibrate_in_silent_summary">"Dozvoli odziv vibracijom u režimu bez zvuka"</string>
+    <string name="audio_profile_message_name_length_wrong">Ime mora da sadrži najmanje jedan znak</string>
+    <string name="turn_cr_title_success">"Poruka za podešavanje polifone melodije zvona uspešno primljena"</string>
+    <string name="outdoors_profile_summary">Menjanje sistemskih tonova, vibracije i tonova obaveštenja o pozivima i porukama</string>
+    <string name="set_profile_title">Postavke personalizacije</string>
+    <string name="push_mail_ringtone_switch_title">Zvuk obaveštenja o prijemu obaveštenja i e-poruka</string>
+    <string name="mail_sound_summary">Podešavanje zvuka obaveštenja o prijemu e-poruke</string>
+    <string name="turn_cr_title_ongoing">"Preuzimanje poruke za podešavanje polifone melodije zvona"</string>
+    <string msgid="145741024028391473" name="lock_sounds_enable_summary_on">"Reprodukuj zvuk prilikom zaključavanja i otključavanja ekrana"</string>
+    <string msgid="2088830834182228458" name="silent_mode_incl_alarm_summary">"Isključi sve zvukove osim multimedijalnih sadržaja"</string>
+    <string name="general_profile_summary">Menjanje sistemskih tonova, vibracije i tonova obaveštenja o pozivima i porukama</string>
+    <string name="message_sound_title">Ton obaveštenja o poruci</string>
+    <string name="threeg_message_sound_title">Zvuk obaveštenja o poruci</string>
+    <string name="sound_effects_enable_summary_on">Reprodukuj zvuk prilikom izbora stavki na ekranu</string>
+    <string name="call_ringtone_summary">Podešavanje melodije zvona za pozive</string>
+    <string name="turn_cr_sms_fail">"Slanje poruke za podešavanje polifone melodije zvona nije uspelo"</string>
+    <string name="push_mail_ringtone_switch_summary_on">Melodija zvona podsetnika je aktivirana</string>
+    <string name="alarm_alert_summary">Podešavanje zvuka obaveštenja o rasporedu</string>
+    <string name="meeting_profile_summary">Uključivanje/isključivanje postavki haptičkog odziva</string>
+    <string name="twog_unable">SIM kartica 2 nije dostupna</string>
+    <string name="startup_sound_title">Lenovo ton</string>
+    <string name="sim_call_one">Ton obaveštenja o pozivu (SIM 1)</string>
+    <string msgid="5318394806146587849" name="ringtone_and_sound_settings">"Melodije zvona i jačina zvuka"</string>
+    <string msgid="7287885436963105314" name="haptic_feedback_enable_summary_off">"Vibracija prilikom pritiskanja softverskih tastera i određenih stavki interfejsa"</string>
+    <string name="remind_summary">Podešavanje opštih podsetnika</string>
+    <string name="threeg_unable">SIM kartica 1 nije dostupna</string>
+    <string name="push_sound_title">Zvuk obaveštenja o prijemu prosleđenog obaveštenja</string>
+    <string name="silence_profile_summary">Uključivanje/isključivanje postavki haptičkog odziva</string>
+    <string name="turn_cr_off">"Polifona melodija zvona podešena na Isključeno"</string>
+    <string msgid="1875779656524793053" name="haptic_feedback_enable_summary_on">"Vibracija prilikom pritiskanja softverskih tastera i određenih stavki interfejsa"</string>
+    <string name="push_sound_summary">Podešavanje zvuka obaveštenja o prosleđenoj poruci</string>
+    <string msgid="3181479108593217704" name="silent_mode_title">"Režim Bez zvuka"</string>
+    <string name="profile_category_custom_title">Profili koje je definisao korisnik</string>
+    <string name="dtmf_tone_enable_summary_on">Reprodukuj zvukove prilikom biranja broja</string>
+    <string name="message_sound_summary">Podešavanje melodije zvona za MMS i SMS</string>
+    <string name="sim_message_sim_one">Ton obaveštenja o poruci (SIM 1)</string>
+    <string name="profile_options_label">Postavke personalizacije profila</string>
+    <string name="sim_call">Ton obaveštenja o pozivu</string>
+    <string name="set_default_message_ringtone">Podešavanje podrazumevanog zvuka obaveštenja o porukama</string>
+    <string name="twog_message_sound_title">Zvuk obaveštenja o poruci</string>
+    <string name="alarm_alert_title">Zvuk obaveštenja o rasporedu</string>
+    <string name="sim_message_sim_two">Ton obaveštenja o poruci (SIM 2)</string>
+    <string msgid="3309650676072917899" name="silent_mode_summary">"Isključeni su svi zvukovi osim multimedijalnih sadržaja i sata"</string>
+    <string name="progress_message">Sačekajte...</string>
+    <string name="remind_title">Tip podsetnika</string>
+    <string msgid="6899220780534617152" name="notification_pulse_summary">"Po prijemu novog obaveštenja, indikator kugle za praćenje neprekidno treperi"</string>
+    <string name="turn_cr_title_fail">"Preuzimanje poruke za podešavanje polifone melodije zvona nije uspelo"</string>
+    <string name="sound_effects_enable_summary_off">Reprodukuj zvuk prilikom izbora stavki na ekranu</string>
+    <string name="dtmf_tone_enable_summary_off">Reprodukuj zvukove prilikom biranja broja</string>
+    <string msgid="8481243116223542804" name="lock_sounds_enable_summary_off">"Reprodukuj zvuk prilikom zaključavanja i otključavanja ekrana"</string>
+    <string name="startup_sound_summary_off">Omogući Lenovo ton prilikom uključivanja/isključivanja</string>
+    <string msgid="8113628457499616498" name="audio_record_proc_summary">"Smanji pozadinsku buku u toku poziva ili snimanja""</string>
+    <string name="profile_category_checked_title">Postavke profila</string>
+    <string name="sim_call_two">Ton obaveštenja o pozivu (SIM 2)</string>
+    <string name="turn_cr_on">"Preuzmi uslugu polifone melodije zvona"</string>
+    <string name="set_default_phone_ringtone">"Podešavanje podrazumevanog zvuka obaveštenja o pozivu"</string>
+    <string name="outdoors_profile_title">Napolju</string>
+    <string name="Ringtone_profile_title">Podešavanje melodije zvona</string>
+    <string name="call_ringtone_title">Zvono dolaznog poziva</string>
+    <string name="sim_message_one">Ton obaveštenja o poruci</string>
+    <string name="sum_profile_settings">Promeni postavke profila i postavke personalizacije profila</string>
+    <string name="mail_sound_title">Zvuk obaveštenja o e-poruci</string>
+    <string name="push_mail_ringtone_switch_summary_off">Melodija zvona podsetnika je deaktivirana</string>
+    <string name="startup_sound_summary_on">Omogući Lenovo ton prilikom uključivanja/isključivanja</string>
+    <string name="turn_cr_title">"Polifona melodija zvona"</string>
+    <string name="Ringtone_profile_summary">Podešavanje melodije zvona i obaveštenja o porukama</string>
+</resources>

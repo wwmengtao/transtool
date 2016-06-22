@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+
+    <string name="no">"Žiadne"</string>
+    <string name="ringtone_title">"Vyzváňací tón"</string>
+    <string name="ringtone_summary">"Aplikácia sa nenašla"</string>
+    <string name="all_volume_title">"Hlasitosť"</string>
+    <string name="musicfx_title">"Hudobné efekty"</string>
+    <string name="ring_volume_title">"Hlasitosti"</string>
+    <string name="vibrate_title">"Vibrovať"</string>
+    <string name="sound_settings_title">"Zvuk"</string>
+    <string name="notification_sound_title">"Predvolené upozornenie"</string>
+    <string name="incoming_call_volume_title">"Vyzváňacie tóny"</string>
+    <string name="notification_volume_title">"Upozornenie"</string>
+    <string name="notification_sound_summary">"Aplikácia sa nenašla"</string>
+    <string name="media_volume_title">"Médiá"</string>
+    <string name="alarm_volume_title">"Hodiny"</string>
+    <string name="sound_effects_enable_title">"Zvuky dotyku"</string>
+    <string name="lock_sounds_enable_title">"Zvuk uzamknutia obrazovky"</string>
+    <string name="haptic_feedback_enable_title">"Vibrovanie pri dotyku"</string>
+    <string name="volume_ring_description">"Hlasitosť zvonenia"</string>
+    <string name="volume_notification_description">"Upozornenie"</string>
+    <string name="volume_alarm_description">"Hodiny"</string>
+    <string name="haptic_feedback_enable_summary_on">Vibrovanie pri stláčaní klávesov a pri konkrétnych interakciách používateľského rozhrania</string>
+    <string name="haptic_feedback_enable_summary_off">Vibrovanie pri stláčaní klávesov a pri konkrétnych interakciách používateľského rozhrania</string>
+    <string name="profile_select_label">"Zvuk"</string>
+    <string name="general_profile_title">"Všeobecné"</string>
+    <string name="silence_profile_title">"Tichý"</string>
+    <string name="meeting_profile_title">"Vibračné zvonenie"</string>
+    <string name="startup_sound_title">Funkcia "Lenovo Tone"</string>
+    <string name="startup_sound_summary_on">"Aktivovať funkciu Lenovo Tone počas zapínania a vypínania"</string>
+    <string name="startup_sound_summary_off">"Aktivovať funkciu Lenovo Tone počas zapínania a vypínania"</string>
+    <string name="profile_settings">"Zvuk"</string>
+    <string name="progress_title">"Nastavenia profilu"</string>
+    <string name="volume">"Hlasitosť"</string>
+    <string name="ringtone_settings_title">"Prichádzajúce hovory"</string>
+    <string name="feedback_title">"Systém"</string>
+    <string name="threeg_call_sound_title">"Vyzváňací tón"</string>
+    <string name="twog_call_sound_title">"Vyzváňací tón"</string>
+    <string name="convention">"Všeobecné"</string>
+    <string name="cate_call_ringtone">"Prichádzajúce hovory"</string>
+    <string name="cate_message_ringtone">"SMS a MMS"</string>
+    <string name="message">"SMS a MMS"</string>
+    <string name="audio_profile_add">"Pridať"</string>
+    <string name="audio_profile_reset">"Obnoviť"</string>
+    <string name="audio_profile_rename">"Premenovať"</string>
+    <string name="profile_category_checked_title">"Nastavenia profilov"</string>
+    <string name="audio_profile_error">"Chyba"</string>
+    <string name="audio_profile_delete">"Odstrániť"</string>
+    <string name="audio_profile_enable">"Povoliť"</string>
+    <string name="volume_media_mute">"Vypnúť zvuk hudby a iných médií"</string>
+    <string name="volume_ring_mute">"Vypnúť zvuk tónu zvonenia a upozornení"</string>
+    <string name="volume_notification_mute">"Vypnúť zvuk upozornení"</string>
+    <string name="volume_alarm_mute">"Vypnúť zvuk budíka"</string>
+    <string name="dtmf_tone_enable_title" msgid="827601042915852989">"Zvuky pri dotyku číselníku"</string>
+    <string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"Použije hlasitosť prichádzajúcich hovorov aj pre upozornenia"</string>
+    <string name="notification_sound_dialog_title" msgid="3805140135741385667">"Predvolené zvukové upozornenie"</string>
+    <string name="yes">"Áno"</string>
+    <string name="media_volume_summary" msgid="5363248930648849974">"Umožňuje nastaviť hlasitosť hudby a videí"</string>
+    <string name="vibrate_in_silent_title" msgid="3897968069156767036">"Vibrovať v tichom režime"</string>
+    <string name="volume_media_description" msgid="7949355934788807863">"Hudba, video, hry a ďalšie médiá"</string>
+    <string name="notification_pulse_title" msgid="1247988024534030629">"Blikať kontrolkou upozornenia"</string>
+    <string name="audio_record_proc_title" msgid="4271091199976457534">"Potlačenie šumu"</string>
+    <string name="set_default_notification_ringtone">Nastaviť predvolený systémový tón upozornenia</string>
+    <string name="audio_profile_message_delete">Profil <xliff:g id="profile">%s</xliff:g> bude vymazaný</string>
+    <string name="ring_volume_summary">"Nastavte hlasitosť volania, tónov prijatej správy a oznámenia"</string>
+    <string name="audio_profile_message_rename">Zadajte nový názov profilu</string>
+    <string name="audio_profile_message_overflow">Môžete pridať len 4 vlastné profily</string>
+    <string name="audio_profile_message_name_error">Takýto názov už bol zadaný</string>
+    <string name="vibrate_summary">"Vibrácia zariadenia pri prichádzajúcich hovoroch a správach"</string>
+    <string name="audio_profile_message_reset">Všetky nastavenia audio profilov sa nastavia na predvolené</string>
+    <string name="vibrate_in_silent_summary">"Povoliť vibračnú spätnú väzbu v režime stlmenia"</string>
+    <string name="audio_profile_message_name_length_wrong">Názov musí obsahovať aspoň jeden znak</string>
+    <string name="turn_cr_title_success">"Úspešné prijatie správy s nastavením polyfónneho zvonenia"</string>
+    <string name="outdoors_profile_summary">Zmeniť systémové zvuky, vibráciu, zvuky upozornenia na volania a správy</string>
+    <string name="set_profile_title">Osobné nastavenia</string>
+    <string name="push_mail_ringtone_switch_title">Tón upozornenia na službu Push a e-mail</string>
+    <string name="mail_sound_summary">Nastavenie tónu upozornenia na e-mail</string>
+    <string name="turn_cr_title_ongoing">"Práve sa prijíma správa s nastavením polyfónneho zvonenia"</string>
+    <string msgid="145741024028391473" name="lock_sounds_enable_summary_on">Prehrávanie zvuku pri zamykaní a odomykaní obrazovky</string>
+    <string msgid="2088830834182228458" name="silent_mode_incl_alarm_summary">"Stlmiť všetky zvuky, ktoré nie sú súčasťou multimédií"</string>
+    <string name="general_profile_summary">Zmeniť systémové zvuky, vibráciu, zvuky upozornenia na volania a správy</string>
+    <string name="message_sound_title">Tón upozornenia na správu</string>
+    <string name="threeg_message_sound_title">Upozornenie na správu</string>
+    <string name="sound_effects_enable_summary_on">Prehrávanie zvuku pri výbere na obrazovke</string>
+    <string name="call_ringtone_summary">Nastavenie zvonenia pre volania</string>
+    <string name="turn_cr_sms_fail">"Odosielanie správy s nastavením polyfónneho zvonenia zlyhalo"</string>
+    <string name="push_mail_ringtone_switch_summary_on">Otvorené zvonenie upozornenia</string>
+    <string name="alarm_alert_summary">Nastavenie zvuku upozornenia na plánovanú udalosť</string>
+    <string name="meeting_profile_summary">Zapnite/vypnite nastavenie spätnej väzby dotyku</string>
+    <string name="twog_unable">Karta SIM 2 nedostupná</string>
+    <string name="sim_call_one">Tón upozornenia na volanie (SIM 1)</string>
+    <string msgid="5318394806146587849" name="ringtone_and_sound_settings">"Zvonenie a hlasitosť"</string>
+    <string name="remind_summary">Nastavenie celkových upozornení</string>
+    <string name="threeg_unable">Karta SIM 1 nedostupná</string>
+    <string name="push_sound_title">Zvuk upozornenia na službu Push</string>
+    <string name="silence_profile_summary">Zapnite/vypnite nastavenie spätnej väzby dotyku</string>
+    <string name="turn_cr_off">"Vypnuté polyfónne zvonenie"</string>
+    <string name="push_sound_summary">Nastavenie zvuku upozornenia na službu Push</string>
+    <string msgid="3181479108593217704" name="silent_mode_title">"Režim stlmenia"</string>
+    <string name="profile_category_custom_title">Profily definované používateľom</string>
+    <string name="message_sound_summary">Nastavenie zvonenia pre MMS a SMS</string>
+    <string name="dtmf_tone_enable_summary_on">Prehrať zvuk pri vytáčaní čísla</string>
+    <string name="sim_message_sim_one">Tón upozornenia na správu (SIM 1)</string>
+    <string name="profile_options_label">Nastavenie osobného profilu</string>
+    <string name="sim_call">Tón upozornenia na volanie</string>
+    <string name="set_default_message_ringtone">Nastavte predvolený tón upozornenia na správu</string>
+    <string name="twog_message_sound_title">Upozornenie na správu</string>
+    <string name="alarm_alert_title">Upozornenie na plánovanú udalosť</string>
+    <string name="sim_message_sim_two">Tón upozornenia na správu (SIM 2)</string>
+    <string msgid="3309650676072917899" name="silent_mode_summary">"Všetky zvuky stlmené okrem médií a hodín"</string>
+    <string name="remind_title">Spôsob pripomenutia</string>
+    <string name="progress_message">Čakajte...</string>
+    <string msgid="6899220780534617152" name="notification_pulse_summary">"Po prijatí nového oznámenia indikátor ovládača Track Ball neprestajne bliká"</string>
+    <string name="turn_cr_title_fail">"Príjem správy s nastavením polyfónneho zvonenia zlyhal"</string>
+    <string name="sound_effects_enable_summary_off">Prehrávanie zvuku pri výbere na obrazovke</string>
+    <string name="dtmf_tone_enable_summary_off">Prehrať zvuk pri vytáčaní čísla</string>
+    <string msgid="8481243116223542804" name="lock_sounds_enable_summary_off">Prehrávanie zvuku pri zamykaní a odomykaní obrazovky</string>
+    <string msgid="8113628457499616498" name="audio_record_proc_summary">"Stlmiť ruch v pozadí pri volaní a nahrávaní\""</string>
+    <string name="sim_call_two">Tón upozornenia na volanie (SIM 2)</string>
+    <string name="turn_cr_on">"Získať službu polyfónneho zvonenia"</string>
+    <string name="set_default_phone_ringtone">"Nastaviť predvolené zvukové upozornenie na hovor"</string>
+    <string name="outdoors_profile_title">Použitie vonku</string>
+    <string name="Ringtone_profile_title">Nastavenie zvonenia</string>
+    <string name="call_ringtone_title">Zvonenie prichádzajúceho volania</string>
+    <string name="sim_message_one">Tón upozornenia na správu</string>
+    <string name="sum_profile_settings">Zmena nastavení profilu a nastavení osobného profilu</string>
+    <string name="mail_sound_title">Upozornenie na e-mail</string>
+    <string name="push_mail_ringtone_switch_summary_off">Zvonenie pripomienky zatvorené</string>
+    <string name="turn_cr_title">"Polyfónne zvonenie"</string>
+    <string name="Ringtone_profile_summary">Nastavenie zvonenia upozornenia na správu</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"عرض شاشة لاسلكي"</string>
+    <string name="miracast_app_name">"عرض شاشة لاسلكي"</string>
+    <string name="welcome_version">الإصدار <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"الاتصال بجهاز"</string>
+    <string name="item_device_mode_audio_only_title">الصوت</string>
+    <string name="item_device_mode_video_only_title">لقد وصلت هاتفك بجهاز الكمبيوتر عبر مدخل USB. اختر الزر الموجود بالأسفل إذا كنت تريد نسخ الملفات بين جهاز الكمبيوتر ووحدة التخزين USB الخاصة بنظام أندرويد . </string>
+    <string name="item_device_mode_meeting_title">اجتماع</string>
+    <string name="item_device_mode_connect_title">اتصال</string>
+    <string name="item_device_mode_disconnect_title">"قطع الاتصال"</string>
+    <string name="item_device_mode_rename_title">إعادة تسمية</string>
+    <string name="item_device_mode_forget_title">تجاهل</string>
+    <string name="activity_settings_title">الإعدادات</string>
+    <string name="preference_settings_resolution_title">الدقة</string>
+    <string name="preference_settings_update_title">"حول"</string>
+    <string name="dlg_confirm_switch_av_message">يتعين قطع الاتصال الحالي أولاً لتبديل الوضع.\nهل ترغب في التبديل الآن؟</string>
+    <string name="dlg_loading_scan_device_message">الفحص بحثًا عن أجهزة ...</string>
+    <string name="dlg_loading_enable_wifi_message">تمكين wlan ...</string>
+    <string name="dlg_loading_reconnect_message">تبديل الوضع، جارٍ إعادة الاتصال ...</string>
+    <string name="toast_connecting">جارٍ الاتصال، يرجى المحاولة مرة أخرى لاحقًا</string>
+    <string name="toast_already_connected">هناك جهاز آخر متصل بالفعل، يرجى قطع اتصاله أولاً</string>
+    <string name="toast_device_not_available">يتعذر الاتصال، الجهاز غير متوفر</string>
+    <string name="tutor_message_1">قم بتوصل دونجل AllShare Cast بجهاز HDMI باستخدام كبل HDMI A-TO-A.</string>
+    <string name="tutor_message_2">عندما يبدأ المؤشر الأحمر في الوميض، انقر فوق زر إعادة التعيين. انتظر حتى يتحول المؤشر إلى اللون الأزرق. لا حاجة إلى النقر فوقه مرة أخرى عند إعادة الاتصال.</string>
+    <string name="tutor_message_4">إذا تم الاتصال بنجاح، فيمكنك مشاركة شاشتك مع جهاز آخر.</string>
+    <string name="tutor_message_audioonly">إذا كان خرج الصوت مدعومًا بواسطة دونجل، فيمكنك تجربة وضع الصوت فقط للاستمتاع بالموسيقى لاسلكيًا.</string>
+    <string name="tutor_message_videoonly">إذا كنت ترغب في التوصيل بدونجل باستخدام واجهة DVI أو VGA، فيستحسن استخدام وضع الفيديو فقط.</string>
+    <string name="activity_meeting_mode_title">وضع الاجتماع</string>
+    <string name="tutor_message_3">قم بالدخول إلى Miracast ثم بدّل زر "التمكين" إلى "تشغيل". ستظهر بالتالي أسماء الأجهزة المتوفرة للاتصال في لائحة الأجهزة المتوفرة</string>
+    <string name="dlg_select_resolution_title">تحديد الدقة</string>
+    <string name="dlg_confirm_switch_video_message">سيقوم وضع الفيديو بمشاركة محتوى الشاشة عبر dongle فقط. \nيجب قطع الاتصال الحالي للتبديل بين الأوضاع. \nهل تريد المتابعة؟</string>
+    <string name="dlg_rename_title">إعادة تسمية الجهاز</string>
+    <string name="dlg_confirm_disconnect_message">هل تريد قطع الاتصال؟</string>
+    <string name="toast_not_paired">العملية متوفرة فقط للأجهزة المتصلة</string>
+    <string name="dlg_confirm_switch_audio_message">سيقوم وضع الصوت بمشاركة الصوت عبر dongle فقط. قبل التبديل إلى وضع الصوت، يجب التأكد من أنه معتمد من جهاز dongle الذي تستخدمه، وإلا لن ينجح الاتصال. \nيجب قط الاتصال الحالي للتبديل بين الأوضاع. \nهل تريد المتابعة؟</string>
+    <string name="dlg_confirm_forget_message">هل تريد إزالة هذا الجهاز من لائحة الأجهزة المتصلة؟</string>
+    <string name="preference_settings_meeting_mode_title">وضع الاجتماع</string>
+    <string name="preference_settings_tutor_title">برنامج تعليمي</string>
+    <string name="dlg_confirm_meeting_mode_message">يتم تقييد المكالمات في وضع الاجتماع ويتم عرض رسائل SMS تلقائيًا في المقدمة. هل تريد تمكين وضع الاجتماع؟</string>
+</resources>

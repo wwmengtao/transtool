@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_open_wifi_message">Для WLAN SHARE необхідно увімкнути WLAN. Ви бажаєте увімкнути WLAN?</string>
+<string name="socketchannel_busy">Виконання. Спробуйте пізніше!</string>
+<string name="wifi_p2p_cancel_connect_message">Ви бажаєте скасувати запит на з\'єднання?</string>
+<string name="sending_file_notification">WLAN SHARE: Файл надсилається.</string>
+<string name="received_file_fail_dialog">Документ не отримано!</string>
+<string name="dlg_received_file_fail_notification_message">Документ не отримано. Повторіть спробу.</string>
+<string name="wifi_p2p_disconnect_multiple_message">Якщо з\'єднання вимкнути, зв\'язок з усіма приладами буде втрачено.</string>
+<string name="dlg_cancel">"Скасувати"</string>
+<string name="toast_no_send_files">Перед з\'єднанням виберіть один або декілька документів для спільного використання.</string>
+<string name="dlg_close_bt_then_send_file">Вимкніть Bluetooth перед надсиланням документа</string>
+<string name="app_name">Спільне використання WLAN</string>
+<string name="dlg_received_file_confirm_notification_message">Скасувати поточне передавання документа?</string>
+<string name="dlg_request_if_send_file">
+	       "Ви надсилаєте файли:<xliff:g id="id_2">%2$s</xliff:g> to <xliff:g id="id_1">%1$s</xliff:g>?"
+    </string>
+<string name="wifi_p2p_failed_connect_message">Помилка з\'єднання.</string>
+<string name="wifi_p2p_delete_group_message">"Видалити цю групу?"</string>
+<string name="dlg_request_if_receive_file">Прийняти </string>
+<string name="dlg_ok">"Добре"</string>
+<string name="dlg_go_to_file_browser_message">Перевірте документ у папці Диспетчер документів/WlanShare!</string>
+<string name="connect_info_one2one">Підтримується лише одне під\'єдання. Перед повторною спробою закрийте всі інші під\'єднання.</string>
+<string name="dlg_airplane_open_message">Щоб перейти до спільного використання WLAN, вийдіть із режиму \"У літаку\".</string>
+<string name="wifi_p2p_menu_rename">"Перейменувати пристрій"</string>
+<string name="dlg_sent_file_fail_notification_message">Документ не надіслано. Надішліть його ще раз.</string>
+<string name="received_file_result_notification">WLAN SHARE: отримані файли</string>
+<string name="lock_settings_picker_title">Обрати блокування екрана</string>
+<string name="sent_received_file_result_number_notification"> 
+        <xliff:g id="successful_number">%1$s</xliff:g> successful, <xliff:g id="unsuccessful_number">%2$s</xliff:g> unsuccessful.
+    </string>
+<string name="dlg_open_wifi_message_tel">Спільне використання WLAN у режимі \"У літаку\" неможливе.</string>
+<string name="receiving_file_notification">WLAN SHARE: Файл отримано.</string>
+<string name="sent_file_fail_dialog">Документ не надіслано!</string>
+<string name="wifi_p2p_remembered_groups">"Збережені групи"</string>
+<string name="wifi_p2p_disconnect_message">Якщо з\'єднання вимкнути, зв\'язок буде втрачено.</string>
+<string name="help_label">"Довідка"</string>
+<string name="wifi_p2p_menu_searching">"Пошук…"</string>
+<string name="dlg_sdcard_not_mounted_message">Відсутній накопичувач. Перед повторною спробою закрийте USB-накопичувач.</string>
+<string name="sent_file_dialog">Документ успішно надіслано (документ збережено в папці: /WlanShare на мобільному телефоні адресата):</string>
+<string name="wifi_p2p_disconnect_title">"Від’єднатися?"</string>
+<string name="open_file_fail_dialog">Щоб відкрити файл цього типу, установіть необхідне програмне забезпечення.</string>
+<string name="wifi_p2p_cancel_connect_title">"Скасувати запрошення?"</string>
+<string name="wifi_p2p_failed_rename_message">Помилка перейменування пристрою.</string>
+<string name="dlg_received_file_success_notification_message">Документ успішно отримано. Натисніть, щоб переглянути.</string>
+<string name="wifi_p2p_peer_devices">Пристрої</string>
+<string name="wifi_p2p_menu_search">Пошук пристроїв</string>
+<string name="received_file_dialog">Документ успішно отримано (збережено в папці:/WlanShare):</string>
+<string name="sent_file_result_notification">WLAN SHARE: надіслані файли</string>
+<string name="dlg_sent_file_confirm_notification_message">Скасувати поточне передавання документа?</string>
+<string name="dlg_sent_file_success_notification_message">Документ успішно надіслано. Перегляньте на мобільному телефоні адресата.</string>
+    <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Під’єднано"</item>
+    <item msgid="3189211552661432651">"Запрошено"</item>
+    <item msgid="3206450250360237549">"Невдача"</item>
+    <item msgid="7785896708926971207">"Доступний"</item>
+    <item msgid="2330782789550628803">"Поза зоною"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">Немає вмісту</string>
+</resources>

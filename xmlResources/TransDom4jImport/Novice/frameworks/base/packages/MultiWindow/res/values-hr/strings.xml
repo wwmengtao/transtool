@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="menu_settings">"Postavke"</string>
+    <string name="open">"Otvori"</string>
+    <string name="exit">Izlaz</string>
+    <string name="add">"Dodaj"</string>
+    <string name="close">"Zatvori"</string>
+    <string name="confirm">"Potvrdi"</string>
+    <string name="cancle">"Odustani"</string>
+    <string name="hello_world">Pozdrav!</string>
+    <string name="authorization_message">Želite li za otvaranje aplikacije koristiti više prozora ?</string>
+    <string name="tips">Povucite kako biste otvorili više prozora</string>
+    <string name="app_browser_title">Aplikacija više prozora</string>
+    <string name="authorization_notication">Obavijest o autorizaciji</string>
+</resources>

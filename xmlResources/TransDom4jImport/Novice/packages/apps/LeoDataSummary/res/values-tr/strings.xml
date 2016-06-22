@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="enable_traces_title">"İzleri etkinleştir"</string>
+<string name="color_light_hasclose">Kapalı</string>
+<string name="playertutorial_title">Eğitsel</string>
+<string name="show_frame_count_size">Boyut</string>
+<string name="accessibility_script_injection_allowed">İzin verilenler</string>
+<string name="timing_shutdown_head_text">"Kapat"</string>
+<string name="display_effect_of_screen_saturation_title">"Doygunluk"</string>
+<string name="enable_traces_summary_all">"Tüm izler şu anda etkin"</string>
+<string name="version_info">Sürüm bilgileri</string>
+<string name="data_connect_settings_title">Veri bağlantısı</string>
+<string name="ota_title">Sistem güncellemesi</string>
+<string name="theme_settings_title">"Tema"</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g>, şifreler dışında yazdığınız tüm metinleri toplayabilir. Buna kredi kartı numaraları gibi kişisel veriler de dahildir. Ayrıca, tablet ile etkileşimleriniz hakkında da bilgi toplayabilir."</string>
+<string name="display_effect_of_screen_sharpen_item0">"Varsayılan"</string>
+<string name="enable_traces_dialog_title">"Etkin izleri seç"</string>
+<string name="display_effect_of_screen_sharpen_item1">"Keskinleştir"</string>
+<string name="backup_data_description">"Telefonunuzu sıfırlamadan önce kişilerinizi ve diğer önemli verileri yedekleyin"</string>
+<string name="all_setings_title">"Sistem ayarları"</string>
+<string name="hardware_version">Donanım sürümü</string>
+<string name="enable_traces_summary_none">"Şu anda hiçbir iz etkin değil"</string>
+<string name="stop_color_light">durdur</string>
+<string name="display_effect_of_screen_apply">"Uygula"</string>
+<string name="lock_intro_message" product="tablet">"Kişisel bir kilit açma deseni oluşturarak tabletinizi yetkisiz kullanıma karşı koruyun. Bir sonraki ekranda parmağınızı kaydırarak noktaları istediğiniz sırada birleştirin. En az dört noktayı birleştirmeniz gereklidir. "\n\n"Başlamaya hazır mısınız? İleri\'ye dokunun."</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"<xliff:g id="SERVICE">%1$s</xliff:g> kullanılsın mı?"</string>
+<string name="monotype_preference_title">Yazı tipi stili</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> şifreler dışında yazdığınız tüm metinleri toplayabilir. Buna kredi kartı numaraları gibi kişisel veriler de dahildir. Ayrıca, telefon ile etkileşimleriniz hakkında da bilgi toplayabilir."</string>
+<string name="wifi_switch_summary">Telefonun bağlandığı WLAN ağlar tanınır ve internete veri bağlantısı ile bağlandığınız durumlarda veri tüketimini önlemek için menzil içinde olduğunuz zaman tanınan bu ağlara otomatik olarak bağlanılır.</string>
+<string name="incoming_mms_ringer_title">Mesaj Uyarı Tonu</string>
+<string name="display_effect_of_screen_sharpen_title">"Keskinlik"</string>
+<string name="lenovo_exp_title">Lenovo Experience Programına katılmayı kabul ediyorum</string>
+<string name="display_effect_of_screen_cancel">"İptal"</string>
+<string name="track_frame_time_summary">"Oluşturma süresini adb shell dumpsys gfxınfo içinde ölç"</string>
+<string name="exit">"Çık"</string>
+<string name="wifi_switch_settings_title">WLAN kaydetme</string>
+<string name="unlock_proximity_ctrl">Cepte arama önleme kipi</string>
+<string name="accessibility_toggle_script_injection_preference_title">"Web erişilebilirliğini geliştir"</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"Şu anda <xliff:g id="NUM">%1$d</xliff:g> iz etkin"</string>
+<string name="accessibility_script_injection_disallowed">İzin verilmeyenler</string>
+<string name="show_frame_count_ok_button_text">"Tamam"</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"<xliff:g id="SERVICE">%1$s</xliff:g> durdurulsun mu?"</string>
+<string name="display_effect_of_screen_hue_title">"Renk"</string>
+<string name="safety_information_content">Telefonunuzun sistemini yükseltmek isterseniz lütfen resmi Lenovo satış sonrası servis ağı ile iletişime geçin veya Lenovo telefonunuzdaki sistem yükseltme işlevini kullanın. Aksi takdirde, cihaz arızasına veya veri kaybına neden olabilir ve sistemin güvenlik işlevini ortadan kaldırarak güvenlik risklerine neden olabilir.</string>
+<string name="color_light_other_summary">Telefon numarası ve arama bekletme ayarları</string>
+<string name="incoming_call_ringer_title">"Arama Uyarı Tonu"</string>
+<string name="profile_settings">"Ses"</string>
+<string name="display_effect_of_screen_contrast_title">"Kontrast"</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"Uygulamaların Google\'dan web içeriklerini daha erişilebilir hale getirecek komut dosyaları yüklemesini istiyor musunuz?"</string>
+<string name="accessibility_script_injection_button_disallow">"İzin verme"</string>
+<string name="character_setings_title">"Özellik ayarları"</string>
+<string name="header_category_personalcustom">Kişiselleştir</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"Tamam\'a dokunulduğunda <xliff:g id="SERVICE">%1$s</xliff:g> durdurulur."</string>
+<string name="timing_startup_head_text">"Açık"</string>
+<string name="authdlg_service_decline">"Reddet"</string>
+<string name="i_know_it">"Tamam"</string>
+<string name="accessibility_script_injection_button_allow">"İzin Ver"</string>
+<string name="backup_data">"Verileri Yedekle"</string>
+<string name="preference_status_open">"Aç"</string>
+<string name="color_light_battery">Pil</string>
+<string name="lock_title" product="tablet">"Telefonunuzu güvenlik altına alma"</string>
+<string name="unlock_set_unlock_speech_title">Sesli Kilit Açma</string>
+<string name="user_you_section">"Siz"</string>
+<string name="safety_information">Güvenlik bilgisi</string>
+<string name="color_light_hasopen">"Açık"</string>
+<string name="preference_status_close">Kapat</string>
+<string name="color_light_other">"Diğer"</string>
+<string name="common_setings_title">"Ortak ayarlar"</string>
+<string name="display_effect_of_screen_contrast_item1">"Varsayılan"</string>
+<string name="timing_startup_and_shutdown_settings_title">Güç açma/kapama planla</string>
+<string name="show_hw_overdraw_summary">"En iyiden en kötüye: mavi, yeşil, açık kırmızı, kırmızı"</string>
+<string name="display_effect_of_screen_saturation_item1">"Varsayılan"</string>
+<string name="show_frame_count_cancel_button_text">"İptal"</string>
+<string name="color_light_call">"Çağrı"</string>
+    <string name="action_settings">"Ayarlar"</string>
+    <string name="china_telcom_push_summary">China Telecom free push service</string>
+    <string name="china_telcom_push_title">China Telecom Yi Push</string>
+    <string name="apprateinfo">Veri kullanımı</string>
+    <string name="hello_world">Merhaba Dünya!</string>
+    <string name="operator_name_china_mobile">"China Mobile"</string>
+    <string name="operator_name_china_telcom">"China Telcom"</string>
+    <string name="show_password_summary">Hata</string>
+    <string name="display_effect_of_screen_saturation_item2">Parlak</string>
+    <string name="operator_name_china_unicom">"China Unicom"</string>
+    <string name="other_wallpaper">Diğer Duvar Kağıtları</string>
+    <string name="authorizaion_failed_error">Yetkilendirme başarısız. Uzak cihaza bağlanılamadı.</string>
+    <string name="show_dev_countdown">Geliştirici olmanıza birkaç adım kaldı.</string>
+    <string name="os_version">Sistem sürüm numarası</string>
+    <string name="show_frame_count_title">Başlangıç eğitimine giriş yapın</string>
+    <string name="select_subscription">Abonelik Seç</string>
+    <string name="backup_data_section_title">Veri yedeklemesi</string>
+    <string name="usergudie_button_text">"Yeniden başlatma ayarlarını girin"</string>
+    <string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Dahili Depolamada bulunan tüm kullanıcı verileri</xliff:g> (müzik, görüntüler ve diğer kullanıcı verileri dahil olmak üzere) <xliff:g/> silinecek. Lütfen telefonu sıfırlamadan önce tüm verileri yedekleyin."</string>
+    <string name="authdlg_message">\'%1$s\' %2$s\'a bağlanmak için izin istiyor.</string>
+    <string name="show_frame_count_summary">Etkinleştirildiğinde çerçeve sayısını görüntüle.</string>
+    <string name="authdlg_auto_reply">Tekrar sorma</string>
+    <string name="whatis_lenovoid_cando_summary"> "çeşitli uygulamalar, bulut hizmetleri ve hizmet için bağlantılara kontrolsüz erişim. Eldeki bir kartın engeli kaldırıldı. "</string>
+    <string name="reset_backup_befor_reset_title">Sıfırlamadan önce verileri yedekleyin</string>
+    <string name="location_consent_dialog_title">Konum onayı</string>
+    <string name="airplane_open_confirm_message">"Uçak modunun açılmasına izin verilsin mi?"</string>
+    <string name="devices_info_runMemory">"RAM: 2,0 GB</string>
+    <string name="show_frame_count_x_coordinate">X koordinatı</string>
+    <string name="reset_backup_befor_reset_summary">Sıfırlamadan önce kişiler gibi önemli verileri yedekleyin</string>
+    <string name="authdlg_service_map">mesajlara erişmek için bu telefon</string>
+    <string name="userguide_title">"Kılavuzu Yeniden Başlat"</string>
+    <string name="quicksettings">"hızlı ayarlar"</string>
+    <string name="backup_recovery_dialog_message">Uygulama verilerini yedekleme veya geri yükleme durdurulsun mu?</string>
+    <string name="authdlg_service_spp">bu telefonda bulunan Bluetooth seri bağlantı noktası</string>
+    <string name="savepower_white_title">"Beyaz Liste"</string>
+    <string name="lenovoID_registered_title">"Cep telefonu numarasının Lenovo Kimliği (Lenovo geçiş) hesabı olarak kullanılmasını kabul et"</string>
+    <string name="mannual">Başlangıç eğitimine giriş yapın</string>
+    <string name="authdlg_service_default">bu telefon</string>
+    <string name="show_frame_count_y_coordinate">Y koordinatı</string>
+    <string name="header_category_personalcustom_k7">"Kişiselleştirildi"</string>
+    <string name="never_timeout">Hiçbir zaman bekleme moduna alma</string>
+    <string name="roaming_time_settings_zone">Önerilen zaman dilimi</string>
+    <string name="data_usage_tab_slot2">ABN 2</string>
+    <string name="startup_time">Şurada aç:</string>
+    <string name="data_usage_tab_slot1">ABN 1</string>
+    <string name="subscription_02_title">ABN 2</string>
+    <string name="volume_title">"Ses Düzeyi"</string>
+    <string name="authdlg_title">Bluetooth Yetkilendirme Talebi</string>
+    <string name="lock_wallpaper">Kilit Duvar Kağıdı</string>
+    <string name="roaming_time_settings_time_display">Zaman görüntüleme programı</string>
+    <string name="weather_live_wallpaper">Canlı Hava Durumu Duvar Kağıdı</string>
+    <string name="whatis_lenovoid_summary"> "cep telefonunuzu Lenovo geçiş hesabı olarak kullanın, Topluluğun bir üyesi olun. "</string>
+    <string name="data_usage_menu_restrict_systembgdata">"Sistem arkaplan verilerine izin ver"</string>
+    <string name="lenovo_exp_content">"Yalnızca CN desteklenir"</string>
+    <string name="simple_settings">Başlangıç kılavuzu</string>
+    <string name="recovery_data_section_title">Veri geri yükleme</string>
+    <string name="devices_info_cpu">"CPU：ön çekirdek 2,2 GHz"</string>
+    <string name="desktop_wallpaper">Masaüstü Duvar Kağıdı</string>
+    <string name="A_gps_summary"> GPS ile konumun sabit zamanını hızlandırmak için yardımcı veriyi kullan</string>
+    <string name="roaming_settings_title">Dolaşım Ayarları</string>
+    <string name="unlock_set_unlock_speechpwd_title">"Koruma için Sesli parola ve Desen kullanın"</string>
+    <string name="startup_shutdown_time_errmsg">Açılma ve kapanma arasındaki zaman dilimi 10 dakikadan fazla olmalıdır, lütfen yeniden ayarlayın.</string>
+    <string name="savepower_all_title">"Tümü"</string>
+    <string name="data_usage_enable_mobile_statistics_dialog">Bu özellik etkinleştirildiğinde LTE gibi yüksek veri oranı ağlarında güç tüketimi artacaktır.</string>
+    <string name="reset_skip_backup_title">Yedeklemeyi geç</string>
+    <string name="backup_recovery_data_summary">Telefondaki uygulama verilerini yedekle veya geri yükle</string>
+    <string name="fuse_backup_data_to_cloud_title">Verileri buluta yedekle</string>
+    <string name="roaming_time_settings_category">Uluslararası dolaşım ayarları</string>
+    <string name="authdlg_service_pbap">kişileri indirmek için bu telefon</string>
+    <string name="reset_skip_backup_summary">Yedeklenmiş veya yedeklemeye gerek olmayan öğeler için bu seçeneği seçin</string>
+    <string name="save_power_wait_message">"Uygulamalar yükleniyor"</string>
+    <string name="quicksettings_title">Hızlı kurulum</string>
+    <string name="authdlg_service_dun">bu telefondaki çevirmeli ağ servisi</string>
+    <string name="unlock_set_unlock_speechnormal_title">"Hızlı sesli kilit açma"</string>
+    <string name="recovery_data_title">SD kart yedeklemesinden verileri geri yükle </string>
+    <string name="backup_recovery_data_title">Uygulama verilerini yedekle veya geri yükle</string>
+    <string name="show_screen_frame_count">Ekran çerçevesi sayısını göster</string>
+    <string name="wifi_setting_summary">Bağlı ap konumu girildiğinde ve GPRS verisi olduğunda konumu kaydedin</string>
+    <string name="data_usage_enable_mobile_statistics">Veri istatistikleri</string>
+    <string name="startup_time_enabled">Programlanmış güç açma</string>
+    <string name="what_lenovoid_cando_title"> "Bağlantı geçişleriyle ne yapabilirim? "</string>
+    <string name="save_power_wait_title">"Lütfen bekleyin"</string>
+    <string name="bluetooth_remote_device">bluetooth cihazı</string>
+    <string name="shutdown_time">Şurada kapat:</string>
+    <string name="savepower_black_title">"Kara Liste"</string>
+    <string name="fuse_backup_data_description">"Telefonunuzu sıfırlamadan önce Kişileri, Görüntüleri, Mesajları, Uygulamaları ve diğer önemli verileri yedekleyin"</string>
+    <string name="backup_data_to_sdcard_title">Verileri SD karta yedekle</string>
+    <string name="framework_version">Android sürüm numarası</string>
+    <string name="fuse_backup_data_to_cloud_summary">Telefon verilerini buluta yedekle</string>
+    <string name="backup_data_recovery_section_title">Veri yedekleme ve geri yükleme</string>
+    <string name="settings_header_ringtone_k7">"Zil Sesi Ayarları"</string>
+    <string name="quicksettings_summary">Lenovo telefonunu kullanmaya hoş geldiniz, lütfen hızlı kurulum ile başlayın! "Sistem kurulum" bölümünden kişisel olarak kurulum yapabilirsiniz.\n</string>
+    <string name="sim_not_available">SIM karta erişilemiyor</string>
+    <string name="shutdown_time_enabled">Programlanmış kapama</string>
+    <string name="subscription_01_title">ABN 1</string>
+    <string name="internal_version">Dahili sürüm numarası</string>
+    <string name="screensaver_timeout_zero_summary">"Hiçbir zaman"</string>
+    <string name="backup_data_to_sdcard_summary">Telefon verilerini SD karta yedekle</string>
+    <string name="airplane_open_confirm">"Uçak modu"</string>
+    <string name="software_version">Yazılım sürüm numarası</string>
+    <string name="authdlg_service_opp">bu telefon</string>
+    <string name="whatis_lenovoid_title"> "Bağlantı geçişleri nedir? "</string>
+    <string name="devices_info_camera">"Kamera: Ön 5 milyon, Arka 13 milyon"</string>
+    <string name="apn_call_number">PPP telefon numarası</string>
+    <string name="authdlg_service_ftp">dosyaları aktarmak için bu telefon</string>
+    <string name="sound_settings_title">"Ses Düzeyi"</string>
+    <string name="recovery_data_summary">Veri yedeklemek üzere SD kart takmak için dokunun</string>
+    <string name="wlan_share">"WLAN paylaşımı"</string>
+    <string name="display_effect_of_screen_contrast_item0">Serin</string>
+    <string name="authdlg_service_accept">Yetkilendir</string>
+    <string name="devices_info_screen">"Ekran: 1080*1920   5,5-inç"</string>
+    <string name="display_effect_of_screen_contrast_item2">Ilık</string>
+    <string name="font_settings_title">"Yazı tipi ayarları"</string>
+    <string name="data_usage_disable_mobile_statistics_dialog">Bu özelliğin devre dışı bırakılmasıyla veri kullanım istatistikleri toplama özelliği kapatılacaktır.</string>
+    <string name="display_effect_of_screen_saturation_item0">Yumuşak</string>
+    <string name="location_consent_dialog_message">Konum hizmetinin bilinmeyen konum verilerini toplamasına izin ver. Bazı veriler cihazınıza kaydedilebilir. Toplama işlemi hiçbir uygulama çalışmıyorken yapılır.</string>
+    <string-array name="saturation">
+        <item>Yumuşak</item>
+        <item>Varsayılan</item>
+        <item>Parlak</item>
+    </string-array>
+    <string name="uid">uid</string>
+    <string name="color_light_unread_mms"> okunmamış SMS </string>
+    <string name="lock_title" product="default">Telefonunuzu koruyun</string>
+    <string-array name="contrast">
+        <item>Varsayılan</item>
+        <item>Yükseklik</item>
+    </string-array>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="devices_info_memory">"Bellek：<xliff:g>%1$s</xliff:g>(boş)"</string>
+    <string name="summary_keyboard_lights">SmartControl</string>
+    <string name="lock_intro_message" product="default">Kişisel ekran kilidi açma deseni oluşturarak telefonunuzu yetkisiz kullanımdan koruyun. Bir sonraki ekranda herhangi bir düzende en az dört noktayı bağlayacak şekilde parmağınızı kaydırın.
+        \n\nBaşlamaya hazır mısınız? Sonra öğesine dokunun.</string>
+    <string name="fuse_recovery_data_from_cloud_title">Verileri buluttan geri yükle</string>
+    <string name="teos_settings_title">Ekran Efekti</string>
+    <string name="app_name">com.datasummary.LeoDataSummary</string>
+    <string-array name="hue">
+        <item>Serin</item>
+        <item>Varsayılan</item>
+        <item>Ilık</item>
+    </string-array>
+    <string name="playersTutorial_stoped">PlayersTutorial uygulaması durduruldu.</string>
+    <string name="products_version">Model No.</string>
+    <string name="current_month">Geçerli ay =</string>
+    <string name="color_light_missed_call"> cevapsız çağrılar </string>
+    <string name="devices_info_products_version">"Model: Lenovo K910"</string>
+    <string name="rateinfo">100 KB</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="today">bugün</string>
+    <string name="location_network_service">Qualcomm iZat</string>
+    <string name="color_light"> lamba yeterliliği </string>
+    <string name="save_power_count">"Toplam <xliff:g id="NUMBER">%d</xliff:g> uygulama sistem uyandırmasına izin veriyor"</string>
+    <string-array name="sharpen">
+        <item>Varsayılan</item>
+        <item>Keskin</item>
+    </string-array>
+    <string name="info">Telefonunuzdan ölçüldüğüne göre. Taşıyıcınızın veri kullanım hesabı farklılık gösterebilir.</string>
+    <string name="personal_hotspot">"Kişisel erişim noktası"</string>
+    <string name="data_summary">Veri kullanımı ve APP kontrol</string>
+    <string name="color_light_demo"> lamba yeterliliği demo </string>
+    <string name="colorLight_settings"> ışıklandırma takımı </string>
+    <string name="system_time_am">AM</string>
+    <string name="sim_settings_title">Çift Kart Ayarları</string>
+    <string name="unlock_proximity_ctrl_summary">telefon cepteyken güç tuşuna yanlışlıkla dokunulduğunda ekran otomatik olarak kapanır.</string>
+    <string name="disable">devre dışı bırak</string>
+    <string name="save_power_summary">"Sistem uyandırmaya izin veren uygulamayı seçin"</string>
+    <string name="appcontrol">Ağ Güvenlik Duvarı</string>
+    <string name="devices_info_firmwareVersion">"Android sürümü: <xliff:g>%1$s</xliff:g>"</string>
+    <string name="save_power_title">"Sistem Uyandırma Kontrolü"</string>
+    <string name="fuse_recovery_data_from_cloud_summary">Bulut veri yedeklemeye girmek için dokunun</string>
+    <string name="showing_color_light"> ışıklandırma demosu </string>
+    <string name="appname">uygulama adı</string>
+    <string name="keyboard_lights_title">Klavye ışıkları</string>
+    <string name="devices_info_buildNumber">"Numara oluştur: <xliff:g>%1$s</xliff:g>"</string>
+    <string name="system_time_pm">PM</string>
+    <string name="teos_settings">Ekran Efekti</string>
+    <string name="location_improve_allow">WLAN ve/veya mobil ağlar ile geliştirilen konum hizmetleri</string>
+</resources>

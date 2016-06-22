@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_open_wifi_message">لمشاركة شبكة الاتصال المحلية اللاسلكية WLAN؛ يجب فتحها أولاً، هل فتحت شبكة الاتصال المحلية اللاسلكية WLAN؟</string>
+<string name="socketchannel_busy">مشغولة. الرجاء المحاولة مرة أخرى لاحقًا!</string>
+<string name="wifi_p2p_cancel_connect_message">هل تريد إلغاء دعوة الاتصال؟</string>
+<string name="sending_file_notification">مشاركة شبكة الاتصال المحلية اللاسلكية WLAN: جارٍ إرسال الملف.</string>
+<string name="received_file_fail_dialog">لم يتم استلام المستند!</string>
+<string name="dlg_received_file_fail_notification_message">لم يتم استلام المستند. الرجاء إعادة المحاولة.</string>
+<string name="wifi_p2p_disconnect_multiple_message">في حالة قطع الاتصال، سيتم قطع الاتصال بكل الأجهزة خاصتك.</string>
+<string name="dlg_cancel">"إلغاء"</string>
+<string name="toast_no_send_files">الرجاء تحديد مستند واحد أو أكثر لمشاركته قبل الاتصال!</string>
+<string name="dlg_close_bt_then_send_file">الرجاء إغلاق Bluetooth قبل إرسال المستند!</string>
+<string name="app_name">"المشاركة عبر WLAN"</string>
+<string name="dlg_received_file_confirm_notification_message">هل تريد بالتأكيد إلغاء نقل المستند الحالي؟</string>
+<string name="dlg_request_if_send_file">
+	       "هل قمت بإرسال ملفات:<xliff:g id="id_2">%2$s</xliff:g> to <xliff:g id="id_1">%1$s</xliff:g>?"
+    </string>
+<string name="wifi_p2p_failed_connect_message">تعذر الاتصال</string>
+<string name="wifi_p2p_delete_group_message">"حذف هذه المجموعة؟"</string>
+<string name="dlg_request_if_receive_file">قبول </string>
+<string name="dlg_ok">"تأكيد"</string>
+<string name="dlg_go_to_file_browser_message">الرجاء التحقق من المستند ضمن ملفات Document Manager/WlanShare!</string>
+<string name="connect_info_one2one">تدعم اتصالاً أحاديًا فقط. الرجاء إغلاق كل الاتصالات الأخرى قبل إعادة المحاولة.</string>
+<string name="dlg_airplane_open_message">الرجاء الخروج من وضع الطائرة، ثم استخدام Wlan Share!</string>
+<string name="wifi_p2p_menu_rename">"إعادة تسمية الجهاز"</string>
+<string name="dlg_sent_file_fail_notification_message">لم يتم إرسال المستند. الرجاء إعادة إرساله.</string>
+<string name="received_file_result_notification">مشاركة شبكة الاتصال المحلية اللاسلكية WLAN: تم استلام الملفات</string>
+<string name="lock_settings_picker_title">اختيار قفل الشاشة</string>
+<string name="sent_received_file_result_number_notification"> 
+        <xliff:g id="successful_number">%1$s</xliff:g> ناجح, <xliff:g id="unsuccessful_number">%2$s</xliff:g> فاشل.
+    </string>
+<string name="dlg_open_wifi_message_tel">لا يمكنك استخدام المشاركة عبر WLAN في وضع الطائرة.</string>
+<string name="receiving_file_notification">مشاركة شبكة الاتصال المحلية اللاسلكية WLAN: جارٍ استلام الملف.</string>
+<string name="sent_file_fail_dialog">لم يتم إرسال المستند!</string>
+<string name="wifi_p2p_remembered_groups">"المجموعات المحفوظة في الذاكرة"</string>
+<string name="wifi_p2p_disconnect_message">في حالة قطع الاتصال، سينتهي الاتصال الخاص بك.</string>
+<string name="help_label">"مساعدة"</string>
+<string name="wifi_p2p_menu_searching">البحث\u2026</string>
+<string name="dlg_sdcard_not_mounted_message">جهاز التخزين غير متوفر. الرجاء إغلاق جهاز تخزين USB قبل المحاولة.</string>
+<string name="sent_file_dialog">تم إرسال المستند بنجاح (تم حفظ المستند ضمن: /WlanShare على الهاتف المحمول للمستلم):</string>
+<string name="wifi_p2p_disconnect_title">قطع الاتصال؟</string>
+<string name="open_file_fail_dialog">تعذر فتح نوع الملف هذا، الرجاء تثبيت البرامج اللازمة!</string>
+<string name="wifi_p2p_cancel_connect_title">"هل تريد إلغاء الدعوة؟"</string>
+<string name="wifi_p2p_failed_rename_message">تعذر إعادة تسمية الجهاز.</string>
+<string name="dlg_received_file_success_notification_message">تم استلام المستند بنجاح. الرجاء الضغط لعرضه.</string>
+<string name="wifi_p2p_peer_devices">أجهزة نظيرة</string>
+<string name="wifi_p2p_menu_search">البحث عن أجهزة</string>
+<string name="received_file_dialog">تم استلام المستند بنجاح (تم الحفظ ضمن: /WlanShare):</string>
+<string name="sent_file_result_notification">مشاركة شبكة الاتصال المحلية اللاسلكية WLAN: الملفات التي تم إرسالها</string>
+<string name="dlg_sent_file_confirm_notification_message">هل تريد بالتأكيد إلغاء نقل المستند الحالي؟</string>
+<string name="dlg_sent_file_success_notification_message">تم إرسال المستند بنجاح. الرجاء عرضه على الهاتف المحمول للمستلم.</string>
+    <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"متصل"</item>
+    <item msgid="3189211552661432651">"مدعو"</item>
+    <item msgid="3206450250360237549">"غير ناجح"</item>
+    <item msgid="7785896708926971207">"متوفر"</item>
+    <item msgid="2330782789550628803">"خارج النطاق"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">ما من محتوى</string>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="wifi_security"> 
+        <item>"Megnyitás"</item>  
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080 p (30 képkocka/mp)</item>
+        <item>720 p (60 képkocka/mp)</item>
+        <item>720 p (30 képkocka/mp)</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>WAPI tanúsítvány</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720 p (60 képkocka/mp)</item>
+        <item>720 p (30 képkocka/mp)</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Automatikus</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimális</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI tanúsítvány</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(nincs megadva)</item>
+        <item>1. SIM-kártyahely</item>
+        <item>2. SIM-kártyahely</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>Jobbkezes egér</item>
+        <item>Balkezes egér</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Mindig</item>
+        <item>Ha 5 percig inaktív, kapcsolja ki</item>
+        <item>Ha 10 percig inaktív, kapcsolja ki</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        <item>Normális esetben bekapcsolva</item>
+        <item>3 másodpercig</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>1. előfizetés</item>
+        <item>2. előfizetés</item>
+        <item>Figyelmeztetés</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Intelligens képernyőtájolás（a szemének legkényelmesebben tájolja a képernyőt）</item>
+        <item>Képernyő automatikus tájolása</item>
+        <item>Bezárva</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 &amp; IPv6</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+    	
+    	
+    	
+    <item>Használja a hálózat által megadott időt</item>
+        <item>Használja a GPS által megadott időt</item>
+        <item>Kikapcsolva</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        
+        
+        
+        
+    <item>Be</item>
+        <item>3 másodpercig</item>
+        <item>Intelligens vezérlés</item>
+        <item>Kikapcsolva</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        
+        
+        
+    <item>Forgatás kézmozdulatokkal</item>
+        <item>Automatikus forgatás</item>
+        <item>Kikapcsolva</item>
+    </string-array>
+    <string-array name="softspacename">
+        
+        
+        
+    <item>Rendszerjavaslatok</item>
+        <item>Telefonra való telepítés</item>
+        <item>Alapértelmezett memóriakártyára való telepítés</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        
+        
+        
+        
+    <item>"Mindig"</item>
+        <item>"Csak töltés közben"</item>
+        <item>"Soha (növeli az adatforgalmat)"</item>
+        <item>"Intelligens alvó mód (az adatforgalom a forgalom alapján be/kikapcsolva)</item>
+    </string-array>
+</resources>

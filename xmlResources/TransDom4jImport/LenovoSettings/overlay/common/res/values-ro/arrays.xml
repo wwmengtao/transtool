@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="wifi_security"> 
+        <item>Niciuna</item>  
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Automat</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexazecimal</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720p (60 cadre/s)</item>
+        <item>720p (30 cadre/s)</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(nespecificat)</item>
+        <item>Slot Sim 1</item>
+        <item>Slot Sim 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 şi IPv6</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>Mouse pentru dreptaci</item>
+        <item>Mouse pentru stângaci</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Întotdeauna</item>
+        <item>Opriţi în caz de ralanti timp de 5 min.</item>
+        <item>Opriţi în caz de ralanti timp de 10 min.</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>Certificat WAPI</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080p (30 cadre/s)</item>
+        <item>720p (60 cadre/s)</item>
+        <item>720p (30 cadre/s)</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Certificat WAPI</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        <item>Normal activ</item>
+        <item>Pt. 3 secunde</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Abonament 1</item>
+        <item>Abonament 2</item>
+        <item>Mesaj</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Ecran rot.intelig（rotire ecran asemeni ochilor）</item>
+        <item>Rotire autom. ecran</item>
+        <item>Închis</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+    	
+    	
+    	
+    <item>Utilizare oră furnizată de reţea</item>
+        <item>Utilizare oră furnizată de GPS</item>
+        <item>Dezact.</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        
+        
+        
+        
+    <item>Act.</item>
+        <item>Pt. 3 secunde</item>
+        <item>Control inteligent</item>
+        <item>Dezact.</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        
+        
+        
+    <item>Gest de rotire</item>
+        <item>Rotire automată</item>
+        <item>Dezact.</item>
+    </string-array>
+    <string-array name="softspacename">
+        
+        
+        
+    <item>Recomandări ale sistemului</item>
+        <item>Instalare pe telefon</item>
+        <item>Instalare pe cardul de memorie implicit</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        
+        
+        
+        
+    <item>"Întotdeauna"</item>
+        <item>"Numai la încărcare"</item>
+        <item>"Niciodată (creşte traficul de date)"</item>
+        <item>"Repaus inteligent (transfer de date pornit/oprit în funcţie de trafic)"</item>
+    </string-array>
+</resources>

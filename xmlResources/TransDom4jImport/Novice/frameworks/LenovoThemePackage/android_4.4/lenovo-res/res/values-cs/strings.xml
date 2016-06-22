@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="silent_mode_outdoor">Venku</string>
+<string name="capital_on">"ZAPNUTO"</string>
+<string name="not_support_too_long_string">Nepodporuje hledání moc dlouhého řetězce</string>
+<string name="volume_icon_description_notification">Oznámení</string>
+<string name="dlg_use_ipo_confirm">Rychlé spuštění</string>
+<string name="prevent_misoperation_message">Nezakrývejte horní část obrazovky</string>
+<string name="volume_alarm">Budík</string>
+<string name="reboot_confirm_title">"Restartovat"</string>
+<string name="ext_storage_external_notification_title">Příprava externího úložiště</string>
+<string name="captive_portal_dialog_message">Pro použití aktuální sítě je před přístupem k internetu potřeba přihlášení, nejprve se přihlaste</string>
+<string name="usb_notification_title">Nastavení připojení USB</string>
+<string name="prevent_misoperation_quit_hint">Nucené ukončení: stisknutí kláves \"Zpět\" + \"Zvýšení hlasitosti\"</string>
+<string name="long_back_exit_info">ukončit</string>
+<string name="global_actions_toggle_open_airplane_mode_confirm">Aktivovat režim Letadlo</string>
+<string name="keyguard_password_waring_dlg_remind">Zadejte lenovo a pokračujte kliknutím na OK.</string>
+<string name="storage_external_usb">Externí úložiště USB</string>
+<string name="reboot_dialog_msg">K vypnutí dojde <xliff:g id="DELAY">^1</xliff:g> sekund po stisknutí tlačítka napájení. 
+Po vypnutí pokračujte a restartujte stisknutím na 2 sekundy</string>
+<string name="default_string">"Výchozí"</string>
+<string name="turn_off_data">Vypnutí</string>
+<string name="captive_portal_dialog_button">"Přihlásit se"</string>
+<string name="storage_phone">vestavěné úložiště</string>
+<string name="next_time_no_warning">Příště nevarovat</string>
+<string name="silent_mode_silent">"Tichý"</string>
+<string name="silent_mode_vibrate">Schůze</string>
+<string name="author">Autor Lenovo</string>
+<string name="msg_shutdown_habit_guess">Nedávno jste vypnuli zařízení třikrát během této doby. 
+Potřebujete přejít na nastavení plánovaného zapínání/vypínání?</string>
+<string name="keyguard_password_waring_dlg_title">Nesprávné heslo</string>
+<string name="volume_icon_description_media">"Média"</string>
+<string name="app_name">Vážná</string>
+<string name="keyguard_password_attempts_warning">Pokusili jste se <xliff:g id="number">%d</xliff:g>krát nesprávně odemknout telefon.
+       Po <xliff:g id="number">%d</xliff:g> dalších neúspěšných pokusech
+       se telefon resetuje na výchozí výrobní nastavení a všechna uživatelská data budou ztracena.</string>
+<string name="capital_off">"VYPNUTO"</string>
+<string name="captive_portal_dialog_title">"Přihlásit se k síti WLAN"</string>
+<string name="storage_usb">"Úložiště USB"</string>
+<string name="usb_notification_content">Vyberte režim připojení usb a ladění adb.</string>
+<string name="prevent_misoperation_title">Režim zabránění zneužití</string>
+<string name="reboot_confirm_msg">Telefon se restartuje</string>
+<string name="turn_on_data">Zapnout</string>
+<string name="global_action_reboot">"Restartovat"</string>
+<string name="silent_mode_normal">Obecné</string>
+<string name="kg_forgot_password_button_text">Zapomenuté heslo</string>
+<string name="ext_storage_internal_notification_title">Příprava interního úložiště</string>
+<string name="turn_on_mobile_data_warning">Zapněte datové připojení, mobilní telefon využije určitá data GPRS. \nKonkrétní poplatky závisí na operátorech. Opravdu chcete otevřít?</string>
+<string name="storage_sd_card">externí úložiště</string>
+<string name="description">Výchozí téma Lenovo </string>
+<string name="keyguard_password_dlg_input_err">chyby vstupu, opakujte pokus</string>
+<string name="volume_icon_description_ringer">Vyzváněcí tón</string>
+<string name="dlg_ipo_confirm_warning">V režimu rychlého startu není systém zcela vypnutý, v tomto stavu nevkládejte kartu SIM nebo paměťovou kartu, karta by se mohla poškodit.</string>
+<string name="volume_matv">Mobilní TV</string>
+<string name="volume_icon_description_incall">"Volat"</string>
+<string name="powerOnWarning_boot_msg">Další zapnutí: %1$s</string>
+<string name="powerOnWarning_alarm_msg">Další budík: %1$s</string>
+    <string name="component">systémový widget</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Po zapnutí bezdrátového displeje se vypne Bluetooth. Chcete pokračovat?</string>
+</resources>

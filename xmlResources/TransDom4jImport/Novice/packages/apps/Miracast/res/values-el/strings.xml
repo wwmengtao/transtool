@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Ασύρματη οθόνη"</string>
+    <string name="miracast_app_name">"Ασύρματη οθόνη"</string>
+    <string name="welcome_version">Έκδοση <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"Σύνδεση με τη συσκευή"</string>
+    <string name="item_device_mode_audio_only_title">Ηχος</string>
+    <string name="item_device_mode_video_only_title">Βίντεο</string>
+    <string name="item_device_mode_meeting_title">συνάντηση </string>
+    <string name="item_device_mode_connect_title">Σύνδεση</string>
+    <string name="item_device_mode_disconnect_title">"Αποσύνδεση"</string>
+    <string name="item_device_mode_rename_title">Μετονομασία</string>
+    <string name="item_device_mode_forget_title">Διαγραφή</string>
+    <string name="activity_settings_title">"Ρυθμίσεις"</string>
+    <string name="preference_settings_resolution_title">Ανάλυση</string>
+    <string name="preference_settings_update_title">"Σχετικά με"</string>
+    <string name="dlg_confirm_switch_av_message">Η τρέχουσα σύνδεση πρέπει πρώτα να αποσυνδεθεί για να γίνει αλλαγή της λειτουργίας.\nΘέλετε να γίνει τώρα αλλαγή;</string>
+    <string name="dlg_loading_scan_device_message">Σάρωση για συσκευές ...</string>
+    <string name="dlg_loading_enable_wifi_message">Ενεργοποίηση του wlan ...</string>
+    <string name="dlg_loading_reconnect_message">Αλλαγή λειτουργίας, επανασύνδεση ...</string>
+    <string name="toast_connecting">Γίνεται σύνδεση, δοκιμάστε ξανά αργότερα</string>
+    <string name="toast_already_connected">Κάποια άλλη συσκευή είναι ήδη συνδεδεμένη, θα πρέπει πρώτα να την αποσυνδέσετε</string>
+    <string name="toast_device_not_available">Δεν είναι δυνατή η σύνδεση, η συσκευή δεν είναι διαθέσιμη</string>
+    <string name="tutor_message_1">Συνδέστε το dongle AllShare Cast σε μια συσκευή HDMI μέσω του καλωδίου HDMI A-TO-A.</string>
+    <string name="tutor_message_2">Όταν η κόκκινη ένδειξη αρχίσει να αναβοσβήνει, κάντε κλικ στο κουμπί επαναφοράς. Περιμένετε μέχρι η ένδειξη να γίνει μπλε. Δεν χρειάζεται να κάνετε ξανά κλικ στο κουμπί κατά την επανασύνδεση.</string>
+    <string name="tutor_message_4">Εάν συνδεθείτε επιτυχώς, μπορείτε να κάνετε κοινή χρήση της οθόνης σας με μια άλλη συσκευή.</string>
+    <string name="tutor_message_audioonly">Εάν η έξοδος ήχου υποστηρίζεται από το dongle, μπορείτε να δοκιμάστε τη λειτουργία "Μόνο ήχος" για να απολαύσετε μουσική ασύρματα.</string>
+    <string name="tutor_message_videoonly">Εάν θέλετε να συνδεθείτε σε ένα dongle με διασύνδεση DVI ή VGA, συνιστάται η λειτουργία "Μόνο βίντεο".</string>
+    <string name="activity_meeting_mode_title">Λειτ. σύσκ.</string>
+    <string name="tutor_message_3">Είσ. στο Miracast και ενεργ. του κουμπιού Ενεργό. Τα ονόματα των διαθέσιμων συσκευών για σύνδεση θα εμφανίζονται στη λίστα των διαθέσιμων συσκευών</string>
+    <string name="dlg_select_resolution_title">Επιλογή ανάλυσης</string>
+    <string name="dlg_confirm_switch_video_message">Η λειτ.βίντεο θα κοιν.το περιεχ.οθόνης μόνο μέσω dongle. \nΗ τρέχ. σύνδεση πρέπει να αποσυν. για την εναλ. λειτουρ. \nΣυνέχεια;</string>
+    <string name="dlg_rename_title">Μετον. συσκ.</string>
+    <string name="dlg_confirm_disconnect_message">Αποσύνδεση;</string>
+    <string name="toast_not_paired">Η λειτ. είναι διαθ. μόνο για συνδεδ. συσκευές</string>
+    <string name="dlg_confirm_switch_audio_message">Η λειτ.ήχου θα κοινοπ.ήχο μόνο μέσω dongle. Πριν από την εναλλαγή σε λειτ. ήχου, βεβαιωθείτε ότι υποστηρ. από το dongle. Διαφορετικά, η σύνδεση δεν θα είναι επιτυχής. \nΗ τρέχ. σύνδεση πρέπει να αποσυν. για την εναλ. λειτουρ. \nΣυνέχεια;</string>
+    <string name="dlg_confirm_forget_message">Κατάργ. της συσκ. από τη λίστα συνδεδ. συσκευών;</string>
+    <string name="preference_settings_meeting_mode_title">Λειτ. σύσκ.</string>
+    <string name="preference_settings_tutor_title">Οδηγός</string>
+    <string name="dlg_confirm_meeting_mode_message">Οι κλήσεις είναι περιορ. στη λειτ. σύσκεψης και τα SMS εμφανίζονται αυτόματα στο προσκήνιο. Ενεργ. λειτ. σύσκ.;</string>
+</resources>

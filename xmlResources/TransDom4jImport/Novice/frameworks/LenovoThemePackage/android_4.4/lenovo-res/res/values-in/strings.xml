@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="silent_mode_outdoor">Luar</string>
+<string name="capital_on">"HIDUP"</string>
+<string name="volume_icon_description_bluetooth">"Bluetooth"</string>
+<string name="not_support_too_long_string">Tidak mendukung untuk pencarian string yang terlalu panjang</string>
+<string name="component">widgetsistem</string>
+<string name="volume_icon_description_notification">Notifikasi</string>
+<string name="dlg_use_ipo_confirm">Bootup cepat pada booting berikutnya</string>
+<string name="prevent_misoperation_message">Tidak menutup bagian atas layar</string>
+<string name="volume_alarm" msgid="1985191616042689100">"Volume alarm"</string>
+<string name="reboot_confirm_title">"Mulai ulang"</string>
+<string name="ext_storage_external_notification_title">Menyiapkan Penyimpanan Eksternal</string>
+<string name="captive_portal_dialog_message">Jaringan nirkabel yang saat ini terhubung memerlukan informasi login lain untuk mengakses ke Internet. Silakan login.</string>
+<string name="usb_notification_title">Pengaturan Sambungan USB</string>
+<string name="prevent_misoperation_quit_hint">Paksa untuk keluar: tekan tombol \"Kembali\" + \"Volume Naik\"</string>
+<string name="long_back_exit_info">keluar</string>
+<string name="global_actions_toggle_open_airplane_mode_confirm">Buka mode pesawat.</string>
+<string name="keyguard_password_waring_dlg_remind">Masukkan lenovo dan klik “Ok” untuk melanjutkan untuk memasukkan kata sandi.</string>
+<string name="storage_external_usb">Penyimpanan USB eksternal</string>
+<string name="reboot_dialog_msg">"Tekan tombol daya untuk mematikan setelah <xliff:g id="DELAY">^1</xliff:g> detik. 
+Teruskan menekan selama 2 detik untuk boot ulang setelah mematikan"</string>
+<string name="default_string">"Bawaan"</string>
+<string name="turn_off_data">Matikan</string>
+<string name="captive_portal_dialog_button">"Masuk"</string>
+<string name="storage_phone">Memori terintegrasi</string>
+<string name="next_time_no_warning">Jangan tampilkan pesan ini lagi</string>
+<string name="silent_mode_silent">"Diam"</string>
+<string name="silent_mode_vibrate">Getar</string>
+<string name="author">Pembuat Lenovo</string>
+<string name="msg_shutdown_habit_guess">"Baru-baru ini, Anda sudah mematikan perangkat tiga kali selama waktu ini. 
+Anda perlu menyiapkan jadwal menyalakan-mematikan daya?"</string>
+<string name="keyguard_password_waring_dlg_title">Sandi salah</string>
+<string name="volume_icon_description_media">"Media"</string>
+<string name="app_name">Klasik</string>
+<string name="keyguard_password_attempts_warning">Anda telah melakukan <xliff:g id="NUMBER_0">%d</xliff:g> upaya yang salah untuk membuka kunci ponsel.。 Jika masih tidak berhasil setelah mencoba <xliff:g id="NUMBER_1">%d</xliff:g> beberapa kali, ponsel akan direset ke default pabrik dan semua data pengguna akan hilang.</string>
+<string name="capital_off">"MATI"</string>
+<string name="captive_portal_dialog_title">"Masuk ke jaringan WLAN"</string>
+<string name="storage_usb">"Penyimpanan USB"</string>
+<string name="usb_notification_content">Pilih mode pemasangan USB dan debug adb.</string>
+<string name="prevent_misoperation_title">Mode pencegahan kesalahan operasi</string>
+<string name="reboot_confirm_msg">Handset Anda akan mem-boot ulang</string>
+<string name="turn_on_data">Mengaktifkan</string>
+<string name="global_action_reboot">"Mulai ulang"</string>
+<string name="silent_mode_normal">Umum</string>
+<string name="kg_forgot_password_button_text">Lupa Sandi</string>
+<string name="ext_storage_internal_notification_title">Menyiapkan Penyimpanan Internal</string>
+<string name="turn_on_mobile_data_warning">Ponsel Anda mungkin membuat lalu lintas data tertentu jika koneksi data terbuka. Akan dikenakan biaya oleh operator. Anda yakin ingin membukanya? </string>
+<string name="storage_sd_card">memori eksternal</string>
+<string name="description">Tema default Lenoco </string>
+<string name="keyguard_password_dlg_input_err">Kata sandi salah. Harap coba lagi</string>
+<string name="volume_icon_description_ringer">Nada dering</string>
+<string name="dlg_ipo_confirm_warning">Dalam mode boot cepat, sistem tidak dimatikan sepenuhnya, jangan pasang kartu SIM atau kartu memori dalam kondisi ini karena dapat merusak kartu.</string>
+<string name="volume_matv">TV Seluler</string>
+<string name="volume_icon_description_incall">"Telepon"</string>
+<string name="powerOnWarning_boot_msg">Pengaktifan Berikutnya: %1$s</string>
+<string name="powerOnWarning_alarm_msg">JamAlarm Berikutnya: %1$s</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Bluetooth akan dimatikan bila Anda menghidupkan tampilan nirkabel. Anda ingin melanjutkan?</string>
+</resources>

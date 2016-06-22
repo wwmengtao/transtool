@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+    <string name="dlg_ok">"Potvrdiť"</string>
+    <string name="dlg_cancel">"Zrušiť"</string>
+    <string name="help_label">"Pomocník"</string>
+    <string name="wifi_p2p_menu_rename">"Premenovať zariadenie"</string>
+    <string name="wifi_p2p_disconnect_title">"Odpojiť?"</string>
+    <string name="wifi_p2p_cancel_connect_title">"Zrušiť pozvánku?"</string>
+    <string name="wifi_p2p_remembered_groups">"Zapamätané skupiny"</string>
+    <string name="wifi_p2p_delete_group_message">"Odstrániť túto skupinu?"</string>
+    <string name="lock_settings_picker_title" msgid="1095755849152582712">"Zvoľte uzamk. obrazov."</string>
+    <string name="wifi_p2p_failed_rename_message" msgid="2562182284946936380">"Premenovanie zariadenia zlyhalo."</string>
+    <string name="wifi_p2p_menu_search" msgid="3436429984738771974">"Vyhľadávanie zariadení"</string>
+    <string name="wifi_p2p_peer_devices" msgid="299526878463303432">"Partnerské zariadenia"</string>
+    <string name="wifi_p2p_cancel_connect_message" msgid="7477756213423749402">"Chcete zrušiť pozvánku na spojenie s klientom <xliff:g id="PEER_NAME">%1$s</xliff:g>?"</string>
+    <string name="wifi_p2p_failed_connect_message" msgid="8921447388048243547">"Nepodarilo sa pripojiť."</string>
+    <string name="wifi_p2p_disconnect_multiple_message" msgid="3283805371034883105">"Ak sa odpojíte, ukončíte spojenie so zariadením <xliff:g id="PEER_NAME">%1$s</xliff:g> a ďalšími zariadeniami (<xliff:g id="PEER_COUNT">%2$s</xliff:g>)."</string>
+    <string name="wifi_p2p_disconnect_message" msgid="8227342771610125771">"Ak sa odpojíte, ukončíte spojenie so zariadením <xliff:g id="PEER_NAME">%1$s</xliff:g>."</string>
+    <string name="wifi_p2p_menu_searching" msgid="2396704492143633876">"Prebieha vyhľadávanie..."</string>
+    <string name="dlg_open_wifi_message">Sieť WLAN musí byť aktivovaná, aby sa dalo povoliť zdieľanie WLAN, chcete sieť WLAN aktivovať?</string>
+    <string name="socketchannel_busy">Funkčné. Skúste to znova neskôr!</string>
+    <string name="sending_file_notification">Zdieľanie WLAN: Odosielanie dokumentu</string>
+    <string name="dlg_received_file_fail_notification_message">Dokument neprijatý. Skúste znova.</string>
+    <string name="received_file_fail_dialog">Dokument neprijatý!</string>
+    <string name="wifi_p2p_no_content_message">Žiadny obsah</string>
+    <string name="toast_no_send_files">Pred pripojením vyberte jeden alebo viacero dokumentov!</string>
+    <string name="dlg_close_bt_then_send_file">Pred odoslaním dokumentu zatvorte rozhranie Bluetooth!</string>
+    <string name="dlg_received_file_confirm_notification_message">Naozaj chcete zrušiť prenos aktuálneho dokumentu?</string>
+    <string name="dlg_request_if_send_file">
+	       Chcete odoslať dokument: <xliff:g id="id_2">%2$s</xliff:g> na <xliff:g id="id_1">%1$s</xliff:g>?
+    </string>
+    <string name="dlg_request_if_receive_file">Prijať </string>
+    <string name="dlg_go_to_file_browser_message">Skontrolujte dokument v položke Správa dokumentov/ Súbory zdieľania WLAN!</string>
+    <string name="connect_info_one2one">Podpora len spojenia jeden na jedného. Pred opätovným pokusom zatvorte všetky ostatné spojenia.</string>
+    <string name="dlg_airplane_open_message">Pred použitím zdieľania WLAN opustite režim Lietadlo!</string>
+    <string name="dlg_sent_file_fail_notification_message">Dokument neodoslaný. Odoslať znova.</string>
+    <string name="received_file_result_notification">/"Zdieľanie WLAN: Dokument prijatý/"</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> úspešne, <xliff:g id="unsuccessful_number">%2$s</xliff:g> zlyhalo.
+    </string>
+    <string name="dlg_open_wifi_message_tel">Zdieľanie WLAN sa nedá využívať v režime Lietadlo.</string>
+    <string name="receiving_file_notification">Zdieľanie WLAN: Príjem dokumentu</string>
+    <string name="sent_file_fail_dialog">Dokument neodoslaný!</string>
+    <string name="dlg_sdcard_not_mounted_message">Nedostupné úložné zariadenie. Pred ďalším pokusom zatvorte úložné zariadenie USB.</string>
+    <string name="open_file_fail_dialog">Nemožno otvoriť tento typ súboru, nainštalujte potrebný softvér!</string>
+    <string name="sent_file_dialog">Dokument úspešne odoslaný (dokument uložený pod číslom: /WlanShare v mobilnom telefóne príjemcu):</string>
+    <string name="dlg_received_file_success_notification_message">Dokument úspešne prijatý. Stlačením zobraziť.</string>
+    <string name="received_file_dialog">Dokument úspešne prijatý (uložiť v umiestnení:/WlanShare):</string>
+    <string name="sent_file_result_notification">/"Zdieľanie WLAN: Odoslať dokument/"</string>
+    <string name="dlg_sent_file_confirm_notification_message">Naozaj chcete zrušiť prenos aktuálneho dokumentu?</string>
+    <string name="dlg_sent_file_success_notification_message">Dokument úspešne odoslaný. Zobraziť v telefóne príjemcu.</string>
+<string name="app_name">"Zdieľanie WLAN"</string>
+</resources>

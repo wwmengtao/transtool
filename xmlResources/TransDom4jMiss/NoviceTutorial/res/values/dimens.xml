@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <!-- Dimensions for Calculator -->
+    <dimen name="title_textsize">18dp</dimen>
+    <dimen name="title_heigh">45dp</dimen>
+    <dimen name="culumnWidth">68dp</dimen>
+    <dimen name="title_paddingleft">15dp</dimen>
+    <dimen name="title_paddingtop">9dp</dimen>
+    <dimen name="itemtitle_paddingleft">5dp</dimen>
+    <dimen name="itemtitle_textsize">18dp</dimen>
+    <dimen name="itemtitle_margintop">15dp</dimen>
+    <dimen name="itemcontent_paddingleft">10dp</dimen>
+    <dimen name="itemcontent_paddingright">10dp</dimen>
+    <dimen name="itemcontent_margintop">5dp</dimen>
+    <dimen name="itemcontent_linespacingextra">5dp</dimen>
+    <dimen name="itemcontent_textsize">18dp</dimen>
+    <dimen name="gridview_verticalspacing">32dp</dimen>
+    <dimen name="gridview_horizontalspacing">5dp</dimen>
+    <dimen name="gridview_iv_paddingleft">15dp</dimen>
+    <dimen name="gridview_margintop">10dp</dimen>
+    <dimen name="gridview_tv_margintop">5dp</dimen>
+    <dimen name="line_height">2dp</dimen>
+    <dimen name="line_margintop">5dp</dimen>
+    <dimen name="percent_margintop">-50dp</dimen>
+    <dimen name="percent_margintopa">-10dp</dimen>
+    <dimen name="percent_marginright">6dp</dimen>
+    <dimen name="percent_marginlefta">3dp</dimen>
+    <dimen name="percent_marginrighta">6dp</dimen>
+    <dimen name="percent_layoutwidth">45dp</dimen>
+    <dimen name="percent_layoutheight">30dp</dimen>
+    <dimen name="percent_textsize">16dp</dimen>
+    <dimen name="hrztpercentgrid_height">93dp</dimen>
+    
+    <dimen name="percentgrid_width">119dp</dimen>
+    <dimen name="percentgrid_height">95dp</dimen>
+    <dimen name="percentgrid_marginTop">10dp</dimen>
+    
+</resources>

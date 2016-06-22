@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="wifi_security">
+        <item>"Άνοιγμα"</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Αυτόματο</item>
+        <item>WEP ASCII</item>
+        <item>Δεκαεξαδικό WEP</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720p (60 καρέ/δευτ.)</item>
+        <item>720p (30 καρέ/δευτ.)</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(μη καθορισμένο)</item>
+        <item>Υποδοχή Sim 1</item>
+        <item>Υποδοχή Sim 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 και IPv6</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>Ποντίκι για δεξιόχειρες</item>
+        <item>Ποντίκι για αριστερόχειρες</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Πάντα</item>
+        <item>Απενεργοποίηση σε 5 λεπτά αδράνειας</item>
+        <item>Απενεργοποίηση σε 10 λεπτά αδράνειας</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>Πιστοποιητικό WAPI</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080p (30 καρέ/δευτ.)</item>
+        <item>720p (60 καρέ/δευτ.)</item>
+        <item>720p (30 καρέ/δευτ.)</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Πιστοποιητικό WAPI</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        <item>Κανονικά σε</item>
+        <item>Για 3 δευτερόλεπτα</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Συνδρομή 1</item>
+        <item>Συνδρομή 2</item>
+        <item>Ερώτηση</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Οθόνη Έξυπνης περιστροφής（η οθόνη περιστρέφεται όπως τα μάτια σας）</item>
+        <item>Αυτόματη περιστροφή οθόνης</item>
+        <item>Κλειστό</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+    	
+    	
+    	
+    <item>Χρήση της ώρας του δικτύου</item>
+        <item>Χρήση της ώρας του GPS</item>
+        <item>Απενεργοποίηση</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        
+        
+        
+        
+    <item>Ενεργοποίηση</item>
+        <item>Για 3 δευτερόλεπτα</item>
+        <item>Έξυπνος έλεγχος</item>
+        <item>Απενεργοποίηση</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        
+        
+        
+    <item>Περιστροφή με χειρονομία</item>
+        <item>Αυτόματη περιστροφή</item>
+        <item>Απενεργοποίηση</item>
+    </string-array>
+    <string-array name="softspacename">
+        
+        
+        
+    <item>Συστάσεις συστήματος</item>
+        <item>Εγκατάσταση στο τηλέφωνο</item>
+        <item>Εγκατάσταση στην προεπιλεγμένη κάρτα μνήμης</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        
+        
+        
+        
+    <item>"Πάντα"</item>
+        <item>"Μόνο όταν φορτίζει"</item>
+        <item>"Ποτέ (αυξάνει την κίνηση δεδομένων)"</item>
+        <item>"Έξυπνη αναστολή λειτουργίας (ενεργοποίηση/απενεργοποίηση μεταφοράς δεδομένων με βάση την κίνηση)"</item>
+    </string-array>
+</resources>

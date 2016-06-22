@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">Pengaturan sinkronisasi umum</string>
+    <string name="sync_interval_settings">Pengaturan interval sinkronisasi</string>
+    <string name="try_sso_again">Coba sign-on sekali lagi</string>
+    <string name="for_syncing">Untuk mensinkronisasi</string>
+</resources>

@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="profile_edit_weaken_help">Telefon kaldırıldığında zil sesi azaltıldı.</string>
+<string name="smart_calling_title">Akıllı Arama</string>
+<string name="character_settings_gestural_hand_category">Tek Elle Kullanım ve Hareketler</string>
+<string name="select_subscription">Abonelik Seç</string>
+<string name="wifi_scan_always_available_summary" msgid="7768204638882691453">"Kablosuz özelliği kapalıyken dahi Google\'ın konum hizmetinin ve diğer uygulamaların ağları taramasına izin ver"</string>
+<string name="whatis_lenovoid_cando_summary"> "çeşitli uygulamalar, bulut hizmetleri ve hizmet için bağlantılara kontrolsüz erişim. Eldeki bir kartın engeli kaldırıldı. "</string>
+<string name="enable_traces_title">"İzleri etkinleştir"</string>
+<string name="wifi_setup_wizard_title" msgid="8242230950011819054">"Kablosuz seç"</string>
+<string name="schpwr_time_invalid">Güç aç/kapat planlaması aralığı en az %d dakika olmalıdır</string>
+<string name="multiwindow_title">Çoklu Pencere</string>
+<string name="lockscreen_shake_unlock_ctrl_summary">Ekranı kilitlemek için telefonu tek bir yönde hızla sallayın | Yardım</string>
+<string name="show_frame_count_size">Boyut</string>
+<string name="character_settings_phone_call_ring_weaken_help_message">Telefon kaldırıldığında zil sesi azaltıldı.</string>
+<string name="gestural_phone_summary">Aramaları cevaplamak için ekranı sola ve sağa kaydırın | Sonlandırmak için ekrana basılı tutun</string>
+<string name="teos_settings">Görüntü renk dengesi</string>
+<string name="display_effect_of_screen_saturation_title">"Doygunluk"</string>
+<string name="lock_wallpaper">Kilit Duvar Kağıdı</string>
+<string name="done">"Bitti"</string>
+<string name="version_info">Sürüm bilgileri</string>
+<string name="desktop_wallpaper">Masaüstü Duvar Kağıdı</string>
+<string name="devices_info_cpu">"CPU：ön çekirdek 2,2 GHz"</string>
+<string name="backup_data_to_device_title">Başka cihaza verileri yedekleme</string>
+<string name="smart_call_answer_settings_title">Akıllı Cevaplama</string>
+<string name="reset_skip_backup_title">Yedeklemeyi geç</string>
+<string name="recovery_data_from_device_title">Başka cihazdan verileri geri yükle</string>
+<string name="roaming_time_settings_category">Uluslararası dolaşım ayarları</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g>, şifreler dışında yazdığınız tüm metinleri toplayabilir. Buna kredi kartı numaraları gibi kişisel veriler de dahildir. Ayrıca, tablet ile etkileşimleriniz hakkında da bilgi toplayabilir."</string>
+<string name="header_category_shortcut_key">KISAYOL ÖZELLİKLERİ</string>
+<string name="multi_sim_settings_summary">Ses, Veri ve SMS için Çoklu Sim Ayarlarını yapın</string>
+<string name="voice_title">Ses/USSD/MMI</string>
+<string name="never">"Hiçbir zaman"</string>
+<string name="data_usage_metered_body" msgid="4959032833706695848">"Mobil hotspot olan Kablosuz ağları seçin. Arka planda çalışırken uygulamaların bu ağları kullanmaları kısıtlanabilir. Uygulamalar ayrıca yüksek hacimli indirme işlemleri için bu ağları kullanmadan önce kullanıcıyı uyarabilir."</string>
+<string name="character_settings_swing_lock_screen_help_message">Ekranı kilitlemek için telefonu tek bir yönde hızla sallayın</string>
+<string name="global_single_hand_title_v2">Tek Elle Kullanılan Mikro Ekran</string>
+<string name="products_version">Model No.</string>
+<string name="wifi_display_summary_on">"Aç"</string>
+<string name="multiwindow_divide_settings_summary">Görevleri telefonunuzda iki pencere açarak tamamlayın</string>
+<string name="startup_time_enabled">Programlanmış güç açma</string>
+<string name="wifi_setup_title_connected_network" msgid="1608788657122010919">"<xliff:g id="NETWORK_NAME">%s</xliff:g> Kablosuz ağına bağlanıldı"</string>
+<string name="multi_sim_settings_title">Çoklu Sim Ayarları</string>
+<string name="framework_version">Android sürüm numarası</string>
+<string name="display_effect_of_screen_apply">"Uygula"</string>
+<string name="character_settings_float_button_help_message">Sanal tuşa tıklayarak kısayol ve uygulamalar panelini açın</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"<xliff:g id="SERVICE">%1$s</xliff:g> kullanılsın mı?"</string>
+<string name="wifi_empty_list_wifi_off" msgid="8056223875951079463">"Kullanılabilir ağları görmek için Kablosuz\'u açın."</string>
+<string name="mercury_keyboard_title">Akıllı Arayıcı</string>
+<string name="data_usage_restrict_background" msgid="8447934953579275363">"Arka planda mobil veri kullanımını kısıtlarsanız, Kablosuz bir ağa bağlanmadığınız sürece bazı uygulamalar ve hizmetler çalışmaz."</string>
+<string name="screensaver_timeout_zero_summary">"Hiçbir zaman"</string>
+<string name="still_sleep_ctrl">Akıllı Uyku</string>
+<string name="playersTutorial_stoped">Eğitim durduruldu</string>
+<string name="lenovo_exp_title">Lenovo Experience Programına katılmayı kabul ediyorum</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet" msgid="7132639594296036143">"Arka planda mobil veri kullanımını kısıtlarsanız, Kablosuz bir ağa bağlanmadığınız sürece bazı uygulamalar ve hizmetler çalışmaz.\n\nBu ayar, bu tabletteki tüm kullanıcıları etkiler."</string>
+<string name="set_sms_error">SMS aboneliği ayarlanırken hata oluştu. Abonelik etkin değil.</string>
+<string name="lockscreen_face_detection_ctrl_description">Kilidi açmak için telefonu yüzünüze tutun</string>
+<string name="glove_mode">Yüksek Hassaslıkta Dokunuş</string>
+<string name="smart_standby_ctrl_summary">"Ekrana baktığınızda ışığı yanar"</string>
+<string name="battery_action_wifi" msgid="8181553479021841207">"Kablosuz ayarları"</string>
+<string name="backup_data_summary" msgid="708773323451655666">"Uygulama verilerini, Kablosuz şifrelerini ve diğer ayarları Google sunucularına yedekle"</string>
+<string name="black_screen_settings_flash_mode_off">Kapat</string>
+<string name="exit">"Çık"</string>
+<string name="gadget_wifi" msgid="4712584536500629417">"WLAN"</string>
+<string name="lockscreen_knock_on_ctrl">Vuruş ışığı takımı</string>
+<string name="gestural_music_summary">Müzikler arasında geçiş yapmak için ekranı sola ve sağa kaydırın | Sesi ayarlamak için ekranı yukarı ve aşağı kaydırın</string>
+<string name="notificationbar_setings_title">"Bildirim merkezi"</string>
+<string name="unlock_proximity_ctrl">Cepte arama önleme kipi</string>
+<string name="shellt_phone_info_camera">"8 milyon"</string>
+<string name="wifi_scan_notify_text_location_off" msgid="6323983741393280935">"Uygulamalar, Kablosuz bağlantı kapalı olduğunda dahi yakınlardaki ağları tarayabilir. Bunu istemiyorsanız, Gelişmiş &gt; Tarama her zaman kullanılabilir seçeneğine gidin."</string>
+<string name="location_neighborhood_level_wifi" msgid="4234820941954812210">"Konum, Kablosuz tarafından belirlendi"</string>
+<string name="teos_settings_title">Görüntü renk dengesi</string>
+<string name="tilt_scroll_control_summary">Bu seçenek açıldığında, eğim kaydırmayı destekleyen arayüzler, telefon eğildiğinde otomatik olarak sola/sağa kayacaktır.</string>
+<string name="wifi_setting_sleep_policy_title" msgid="5149574280392680092">"Uykudayken Kablosuz\'u açık tut"</string>
+<string name="location_consent_dialog_title">Konum onayı</string>
+<string name="devices_info_runMemory">"RAM: 2,0 GB</string>
+<string name="reset_backup_befor_reset_summary">Sıfırlamadan önce kişiler gibi önemli verileri yedekleyin</string>
+<string name="wifi_advanced_titlebar" msgid="4485841401774142908">"Gelişmiş Kablosuz"</string>
+<string name="personal_hotspot">"Erişim Noktası"</string>
+<string name="save_power_summary">"Sistem uyandırma zamanı hizalaması için uygulamaları seçin"</string>
+<string name="internal_storage_app">Dahili uygulama depolama alanı</string>
+<string name="category_smart">Akıllı</string>
+<string name="show_frame_count_y_coordinate">Y koordinatı</string>
+<string name="fast_poweron_next_time">Bir sonraki sefer hızlı başlat</string>
+<string name="black_screen_camera_gallery_title"> "Önizleme modu" </string>
+<string name="data_usage_tab_slot2">Yuva 2</string>
+<string name="data_usage_tab_slot1">Yuva 1</string>
+<string name="show_frame_count_ok_button_text">"Tamam"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen_summary">Telefon kapalıyken uyandırmak için ekrana iki kez dokun</string>
+<string name="black_screen_camera_fast_title"> "Kamera modu" </string>
+<string name="sel_sub_summary">ABN-1 ve ABN-2 için Abonelik seçin</string>
+<string name="character_settings_single_hand_help_message">Tek elle kullanılan mikro ekranı açmak için ekranın üst kenarından ekranın altına doğru bir "c" çizin.</string>
+<string name="wifi_setup_wizard_next">"İleri"</string>
+<string name="lenovo_exp_content">"Yalnızca CN desteklenir"</string>
+<string name="character_settings_shortcuts_category">Kısayol Yöntemleri</string>
+<string name="gestural_summary">Telefonu uzaktan kontrol etmek için hareketler kullanılabilir</string>
+<string name="profile_edit_weaken_title">Ton seviyesini azaltma</string>
+<string name="character_settings_help_category_title">"Yardım"</string>
+<string name="profile_settings">"Ses"</string>
+<string name="black_screen_settings_shortcut_quick_shots_summary">Ekran kapalıyken resim çekmek için Giriş düğmesine çift tıklayın</string>
+<string name="global_single_hand_title">Tek el modu</string>
+<string name="startup_shutdown_time_errmsg">Açılma ve kapanma arasındaki zaman dilimi 10 dakikadan fazla olmalıdır, lütfen yeniden ayarlayın.</string>
+<string name="still_sleep_ctrl_summary">Telefon yatay bir alana koyulduğunda otomatik olarak uyku durumuna girecektir.</string>
+<string name="enable_schpwr">"Etkinleştir"</string>
+<string name="save_power_wait_message">"Uygulamalar yükleniyor"</string>
+<string name="schpwr_power_on">"açık"</string>
+<string name="reboot_progress">Yeniden başlat\u2026</string>
+<string name="recovery_data_title">SD kart yedeklemesinden verileri geri yükle </string>
+<string name="day">"1 gün"</string>
+<string name="multiwindow_settings_summary">Çoklu Pencere\'yi etkinleştir</string>
+<string name="service_background_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> uygulamaları kullanılabilir"</string>
+<string name="mercury_keyboard_summary">Arama Tuşları kullanıcının cihazı hangi yönde tuttuğunu algılar | Yardım</string>
+<string name="save_power_count">"Toplamda hizalanan <xliff:g id="NUMBER">%d</xliff:g> uygulama var"</string>
+<string name="lockscreen_face_detection_ctrl">Yüz algılamayla kilit açma</string>
+<string name="fuse_backup_data_description">"Telefonunuzu sıfırlamadan önce Kişileri, Görüntüleri, Mesajları, Uygulamaları ve diğer önemli verileri yedekleyin"</string>
+<string name="settings_header_ringtone_k7">"Zil Sesi Ayarları"</string>
+<string name="gestural_image_summary">Resimler arasında geçiş yapmak için ekranı sola ve sağa kaydırın | Özel efektler arasında geçiş yapmak için ekranı yukarı ve aşağı kaydırın</string>
+<string name="wifi_starting" msgid="6732377932749942954">"Kablosuz açılıyor…"</string>
+<string name="memory_info">RAM</string>
+<string name="set_dds_failed">Veri aboneliği ayarlanırken hata oluştu.  Tüm mevcut veri bağlantısını kaldırın ve yeniden deneyin.</string>
+<string name="device_section_title">Aygıt</string>
+<string name="wave_not_screenoff_title">Ekran Kapalıyken El sallama algılanmaz</string>
+<string name="wifi_setup_eap_not_supported" msgid="1955087534276570962">"Kurulum sırasında EAP Kablosuz bağlantısı yapılandıramazsınız. Kurulumdan sonra bunu, Ayarlar &gt; Kablosuz ve ağlar bölümünde yapabilirsiniz."</string>
+<string name="gestural_phone">Hareketle Cevaplama</string>
+<string name="lock_title" product="tablet">"Telefonunuzu güvenlik altına alma"</string>
+<string name="character_settings_pocket_mode_help_message">Telefon cepteyken zil tonu ses seviyesinin otomatik olarak artırılması</string>
+<string name="global_action_meeting">"Titreşim"</string>
+<string name="wifi_tether_checkbox_text" msgid="1847167643625779136">"Taşınabilir Kablosuz hotspot"</string>
+<string name="unlock_set_unlock_speech_title">Sesli Kilit Açma</string>
+<string name="slide_unlock_help">Ekran kapalıyken, kilidi açmak için ekranın sol alt bölümünden sağ bölümüne doğru kaydırın.</string>
+<string name="character_settings_intelligent_category">Akıllı Kontrol</string>
+<string name="black_screen_settings_broswer_summary">Ekranda bir "e" çizin</string>
+<string name="incoming_call_ringer_title1">"Gelen arama Zil Sesi (1)"</string>
+<string name="incoming_call_ringer_title2">"Gelen arama Zil Sesi (2)"</string>
+<string name="safety_information">Güvenlik bilgisi</string>
+<string name="color_light_hasopen">"Açık"</string>
+<string name="nfc_beam_transmit">Android Aktarımı</string>
+<string name="wifi_empty_list_wifi_on" msgid="8746108031587976356">"Kablosuz ağlar aranıyor…"</string>
+<string name="multiwindow_smart_settings">Akıllı Çoklu Pencere</string>
+<string name="display_effect_of_screen_contrast_item0">Serin</string>
+<string name="display_effect_of_screen_contrast_item1">"Varsayılan"</string>
+<string name="black_screen_settings_category_shortcut">Siyah ekran kısayol işlemi</string>
+<string name="black_screen_settings_music">Müzik için kilidi açın</string>
+<string name="unlock_proximity_ctrl_summary">Telefon cebinizdeyken yanlışlıkla işlem yapılmasını önlemek için yakınlık algılayıcısını kullanın</string>
+<string name="display_effect_of_screen_contrast_item2">Ilık</string>
+<string name="memory_video_usage">Video</string>
+<string name="timing_startup_and_shutdown_settings_title">Güç açma/kapama planla</string>
+<string name="mercury_keyboard_help">Arama tuşları kullanıcının cihazı hangi yönde tuttuğunu algılar</string>
+<string name="wifi_wps_setup_title" msgid="8207552222481570175">"Kablosuz Korumalı Kurulum"</string>
+<string name="restriction_wifi_config_title" msgid="8889556384136994814">"Kablosuz ve Mobil"</string>
+<string name="other_wallpaper">Diğer Duvar Kağıtları</string>
+<string name="show_dev_countdown">Geliştirici olmanıza birkaç adım kaldı.</string>
+<string name="os_version">Sistem sürüm numarası</string>
+<string name="show_frame_count_title">Başlangıç eğitimine giriş yapın</string>
+<string name="ringtone_picker_more_ringtones_title">"Daha Fazla Zil Sesi &gt;&gt;&gt;"</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"Ekranı açmak için ses artırma veya azaltma tuşuna basın | Yardım"</string>
+<string name="crypt_keeper_encrypt_summary" product="default" msgid="514138079795442371">"Telefonunuzun her açılışında şifresinin çözülmesi için sayısal bir PIN veya şifre istensin"</string>
+<string name="category_single_hand">Tek El</string>
+<string name="black_screen_settings_shortcut_quick_shots">Hızlı çekim</string>
+<string name="black_screen_settings_normal">Normal kilit açma</string>
+<string name="userguide_title">"Kılavuzu Yeniden Başlat"</string>
+<string name="black_screen_settings_summary_app_selected"> <xliff:g id="app">%s</xliff:g>kilidini aç</string>
+<string name="character_settings_help_title">Siyah ekran işlemine göz at</string>
+<string name="wifi_setup_title_editing_network" msgid="6020614644556717979">"<xliff:g id="NETWORK_NAME">%s</xliff:g> Kablosuz ağına bağlan"</string>
+<string name="never_timeout">Hiçbir zaman bekleme moduna alma</string>
+<string name="screensaver_settings_disabled_prompt" msgid="3857507943322777651">"Telefon yuvaya yerleştirildiğinde ve/veya uyku durumunda iken ne olacağını kontrol etmek için Hafif Uyku\'yu etkinleştirin."</string>
+<string name="subscription_02_title">ABN 2</string>
+<string name="category_gesture">Hareket</string>
+<string name="accessibility_script_injection_allowed">İzin verilenler</string>
+<string name="airbuse_phone_info_camera">"Ön 300.000, Arka 5 milyon"</string>
+<string name="character_settings_call_voice_category">Aramalar ve Ses</string>
+<string name="lock_title" product="default">Telefonunuzu koruyun</string>
+<string name="devices_info_memory">"Hafıza：<xliff:g>%1$s</xliff:g>(boş) 4 GB(toplam)"</string>
+<string name="wifi_wps_onstart_pin" msgid="223344506445335358">"Kablosuz yönlendiricinizde <xliff:g id="NUMBER">%1$s</xliff:g> pin kodunu girin. Kurulum işleminin tamamlanması iki dakika kadar sürebilir."</string>
+<string name="enable_traces_summary_all">"Tüm izler şu anda etkin"</string>
+<string name="every_day">hergün</string>
+<string name="voice_wakeup_title">Sesli uyandırma</string>
+<string name="side_key_backlight_help">Arka ışığı açmak için ses tuşuna basın.</string>
+<string name="set_voice_error">Ses aboneliği ayarlanırken hata oluştu. Abonelik etkin değil.</string>
+<string name="data_usage_enable_mobile_statistics_dialog">Bu özellik etkinleştirildiğinde LTE gibi yüksek veri oranı ağlarında güç tüketimi artacaktır.</string>
+<string name="ota_title">Sistem güncellemesi</string>
+<string name="memory_image_usage">Resimler</string>
+<string name="hardware_version">Donanım sürümü</string>
+<string-array name="contrast">
+        <item>Varsayılan</item>
+        <item>Yükseklik</item>
+    </string-array>
+<string name="crypt_keeper_desc" product="default" msgid="7663118199519229502">"Hesaplarınızı, ayarlarınızı, indirilen uygulamalarınızı ve bunlara ait verileri, medyaları ve diğer dosyaları şifreleyebilirsiniz. Telefonunuzu şifreledikten sonra, cihazı her açtığınızda şifresini çözmek için sayısal bir PIN veya şifre girmeniz gerekir. Telefonunuzdaki tüm verileri silen fabrika verilerine sıfırlama işlemi yapmadan şifrelemeyi kaldıramazsınız.\n\nŞifreleme işlemi bir saat kadar sürer. İşlemi, dolu bir pille başlatmalı ve şifreleme tamamlanana kadar telefonunuzu fişe takılı tutmalısınız. Şifreleme işlemini yarıda keserseniz, verilerinizin bir kısmını veya tamamını kaybedersiniz."</string>
+<string name="china_telcom_push_summary">China Telecom ücretsiz push hizmeti</string>
+<string name="color_light_missed_call">Cevapsız Çağrılar</string>
+<string name="devices_info_products_version">"Model: Lenovo K910"</string>
+<string name="usb_mtp_summary" msgid="4617321473211391236">"Windows\'da ya da Mac üzerinde Android Dosya Aktarımı (www.android.com/filetransfer sayfasına bakın) ile medya dosyalarını aktarma olanağı sağlar"</string>
+<string name="what_lenovoid_cando_title"> "Bağlantı geçişleriyle ne yapabilirim? "</string>
+<string name="k6kk_phone_info_cpu">"Snapdragon 800 2,2 GHz"</string>
+<string name="smart_answer_incommingcall_summary">Bir çağrı geldiğinde kullanıcı özel hareketle cevaplayabilir</string>
+<string name="gadget_state_template" msgid="5156935629902649932">"<xliff:g id="ID_1">%1$s</xliff:g> <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+<string name="k6kk_phone_info_camera">"Ön 5 milyon, Arka 13 milyon"</string>
+<string name="wifi_setup_title" msgid="2970260757780025029">"Kablosuz kurulumu"</string>
+<string name="system_shortcutbar_title">"Sistem kısayol çubuğu"</string>
+<string name="call_ring_pocket_enable_title">"Cep Modu"</string>
+<string name="schpwr_shutdown_message_second">"Telefonunuz <xliff:g id="second">%s</xliff:g> saniye içinde kapatılacaktır"</string>
+<string name="smart_rotete_cbox_summary">Akıllı</string>
+<string name="gestural_gesture">Hareket Kontrolü</string>
+<string name="black_screen_settings_quick_shots_three">üç fotoğraf</string>
+<string name="smart_call_answer_settings_summary">Cihaz kulak hizasına geldiğinde gelen aramayı otomatik olarak cevaplar</string>
+<string name="wifi_wps_onstart_pbc" msgid="5940801028985255304">"Yönlendiricinizdeki Kablosuz Korumalı Kurulum düğmesine basın. \"WPS\" yazıyor olabilir veya şu simgeyi içerebilir:"</string>
+<string name="crypt_keeper_final_desc" product="default" msgid="5682944380460921880">"Şifreleme işlemi geri döndürülemez ve şifreleme sırasında işlemi durdurursanız veri kaybedersiniz. Şifreleme bir saat veya daha fazla sürebilir ve telefon bu süre içinde birkaç kez yeniden başlatılır."</string>
+<string name="wifi_quick_toggle_summary" msgid="2696547080481267642">"Kablosuz\'u aç"</string>
+<string name="k6kk_phone_info_screen">"Çözünürlük: 1080*1920, Boyut: 5,5 inç</string>
+<string name="swing_lock_help">Ekranı kilitlemek için telefonu tek bir yönde hızla sallayın</string>
+<string name="software_version">Yazılım sürüm numarası</string>
+<string name="header_category_lock_unlock">EKRAN ÖZELLİKLERİ</string>
+<string name="gestural_gesture_summary">Parmağınızı ekrana dokundurmadan sola\\sağa\\yukarı\\aşağı kaydırmak, ekrana dokunarak kaydırmakla aynı etkiye sahiptir. Bu işlev; müzik, video veya tarayıcı arabirimlerinde çalışmaz.</string>
+<string name="black_screen_settings_quick_shots_six">altı fotoğraf</string>
+<string name="wlan_share">"WLAN paylaşımı"</string>
+<string name="bottom_shortcutbar_title">"Alt kısayol çubuğu"</string>
+<string name="smart_calling_summary">Kişi detayları veya mesajlaşma arayüzünde kişiyi aramak için telefonu kulağınıza götürün</string>
+<string name="usage_type_data_wifi_send" msgid="7178327382353096029">"Kablosuz verisi gönderildi"</string>
+<string name="double_click_menu_enabled_title">"MENU tuşuna uzun tıklama sesi etkinleştirir"</string>
+<string name="glove_mode_summary">Yüksek Hassaslıkta Dokunuş etkinleştirildiğinde, ekrana eldivenle dokunma desteklenir</string>
+<string name="gestural_v2">3D Hareketler</string>
+<string name="double_click_home_enabled_title">"Sesi etkinleştirmek için HOME tuşunu çift tıklatın"</string>
+<string name="backup_data_section_title">Veri yedeklemesi</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"Şu anda <xliff:g id="NUM">%1$d</xliff:g> iz etkin"</string>
+<string name="show_frame_count_summary">Etkinleştirildiğinde çerçeve sayısını görüntüle.</string>
+<string name="wifi_quick_toggle_title" msgid="8850161330437693895">"WLAN"</string>
+<string name="reset_backup_befor_reset_title">Sıfırlamadan önce verileri yedekleyin</string>
+<string name="restriction_wifi_config_summary" msgid="70888791513065244">"Kablosuz ve Mobil ayarlarını değiştirmeye izin ver"</string>
+<string name="reboot">"Yeniden başlat"</string>
+<string name="bluetooth_on_time" msgid="3056108148042308690">"Zamanında Kablosuz"</string>
+<string name="quicksettings">"hızlı ayarlar"</string>
+<string name="color_light_demo">LED demo</string>
+<string name="sim_settings_title">Çift Kart Ayarları</string>
+<string name="hours">"saat"</string>
+<string name="save_power_title">"Sistem Uyanma Zamanı Hizalama"</string>
+<string name="header_category_call_message">Arama ve Mesaj</string>
+<string name="show_hw_overdraw">"GPU fazla çizimini göster"</string>
+<string name="display_effect_of_screen_hue_title">"Renk"</string>
+<string name="whatis_lenovoid_summary"> "cep telefonunuzu Lenovo geçiş hesabı olarak kullanın, Topluluğun bir üyesi olun. "</string>
+<string name="data_usage_menu_show_wifi" msgid="5056401102877964564">"Kablosuz kullanımı göster"</string>
+<string name="master_clear_desc" product="default" msgid="9165016501623540228">"Bu işlem, telefonunuzun "<b>"dahili depolama alanından"</b>" şu verilerin tümünü siler:\n\n"<li>"Google hesabınız"</li>\n<li>"Sistem ve uygulama verileri ile ayarları"</li>\n<li>"İndirilen uygulamalar"</li></string>
+<string name="data_summary">Veri Aramaları için Abonelik seç</string>
+<string name="savepower_all_title">"Tümü"</string>
+<string name="black_screen_settings_flash_mode_auto">Otomatik</string>
+<string name="wifi_setting_frequency_band_title" msgid="3655327399028584656">"Kablosuz frekans bandı"</string>
+<string name="hide_recent_settings">son ayarları görüntülemek için aşağı çekin</string>
+<string name="showing_color_light">LED renkleri gösteriliyor</string>
+<string name="reset_skip_backup_summary">Yedeklenmiş veya yedeklemeye gerek olmayan öğeler için bu seçeneği seçin</string>
+<string name="wifi_stopping" msgid="8952524572499500804">"Kablosuz kapatılıyor…"</string>
+<string name="wifi_wps_connected" msgid="7153432445748931183">"<xliff:g id="NETWORK_NAME">%s</xliff:g> Kablosuz ağına bağlanıldı"</string>
+<string name="global_action_outdoors">"Açık alan"</string>
+<string name="schpwr_shutdown_message">"Cihazınız <xliff:g id="seconds">%s</xliff:g> saniye içinde kapatılacaktır"</string>
+<string name="overturn_lock_ctrl_summary">"Ekranı kilitlemek için telefonu ters çevir"</string>
+<string name="schedule_power_on_off_time">Zaman</string>
+<string name="show_screen_frame_count">Ekran çerçevesi sayısını göster</string>
+<string name="timing_startup_head_text">"Açık"</string>
+<string name="wifi_setting_summary">Bağlı ap konumu girildiğinde ve GPRS verisi olduğunda konumu kaydedin</string>
+<string name="unsupported_headset_warning" product="default">
+       "Desteklenmeyen Eklenti"
+    </string>
+<string name="overturn_lock_ctrl">"Ekranı kilitlemek için ters çevir"</string>
+<string name="restart_confirm_question">Yeniden başlatmak istiyor musunuz?</string>
+<string name="multiwindow_divide_settings">Bölünmüş Ekran Çoklu Pencere</string>
+<string name="backup_data_to_sdcard_title">Verileri SD karta yedekle</string>
+<string name="data_title">Veri Araması</string>
+<string name="sim_not_available">SIM karta erişilemiyor</string>
+<string name="preference_status_open">"Aç"</string>
+<string-array name="saturation">
+        <item>Yumuşak</item>
+        <item>Varsayılan</item>
+        <item>Parlak</item>
+    </string-array>
+<string name="multiwindow_smart_settings_summary">Yatay ekranda tam ekran video izlerken mesaj alırsanız otomatik olarak çoklu pencere açıp çoklu işlem yapmak için telefonu dikey konuma getirin.</string>
+<string name="user_you_section">"Siz"</string>
+<string name="backup_data_to_sdcard_summary">Telefon verilerini SD karta yedekle</string>
+<string name="airbuse_phone_info_runMemory">"1,0 GB"</string>
+<string name="whatis_lenovoid_title"> "Bağlantı geçişleri nedir? "</string>
+<string name="wifi_setup_description_connected" msgid="736032046548460779">"Kuruluma devam etmek için "<b>"İleri"</b>"\'ye dokunun.\n\nFarklı bir Kablosuz ağa bağlanmak için "<b>"Geri"</b>"\'ye dokunun."</string>
+<string name="black_screen_face_recognization_title"> "Yüz tanıma modu" </string>
+<string name="minute">"1 dakika"</string>
+<string name="unlock_settings_title">"Kilidi Aç"</string>
+<string name="schedule_power_off_set">"Planlı kapatmayı ayarla"</string>
+<string name="location_mode_battery_saving_description" msgid="1728668969743485109">"Konumu belirlemek için Kablosuz ve mobil ağları kullanın"</string>
+<string name="black_screen_handler_title"> "Siyah ekran hareketlerinde" </string>
+<string name="wide_touch_float_button_summary">Tek dokunuşla kısayollara erişim</string>
+<string name="black_screen_settings_camera_summary">Ekranda bir "c" çizin</string>
+<string name="share_music_a2dp_headphones_control_title">Müzik Kontrolü Paylaş</string>
+<string name="location_consent_dialog_message">Konum hizmetinin bilinmeyen konum verilerini toplamasına izin ver. Bazı veriler cihazınıza kaydedilebilir. Toplama işlemi hiçbir uygulama çalışmıyorken yapılır.</string>
+<string name="phone_car_mode_title">"Araba modu"</string>
+<string name="minutes">"dakika"</string>
+<string name="global_action_silence">"Sessiz"</string>
+<string name="wifi_display_summary_off" msgid="2445210133184740611">"kapalı"</string>
+<string name="usergudie_button_text">"Yeniden başlatma ayarlarını girin"</string>
+<string name="color_light_hasclose">Kapalı</string>
+<string name="backup_recovery_dialog_message">Uygulama verilerini yedekleme veya geri yükleme durdurulsun mu?</string>
+<string msgid="5318394806146587849" name="ringtone_and_sound_settings">"Zil Sesi ve Ses"</string>
+<string name="charge_stream_min">Mevcut şarj akımı 1.500 mA </string>
+<string name="k6kk_phone_info_runMemory">"2,0 GB"</string>
+<string name="gestural_broswer">Hareket Kontrollü Tarayıcı</string>
+<string name="black_screen_time_service_title"> "Sesli çan modu" </string>
+<string name="playertutorial_title">Eğitim</string>
+<string name="dtmf_settings_title">"Arama tuşları"</string>
+<string name="status_wifi_mac_address" msgid="2202206684020765378">"Kablosuz MAC adresi"</string>
+<string name="timing_shutdown_head_text">"Kapat"</string>
+<string name="black_screen_settings_vedio_summary">Ekranda bir "v" çizin</string>
+<string name="black_screen_time_show_title"> "Görüntüleme modu" </string>
+<string name="subs_settings">Abonelik Durumu</string>
+<string name="weather_live_wallpaper">Canlı Hava Durumu Duvar Kağıdı</string>
+<string name="data_usage_menu_restrict_systembgdata">"Sistem arkaplan verilerine izin ver"</string>
+<string name="gestural_image">Hareket Kontrollü Resimler</string>
+<string name="location_settings_title" msgid="1369675479310751735">"Konum"</string>
+<string name="phone_info_unset">Telefon parametreleri ayarlanmadı</string>
+<string name="wifi_menu_p2p" msgid="7619851399250896797">"Kablosuz Doğrudan"</string>
+<string name="wide_touch_float_button">Geniş Dokunuş</string>
+<string name="wifi_empty_list_user_restricted" msgid="8280257225419947565">"Kablosuz ağı değiştirme izniniz yok."</string>
+<string name="airbuse_phone_info_cpu">"Qualcomm MSM8612  4*1,2 GHz"</string>
+<string name="schpwr_power_off">"kapalı"</string>
+<string name="fuse_backup_data_to_cloud_title">Verileri buluta yedekle</string>
+<string name="double_click_menu_enabled_description">"Uzun tıklatma (MENU tuşuna) sesi etkinleştirir"</string>
+<string name="display_effect_of_screen_sharpen_item0">"Varsayılan"</string>
+<string name="enable_traces_dialog_title">"Etkin izleri seç"</string>
+<string name="display_effect_of_screen_sharpen_item1">"Keskinleştir"</string>
+<string name="global_action_general">"Standart"</string>
+<string name="backup_data_description">"Telefonunuzu sıfırlamadan önce kişilerinizi ve diğer önemli verileri yedekleyin"</string>
+<string name="all_setings_title">"Sistem ayarları"</string>
+<string name="wifi_tether_failed_subtext" msgid="1484941858530919002">"Taşınabilir Kablosuz hotspot"</string>
+<string name="enable_traces_summary_none">"Şu anda hiçbir iz etkin değil"</string>
+<string name="black_screen_settings_camera">Kamera için kilidi açın</string>
+<string name="call_ring_pocket_enable_summary">"Cep ya da kılıf modunda zil sesi seviyesini en üst düzeye çıkar"</string>
+<string name="wifi_display_summary_disabled" msgid="5318394806146587849">"Disabled (Devre dışı)"</string>
+<string name="data_usage_enable_mobile_statistics">Veri istatistikleri</string>
+<string name="touch_free_phone">Ücretsiz Arama </string>
+<string name="double_click_home_enabled_description">"Uzun tıklatma (MENU tuşuna) sesi etkinleştirir"</string>
+<string name="black_screen_settings_quick_shots_eight">sekiz fotoğraf</string>
+<string name="black_screen_settings_vedio">Video için kilidi açın</string>
+<string name="backup_data_to_device_summary">SHAREit aracılığıyla verileri diğer cihaza atın</string>
+<string name="disable_schpwr">Devre dışı bırak</string>
+<string name="fuse_backup_data_to_cloud_summary">Telefon verilerini buluta yedekle</string>
+<string name="lll_pbtn_alert">"Cihazı kapatmak için Güç düğmesine <xliff:g id="COUNT_DOWN_TIME">%1$s</xliff:g>sn basılı tutun..."</string>
+<string name="profile_edit_pocket_help">"Cep ya da kılıf modunda zil sesi seviyesini en üst düzeye çıkar"</string>
+<string name="monotype_preference_title">Yazı tipi stili</string>
+<string name="call_ring_weaken_enable_title">Ton seviyesini azaltma</string>
+<string name="subscription_01_title">ABN 1</string>
+<string name="days">"gün"</string>
+<string name="wifi_switch_summary">Telefonun bağlandığı WLAN ağlar tanınır ve internete veri bağlantısı ile bağlandığınız durumlarda veri tüketimini önlemek için menzil içinde olduğunuz zaman tanınan bu ağlara otomatik olarak bağlanılır.</string>
+<string name="airplane_open_confirm">"Uçak modu"</string>
+<string name="smart_standby_ctrl">"Akıllı Bekleme"</string>
+<string name="display_effect_of_screen_sharpen_title">"Keskinlik"</string>
+<string name="devices_info_camera">"Kamera: Ön 5 milyon, Arka 13 milyon"</string>
+<string name="close_home_landscape_title">Yatay ekran Giriş düğmesi devre dışı bırakma özelliği</string>
+<string name="schedule_power_on_off_set">Güç açma/kapama planlamayı ayarla</string>
+<string name="flip_screen_control_title">Kontrol etmek için ekranı çevirin</string>
+<string name="display_effect_of_screen_cancel">"İptal"</string>
+<string name="devices_info_screen">"Ekran: 1080*1920   5,5-inç"</string>
+<string name="character_settings_side_key_backlight_screen_help_message">Arka ışığı açmak için ses tuşuna basın.</string>
+<string name="poweron_nosim">SIM bulunamadı</string>
+<string name="shellt_phone_info_screen">"Çözünürlük: 720P, Boyut: 6,0 inç"</string>
+<string name="location_mode_high_accuracy_description" msgid="6418936349431602808">"Konumu belirlemek için GPS, Kablosuz ve mobil ağları kullanın"</string>
+<string name="track_frame_time_summary">"Oluşturma süresini adb shell dumpsys gfxınfo içinde ölç"</string>
+<string name="font_settings_title">"Yazı tipi ayarları"</string>
+<string name="voice_wakeup_summary">Ses ile sistemi uyandırabilir</string>
+<string name="smart_answer_incommingcall_title">Akıllı cevaplama</string>
+<string name="wifi_required_info_text" msgid="4080969509965288881">"Kurulumun tamamlanabilmesi için tabletinizin Kablosuz\'a erişmesi gerekmektedir. Kurulumdan sonra, mobil veri ile Kablosuz arasında geçiş yapabilirsiniz."</string>
+<string name="gestural_ebook">Hareket Kontrollü E-Kitaplar</string>
+<string name="character_settings_black_screen_help_message">Geleneksel kilit açma: Kilidi açmak için ekranı alt tarafından sola veya sağa kaydırın. Uygulamaya girmek için: Kamera için kilidi açın ve ekranda bir "C" çizin. Bu özellik bekleme modu güç tüketimini etkileyecektir.</string>
+<string name="charge_stream_max">Mevcut şarj akımı 2.000 mA </string>
+<string name="power_off">"Kapat"</string>
+<string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"Konum bilgisinin doğruluğunu artırmak ve diğer amaçlar için, <xliff:g id="APP_NAME">%1$s</xliff:g> Kablosuz bağlantı kapalı olduğunda bile ağ tarama işlevini açmak istiyor.\n\nTarama yapmak isteyen tüm uygulamaların bu işlevi kullanmalarına izin veriyor musunuz?"</string>
+<string name="global_single_hand_summary">Tek elle kullanışlı işlem</string>
+<string name="set_data_subscription_progress">İşlem sırasında veri aboneliğini ayarla</string>
+<string name="color_light">LED bildirimi</string>
+<string name="knock_light_title">Ekranı uyandırmak için çift dokunun</string>
+<string name="show_frame_count_x_coordinate">X koordinatı</string>
+<string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> taşınabilir Kablosuz hotspot"</string>
+<string name="service_foreground_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> uygulamaları kullanılıyor"</string>
+<string name="tilt_scroll_control_title">Eğim Kaydırma</string>
+<string name="roaming_time_settings_zone">Önerilen zaman dilimi</string>
+<string name="volume_title">"Ses Düzeyi"</string>
+<string name="black_screen_settings_summary">Siyah ekran altında kilidi aç ve uygulamaları hızla başlat</string>
+<string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"Ekran kilitleme PIN\'i veya şifresi yok"</string>
+<string name="wifi_setup_wizard_skip">"Atla"</string>
+<string name="hour">"1 saat"</string>
+<string name="black_screen_settings_flash_mode">Flaş</string>
+<string name="lock_intro_message" product="default">Kişisel ekran kilidi açma deseni oluşturarak telefonunuzu yetkisiz kullanımdan koruyabilirsiniz. Bir sonraki ekranda herhangi bir düzende en az dört noktayı bağlayacak şekilde parmağınızı kaydırın.
+        \n\nBaşlamaya hazır mısınız? Sonra öğesine dokunun.
+    </string>
+<string name="gestural">Hareket Kontrolü</string>
+<string name="preference_status_unknown">Bilinmiyor</string>
+<string name="simple_settings">Başlangıç kılavuzu</string>
+<string name="startup_confirm_auto_shutdown">Cep telefonu %s saniye içinde kapatılacak.</string>
+<string name="A_gps_summary"> GPS ile konumun sabit zamanını hızlandırmak için yardımcı veriyi kullan</string>
+<string name="safety_information_content">Telefonunuzun sistemini yükseltmek isterseniz lütfen resmi Lenovo satış sonrası servis ağı ile iletişime geçin veya Lenovo telefonunuzdaki sistem yükseltme işlevini kullanın. Aksi takdirde, cihaz arızasına veya veri kaybına neden olabilir ve sistemin güvenlik işlevini ortadan kaldırarak güvenlik risklerine neden olabilir.</string>
+<string name="color_light_other_summary">Telefon numarası ve arama bekletme ayarları</string>
+<string name="incoming_call_ringer_title">"Arama Uyarı Tonu"</string>
+<string name="unlock_set_unlock_speechpwd_title">"Koruma için Sesli parola ve Desen kullanın"</string>
+<string name="display_effect_of_screen_contrast_title">"Kontrast"</string>
+<string name="crypt_keeper_dialog_need_password_message" msgid="4071395977297369642">"Şifrelemeyi başlatabilmek için öncelikle ekran kilitleme PIN\'i veya şifresi ayarlamanız gerekir."</string>
+<string name="accessibility_script_injection_button_disallow">"İzin verme"</string>
+<string name="character_settings_mercury_keyboard_help_message">Arama tuşları kullanıcının cihazı hangi yönde tuttuğunu algılar</string>
+<string name="startup_confirm_airplane_turn_off">Uçak modundan çıkılsın mı?</string>
+<string name="wifi_access_points" msgid="7053990007031968609">"Kablosuz ağlar"</string>
+<string name="header_category_personalcustom">Kişiselleştir</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"Tamam\'a dokunulduğunda <xliff:g id="SERVICE">%1$s</xliff:g> durdurulur."</string>
+<string name="unlock_set_unlock_speechnormal_title">"Hızlı sesli kilit açma"</string>
+<string name="headset_play_mms_enabled_title">"Kulaklık seti mms oynat"</string>
+<string name="black_screen_notification_title"> "Okunmamış mesaj titreşim uyarısı modu" </string>
+<string name="set_dds_error">Veri aboneliği ayarlanırken hata oluştu.</string>
+<string name="shutdown_time">Şurada kapat:</string>
+<string-array name="alarm_set">
+        <item>Açılma 1 dakikadan aza ayarlandı.</item>
+        <item>Açılma <xliff:g id="DAYS">%1$s</xliff:g> süreye ayarlandı.</item>
+        <item>Açılma <xliff:g id="HOURS">%2$s</xliff:g> süreye ayarlandı.</item>
+        <item>Açılma <xliff:g id="DAYS">%1$s</xliff:g> ve <xliff:g id="HOURS">%2$s</xliff:g> süreye ayarlandı.</item>
+        <item>Açılma <xliff:g id="MINUTES">%3$s</xliff:g> süreye ayarlandı.</item>
+        <item>Açılma <xliff:g id="DAYS">%1$s</xliff:g> ve <xliff:g id="MINUTES">%3$s</xliff:g> süreye ayarlandı.</item>
+        <item>Açılma <xliff:g id="HOURS">%2$s</xliff:g> ve <xliff:g id="MINUTES">%3$s</xliff:g> süreye ayarlandı.</item>
+        <item>Açılma <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> ve <xliff:g id="MINUTES">%3$s</xliff:g> süreye ayarlandı.</item>
+        <item>Kapanma 1 dakikadan aza ayarlandı.</item>
+        <item>Kapanma <xliff:g id="DAYS">%1$s</xliff:g> süreye ayarlandı.</item>
+        <item>Kapanma <xliff:g id="HOURS">%2$s</xliff:g> süreye ayarlandı.</item>
+        <item>Kapanma <xliff:g id="DAYS">%1$s</xliff:g> ve <xliff:g id="HOURS">%2$s</xliff:g> süreye ayarlandı.</item>
+        <item>Kapanma <xliff:g id="MINUTES">%3$s</xliff:g> süreye ayarlandı.</item>
+        <item>Kapanma <xliff:g id="DAYS">%1$s</xliff:g> ve <xliff:g id="MINUTES">%3$s</xliff:g> süreye ayarlandı.</item>
+        <item>Kapanma <xliff:g id="HOURS">%2$s</xliff:g> ve <xliff:g id="MINUTES">%3$s</xliff:g> süreye ayarlandı.</item>
+        <item>Kapanma <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> ve <xliff:g id="MINUTES">%3$s</xliff:g> süreye ayarlandı.</item>
+    </string-array>
+<string name="camera_info">"Kamera"</string>
+<string name="startup_auto_shutdown_title">Otomatik kapatma</string>
+<string name="nfc_not_inservice">NfcAdapter Hizmet Dışı!</string>
+<string name="black_screen_settings_quick_shots_nums">Hızlı çekimler</string>
+<string name="i_know_it">"Tamam"</string>
+<string name="fuse_recovery_data_from_cloud_summary">Buluttan yedekleme verisi seçin</string>
+<string name="accessibility_script_injection_button_allow">"İzin Ver"</string>
+<string name="quicksettings_summary">Lenovo telefonunu kullanmaya hoş geldiniz, lütfen hızlı kurulum ile başlayın! "Sistem kurulum" bölümünden kişisel olarak kurulum yapabilirsiniz.\n</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl">"Ses düzeyi tuşu arka ışığı"</string>
+<string name="backup_data">"Verileri Yedekle"</string>
+<string name="fuse_recovery_data_from_cloud_title">Verileri buluttan geri yükle</string>
+<string name="shellt_phone_info_cpu">"Qualcomm MSM8926  4*1,2 GHz"</string>
+<string name="still_sleep_title">Hala uykuda</string>
+<string name="usb_ptp_summary" msgid="7673397474756664929">"Kamera yazılımını kullanarak fotoğrafları ve MTP\'yi desteklemeyen bilgisayarlardaki her türlü dosyayı aktarmanıza olanak sağlar."</string>
+<string name="color_light_other">"Diğer"</string>
+<string name="black_screen_settings_broswer">Tarayıcı için kilidi açın</string>
+<string name="schedule_power_on_off_repeat">Yinele</string>
+<string name="display_effect_of_screen_saturation_item1">"Varsayılan"</string>
+<string name="show_frame_count_cancel_button_text">"İptal"</string>
+<string name="display_effect_of_screen_saturation_item0">Yumuşak</string>
+<string name="display_effect_of_screen_saturation_item2">Parlak</string>
+<string name="wifi_connect_failed_message" product="default" msgid="2185803140161396572">"Telefon bu Kablosuz ağa bağlanamadı."</string>
+<string name="processor_info">İşlemci</string>
+<string name="data_usage_metered_wifi" msgid="8540872226614404873">"Kablosuz ağlar"</string>
+<string name="shutdown_alarm_confirm">"Alarm <xliff:g id="ALARM_TIME">%1$s</xliff:g>\'de uyanacak."</string>
+<string name="wave_wakeup_title">El sallayarak uyandır</string>
+<string name="voice_summary">Sesli Aramalar için Abonelik seç</string>
+<string name="wifi_tether_configure_ap_text" msgid="7974681394041609308">"Kablosuz hotspot kurulumu yap"</string>
+<string name="black_screen_settings_normal_summary">Kilidi açmak için ekranı alt tarafından kaydırabilirsiniz</string>
+<string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Dahili Depolamada bulunan tüm kullanıcı verileri</xliff:g> (müzik, görüntüler ve diğer kullanıcı verileri dahil olmak üzere) <xliff:g/> silinecek. Lütfen telefonu sıfırlamadan önce tüm verileri yedekleyin."</string>
+<string name="wifi_p2p_settings_title" msgid="5444461191435291082">"Kablosuz Doğrudan"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen">Ekran ışığını açmak için dokunun</string>
+<string name="flip_screen_control_summary">Ekranı açmak veya kapatmak için telefonu çevirin</string>
+<string name="wifi_setup_title_connecting_network" msgid="5572226790101017822">"<xliff:g id="NETWORK_NAME">%s</xliff:g> kablosuz ağına bağlanıyor…"</string>
+<string name="screen_info">Ekran</string>
+<string name="startup_time">Şurada aç:</string>
+<string name="keyboard_lights_title">Işık Düğmesine Dokun</string>
+<string name="wifi_poor_network_detection_summary" msgid="7843672905900544785">"İnternet bağlantısı iyi olmadıkça Kablosuz ağı kullanma"</string>
+<string name="muti_window_summary">Seçilen uygulamalar için başka bir pencere görüntüler</string>
+<string name="credentials_configure_lock_screen_hint" msgid="6757119179588664966">"Kimlik bilgileri depolamasını kullanabilmek için öncelikle bir ekran PIN\'i veya şifre ayarlamanız gerekir."</string>
+<string name="shellt_phone_info_runMemory">"1,0 GB"</string>
+<string name="roaming_time_settings_time_display">Zaman görüntüleme programı</string>
+<string name="header_category_other">"Diğer"</string>
+<string name="data_usage_metered_wifi_disabled" msgid="5502020778468643732">"Mobil hotspot\'ları seçmek için Kablosuz\'u açın."</string>
+<string name="recovery_data_section_title">Veri geri yükleme</string>
+<string name="gestural_ebook_summary">E-kitap sayfası çevirmek için ekranı soldan sağa kaydırın</string>
+<string name="auto_shutdown_interrupted">Zamanlanan kapatma kesildi</string>
+<string name="start_camera_gesture_summary">Hareket ile hızlıca kamerayı başlatın</string>
+<string name="wifi_connect_failed_message" product="tablet" msgid="4474691090681670156">"Tablet bu Kablosuz ağa bağlanamadı."</string>
+<string name="phone_car_mode_summary">"Araba modu ayarları"</string>
+<string name="data_connect_settings_title">Veri bağlantısı</string>
+<string name="still_sleep_summary">Telefon beklemedeyken uyku moduna geçecektir</string>
+<string name="theme_settings_title">"Tema"</string>
+<string name="smart_rotete_cbox_title">Ekran Döndürme</string>
+<string name="recovery_data_from_device_summary">SHAREit aracılığıyla diğer cihazdan verileri alın</string>
+<string name="voice_call_way_title">"Sesli arama yolu"</string>
+<string name="gestural_music">Hareket Kontrollü Müzik</string>
+<string name="color_light_unread_mms">Okunmamış Mesajlar</string>
+<string name="stop_color_light">durdur</string>
+<string name="save_power_wait_title">"Lütfen bekleyin"</string>
+<string name="black_screen_settings">Siyah ekran kilidi açma</string>
+<string name="savepower_black_title">"Kara Liste"</string>
+<string name="set_dds_success">Veri aboneliği ayarlama başarılı</string>
+<string name="multiwindow_summary">"çoklu pencere desteği"</string>
+<string name="lock_intro_message" product="tablet">"Kişisel bir kilit açma deseni oluşturarak tabletinizi yetkisiz kullanıma karşı koruyun. Bir sonraki ekranda parmağınızı kaydırarak noktaları istediğiniz sırada birleştirin. En az dört noktayı birleştirmeniz gereklidir. "\n\n"Başlamaya hazır mısınız? İleri\'ye dokunun."</string>
+<string name="show_dialog">Tekrar sorma</string>
+<string name="close_home_landscape_summary">Giriş düğmesini devre dışı bırakmak için telefonu yatay çevirin</string>
+<string name="airbuse_phone_info_screen">"Çözünürlük: qHD960*540, Boyut: 6,0 inç"</string>
+<string name="shutdown_time_enabled">Programlanmış kapama</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> şifreler dışında yazdığınız tüm metinleri toplayabilir. Buna kredi kartı numaraları gibi kişisel veriler de dahildir. Ayrıca, telefon ile etkileşimleriniz hakkında da bilgi toplayabilir."</string>
+<string name="black_screen_settings_select_app">Ayarlamak istediğiniz uygulamayı seçin</string>
+<string name="incoming_mms_ringer_title">Mesaj Uyarı Tonu</string>
+<string name="no_sim_info">SIM kart bilgisi kullanılamıyor.\nMenüye erişilemiyor</string>
+<string name="wifi_settings" msgid="29722149822540994">"WLAN"</string>
+<string-array name="hue">
+        <item>Serin</item>
+        <item>Varsayılan</item>
+        <item>Ilık</item>
+    </string-array>
+<string name="wifi_suspend_optimizations" msgid="1220174276403689487">"Kablosuz optimizasyonu"</string>
+<string name="wifi_on_time" msgid="3208518458663637035">"Zamanında Kablosuz"</string>
+<string name="recovery_data_summary">Veri yedeklemek üzere SD kart takmak için dokunun</string>
+<string-array name="sharpen">
+        <item>Varsayılan</item>
+        <item>Keskin</item>
+    </string-array>
+<string name="wifi_menu_wps_pin" msgid="6426448256268695933">"WPS PIN Girişi"</string>
+<string name="poweron_emergencycallonly">"Yalnızca acil çağrılar için"</string>
+<string name="data_usage_disable_mobile_statistics_dialog">Bu özelliğin devre dışı bırakılmasıyla veri kullanım istatistikleri toplama özelliği kapatılacaktır.</string>
+<string name="wifi_switch_settings_title">WLAN kaydetme</string>
+<string name="schedule_power_on_off_settings_title">Güç açma/kapama planla</string>
+<string name="gestural_broswer_summary">Tarayıcı sayfalarında gezinmek için ekranı yukarı ve aşağı kaydırın</string>
+<string name="wifi_scan_notify_text_location_on" msgid="8135076005488914200">"Konum doğruluğunu iyileştirmek için ve diğer amaçlarla, Google ve diğer uygulamalar, Kablosuz kapalı olduğunda dahi yakınlardaki ağları tarayabilir. Bunu istemiyorsanız, Gelişmiş &gt; Tarama her zaman kullanılabilir seçeneğine gidin."</string>
+<string name="gestural_vedio_summary">Video oynatmayı kontrol etmek için ekranı sola ve sağa kaydırın | Sesi ayarlamak için ekranı yukarı ve aşağı kaydırın</string>
+<string name="lenovo_recent_settings">Son Kullanılan Ayarlar</string>
+<string name="no_ftp_app">FTP destekleyen uygulama yok</string>
+<string name="accessibility_toggle_script_injection_preference_title">"Web erişilebilirliğini geliştir"</string>
+<string name="phone_info">Telefon bilgisi</string>
+<string name="sel_sub_title">Abonelikleri Yapılandır </string>
+<string name="accessibility_script_injection_disallowed">İzin verilmeyenler</string>
+<string name="start_camera_gesture_title">Kamera Hareketi</string>
+<string name="rotate_type_choose_cancel">"İptal"</string>
+<string name="lockscreen_knock_on_ctrl_summary">Telefonu aydınlatmak için ekranı çift tıklatın</string>
+<string name="airplane_open_confirm_message">Uçuş modu etkinleştirilecek</string>
+<string name="data_usage_restrict_background_multiuser" product="default" msgid="2642864376010074543">"Arka planda mobil veri kullanımını kısıtlarsanız, Kablosuz bir ağa bağlanmadığınız sürece bazı uygulamalar ve hizmetler çalışmaz.\n\nBu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
+<string name="savepower_white_title">"Beyaz Liste"</string>
+<string name="lenovoID_registered_title">"Cep telefonu numarasının Lenovo Kimliği (Lenovo geçiş) hesabı olarak kullanılmasını kabul et"</string>
+<string name="mannual">Başlangıç eğitimine giriş yapın</string>
+<string name="header_category_personalcustom_k7">"Kişiselleştirildi"</string>
+<string name="china_telcom_push_title">China Telecom Yi Push</string>
+<string name="location_network_based" msgid="9134175479520582215">"Kablosuz ve mobil ağ konumu"</string>
+<string name="header_category_singlehand_settings">"Tek el ayarları"</string>
+<string name="devices_info_buildNumber">"Numara oluştur: <xliff:g>%1$s</xliff:g>"</string>
+<string name="location_improve_allow">WLAN ile geliştirilen konum hizmetleri ve/veya mobil ağlar</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"<xliff:g id="SERVICE">%1$s</xliff:g> durdurulsun mu?"</string>
+<string name="schedule_power_on_set">"Planlı açmayı ayarla"</string>
+<string name="lockscreen_shake_unlock_ctrl">Kilitlemek için sallama</string>
+<string name="call_ring_weaken_enable_summary">Telefon kaldırıldığında zil tonu ses seviyesini otomatik olarak azaltır | Yardım</string>
+<string name="wifi_popup_0">WLAN veya 3G veri ile bağlanıldığını bana bildir.</string>
+<string name="wifi_popup_2">WLAN kaydetmeyi devre dışı bırak</string>
+<string name="wifi_popup_1">Otomatik bağlan</string>
+<string name="double_click_muti_window_title">Çoklu Pencere</string>
+<string name="roaming_settings_title">Dolaşım Ayarları</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"Uygulamaların Google\'dan web içeriklerini daha erişilebilir hale getirecek komut dosyaları yüklemesini istiyor musunuz?"</string>
+<string name="enter_bright_mode_warning" product="default"> "Daha net aramalar için sesi açın" </string>
+<string name="character_setings_title">"Özellik ayarları"</string>
+<string name="backup_recovery_data_summary">Telefondaki uygulama verilerini yedekle veya geri yükle</string>
+<string name="wifi_settings_title" msgid="3103415012485692233">"WLAN"</string>
+<string name="security_settings_title">"Güvenlik ve kilitleme ekranı"</string>
+<string name="black_screen_settings_flash_mode_on">Aç</string>
+<string name="black_screen_settings_quick_shots_one">tek fotoğraf</string>
+<string name="leave_bright_mode_warning" product="default"> "İşlev kapatıldı" </string>
+<string name="black_screen_settings_music_summary">Ekranda bir "m" çizin</string>
+<string name="quicksettings_title">Hızlı kurulum</string>
+<string name="summary_keyboard_lights">SmartControl</string>
+<string name="backup_recovery_data_title">Uygulama verilerini yedekle veya geri yükle</string>
+<string name="poweron_nouim">UIM bulunamadı</string>
+<string name="wifi_suspend_optimizations_summary" msgid="4151428966089116856">"Kablosuz açıkken pil kullanımını en aza indir"</string>
+<string name="gestural_vedio">Hareket Kontrollü Video </string>
+<string name="gadget_toggle_wifi" msgid="319262861956544493">"Kablosuz ayarı güncelleniyor"</string>
+<string name="backup_data_recovery_section_title">Veri yedekleme ve geri yükleme</string>
+<string name="share_music_a2dp_headphones_control_summary">A2dp cihaz anahtarıyla müzik paylaş</string>
+<string name="memory_os_size">Os kullanım boyutu</string>
+<string name="revert">"Geri Döndür"</string>
+<string name="usage_type_data_wifi_recv" msgid="7822328607564241372">"Kablosuz verisi alındı"</string>
+<string name="double_click_dock_enabled_title">"Çift YUVA alanı simgesi sesi etkin"</string>
+<string name="color_light_battery">Pil</string>
+<string name="internal_version">Dahili sürüm numarası</string>
+<string name="preference_status_close">Kapat</string>
+<string name="apn_call_number">PPP telefon numarası</string>
+<string name="sound_settings_title">"Ses Düzeyleri"</string>
+<string name="set_priority_sub_error">Abone önceliği ayarlama hatası. Abonelik etkin değil.</string>
+<string name="common_setings_title">"Ortak ayarlar"</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="sms_summary">SMS Gönderimi için Abonelik Seçin</string>
+<string name="devices_info_firmwareVersion">"Android sürümü: <xliff:g>%1$s</xliff:g>"</string>
+<string name="wifi_settings_category" msgid="8719175790520448014">"Kablosuz ayarları"</string>
+<string name="show_hw_overdraw_summary">"En iyiden en kötüye: mavi, yeşil, açık kırmızı, kırmızı"</string>
+<string name="show_recent_settings">ayarları gizlemek için yukarıya çekin</string>
+<string name="global_action_restart">"Yeniden başlat"</string>
+<string name="color_light_call">"Çağrı"</string>
+    <string name="eap_sim_aka_airplanemode">EAP-SIM/AKA kullanımı için lütfen Uçak modunu kapatın</string>
+    <string name="wifi_ap_bandwidth_chart_title">Gerçek zamanlı veri hızı</string>
+    <string name="single_hand_title">Tek elle kullanılan mikro ekran</string>
+    <string name="pch_warning_message">Veri aktarım hızı düşecek.</string>
+    <string name="dlg_error_unmount_usb_text" product="default">"SD kartın bağlantısı kesilemiyor. Daha sonra tekrar deneyin."</string>
+    <string name="move_success">Taşıma tamamlandı! Varsayılan bellek kartından dolayı uygulamaların bazıları taşınamıyor. <xliff:g>%1$s</xliff:g> uygulamaları başarıyla taşındı!</string>
+    <string name="AGPS_NOTIFY_ONLY">Konum Talep Bildirimi</string>
+    <string name="agps_str_deny">"Reddet"</string>
+    <string name="privacy_backup_userdata_category_title">Veriyi yedekle</string>
+    <string name="usb_ums_without_external_sd_summary">"Hiçbir harici bellek kartı algılanmadı, yerleşik bellek kartı U disk modunu desteklemediği için kullanılamaz"</string>
+    <string name="privacy_category_title_cloud">Bulut</string>
+    <string name="wifi_backup_category_title">WLAN Yedekleme</string>
+    <string name="display_effect_of_screen_reset">"Sıfırla"</string>
+    <string name="double_click_tip">Buraya çift tıklayın</string>
+    <string name="ipo_title">Hızlı önyükleme</string>
+    <string name="authdlg_message">\'%1$s\' %2$s\'a bağlanmak için izin istiyor.</string>
+    <string name="lockdown_vpn_already_connected">Bağlantı için Her Zaman Açık VPN zaten etkinleştirilmiş.</string>
+    <string name="usb_connect_as_cdrom_category">"Şu şekilde bağlan: CD-ROM"</string>
+    <string name="wifi_ap_max_connection_title">Maksimum bağlantı</string>
+    <string name="launch_main">Uygulamayı ana etkinlik yoluyla başlat</string>
+    <string name="usbsetting_help_content">1. USB Yığın Depolama: Bilgisayarınız ve Android USB ve SD depolama arasında dosya aktarımı yapılmasını sağlar. \n\n
+2. MTP: Telefonunuzdaki ve bilgisayarınızdaki dosyaları aynı anda yönetmenizi sağlar.
+Not: WIN7 veya üzeri önerilir. XP kullanıyorsanız lütfen önce sürücüleri yükleyin. \n\n
+3. PTP: MTP desteği olmadan fotoğraflarınızı bilgisayara aktarabilmenizi sağlar.
+Not: WIN7 veya üzeri önerilir. XP kullanıyorsanız lütfen önce sürücüleri yükleyin. \n\n
+4. USB Hata Ayıklama: Bildirim olmadan ve kayıt verilerini okumadan bilgisayarınız ve cihaz arasında veri kopyalanmasını ve cihazınıza uygulama yüklemenizi sağlar. Sadece geliştirme amacıyla vardır. \n\n
+5. USB ile telefonun internete bağlanması (tethering): 3G internet bağlantınızı PC ile paylaşmanızı sağlar. Veri ücretleri uygulanabilir.</string>
+    <string name="title_lcd_invert">LCD renklerini tersine çevir</string>
+    <string name="test_area">TEST BÖLGESİ:</string>
+    <string name="wfd_change_resolution_menu_title">Çözünürlüğü değiştir</string>
+    <string name="smart_scene_summary">"Akıllı değiştirme için sahne modu gereklidir"</string>
+    <string name="lenovo_system_update">"Sistem güncelleme"</string>
+    <string name="wifi_ap_reset_OOB_title">"Ağ SSID'si, güvenlik ve parolayı varsayılan değere sıfırla (WPS için ilk çalıştırma yapılandırması)"</string>
+    <string name="mouse_primary_button_title">Birincil ve ikincil düğmeleri geçiş</string>
+    <string name="wide_touch_summary">Tek dokunuşla kısayollara erişim</string>
+    <string name="try_swing_lock_result_longer">Yetersiz sallama. Lütfen tekrar deneyin</string>
+    <string name="bluetooth_ask_enablement_ext"><xliff:g>%1$s</xliff:g> uygulaması Bluetooth\'u açmak istiyor.</string>
+    <string name="wifi_ap_reset_OOB">"OOB'yi sıfırla"</string>
+    <string name="side_key_backlight_title">"Ses düzeyi tuşu arka ışığı"</string>
+    <string name="privacy_restore_userdata_summary">Verileri depolamadan geri yükle</string>
+    <string name="swing_lock">Kilitlemek için sallama</string>
+    <string name="default_name">"Varsayılan"</string>
+    <string name="gesture_rotete_cbox_summary">Hareket</string>
+    <string name="usb_sharing_title">USB İnternet</string>
+    <string name="wifi_restore_category_title">WLAN Geri Yükleme</string>
+    <string name="landscape_launcher_none">Yok</string>
+    <string name="drm_reset_toast_msg">Lisanslar başarıyla silindi.</string>
+    <string name="ringtone_settings">Zil Sesleri ve Ses Seviyeleri</string>
+    <string name="network_synchronization_enable_confirm">Ekstra ücrete neden olabilecek yardımcı verileri almak üzere Ağ Senkronizasyonunun bir kablosuz veri bağlantısına ihtiyacı vardır. Ağ Senkronizasyonunu açmak istediğinizden emin misiniz?</string>
+    <string name="usb_charge_title">Yalnızca şarj</string>
+    <string name="runningapp_stop_dlg_title">Servisi durdur?</string>
+    <string name="sim_remain">(Kalan: <xliff:g id="remains">%d</xliff:g>)</string>
+    <string name="lockscreen_style_default_desc">"Kilit ekranında uygulamalara hızlı erişim"</string>
+    <string name="pin_scroll_summary">Yukarıdan bir listeyi kaydırırken bir süre tutup ardından bıraktığınızda liste daha rahat kullanım için sabitlenir.</string>
+    <string name="AGPS_DEFAULT_STRING">A-GPS Varsayılan Dizisi</string>
+    <string name="vpn_lockdown_savelogin_error">VPN her zaman açıksa hesap oturumu açma bilgilerinin kaydedilmesi gerekir. </string>
+    <string name="smart_call_answer_title">Akıllı Cevaplama</string>
+    <string name="sim_slot">SIM Yuvası</string>
+    <string name="stop_select_app">"Seçileni durdur?"</string>
+    <string name="wifi_ap_client_block_title">"Engelle"</string>
+    <string name="usb_sharing_summary">Windows Bilgisayar internetini USB kablosuyla paylaşma</string>
+    <string name="current_suffix">"(Şu Anki)"</string>
+    <string name="wifi_backup">WLAN Yapılandırmasını Yedekleme</string>
+    <string name="agps_profile_select_Title">AGPS Profili</string>
+    <string name="single_hand_summary">Telefonu tek elle çalıştır</string>
+    <string name="smart_scene_title">Akıllı Sahne</string>
+    <string name="cpu_dtm_summary">Maksimum CPU performansını Pil gücünü korumak için ve cihaz sıcaklığını düşü rmek için sınırlayın.</string>
+    <string name="dlg_confirm_unmount_usb_title" product="default">"SD kartının bağlantısı kesilsin mi?"</string>
+    <string name="battery_percent">Pil Gücü Oranı</string>
+    <string name="server_lenovo_exp_dialogmsg">Lenovo Experience Programı iptal edilirse uygulamanın bazı bölümleri düzgün çalışmaz, ürün servisi ve deneyimi azalır. Lenovo Experience Programı iptal edilirse uygulamanın bazı bölümleri düzgün çalışmaz, ürün servisi ve deneyimi azalır. Servisi iptal etmek istediğinizden emin misiniz?</string>
+    <string name="apn_port_warning">Port değeri 1-65535 arasında olmalıdır!</string>
+    <string name="agps_str_allow">"İzin Ver"</string>
+    <string name="tethered_ipv4v6">(IPv6 mevcut)</string>
+    <string name="autopop_warning_title">Bir sonraki sefere pencere açılmasın mı?</string>
+    <string name="prevent_misoperation_title">Cepte arama önleme kipi</string>
+    <string name="default_soft_setting">Varsayılan yazılım ayarları</string>
+    <string name="lockscreen_style_set">"Kilit Ekranı Olarak Ayarla"</string>
+    <string name="wifi_backup_ok">Yedekleme TAMAM!</string>
+    <string name="wifi_backup_failed">Yedekleme Başarısız.</string>
+    <string name="dlg_default_write_disk0_change_msg">"SD depolamayı seçerseniz iç depolama alanında yüklü olan uygulamalar kullanılamaz ve cihaz yeniden başlatılır, SD depolamaya geçmek istediğinizden emin misiniz?"</string>
+    <string name="MobileNetwork_SIM2_Active">SIM2 etkin</string>
+    <string name="eap_sim_slot_0">Sim Yuvası 0</string>
+    <string name="smart_standby_ctrl_description">Ekrana baktığınızda ışığı yanar</string>
+    <string name="eap_sim_slot_1">Sim Yuvası 1</string>
+    <string name="auto_rotete_cbox_summary">"Otomatik"</string>
+    <string name="wifi_restore_ok">Geri yükleme TAMAM!</string>
+    <string name="auto_time_off">"Devre Dışı"</string>
+    <string name="passpoint_certificate">Sertifika</string>
+    <string name="audio_profile_error">Hata</string>
+    <string name="dlg_mount_external_sd_summary" product="default">SD kartı takarsanız, kullandığınız bazı uygulamalar duracaktır.</string>
+    <string name="wifi_channel">Tercih Edilen Kanal</string>
+    <string name="agps_str_verify">Doğrulama</string>
+    <string name="personal_hotsport_title">Erişim noktası</string>
+    <string name="bluetooth_stop_search_for_devices">Aramayı durdur</string>
+    <string name="phone_model_number">"Telefon modeli"</string>
+    <string name="akp_installer_settings_title">APK yükleyicisi</string>
+    <string name="authdlg_service_pbap">kişileri indirmek için bu telefon</string>
+    <string name="wifi_security_wapi_certificate">WAPI Sertifikası</string>
+    <string name="gps_time_sync_attention_gps_off">"GPS zamanını kullanmak için, ilk önce GPS'i etkinleştirmeniz gerekir. Bunu yaptığınızda, GPS'in tam olarak bağlanması en fazla 1 dakika sürecektir. Bunun yanında, GPS zayıf çevresel sinyal nedeniyle zamanı veremeyebilir.\n\nGPS'i şimdi etkinleştirmek ve GPS zamanı için beklemek istediğinizden emin misiniz?"</string>
+    <string name="launch_activitie">Başlat</string>
+    <string name="sd_eject_usbstorage_summary" product="default">"Dahili USB depolamanın bağ kes"</string>
+    <string name="smart_call_answer_summary">Cihaz kulak hizasına geldiğinde gelen aramayı otomatik olarak cevaplar</string>
+    <string name="tethering_apn_settings_summary">Bağlantı için APN\'yi yapılandırın</string>
+    <string name="hdmi_settings">HDMI ayarları</string>
+    <string name="try_swing_lock_result_harder">Yetersiz sallama. Lütfen tekrar deneyin</string>
+    <string name="usb_ums_with_external_sd_summary">"XP öneriliyor. Dosyaları kopyalamak için U disk olarak, yerleşik bellek kartını değil harici olanı alın. "</string>
+    <string name="gemini_data_connection_progress_message">"Lütfen bekleyin..."</string>
+    <string name="display_effect_of_screen_toast_title">\"Uygula\" düğmesini işaretlemezseniz yeniden başlatma sonrasında yapılandırma geri yüklenir </string>
+    <string name="privacy_category_title_sd">"SD kart"</string>
+    <string name="privacy_backup_userdata_text">SMS, Kişiler ve Arama kayıtları iç depolama alanına aktarılsın mı?</string>
+    <string name="mobile">Veri Bağlantısı</string>
+    <string name="choose_soft_place">Lütfen yazılım kuruluş konumunu seçin</string>
+    <string name="display_smart_standby">Akıllı Bekleme</string>
+    <string name="ims_toggle_summary">IP Multimedya Alt sistem hizmetleri sağlanıyor </string>
+    <string name="bluetooth_ask_establish_connection_ext">"<xliff:g>%1$s</xliff:g> uygulaması ile Bluetooth üzerinden <xliff:g>%2$s</xliff:g> ile iletişim kurmak istiyor."</string>
+    <string name="wifi_advanced_ipv6_address_title">IPv6 adresi</string>
+    <string name="clear_motion_summary">Video akışkanlık iyiletirici</string>
+    <string name="rcse_settings_title">Joyn ayarları</string>
+    <string name="voice_ui_title">Sesli komut</string>
+    <string name="bluetooth_ftp_profile_summary_use_for">Dosya aktarımı için kullan</string>
+    <string name="select_memory">Öntanımlı disk</string>
+    <string name="usb_ums_summary">"XP önerilir. Dosyalarınızı bilgisayarınız ile Android\'inizin USB belleği arasında aktarmanızı sağlar."</string>
+    <string name="clear_cache_msg">"Silme tamamlandı, <xliff:g>%1$s</xliff:g> bellek boş."</string>
+    <string name="data_usage_more_settings">Daha fazla ayar</string>
+    <string name="dlg_confirm_unmount_usb_text" product="default">"SD kartı çıkarırsanız, kullanmakta olduğunuz bazı uygulamalar durur ve SD kart yeniden takılıncaya kadar kullanılamayabilir."</string>
+    <string name="cpu_dtm_title">CPU güç tasarrufmodu</string>
+    <string name="display_effect_of_screen_dialog_ok">Tamam</string>
+    <string name="smart_roll_summary">Tuşları çevirmek için ekranın kenarını kaydırın</string>
+    <string name="light_settings">Bildirim Işığı</string>
+    <string name="agps_str_notify">"Bildirimler"</string>
+    <string name="unmount_usb_inform_text" product="default">"SD kart bağlantısı kesilecek."</string>
+    <string name="agps_OK">Tamam</string>
+    <string name="hotknot_explained_description">Ekran başka bir aygıta dokunduğunda veri alışverişine izin ver</string>
+    <string name="wifi_restore_title">WLAN Yapılandırmasını Geri Yükle</string>
+    <string name="security_not_set">Güvenlik ayarlı değil</string>
+    <string name="bluetooth_ask_establish_connection">"Bir uygulama <xliff:g>%1$s</xliff:g> ile Bluetooth üzerinden iletişim kurmak istiyor."</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">"<xliff:g>%1$s</xliff:g> uygulaması Bluetooth\'u açmak ve <xliff:g>%2$s</xliff:g> ile Bluetooth üzerinden iletişim kurmak istiyor."</string>
+    <string name="sd_eject_usbstorage" product="default">"USB dep brmnn bağln kes"</string>
+    <string name="swing_lock_summary">Ekranı kilitlemek için telefonu tek bir yönde hızla sallayın | Yardım</string>
+    <string name="usb_tether_type_title">USB bağlantı türü</string>
+    <string name="gesture_series_title">Siyah ekran işlemi</string>
+    <string name="header_category_system_and_key">Kısayol İşlevleri</string>
+    <string name="wifi_ap_client_ip_label">IP adresi:</string>
+    <string name="wifi_ap_title">İstatistikler</string>
+    <string name="gemini_sim_management_title">SIM yönetimi</string>
+    <string name="try_it">Kullanmayı deneyin</string>
+    <string name="AGPS_NOTIFY_PRIVACY">Konum Talebi (Gizlilik)</string>
+    <string name="pch_call_prefer_summary_on">Arama tercihi</string>
+    <string name="wifi_hotspot_suspend_optimizations">W-Fi erişim noktası optimizasyonu</string>
+    <string name="network_synchronization_enable_allow">Devam et</string>
+    <string name="wifi_ipv4_address">IPv4 adresi</string>
+    <string name="autopop_warning_message">Bu öğe işaretlenmezse telefonunuzu bilgisayara bağlayacağınız bir sonraki seferde pencere gözükmez. Sistem bildirimine tıklatarak bu pencereye ulaşabilirsiniz. </string>
+    <string name="launch_error">Uygulama başlatılamadı!</string>
+    <string name="wifi_no_cert_for_wapi">Geçerli AP bağlantısı için sertifikası bulunamadı</string>
+    <string name="custom_theme_name">Yeni [%1$s]</string>
+    <string name="wifi_tethering_title">WLAN etkin noktası</string>
+    <string name="passpoint_config_credential_type">Kimlik Bilgileri tipi</string>
+    <string name="smart_roll_title">Akıllı döndürme</string>
+    <string name="tethered_ipv6_title">Etkin nokta ve bağlantı ayarları</string>
+    <string name="display_effect_of_screen_soft">Yumuşak</string>
+    <string name="wifi_ap_connected_title">Bağlanan kullanıcılar</string>
+    <string name="tvout_settings">TV çıkışı</string>
+    <string name="side_key_backlight_summary">"Ekranı açmak için ses artırma veya azaltma tuşuna basın | Yardım"</string>
+    <string name="authdlg_service_ftp">dosyaları aktarmak için bu telefon</string>
+    <string name="loading">"Yükleniyor..."</string>
+    <string name="profile_edit_pocket_title">"Cep Modu"</string>
+    <string name="display_effect_of_screen_warm">Ilık</string>
+    <string name="display_effect_of_screen_default">"Varsayılan"</string>
+    <string name="wifi_restore_summary">LeCloud ile WLAN Yapılandırmasını (hesap/şifre vb.) geri yükle</string>
+    <string name="stop_all_app">"Hepsini durdur"</string>
+    <string name="sd_insert_usb_summary" product="default">"Bağlantı için USByi takın"</string>
+    <string name="dlg_mount_external_sd_title" product="default">SD kart takılsın mı?</string>
+    <string name="credentials_none">Hiçbir belirti bulunmuyor</string>
+    <string name="privacy_backup_userdata_summary">Verileri depolamaya yedekle</string>
+    <string name="mtk_thememanager_title">tema</string>
+    <string name="wifi_ap_bandwidth_enable">Bant geniişliği kısmayı etkinleştir</string>
+    <string name="passpoint_supported">Destekli</string>
+    <string name="screen_timeout_CU">Ekran zaman aşımı</string>
+    <string name="vpn_delete">Silmek istediğinize emin misiniz?</string>
+    <string name="privacy_backup_userdata_summary_cloud">Telefondaki yedekleme verileri buluta</string>
+    <string name="bluetooth_advanced_settings">Bluetooth gelişmiş ayarları</string>
+    <string name="gemini_default_sim_never">Kapalı</string>
+    <string name="bluetooth_profile_ftp">Dosya aktarımı</string>
+    <string name="try_swing_lock_info">Ekranı kilitlemek için telefonu sallayın</string>
+    <string name="network_synchronization_enable_deny">İptal</string>
+    <string name="sim_enter_pin_hints">(4-8 basamak girin)</string>
+    <string name="ipo_summary_on">Hızlı önyüklemeyi devre dışı bırak</string>
+    <string name="authorizaion_failed_error">Yetkilendirme başarısız. Uzak cihaza bağlanılamadı.</string>
+    <string name="ipo_summary_off">Hızlı önyüklemeyi etkinleştir</string>
+    <string name="display_settings_scences_title">Manzara</string>
+    <string name="runningapp_stop_dlg_text" product="tablet">Bu servisleri durdurursanız tabletinizin bazı
+        işlevleri cihazı kapatıp tekrar açana kadar düzgün 
+        olarak çalışmayabilir.</string>
+    <string name="usbsetting_usbmassstorage_wait">Lütfen bekleyin...</string>
+    <string name="wifi_WEP_transmit_key">"İletim Anahtarı"</string>
+    <string name="move_to_sdcard">Varsayılan bellek kartına taşı</string>
+    <string name="gps_time_sync_attention_gps_on">GPS bilgilerinin alınması en fazla 1 dakika sürer. Ayrıca, zayıf çevre sinyalleri nedeniyle GPS, saat bilgisi vermeyebilir.\n\nGPS tarafından sağlanan saati kullanmak istediğinizden emin misiniz?</string>
+    <string name="bluetooth_turning_on_failed">Bluetooth açma başarısız</string>
+    <string name="wifi_tether_wps_connect_title">"WPS Connect"</string>
+    <string name="tether_title">"Doğrudan bağlantı ve taşınabilir ortak erişim noktası"</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Konum Talebi (Yanıt yoksa izin verme)</string>
+    <string name="authdlg_auto_reply">Tekrar sorma</string>
+    <string name="move_tomemory_success">Taşıma tamamlandı! <xliff:g>%1$s</xliff:g> uygulamaları başarıyla taşındı!</string>
+    <string name="eap_sim_aka_no_sim_slot_selected">EAP-SIM/AKA kullanımı için bir sim yuvası seçmelisiniz</string>
+    <string name="passpoint_summary">Passpoint kullanan uygulamalara otomatik bağlantı</string>
+    <string name="usb_ums_title">"USB depolama birimi"</string>
+    <string name="usb_bicr_summary">Bazı faydalı yazılımları içeren sanal CD-ROM göster.</string>
+    <string name="authdlg_service_map">mesajlara erişmek için bu telefon</string>
+    <string name="server_lenovo_exp_ok">"Tamam"</string>
+    <string name="slide_unlock_title">Kaydırarak Kilit Aç</string>
+    <string name="authdlg_service_spp">bu telefonda bulunan Bluetooth seri bağlantı noktası</string>
+    <string name="display_effect_of_screen_dialog_title">Ekran tekrar açıldığında yürürlüğe girecek!</string>
+    <string name="move_select">Seçilen uygulamaları taşımak istiyor musunuz? Varsayılan bellek kartından dolayı uygulamaların bazıları taşınamıyor.</string>
+    <string name="wifi_restore_failed">Geri Yükleme Başarısız.</string>
+    <string name="landscape_launcher_title">Manzara Başlatıcı</string>
+    <string name="usb_sharing_info_title">İnternet geçişi</string>
+    <string name="clear_cache">"Bütün önbelleği temizle"</string>
+    <string name="authdlg_service_default">bu telefon</string>
+    <string name="wifi_tether_auto_disable_title">"WLAN hotspot'u açık tut"</string>
+    <string name="wifi_backup_summary">LeCloud ile WLAN Yapılandırmasını (hesap/şifre vb.) yedekle</string>
+    <string name="storage_phone">Yerleşik Depolama</string>
+    <string name="hdmi_audio_toggler">Ses</string>
+    <string name="NI_Request_ID">Talep Edenin Kimliği</string>
+    <string name="passpoint_config_eap_method">EAP yöntemi</string>
+    <string name="wifi_ap_wps_mode_title">WPS modu</string>
+    <string name="authdlg_title">Bluetooth Yetkilendirme Talebi</string>
+    <string name="usb_bicr_title">Bütünleşik CD-ROM</string>
+    <string name="double_click_title">Çift tıklama hızı</string>
+    <string name="pin_scroll_title">Sabitleme listesine kaydır</string>
+    <string name="wifi_backup_title">WLAN Yedekleme</string>
+    <string name="eap_sim_aka_no_sim_error">EAP-SIM/AKA kullanımı için bir sim kart takmalısınız</string>
+    <string name="wifi_wps_fail_error">WLAN korumalı kurulum başarısız oldu, yeniden deneyin.</string>
+    <string name="bluetooth_ftp_profile_summary_connected">"Dosya aktarımına bağlandı"</string>
+    <string name="privacy_backup_userdata_title_cloud">Buluta yedekle</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">WLAN erişim noktası açık olduğunda pil kullanımını minimize et</string>
+    <string name="privacy_restore_userdata_category_title">Verileri geri yükleme</string>
+    <string name="gesture_series_summary">Hızlı açılma için siyah ekran durumu kilidini açabilirsiniz</string>
+    <string name="auto_popup">Açılma</string>
+    <string name="MobileNetwork_SIM1_Active">SIM1 etkin</string>
+    <string name="move_app_to_where">
+    <xliff:g id="location">%s</xliff:g>" taşı"</string>
+    <string name="launch_main_label">Uygulamayı başlat</string>
+    <string name="akp_installer_settings_summary">SD karttan APK\'nizi yükleyin</string>
+    <string name="tv_system_title">TV sistemi</string>
+    <string name="NI_Request_ClientName">İstemci Adı</string>
+    <string name="profile_edit_pocket_summary">"Cep ya da kılıf modunda zil sesi seviyesini en üst düzeye çıkar"</string>
+    <string name="profile_edit_weaken_summary">Telefon kaldırıldığında zil tonu ses seviyesini otomatik olarak azaltır | Yardım</string>
+    <string name="privacy_restore_userdata_summary_cloud">Buluta yedeklenen verileri geri yüklemeyi seç</string>
+    <string name="display_effect_of_screen_cool">Serin</string>
+    <string name="lock_screen_notifications_title">Kilit ekranı bildirimleri</string>
+    <string name="header_category_call_and_msg">Arama ve mesaj</string>
+    <string name="status_imei_slot1">IMEI(Yuva1)</string>
+    <string name="wifi_ap_client_details_title">Ayrıntılar</string>
+    <string name="server_lenovo_exp_title">Lenovo Experience Programına katılmayı kabul ediyorum</string>
+    <string name="status_imei_slot2">IMEI(Yuva2)</string>
+    <string name="header_category_lock_and_screen">Ekran Özellikleri</string>
+    <string name="passpoint_append_summary">(Passpoint ile)</string>
+    <string name="lock_screen_style_title">Kilit ekranı stili</string>
+    <string name="privacy_restore_userdata_title_cloud">Buluttan geri yükleme</string>
+    <string name="app_privacy_settings">Uygulama gizlilik ayarları</string>
+    <string name="drm_reset_dialog_msg">Bu işlem, bu aygıttaki lisanslarn tümünü silecektir. Devam et?</string>
+    <string name="wapi_as_certificate">ASE sertifikası</string>
+    <string name="erase_external_storage_description_fuse">Dahili bellek kartındaki müzik veya fotoğraflar gibi bütün verileri sil</string>
+    <string name="wifi_tether_auto_channel_width_text">Otomatik 20/40 MHz</string>
+    <string name="bluetooth_security_confirm">"Bluetooth izin talebi"</string>
+    <string name="slide_unlock_summary">Ekran kapalıyken kilidi açmak için ekranın alt tarafını kaydırın | Yardım</string>
+    <string name="wifi_tether_auto_channel_text">"Otomatik"</string>
+    <string name="usb_charge_summary">Tüm USB işlevlerini durdurun. Bu hızlı USB şarjı yapmanızı ve güç tüketiminizi azaltmanızı mümkün kılar.</string>
+    <string name="long_menu_active_voice_summary">Ekran ışığı yandığında, ses işlevini etkinleştirmek için menü tuşuna basılı tutun</string>
+    <string name="wifi_ap_time_duration">Süre uzunluğu: 
+        <xliff:g id="time">%1$s</xliff:g> 
+    </string>
+    <string name="wifi_ap_client_mac_label">MAC adresi:</string>
+    <string name="wifi_advanced_ipv4_address_title">IPv4 adresi</string>
+    <string name="hdmi_video_resolution">Video çözünürlüğü</string>
+    <string name="tethered_ipv4">(IPv6 mevcut değil)</string>
+    <string name="soft_permission">İzin yönetimi</string>
+    <string name="authdlg_service_dun">bu telefondaki çevirmeli ağ servisi</string>
+    <string name="privacy_backup_userdata_title">Depolamaya yedekle</string>
+    <string name="prevent_misoperation_summary">Telefon cebinizdeyken yanlışlıkla işlem yapılmasını önlemek için yakınlık algılayıcısını kullanın</string>
+    <string name="tethered_ipv6">(Yalnızca IPv6 mevcut)</string>
+    <string name="wifi_ipv6_address">IPv6 adresi</string>
+    <string name="wifi_ap_bandwidth_title">Bant genişliği kullanımı</string>
+    <string name="tethering_apn_settings_title">APN ayarları</string>
+    <string name="erase_external_storage_fuse">"Dahili bellek kartı biçimlendirme"</string>
+    <string name="server_lenovo_exp_summery">Ürün ve servis kalitesini artırmak için veri topla</string>
+    <string name="usbsetting_usbmassstorage_close">USB depolama aygıtını çıkartın</string>
+    <string name="wifi_ap_no_connected">0 bağlanan kullanıcılar</string>
+    <string name="wifi_channel_width">Kanal Genişliği</string>
+    <string name="dlg_default_write_disk1_change_msg">"İç depolama alanını seçerseniz SD\'de yüklü olan uygulamalar kullanılamaz ve cihaz yeniden başlatılır, iç depolama alanına geçmek istediğinizden emin misiniz?"</string>
+    <string name="wifi_ap_bandwidth_chart_summary">Telefonunuz tarafındna ölçüldü, taşıyıcınızın veri hızı hesaplaması farklı olabilir.</string>
+    <string name="usbsetting_help_title">"Yardım"</string>
+    <string name="bluetooth_remote_device">bluetooth cihazı</string>
+    <string name="long_menu_active_voice">Menü tuşu ses etkinleştirmesi</string>
+    <string name="mouse_primary_button_dialog_title">Birincil düğmesi geçiş</string>
+    <string name="authdlg_service_decline">"Reddet"</string>
+    <string name="move_select_short">"Seçilen uygulamayı taşımak istiyor musunuz?"</string>
+    <string name="display_effect_of_screen_bright">Parlak</string>
+    <string name="wifi_tether_wps_pin_error">Geçersiz PIN</string>
+    <string name="auto_time_on">"Ağ desteğini kullanın"</string>
+    <string name="usb_sharing_info_step_1">"1. Windows Bilgisayarınızda ağ bağlantılarını açın."</string>
+    <string name="button_brightness">Menü tuşları arka ışığı</string>
+    <string name="display_default">Ekran</string>
+    <string name="pch_toggle_title">GPRS transfer terc.</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Konum Talebi (Yanıt yoksa izin ver)</string>
+    <string name="usb_sharing_info_step_3">"3. Paylaşım sekmesini tıklatın ve \'Diğer ağ kullanıcılarının bu bilgisayarın internet bağlantısıyla bağlanmalarına\izin ver\'i seçin \'(\'Ev ağı bağlantısı\' görünürse USB interneti temsil eden yeni eklenen ağı seçin)."</string>
+    <string name="wifi_ap_wps_pin_title">"İstemciye ait PIN'i yazın"</string>
+    <string name="usb_sharing_info_step_2">"2. Paylaşmak istediğiniz bağlantıyı sağ tıklatıp özellikleri tıklatın."</string>
+    <string name="runningapp_stop_dlg_text" product="default">Bu servisleri durdurursanız telefonunuzu bazı
+        işlevleri cihazı kapatıp tekrar açana kadar düzgün 
+        olarak çalışmayabilir.</string>
+    <string name="wifi_tether_wps_connect_summary">WLAN korumalı kurulum moduna devam etme seçildi</string>
+    <string name="wizard_title">Eğitim</string>
+    <string name="location_settings_label">Konum Mühendisi Modu</string>
+    <string name="sim_status_title">SIM Durumu</string>
+    <string name="auto_rotate_type">"Ekranı otomatik döndür"</string>
+    <string name="wifi_hex_password">Onaltı haneli parola.</string>
+    <string name="pch_data_prefer_summary_off">Veri tercihi</string>
+    <string name="wifi_WEP_secury_key">"Güvenlik Anahtarı"</string>
+    <string name="passpoint_username_pw">Kullanıcı Adı/Parola</string>
+    <string name="dlg_default_write_disk_change_msg">Varsayılan yazma diski değişti, şimdi yeniden başlatılmalı!</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">"Cihazları görmek için WLAN ekranı açın."</string>
+    <string name="drm_settings_title">DRM sıfırlama</string>
+    <string name="notification_settings_title">Bildirim merkezi</string>
+    <string name="wifi_ap_client_unblock_title">Engeli kaldır</string>
+    <string name="authdlg_service_opp">bu telefon</string>
+    <string name="display_personalize">Kişiselleştir</string>
+    <string name="usb_tethering_select_version">Bilgisayar sistem sürümünü seç</string>
+    <string name="drm_settings_summary">DRM lisanslarının tümünü siler</string>
+    <string name="hdmi_settings_summary">HDMI yapılandırmak için tıklayın</string>
+    <string name="wifi_ap_no_blocked">0 engellenen kullanıcılar</string>
+    <string name="smart_rotate_type">Akıllı döndürme ekranı</string>
+    <string name="wifi_tether_setting_title">Temel ayarlar</string>
+    <string name="master_clear_error">Lenovo Sync devre dışı. Lütfen etkinleştirin.</string>
+    <string name="tvout_settings_summary">TV çıkışı ayarları</string>
+    <string name="try_swing_lock_result_ok">Yöntem doğru. Bu işlevi kullanabilirsiniz</string>
+    <string name="wifi_ap_wps_dialog_title">"WPS Connect"</string>
+    <string name="authdlg_service_accept">Yetkilendir</string>
+    <string name="dialog_title_button_brightness">Menü tuşları arka ışığı</string>
+    <string name="move_to_phone">Telefona taşı</string>
+    <string name="usbsetting_usbmassstorage_open">USB depolama aygıtına bağlan</string>
+    <string name="wide_touch_title">Geniş Dokunuş</string>
+    <string name="wifi_ap_blocked_title">Engellenen kullanıcılar</string>
+    <string name="gesture_rotate_type">Hareketle döndürme ekranı</string>
+    <string name="sd_mount_usbstorage" product="default">"USB depl birimini ekleyin"</string>
+    <string name="vpn_delete_title">"Sil"</string>
+    <string name="wifi_ap_total_data">Kullanılan toplam veri:
+        <xliff:g id="time">%1$s</xliff:g>
+    </string>
+    <string name="unlock_set_unlock_mode_voice_weak">Sesli Kilit Açma</string>
+    <string name="audio_profile_settings_title_lap">Ses profilleri</string>
+    <string name="storage_path0">USB Depolama</string>
+    <string name="uninstall_select">Kaldır seçildi?</string>
+    <string name="storage_path1">SD depolama</string>
+    <string name="install_local">Yazılım kuruluş konumu</string>
+    <string name="server_lenovo_exp_cancel">"İptal"</string>
+    <string name="hdmi_auto">"OTOMTK"</string>
+    <string name="server_lenovo_exp_dlg_title">Uyarı</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">"Bir uygulama Bluetooth\'u açmak ve <xliff:g>%1$s</xliff:g> ile Bluetooth üzerinden iletişim kurmak istiyor."</string>
+    <string name="lock_screen_notifications_summary">Bildirimleri kilit ekranında göster</string>
+    <string name="wapi_user_certificate">Kullanıcı sertifikası</string>
+    <string name="privacy_restore_userdata_title">Depolamadan geri yükle</string>
+
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="hdmi_video_toggler">Video</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="hdmi_video_toggler">Video</string>
+    <string name="dlg_error_unmount_usb_title" product="default">Hata</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Hata</string>
+    <string name="summary_lcd_invert">Hata</string>
+    <string name="usb_tether">USB tether</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Hata</string>
+
+    <string name="power_settings">"Güç Yöneticisi"</string>
+    <string name="multiwindow_settings">Çoklu pencere</string>
+    <string name="night_mode_summary">Bu mod gece kullanışı için uygundur ve bu mod devredeyken bir kaç uygulamada bazı düğmelere dokunmak mümkün olmayabilir.</string>
+    <string name="long_press_back_finish_title">Çıkmak için Geri tuşuna uzun basın</string>
+    <string name="night_mode">Gece Görüşü Koruması</string>
+    <string name="long_press_back_finish_summary">Geçerli programdan çıkmak için Geri tuşuna uzun basın</string>
+    <string name="change_settings_to_all_settings">Ayarlar\'a Git</string>
+    <string name="touch_free_phone_dial">Dokunmadan Arama</string>
+    <string name="tilt_slide_summary">Gezinmek için sağa/sola eğin</string>
+    <string name="change_settings_to_recent">Son Kullanılan Ayarlar\'a dön</string>
+    <string name="touch_free_phone_answer">Dokunmadan Yanıtlama</string>
+    <string name="recent_settings_empty">Son zamanlarda yeni ayar yapılmamış</string>
+    <string name="recent_settings">Son Kullanılan Ayarlar</string>
+    <string name="tilt_slide_title">Eğerek Kaydır</string>
+    <string name="display_effect_type_hue_cool">Soğuk renk</string>
+    <string name="display_effect_buttom_text_cancel">İptal</string>
+    <string name="display_effect_mode_default_summary">Optimum renk için fabrika varsayılan modu.</string>
+    <string name="display_effect_mode_auto_summary">Tarayıcı uygulamasına ve ortama göre modu otomatik olarak değiştirir.</string>
+    <string name="display_effect_type_hue">Ton</string>
+    <string name="display_effect_mode_default_title">Varsayılan mod</string>
+    <string name="display_effect_mode_comfirtable_title">Konforlu mod</string>
+    <string name="display_effect_type_contrast_sharp">Keskin</string>
+    <string name="display_effect_mode_comfirtable_summary">Gözlerinizi korur ve uzun süre telefonunuza bakmanızı gerektiren durumlarda kullanım için uygundur.</string>
+    <string name="display_effect_type_hue_warm">Sıcak renk</string>
+    <string name="display_effect_type_saturation">Doygunluk</string>
+    <string name="display_effect_mode_auto_title">Otomatik mod</string>
+    <string name="display_effect_mode_ultra_bright_summary">Süper parlak ekran efekti. Bu mod, bekleme durumunda gücü etkiler.</string>
+    <string name="display_effect_smart_brightness_title">Akıllı zorlu ışık modu</string>
+    <string name="display_effect_buttom_text_apply">Uygula</string>
+    <string name="display_effect_mode_ultra_bright_title">Süper parlak mod</string>
+    <string name="display_effect_category_title_commom_mode">Genel mod</string>
+    <string name="display_effect_mode_outdoor_title">Zorlu ışık modu</string>
+    <string name="display_effect_type_saturation_bright">Parlak</string>
+    <string name="display_effect_type_contrast">Kontrast</string>
+    <string name="display_effect_mode_outdoor_summary">Dışarıda ve zorlu ışık koşullarında bulunduğunuzda kullanım için uygundur. Dış mekanlarda görünürlüğü artırır. Bu mod bekleme işlevlerini etkiler; normal kullanıcıların dikkatli olması önerilir!</string>
+    <string name="display_effect_category_title_smart">Akıllı</string>
+    <string name="display_effect_mode_custom_title">Özel</string>
+    <string name="display_effect_mode_custom_summary">Her bir parametre değerini elle ayarlayın.</string>
+    <string name="display_effect_smart_brightness_summary">Akıllı teknoloji, telefonun zorlu ışık koşullarının hakim olduğu bir ortamda bulunduğunu anlayarak zorlu ışık modunu başlatır. Bu mod, dış mekanda zorlu ışık koşullarının hakim olduğu ortamlarda görünürlüğü artırır.</string>
+<string name="device_info" msgid="3191876744469364173">"Cihaz bilgileri"</string>
+
+    <string name="display_effect_type_hue_default">"Normal"</string>
+    <string name="display_effect_type_contrast_soft">"Pastel"</string>
+    <string name="display_effect_type_saturation_default">"Normal"</string>
+    <string name="display_effect_type_contrast_default">"Normal"</string>
+    <string name="display_effect_type_saturation_soft">"Pastel"</string>
+<string name="pocket_mode_title">"Cep Modu"</string>
+<string name="pocket_mode_summary">"Cep ya da kılıf modunda zil sesi seviyesini en üst düzeye çıkar"</string>
+<string name="pocket_mode_help">"Cep ya da kılıf modunda zil sesi seviyesini en üst düzeye çıkar"</string>
+<string name="ringtone_weaken_title">Ton seviyesini azaltma</string>
+<string name="ringtone_weaken_summary">Telefon kaldırıldığında zil tonu ses seviyesini otomatik olarak azaltır | Yardım</string>
+<string name="ringtone_weaken_help">Telefon kaldırıldığında zil sesi azaltıldı.</string>
+<string name="gesture_topspeed_snap_title">Hızlı çekim</string>
+<string name="gesture_topspeed_snap_summary">Ekran kapalıyken resim çekmek için Giriş düğmesine çift tıklayın</string>
+<string name="gesture_light_up_screen_title">"Ekrnı açmak/kaptmk içn iki kez dokunun"</string>
+<string name="gesture_light_up_screen_summary">"Ekran kapalıyken uyku modundan çıkarmak için ekranda herhangi bir yere iki defa dokunun. Cihazı uyku moduna almak için kilit ekranında herhangi bir yere iki defa dokunun"</string>
+<string name="usb_detail_message">Telefonunuzu yönetmek için bilgisayarınızı kullanın. Resmi Lenovo yazılımını edinmek için lütfen http://sj.lenovo.com adresini ziyaret edin.</string>
+<string name="bluetooth_confirm_device_pair">Şununla eşlemek için:</string>
+<string name="wifi_ap_less">İyi Alımı Kontrol Et</string>
+<string name="usb_adb_summary">Hata ayıklama modunu başlatın. Telefonunuzu yönetmek için bilgisayarınızı kullanın. Resmi yazılım kullanılması önerilir.</string>
+<string name="wifi_ap_more">Bütün Erişim Noktalarını Kontrol Edin</string>
+<string name="bluetooth_confirm_passkey_show">Bu parolayı gösterdiğinden emin olun:</string>
+<string name="usb_adb_title">USB hata ayıklama (ADB)</string>
+<string name="wifi_wapi_cert_install">WAPI Sertifikasını Yükleyin</string>
+<string name="location_agps_pref_apn_title">Tercih edilen apn</string>
+<string name="location_agps_roaming_help">Uyarı: AGPS\'yi açmak için TÜM ŞEBEKELER\'i seçmek dolaşım halindeyken fazladan telefon ödemelerine sebep olabilir!</string>
+<string name="wifi_wapi_cert_install_button">Yükle</string>
+<string name="wifi_wapi_cert_create_subdir">Dizin oluştur</string>
+<string name="wifi_wapi_cert_mgmt_user_dont_exist">Lütfen kullanıcı sertifikası adını girin</string>
+<string name="wifi_wapi_user_cert">Kullanıcı Sertifikası</string>
+<string name="location_agps_apn_summary">Tercih edilen apn türünü seç</string>
+<string name="location_agps_apn_choose_dialog_title">Apn türleri</string>
+<string name="location_agps_si_mode_dialog_title">AGPS yöntemi</string>
+<string name="wifi_wapi_cert_mgmt_subdir_exist">Lütfen başka bir dizin adı girin, bu dizin mevcut</string>
+<string name="location_agps_pref_reset_type_title">Tercih edilen sıfırlama türü</string>
+<string name="wifi_wapi_as_cert">AS Sertifikası</string>
+<string name="supl_not_set">"&lt;Ayarlanmadı&gt;"</string>
+<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Lütfen oluşturmak istediğiniz dizinin adını girin!</string>
+<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Kullanıcı sertifikası formatı hatalı! Lütfen doğru kullanıcı sertifikasını kurun</string>
+<string name="location_agps_si_mode">AGPS SI modu</string>
+<string name="location_agps_reset_type_summary">Tercih edilen sıfırlama türünü seç</string>
+<string name="location_agps_supl_settings">SUPL Ayarları</string>
+<string name="wifi_wapi_cert_mgmt_subdir_create_fail">Dizin oluşturma başarısız</string>
+<string name="wifi_wapi_cert_mgmt_as_dont_exist">SD Kart AS sertifikasına sahip değil, lütfen kontrol edin!</string>
+<string name="invalid_network_mode">Geçersiz ağ modu</string>
+<string name="location_agps_si_mode_summary">Tercih edilen AGPS yöntemini seç</string>
+<string name="location_agps_reset_type">Türleri sıfırla</string>
+<string name="not_support_choose">2. yuva, ağ modu seçimini desteklemiyor</string>
+<string name="location_agps_supl_server_addr">Sunucu adresi</string>
+<string name="location_agps_pref_si_title">Tercih edilen mod</string>
+<string name="location_agps_def_reset_type">YENİ</string>
+<string name="wifi_wapi_cert_uninstall">WAPI Sertifikasını Kaldır</string>
+<string name="location_agps_def_network_mode">HOME</string>
+<string name="wifi_wapi_cert_mgmt_as_name_is_empty">Lütfen as sertifikası adını girin</string>
+<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">As sertifikası formatı hatalı! Lütfen doğru sertifikayı kurun</string>
+<string name="location_agps_apn_type">Apn türleri</string>
+<string name="location_agps_register_network_type">Erişim ağı türü</string>
+<string name="wifi_wapi_cert_uninstall_button">Kaldır</string>
+<string name="location_agps_supl_server_port">Sunucu portu</string>
+<string name="location_agps_register_network_type_summary">AGPS\'yi etkinleştirmek için erişim ağı seçin...</string>
+<string name="location_agps_params_settings_title">AGPS ayarları</string>
+<string name="wifi_wapi_cert_mgmt_titlebar">WAPI Sertifika Yönetimi</string>
+<string name="wifi_wapi_cert_cancel_button">"İptal"</string>
+<string name="wifi_wapi_cert_delet_subdir">Uygun bir sertifika seçin</string>
+<string name="wifi_wapi_cert_mgmt_user_name_is_empty">Lütfen kullanıcı sertifikası adını girin</string>
+<string name="location_agps_pref_network_title">Ağ tercih et</string>
+<string name="location_agps_register_network_type_dialog_title">Ağ seç</string>
+<string name="smart_standby_enable_title">"Akıllı Bekleme"</string>
+<string name="smart_standby_enable_summary">"Ekrana baktığınızda ışığı yanar"</string>
+<string name="phone_storage_info">Telefon belleği</string>
+    <string name="usb_detail_title">Resmi Lenovo yazılımını alın</string>
+    <string name="processor_unit_info">Çekirdekler</string>
+    <string name="night_mode_tip_secure_button">Gece okuma modunu devre dışı bırakın ve yeniden tıklatın</string>
+    <string name="location_agps_reset_type_choose_dialog_title">Tüm başlatma türleri</string>
+    <string name="wide_touch_help">Sanal tuşa tıklayarak kısayol ve uygulamalar panelini açın</string>
+    <string name="lenovo_cloud">Bulut Hizmeti</string>
+    <string name="zone_auto_summaryOn_not_row">"Ağ tarafından sağlanan zaman dilimini kullan. Bu özellik servis sağlayıcısına bağlıdır ve bazı ülkelerde desteklenmez"</string>
+    <string name="zone_auto_summaryOff_not_row">"Ağ tarafından sağlanan zaman dilimini kullan. Bu özellik servis sağlayıcısına bağlıdır ve bazı ülkelerde desteklenmez"</string>
+    <string name="location_agps_settings_title">AGPSAyarları</string>
+    <string name="night_mode_notification_title">Gece okuma modu etkinleştirildi</string>
+    <string name="night_mode_notification_text">Gece okuma modunu devre dışı bırakmak için tıklatın</string>
+<string name="wifi_account_share">@string/wlan_share</string>
+<string name="wifi_status_test">WLAN Durumu</string>
+<string name="wifi_signal_strong_title">"WLAN Sinyal Yükseltme"</string>
+<string name="wifi_signal_strong_summary">"Bağlantı sinyali zayıf olduğunda daha iyi bir bağlantı sağlamak için sinyali otomatik olarak yükseltir."</string>
+    <string name="do_not_distube">"Rahatsız Etmeyin modu"</string>
+    <string name="gesture_light_up_off_screen_title">"Ekranı uyku modundan çıkarmak/kapatmak için iki defa dokunun"</string>
+
+    <string name="StorageDialog_summary">Harici Depolama Alanını çıkardığınız tespit edildi, sistem Dahili Depolama Alanına geçecek ve yeniden başlatılacak, onaylıyor musunuz? \n\n Harici Depolama Alanını yeniden takarsanız yeniden başlatmanız gerekmez!</string>
+    <string name="StorageDialog_comfirm">Yeniden başlat</string>
+    <string name="StorageDialog_title">Dikkat</string>
+    <string name="dlg_default_write_disk_encrypted_msg">Gizliliğinizi korumak için telefon şifreliyken birincil depolama her zaman yerleşik depolama olarak ayarlanmalıdır.</string>
+</resources>

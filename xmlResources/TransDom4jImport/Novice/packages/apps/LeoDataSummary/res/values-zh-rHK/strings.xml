@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="other_wallpaper">其他桌布</string>
+<string name="show_dev_countdown">只要再幾個步驟，您就能成為開發人員。</string>
+<string name="os_version">系統版本號碼</string>
+<string name="show_frame_count_title">進入入門教學課程</string>
+<string name="select_subscription">選取訂閱</string>
+<string name="usergudie_button_text">進入開機設定</string>
+<string name="fuse_master_clear_desc_erase_storage">"將消除<xliff:g>Internal Storage</xliff:g>內的\n\n<xliff:g>All user data</xliff:g> (包括音樂、圖片和其他使用者資料)。請先備份您的個人資料，再重設電話。"</string>
+<string name="authdlg_message">「%1$s」正要求連線到 %2$s 的權限。</string>
+<string name="whatis_lenovoid_cando_summary"> 無限制存取各種應用程式、雲端服務與服務的聯盟。一卡在手，暢通無阻。 </string>
+<string name="userguide_title">開機嚮導</string>
+<string name="enable_traces_title" msgid="7448835465859512430">"啟用追蹤項目"</string>
+<string name="color_light_hasclose">已關閉</string>
+<string name="backup_recovery_dialog_message">停止備份或回復應用程式資料？</string>
+<string name="never_timeout">永不待機</string>
+<string name="playertutorial_title">玩家教程</string>
+<string name="startup_time">於下列時間開啟電源：</string>
+<string name="subscription_02_title">卡2</string>
+<string name="keyboard_lights_title">鍵盤燈光</string>
+<string name="show_frame_count_size">大小</string>
+<string name="accessibility_script_injection_allowed" msgid="7624804397748427621">"允許"</string>
+<string name="teos_settings">屏幕效果</string>
+<string name="timing_shutdown_head_text">"關機"</string>
+<string name="display_effect_of_screen_saturation_title">飽和度</string>
+<string name="lock_title" product="default">保護您的電話</string>
+<string name="lock_wallpaper">鎖定桌布</string>
+<string name="devices_info_memory">"機身存儲：<xliff:g>%1$s</xliff:g>(可用)   4 GB(總共)"</string>
+<string name="roaming_time_settings_time_display">時間顯示程式</string>
+<string name="weather_live_wallpaper">即時天氣桌布</string>
+<string name="enable_traces_summary_all" msgid="3950139649125158247">"目前已啟用所有追蹤項目"</string>
+<string name="data_usage_menu_restrict_systembgdata">"允許系統後台數據運行"</string>
+<string name="recovery_data_section_title">資料回復</string>
+<string name="devices_info_cpu">"處理器: MTK 双核1.0GHz"</string>
+<string name="version_info">"版本訊息"</string>
+<string name="desktop_wallpaper">桌面桌布</string>
+<string name="data_usage_enable_mobile_statistics_dialog">若啟用本功能，高資料流率網絡的電力消耗也變快，例如 LTE...</string>
+<string name="reset_skip_backup_title">略過備份</string>
+<string name="data_connect_settings_title">資料連線</string>
+<string name="fuse_backup_data_to_cloud_title">將資料備份至雲端</string>
+<string name="ota_title">系統升級</string>
+<string name="theme_settings_title">"主題"</string>
+<string name="roaming_time_settings_category">國際漫遊設定</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"「<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g>」會收集您輸入的所有文字 (惟密碼除外)，包括信用卡號等個人資料。此外，該項服務也會收集您與平板電腦互動的資料。"</string>
+<string name="display_effect_of_screen_sharpen_item0">標準</string>
+<string name="enable_traces_dialog_title" msgid="5026490474669452929">"選取已啟用的追蹤項目"</string>
+<string name="authdlg_service_pbap">此電話下載聯絡人</string>
+<string name="display_effect_of_screen_sharpen_item1">銳化</string>
+<string name="backup_data_description">"在重置手機前，先備聯絡人等重要數據,以便重新開機后，使用“備份恢復“程式進行恢復"</string>
+<string name="all_setings_title">"系統"</string>
+<string name="hardware_version">硬件版本</string>
+<string name="color_light_unread_mms">未讀的 MMS</string>
+<string-array name="contrast"> 
+        <item>標準</item> 
+        <item>高對比</item> 
+    </string-array>
+<string name="enable_traces_summary_none" msgid="1867562808503494163">"目前未啟用任何追蹤項目"</string>
+<string name="china_telcom_push_summary">China Telecom 免費推播服務</string>
+<string name="products_version">機型編號</string>
+<string name="color_light_missed_call">遺漏通話</string>
+<string name="stop_color_light">停止</string>
+<string name="devices_info_products_version">"型號: A516"</string>
+<string name="data_usage_enable_mobile_statistics">資料統計資料</string>
+<string name="startup_time_enabled">排程的電源開啟</string>
+<string name="what_lenovoid_cando_title"> 聯盟 Pass 我該怎麼做？ </string>
+<string name="save_power_wait_title">"請稍候"</string>
+<string name="savepower_black_title">"黑名單"</string>
+<string name="framework_version">Android 版本號碼</string>
+<string name="fuse_backup_data_to_cloud_summary">將電話資料備份至雲端</string>
+<string name="display_effect_of_screen_apply">應用</string>
+<string name="lock_intro_message" product="tablet">"建立個人螢幕解鎖圖形，避免有心人士未經授權即擅自使用您的平板電腦。在下個畫面中，滑動手指任意連結螢幕中至少 4 個點。"\n\n"準備開始了嗎？請輕觸 [下一步]。"</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"使用「<xliff:g id="SERVICE">%1$s</xliff:g>」？"</string>
+<string name="monotype_preference_title">字體樣式</string>
+<string name="shutdown_time_enabled">排程的電源關閉</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"「<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g>」會收集您輸入的所有文字 (惟密碼除外)，包括信用卡號等個人資料。此外，該項服務也會收集您與手機互動的資料。"</string>
+<string name="subscription_01_title">卡1</string>
+<string name="wifi_switch_summary">功能介紹：綁定某個WLAN，之後在該WLAN覆蓋範圍內，如果檢測到手機卡上網，則自動連接該WLAN；反之則自動關閉WLAN。</string>
+<string name="screensaver_timeout_zero_summary">"永不"</string>
+<string name="airplane_open_confirm">"飛航模式"</string>
+<string name="incoming_mms_ringer_title">"MMS 鈴聲"</string>
+<string name="software_version">軟體版本號碼</string>
+<string name="display_effect_of_screen_sharpen_title">銳化</string>
+<string name="devices_info_camera">"攝像頭：前置30万   後置500万"</string>
+<string-array name="hue"> 
+        <item>冷色</item> 
+        <item>標準</item> 
+        <item>暖色</item> 
+    </string-array>
+<string name="playersTutorial_stoped">PlayersTutorial 的應用程式已停止。</string>
+<string name="lenovo_exp_title">同意參與 Lenovo Experience 計劃</string>
+<string name="authdlg_service_ftp">此電話傳送檔案</string>
+<string name="show_frame_count_bit">位元</string>
+<string name="display_effect_of_screen_cancel">取消</string>
+<string name="recovery_data_summary">點選以進入 SD 卡資料備份</string>
+<string name="wlan_share">"WLAN 分享"</string>
+<string-array name="sharpen"> 
+        <item>標準</item> 
+        <item>銳化</item> 
+    </string-array>
+<string name="devices_info_screen">"屏幕：854*480   4.5英寸"</string>
+<string name="track_frame_time_summary" msgid="447577515813970287">"測量「adb shell dumpsys gfxinfo」指令中的轉譯時間"</string>
+<string name="font_settings_title">"字型設定"</string>
+<string name="exit">退出</string>
+<string name="data_usage_disable_mobile_statistics_dialog">停用本功能就會停止收集資料使用狀況統計資料。</string>
+<string name="wifi_switch_settings_title">WLAN位置綁定</string>
+<string name="unlock_proximity_ctrl">防止誤觸電源鍵</string>
+<string name="authorizaion_failed_error">授權失敗。無法連線至遠端裝置。</string>
+<string name="teos_settings_title">屏幕效果</string>
+<string name="accessibility_toggle_script_injection_preference_title" msgid="7950932054266694403">"增強網頁協助工具"</string>
+<string name="backup_data_section_title">資料備份</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"目前已啟用 <xliff:g id="NUM">%1$d</xliff:g> 個追蹤項目"</string>
+<string name="show_frame_count_summary">啟用時顯示訊框計數。</string>
+<string name="accessibility_script_injection_disallowed" msgid="8639525487720429182">"不允許"</string>
+<string name="authdlg_auto_reply">不要再詢問</string>
+<string name="reset_backup_befor_reset_title">在重設前備份資料</string>
+<string name="location_consent_dialog_title">位置同意</string>
+<string name="airplane_open_confirm_message">"是否允許開啟飛航模式？"</string>
+<string name="color_light">彩色燈</string>
+<string name="devices_info_runMemory">"運行內存: 1.0GB</string>
+<string name="show_frame_count_x_coordinate">X 座標</string>
+<string name="reset_backup_befor_reset_summary">在重設前備份重要資料，例如聯絡人</string>
+<string name="authdlg_service_map">此電話存取訊息</string>
+<string name="quicksettings">"快速設定"</string>
+<string name="personal_hotspot">"個人熱點"</string>
+<string name="color_light_demo">彩色燈展示</string>
+<string name="authdlg_service_spp">此電話上的 Bluetooth 序列埠</string>
+<string name="savepower_white_title">"白名單"</string>
+<string name="sim_settings_title">雙卡設定</string>
+<string name="save_power_summary">"選取要統一系統喚醒時間的應用程式"</string>
+<string name="lenovoID_registered_title">"同意將行動電話號碼作為 Lenovo ID (Lenovo pass) 帳戶使用"</string>
+<string name="mannual">進入入門教學課程</string>
+<string name="save_power_title">"統一系統喚醒時間"</string>
+<string name="authdlg_service_default">此電話</string>
+<string name="header_category_personalcustom_k7">個人化</string>
+<string name="show_frame_count_y_coordinate">Y 座標</string>
+<string name="roaming_time_settings_zone">建議的時區</string>
+<string name="data_usage_tab_slot2">插槽 2</string>
+<string name="data_usage_tab_slot1">插槽 1</string>
+<string name="devices_info_buildNumber">"版本號: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="show_frame_count_ok_button_text">確定</string>
+<string name="volume_title">"音量"</string>
+<string name="location_improve_allow">已透過 WLAN 及/或行動網絡改善位置服務</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"停止「<xliff:g id="SERVICE">%1$s</xliff:g>」？"</string>
+<string name="authdlg_title">Bluetooth 授權要求</string>
+<string name="display_effect_of_screen_hue_title">色調</string>
+<string name="lock_intro_message" product="default">建立個人畫面解除鎖定圖型，以保護電話，避免未獲授權的使用。在下一個畫面上滑動手指，以任一順序連接至少四個點。
+        \n\n準備開始了嗎？觸碰「下一步」。
+    </string>
+<string name="whatis_lenovoid_summary"> 將您的手機作為 Lenovo Pass 帳戶使用，成為聯盟一員。 </string>
+<string name="lenovo_exp_content">僅支援 CN</string>
+<string name="simple_settings">入門指南</string>
+<string name="A_gps_summary"> 使用輔助資料，加速以 GPS 定位的時間</string>
+<string name="safety_information_content">請透過 Lenovo 或 Lenovo 行動系統升級功能 (OTA)，以官方售後服務升級手機系統。使用其他方式升級系統可能會導致設備故障或資料遺失，並導致系統安全功能毀損，引發安全風險。針對使用其他方式升級所造成的問題，Lenovo 將不負維修責任。</string>
+<string name="color_light_other_summary">電話號碼與插撥設定</string>
+<string name="incoming_call_ringer_title">"來電鈴聲"</string>
+<string name="roaming_settings_title">漫遊設定</string>
+<string name="profile_settings">情景模式</string>
+<string name="unlock_set_unlock_speechpwd_title">"使用語音密碼和圖型以進行保護"</string>
+<string name="display_effect_of_screen_contrast_title">對比</string>
+<string name="startup_shutdown_time_errmsg">電源開啟和關閉之間的時間間隔必須大於 10 分鐘，請再次設定。</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"您要允許應用程式安裝 Google 提供的指令碼，讓其網絡內容更容易存取嗎？"</string>
+<string name="accessibility_script_injection_button_disallow" msgid="5697152768523270885">"不允許"</string>
+<string name="data_summary">流量使用及應用控制</string>
+<string name="savepower_all_title">"全部"</string>
+<string name="system_time_am">上午</string>
+<string name="character_setings_title">"動作設定"</string>
+<string name="backup_recovery_data_summary">備份或回復電話上的應用程式資料</string>
+<string name="showing_color_light">顯示彩色燈 </string>
+<string name="system_time_pm">下午</string>
+<string name="reset_skip_backup_summary">為已備份或不需備份的項目選取此選項</string>
+<string name="header_category_personalcustom">個人化</string>
+<string name="save_power_wait_message">"載入應用程式"</string>
+<string name="quicksettings_title">快速設定</string>
+<string name="summary_keyboard_lights">智慧控制</string>
+<string name="authdlg_service_dun">此電話上的撥接網絡服務</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"輕觸 [確定] 會讓「<xliff:g id="SERVICE">%1$s</xliff:g>」停止。"</string>
+<string name="recovery_data_title">從 SD 卡備份復原資料 </string>
+<string name="unlock_set_unlock_speechnormal_title">快速語音解除鎖定</string>
+<string name="backup_recovery_data_title">備份或回復應用程式資料</string>
+<string name="show_screen_frame_count">顯示畫面訊框計數</string>
+<string name="timing_startup_head_text">"開機"</string>
+<string name="wifi_setting_summary">輸入連線 AP 的位置並有 GRPS 資料時，繫結位置</string>
+<string name="save_power_count">"總計已校準 <xliff:g id="NUMBER">%d</xliff:g> 個應用程式"</string>
+<string name="shutdown_time">於下列時間關閉電源：</string>
+<string name="bluetooth_remote_device">Bluetooth 裝置</string>
+<string name="fuse_backup_data_description">"在重設電話之前，請備份聯絡人、圖片、訊息、應用程式和其他重要資料"</string>
+<string name="backup_data_to_sdcard_title">備份資料至 SD 卡</string>
+<string name="authdlg_service_decline">拒絕</string>
+<string name="backup_data_recovery_section_title">資料備份和還原</string>
+<string name="settings_header_ringtone_k7">鈴聲設定</string>
+<string name="fuse_recovery_data_from_cloud_summary">點選以進入雲端資料備份</string>
+<string name="i_know_it">我知道了</string>
+<string name="accessibility_script_injection_button_allow" msgid="2201503285877102870">"允許"</string>
+<string name="quicksettings_summary">歡迎使用 Lenovo 電話，請以快速設定開始！您可在「系統設定」中\n個別設定。</string>
+<string name="backup_data">"重置前備份數據"</string>
+<string name="sim_not_available">無法使用 SIM 卡</string>
+<string name="preference_status_open">開啟</string>
+<string-array name="saturation"> 
+        <item>柔和</item> 
+        <item>標準</item> 
+        <item>鮮艷</item> 
+    </string-array>
+<string name="color_light_battery">電池</string>
+<string name="lock_title" product="tablet">"手機安全設定"</string>
+<string name="unlock_set_unlock_speech_title">語音解鎖</string>
+<string name="user_you_section" msgid="6247838798859425408">"您"</string>
+<string name="internal_version">內部版本號碼</string>
+<string name="backup_data_to_sdcard_summary">備份電話資料至 SD 卡</string>
+<string name="fuse_recovery_data_from_cloud_title">從雲端復原資料</string>
+<string name="safety_information">安全資訊</string>
+<string name="authdlg_service_opp">此電話</string>
+<string name="whatis_lenovoid_title"> 聯盟 Pass 這是什麼？ </string>
+<string name="color_light_hasopen">已開啟</string>
+<string name="preference_status_close">關閉</string>
+<string name="apn_call_number">PPP 電話號碼</string>
+<string name="sound_settings_title">"音量"</string>
+<string name="color_light_other">"其他"</string>
+<string name="authdlg_service_accept">授權</string>
+<string name="display_effect_of_screen_contrast_item0">冷色</string>
+<string name="common_setings_title">"一般"</string>
+<string name="display_effect_of_screen_contrast_item1">標準</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="unlock_proximity_ctrl_summary">點亮屏幕時，如判斷手機在口袋內，則自動滅屏.</string>
+<string name="display_effect_of_screen_contrast_item2">暖色</string>
+<string name="timing_startup_and_shutdown_settings_title">排程的電源開啟和關閉</string>
+<string name="devices_info_firmwareVersion">"Android版本: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="show_hw_overdraw_summary" msgid="4295714000923082647">"從優到劣依序顯示：藍色、綠色、淺紅色、紅色"</string>
+<string name="display_effect_of_screen_saturation_item1">標準</string>
+<string name="display_effect_of_screen_saturation_item0">柔和</string>
+<string name="show_frame_count_cancel_button_text">取消</string>
+<string name="location_consent_dialog_message">允許位置服務收集匿名的位置資料。某些資料可能會儲存在您的裝置上。即使沒有應用程式正在執行也能進行收集。</string>
+<string name="color_light_call">"撥打"</string>
+<string name="display_effect_of_screen_saturation_item2">鮮艷</string>
+    <string name="uid">uid</string>
+    <string name="info">如您的手機測量所得。您營運商的數據用量計算可能有所不同。</string>
+    <string name="action_settings">設定</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="operator_name_china_mobile">"中國移動"</string>
+    <string name="disable">停用</string>
+    <string name="appcontrol">網絡防火牆</string>
+    <string name="app_name">com.datasummary.LeoDataSummary</string>
+    <string name="china_telcom_push_title">中國電信 Yi Push</string>
+    <string name="current_month">目前月份 =</string>
+    <string name="appname">appname</string>
+    <string name="operator_name_china_telcom">"中國電信"</string>
+    <string name="apprateinfo">數據用量</string>
+    <string name="operator_name_china_unicom">"中國聯通"</string>
+    <string name="today">今天</string>
+    <string name="location_network_service">Qualcomm iZat</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

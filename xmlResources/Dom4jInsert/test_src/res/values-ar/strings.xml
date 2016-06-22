@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<string-array name="array1" translatable="false">
+        <!-- The blank item means to use whatever the locale calls for. -->
+        <item></item>
+        <item>array1_ar_copy1</item>
+        <item>array1_ar_copy2</item>
+        <item>array1_ar_copy3</item>
+    </string-array>
+	<string-array name="array2" translatable="true">
+        <!-- The blank item means to use whatever the locale calls for. -->
+        <item></item>
+        <item>array2_ar_copy1</item>
+        <item>array2_ar_copy2</item>
+        <item>array2_ar_copy3</item>
+    </string-array>
+	
+<string name="STR1" product="nosdcard">STR1_ar_copy</string>
+<string name="STR2" product="default">STR2_ar_copy</string>
+
+</resources>
+

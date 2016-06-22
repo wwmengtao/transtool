@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">Genel Ortam</string>
+<string name="user_auto_start_user_summary">Açılışta arka planda otomatik olarak Güvenli Ortam\'ı aç</string>
+<string name="user_setup_seuser_msg">Güvenli Ortam açık. Şimdi girilsin ve kurulum tamamlansın mı?</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"<xliff:g id="APP">%1$s</xliff:g> tarafından kontrol ediliyor"</string>
+<string name="user_config_apps_for_seuser">Mevcut ortama yüklemek istediğiniz uygulamayı seçin</string>
+<string name="user_add_seuser_msg">Güvenli Ortam henüz açık değil. Şimdi açılsın mı?</string>
+<string name="user_auto_start_user">Açılışta Güvenli Ortam\'ı başlat</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"Şimdi değil"</string>
+<string name="user_need_lockscreen_for_seuser_msg">Uygulamalarınızı ve verilerinizi güvenli modda korumak için ekranı kilitlemelisiniz.</string>
+<string name="user_share_data_summary">İki ortamda kişilerinizi, metin mesajlarınızı, arama kayıtlarınızı ve diğer verilerinizi paylaşın, yeniden başlattıktan sonra devreye girer.</string>
+<string name="app_name" msgid="1626402585530130914">"Ayarlar"</string>
+<string name="done_button" msgid="1991471253042622230">"Tamamlandı"</string>
+<string name="user_share_data">Veri Paylaşımı</string>
+<string name="user_float_switch_button_summary">Ortamlar arasında geçiş yapmayı kolaylaştırmak için ekranda sanal tuşu görüntüle</string>
+<string name="user_security_mode">Güvenli Ortam</string>
+<string name="user_float_switch_button">Sanal Tuş</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"Kilidi ayarla"</string>
+    <string name="user_guide_title_2">Geçerli Kipi Yapılandır </string>
+    <string name="user_guide_title_3">Çapraz Kip Bildirimleri</string>
+    <string name="user_guide_title_1">Güvenli Kip\'e Giriş</string>
+    <string name="user_guide_title_4">Veri Yalıtımı ve Paylaşımı </string>
+    <string name="user_guide_desc_1">Güvenli kip geçerli kipten farklı olan uygulamaları, hesapları, duvar kağıtlarını ve kilit ekranı parolalarını yapılandırmanızı sağlar. Kipler arasında hızlı geçiş yapmak için durum çubuğunda \"Güvenli Kip\" simgesine dokunun.</string>
+    <string name="user_guide_desc_2">Geçerli kipin kurulum arayüzüne girmek için \"Güvenli Kip\" simgesine durum çubuğunda basılı tutun. Geçerli kipte yüklemeniz gereken uygulamayı yapılandırabilirsiniz.</string>
+    <string name="user_guide_desc_3">Normal kipte, güvenli kipteki uygulamaların bildirimleri de durum çubuğunda gösterilir. Geçerli kipteki bildirimlerden ayırmak için bildirim simgesinde kırmızı bir nokta gösterilir. Bildirimleri görmek için kipleri değiştirin.</string>
+    <string name="user_guide_desc_4">Her iki kipteki uygulama verileri ve belgeler birbirlerinden tamamen ayrı tutulur. Normal kip SD kartın içerikleri güvenli kip SD kartın KullanıcıVerisiniAç dizininde görüntülenebilir ama tersi yapılamaz. Her iki kipte de normal bir şekilde arama ve mesajlaşma işlevlerinin kullanılması için arama kaydı, mesaj kaydı ve kişiler iki kip arasında paylaşılır.</string>
+    <string name="user_remove_secure_user">Güvenli ortamı sil</string>
+    <string name="user_privacy_mgt_summary">Uygulamaların kişilere, mesajlara ve arama kaydına erişimini kısıtlayın.</string>
+    <string name="user_remove_secure_user_reboot_msg">Güvenli ortamdaki tüm uygulama verileri, fotoğraflar ve dosyalar temizlenecek. Sistem, değişiklikleri uygulamak için otomatik olarak yeniden başlatılacak. Silinsin mi?</string>
+    <string name="user_bgapp_mgt">Arka plan uygulamalarını kısıtla</string>
+    <string name="user_privacy_mgt">Gizlilik erişim denetimi</string>
+    <string name="user_privacy_mgt_msg">Uygulamanın kişilere, mesajlara ve arama kaydına erişmesini engelleyin.</string>
+    <string name="user_bgapp_mgt_summary">Uygulamaların arka plan süreçlerini otomatik olarak başlatmasını ve sonlandırmasını engelleyin.</string>
+    <string name="user_remove_secure_user_msg">Güvenli ortamdaki tüm uygulama verileri, fotoğraflar ve dosyalar temizlenecek. Silinsin mi?</string>
+    <string name="user_bgapp_mgt_msg">Uygulamanın arka plan süreçlerini otomatik olarak başlatmasını ve sonlandırmasını engelleyin. E-posta ve WhatsApp gibi arka planda çalışması gereken uygulamalara uygulamayın.</string>
+    <string name="user_uninstall_app_for_all_user_msg">Uygulama diğer ortamlarda yüklü değil ve kaldırma işleminden sonra telefonunuzdan tamamıyla silinecek. Kaldırılsın mı?</string>
+<string name="help_label">"yardım"</string>
+    <string name="user_uninstall_app_msg">Bu uygulamayı mevcut ortamdan kaldırmak istiyor musunuz?</string>
+</resources>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+
+
+
+
+
+
+
+    <string name="app_name">Tutorial</string>
+        
+    <string name="searchresult">search result</string>   
+    <string name="searchLabel">search</string>
+    <string name="searchHint">please input</string>
+    <string name="searchnoresult">no result</string>
+    <string name="nolenovowizard">can not find NoviceTutorial in system</string>
+    
+    <!-- file.xml -->
+    <string name="lessons">Quick start</string>
+    <string name="functionkeyscontent">Function keys</string>
+    <string name="mainscreen">Main screen</string>
+    <string name="notificationbar">Notification</string>
+    <string name="call">Call</string>
+    <string name="callringtone">Ringtone</string>
+    <string name="contactsmanage">Contact mgt.</string>
+    <string name="message">Message</string>
+    <string name="applist">App list</string>
+    <string name="network">Network service</string>
+    <string name="dualsim">Dual SIM card</string>
+    <string name="setting">Settings</string>
+    <string name="connect">Link to PC</string>
+    <string name="backupandrestore">Backup ＆ reset</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="batterysaving">Power Manager</string>
+    <string name="otg">OTG function</string>
+    <string name="character">Feature settings</string>
+    <!-- applist.xml -->
+    <string name="applist_edit">1. Organize your apps.</string>
+    <string name="applist_edit_description">Enter Application list by tapping the App launcher icon, tap and hold any app to enter the edit page.</string>
+    <string name="applist_uninstall">1. Quickly uninstall apps.</string>
+    <string name="applist_uninstall_description">To quickly uninstall an application, tap and hold the desired app until a red cross (x) mark appears on it. Tap the red cross mark to uninstall the app.</string> 
+    <string name="applist_move">2. Move the app\'s location</string>
+    <string name="applist_move_description">Long press an app icon and drag it to any available place on your screen.</string>
+    
+    <!-- backupandrestore.xml -->
+    <string name="backupandrestore_content">1. Backup contents</string>
+    <string name="backupandrestore_content_description">\"SYNCit\" keeps a backup of \"Contacts\", \"SMS\", and \"Call logs\" in your SD card. Of course, user must have a Lenovo ID first.</string>
+    <string name="backupandrestore_backup">2. Backup procedure</string>
+    <string name="backupandrestore_backup_description">Tap the \"SYNCit\" icon in the app list, and choose \"Contacts\", \"SMS\", and \"Call logs\" to make a backup.</string>
+    <string name="backupandrestore_restore">3. Restore procedure</string>
+    <string name="backupandrestore_restore_description">Tap the \"SYNCit\" icon in the app list, and choose \"Contacts\", \"SMS\", and \"Call logs\" to restore.</string>
+       
+    <!-- batterysaving.xml -->
+    <string name="batterysaving_introduce">1. Widgets</string>
+    <string name="batterysaving_introduce_description">Tap and hold to an empty location at your Homescreen until a menu appears on the bottom, click \"Widgets\" and then select \"Power Manager\",the \"Power Manager\" will be added to the desktop.</string>
+    <string name="batterysaving_screen">3. Timed switching</string>
+    <string name="batterysaving_screen_description">Timed switch function provided on home page. For example, the period of time 23:00-6:00 can be switched to emergency power saving mode.</string>
+    <string name="batterysaving_lowbattery">1. Switch power saving modes</string>
+    <string name="batterysaving_lowbattery_descritpion">Normal, power saving and emergency modes provided on home page. Users can tap to select one of the first two modes and enter the settings interface to configure detailed settings(you may enter the setting interface by clicking the menu button in the top left corner or by sliding the screen toward the right). </string>
+    <string name="batterysaving_mode">2. Utilities</string>
+    <string name="batterysaving_mode_description">Power consumption, Frozen apps and other utilities provided in the \"Tool\" bar on the setting interface.</string>
+       
+    <!-- call.xml -->
+    <string name="call_mode">1. How to make a call</string>
+    <string name="call_mode_description">To make an outgoing call, go to dial pad to enter the phone number then tap the call icon.You may also make calls at contact list, call log or messaging page.</string>
+    <string name="call_volume">2. Call volume adjustment</string>
+    <string name="call_volume_description">Press the side buttons (Volume up and down key) to adjust the volume level during calls.</string>
+    <string name="call_bluetooth">3. Toggle switch for bluetooth answering</string>
+    <string name="call_bluetooth_description">If a bluetooth earphone has been connected and the bluetooth entry icon is displayed at handsfree location, then you can tap it to show the relevant menu options.</string>
+    <string name="call_record">4. Call recording</string>
+    <string name="call_record_description">Tap the Recording icon at bottom of the screen during calls to start recording, tap again to stop.</string>
+    <string name="call_speedcall">5. Sticker photo for quick dialing</string>
+    <string name="call_speedcall_description">Tap contact\'s sticker photo to quickly access dialing and messaging shortcuts.</string>
+    <string name="call_mapping">6. Quickly search contact name</string>
+    <string name="call_mapping_description">The dial pad can quickly search phone numbers as well as the first letter or the full contact name of the receiver.</string>
+    <string name="call_ip">7. IP dial</string>
+    <string name="call_ip_description">You may set up IP dialing in Call Settings Menu (by pressing the Menu-key in dialing pad). To make an IP dial, enter the desired phone number and press the Menu-key,then select IP dial.</string>
+    <string name="call_endcall">8. Press Power key to end call</string>
+    <string name="call_endcall_description">Once this feature has been enabled, the Power button will serve as your end-call key during calls. This feature can be activated and accessed by pressing the Menu-key then Call settings in dial pad.</string>
+    <string name="call_sensor">9. Proximity sensor</string>
+    <string name="call_sensor_description">Once this feature has been enabled, the screen will \"turn off\" when the phone is close to your ears during active calls to avoid unwanted touch.</string>
+    <string name="call_smartsound">10. SmartSound function</string>
+    <string name="call_smartsound_description">SmartSound: Intelligently reduces ambient noise and improve voice quality during calls. You can set up this function when making and answering calls. This feature can be activated and accessed by pressing the Menu-key then Call settings in dial pad.</string>
+           
+    <!-- callringtone.xml -->
+    <string name="callringtone_choose">1. Ringtone selection</string>
+    <string name="callringtone_choose_description">You may select your preferred ringtones by accessing the Audio profiles under System Settings and also media library in the phone.</string>
+    <string name="callringtone_adjust">2. Call volume adjustment</string>
+    <string name="callringtone_adjust_description">There are two ways to adjust the volume level when making a call. First, adjust the settings of the volume by accessing the System Settings then Audio profiles, select the current profile and tap Volume. Second, on idle screen, press volume up or down key located at side of your phone to increase and decrease volume level respectively.</string>
+    <string name="callringtone_mute">3. Immediately silent when receiving a call</string>
+    <string name="callringtone_mute_description">When there is an incoming call, press either volume keys located at the right side of the phone or the power key to silent ringtone.</string>
+       
+    <!-- connect.xml -->
+    <string name="connect_device">1. Use phone as storage device</string>
+    <string name="connect_device_description">Connect your phone to computer via USB cable. Once connected to computer, a popup menu will be displayed on the screen of your phone. The phone can be used as Media device (MTP) and Camera (PTP).</string>
+    <string name="connect_mode">2. Two Storage Modes</string>
+    <string name="connect_mode_description">1) MTP storage: This mode allows you to manage files from your phone and computer at the same time. This is a plug-and-play function. For Windows XP and earlier systems you need to install the Windows Mediaplayer 11 or later. 2) PTP: This mode allows you to transfer photos to computer without MTP support. Additional drivers are required for Windows XP and earlier systems. For Windows XP and earlier systems you need to install the Windows Mediaplayer 11 or later.</string>
+    <string name="connect_pc">3. Use phone for USB debugging</string>
+    <string name="connect_pc_description">When your phone is connected to the computer through a data cable, it will automatically display the \"USB Computer Connection\" interface. You can also display this interface by selecting \"USB Computer Connection\" in the pull down notification bar. Select \"USB Debugging\". Once connected, you can copy data onto your computer and phone, and install apps on your phone through the computer without receiving pop-up notifications.</string>
+       
+    <!-- contactsmanage.xml -->
+    <string name="contactsmanage_add">1. Add contacts</string>
+    <string name="contactsmanage_add_description">Tap the (+) button in the contact list to add contact(s).</string>
+    <string name="contactsmanage_remove">2. Delete contacts</string>
+    <string name="contactsmanage_remove_description">Tap and hold any contact name on the contact list until a popup menu appears then select \"Delete contact\" to delete. You may also delete multiple contacts by selecting the \"Delete multiple contacts\" option.</string>
+    <string name="contactsmanage_lookup">3. Search contacts</string>
+    <string name="contactsmanage_lookup_description">1) You may search contacts by first letter of the contact name by tapping or scrolling the tags from letters A to Z which is located at the right side of the contact list. 2) You may also use the search window in the contact list by tapping the Search icon, you may type the first letter or full name of your contacts or search the number.</string>
+    <string name="contactsmanage_copy">4. Copy contacts</string>
+    <string name="contactsmanage_copy_description">Tap and hold contact name on the contact list until a popup menu appears then select \"Copy Contacts\" from your SIM card to phone and vice versa.</string>
+    <string name="contactsmanage_share">4. Share contacts</string>
+    <string name="contactsmanage_share_description">Tap and hold the contact number you want to share on the contact list until a popup menu appears then select \"Share contacts\". You may opt to share your contacts via SMS, MMS, Bluetooth, Email, etc.</string>
+       
+    <!-- dualsim.xml -->
+    <string name="dualsim_setting">1. Dual SIM card configuration</string>
+    <string name="dualsim_setting_description">You can manage your default SIM card for both Messaging and Voice calls under Settings -> SIM management. You have an option to choose between SIM1 and SIM2 or to cancel setting default SIM card.</string>
+    <string name="dualsim_switch">2. Quickly switch between primary and secondary SIM card</string>
+    <string name="dualsim_switch_description">You can easily switch the toggle for primary and secondary SIM when making a call or text message under Call or Messaging interface respectively by just simply swiping or pulling down the Status Bar on your phone screen.</string>
+       
+    <!-- fmtansmitter.xml -->
+    <string name="fmtansmitter_definition"/>
+    <string name="fmtansmitter_definition_description"/>
+    <string name="fmtansmitter_guide"/>
+    <string name="fmtansmitter_guide_description"/>
+       
+    <!-- functionkeyscontent.xml -->
+    <string name="functionkeyscontent_introduce">1. Function keys overview</string>
+       
+    <!-- hotspot.xml -->
+    <string name="hotspot_definition">1. Personal Hotspot definition</string>
+    <string name="hotspot_definition_description">Personal Hotspot allows you to share your phone\'s 3G internet connection to your computer and other wireless devices by enabling this function. This means wherever you go and you have a signal on your Android phone, you will be able to go online whenever you want. Please take note that using this feature is not free, data charges may apply by your current network provider.</string>
+    <string name="hotspot_setting">2. Setting up your Personal Hotspot</string>
+    <string name="hotspot_setting_description">Personal Hotspot lets you turn your Android phone to a mobile hotspot. You may connect to a personal hotspot in three ways. 1) Via WLAN connection: Turn your phone to a portable WLAN hotspot in order to connect other wireless devices from your phone. You may setup a password in order to prevent other wireless devices from connecting on your phone. 2) Via Bluetooth connection: Allows you to share your 3G data connection via Bluetooth. Please make sure that your phone\'s Bluetooth has been switched on and paired to other BT enabled device. Once paired and connected, you can now browse the internet using your phone\'s Bluetooth connection. 3) Via USB connection: Connect your phone to the computer via USB cable. Open the Personal Hotspot app and choose \"Use USB Conection\". Please take note that you cannot mount your phone\'s SD card on your computer when it is being used for tethering.</string>
+    <string name="hotspot_method">3. Personal Hotspot operation instructions</string>
+    <string name="hotspot_method_description">1) Open the Personal Hotspot app from the application list; 2) Choose one from the three connection modes; 3) Establish a connection according to the selected mode on the devices that need to connect through your phone; 4) Once connection has been established, your phone will serve as your wireless access point.</string>
+       
+    <!-- mainscreen.xml -->
+    <string name="mainscreen_move">1. Moving an item</string>
+    <string name="mainscreen_move_description">Tap and hold the item to be moved then drag it to the desired empty location.</string>
+    <string name="mainscreen_delete">2. Removing an item</string>
+    <string name="mainscreen_delete_description">Tap and hold the item to be removed until a trashcan icon or X Remove appeared at the top of your homescreen,then drag it there to remove.</string>
+    <string name="mainscreen_add">3. Adding an item</string>
+    <string name="mainscreen_add_description">Long press an available place on your main screen and tap an icon in \"Widgets\". This widget will be added to your desktop.</string>
+    <string name="mainscreen_icon">2. Status bar icons</string>
+    <string name="mainscreen_fourgrass_edit">5. Replacing shortcuts on Clover leaf</string>
+    <string name="mainscreen_fourgrass_edit_description">Tap and hold the desired shortcut app on the clover leaf to replace it.</string>
+    <string name="mainscreen_fourgrass_delete">6. Removing the Clover or Lotus Widget</string>
+    <string name="mainscreen_fourgrass_delete_desecription">To remove the Clover or Lotus Widget just tap and hold the icon located at center of the widget and drag it to \"X Remove\" to remove.</string>
+    <string name="mainscreen_fourgrass_restore">7. Adding the Clover or Lotus Widget</string>
+    <string name="mainscreen_fourgrass_restore_description">Tap and hold empty space on your Homescreen until a menu appears on the bottom, then look for the \"Lotus\" to add. Please take note that there should have enough space on your Homescreen.</string>
+    <string name="mainscreen_wallpaper">3. Replace Theme and Wallpaper</string>
+    <string name="mainscreen_wallpaper_description">Tap the Menu key on the bottom left corner, and choose \"Theme\" or \"Wallpaper\" to replace it.</string>
+    <string name="mainscreen_folder">6. Adding a folder</string>
+    <string name="mainscreen_folder_description">Tap and hold empty homescreen until \"Add to Home screen\" menu appears, then select \"Folders\". Tap the applications you want to place in a folder. Please take note that maximum capacity for 1 folder is up to 20 applications only.</string>
+    <string name="mainscreen_thumbnail">4. Viewing Homescreen thumbnails</string>
+    <string name="mainscreen_thumbnail_description">Pinch together the desktop with two fingers to view thumbnails on it.</string>
+           
+    <!-- message.xml -->
+    <string name="message_send">1. Sending a message</string>
+    <string name="message_send_description">1) Open \"Contacts\" in the app list, tap a contact, and tap the SMS icon in the pop-up interface; 2) Open \"Contacts\" in the app list, tap a contact\'s picture, and tap the SMS icon in the pop-up interface; 3) Tap a contact in \"Call logs\", and tap the SMS icon in the pop-up interface.</string>
+    <string name="message_zoom">2. SMS text zooming</string>
+    <string name="message_zoom_description">You may reduce and enlarge the font size by just pinching the screen in and out using your two fingers.</string>
+    <string name="message_delete">3. Deleting messages</string>
+    <string name="message_delete_description">In the message list, long press the message you want to delete and select \"Delete thread\" from the popup menu.</string>
+    <string name="message_save">4. Save message to SIM card</string>
+    <string name="message_save_description">There are two ways of saving messages within the messaging details interface: 1) Long-press the message you wish to store, then click on the relevant message saving options in the menu that pops up; 2) Click on the message you need to save, click on the "More" button on the menu that pops up, then click on the relevant message saving options in the menu that pops up next.</string>
+
+       
+    <!-- network.xml -->
+    <string name="network_data">1. Use of Data service</string>
+    <string name="network_data_description">Data Service activation and deactivation: 1) Pull down the Notification panel and tap the Data Service icon to activate and deactivate the service; 2) Tap \"Data connection\" in \"Settings\" to activate and deactivate the service.Note: Data service may subject to charges based on the actual traffic volume with your Internet Service Provider.</string>
+    <string name="network_wlan">2. Use of WLAN</string>
+    <string name="network_wlan_description">1) Switching WLAN on or off: Just pull down the notification or status bar then tap the \"WLAN\" icon to toggle ON or OFF. Tapping and holding the \"WLAN\" icon simultaneously will lead you to WLAN settings, from there you can enable or disable the WLAN by switching the toggle ON or OFF.You can also enable or disable the WLAN through Settings -> WLAN. 2) Connecting your phone through WLAN: You may need to scan the area if there\'s available WLAN hotspot. To search, switch the WLAN on and it will automatically search for available networks. To connect, tap the hotspot or network name and enter the password if any. 3) WLAN status: The WLAN icon will be displayed on the status bar once it is being used.</string>
+    <string name="network_hotspot">3. Use of Personal Hotspot</string>
+    <string name="network_hotspot_description">Personal Hotspot allows you to share your phone\'s 3G internet connection to your computer and other wireless devices by enabling this function. This means wherever you go and you have a signal on your Android phone, you will be able to go online whenever you want. Please take note that using this feature is not free, data charges may apply by your current Internet service provider. To use the phone as personal hotspot, just open the Application list and tap the Personal Hotspot app and check the tick box to enable the function. Choose your preferred connection via USB, WLAN or Bluetooth.</string>
+       
+    <!-- notificationbar.xml -->
+    <string name="notificationbar_open">1. Open the Notification window</string>
+    <string name="notificationbar_open_description">Swipe downward the notification bar from the top of your screen to open the notification window.</string>
+    <string name="notificationbar_close">2. Close the Notification window</string>
+    <string name="notificationbar_close_description">Swipe the notification window panel from the bottom of the screen to close the notification window or by just simply pressing the return key.</string>
+    <string name="notificationbar_quick">3. Shortcut switch</string>
+    <string name="notificationbar_quick_description">When you open the notification window, you can find different shortcut keys such as Brightness, WLAN, Bluetooth, Profile modes, etc. Tapping and holding any icon simultaneously will lead you to specific setup page.</string>
+       
+    <!-- setting.xml -->
+    <string name="setting_display">1. Display settings</string>
+    <string name="setting_display_description">You can setup your screen brightness,sleep mode, screen rotation and other functions(if there are) through Display settings under Settings -> Display.</string>
+    <string name="setting_secure">2. Security settings</string>
+    <string name="setting_secure_description">For security purposes, you may set up your own unlocking password such as Screen lock, PASSWORDS, DEVICE ADMINISTRATION through Security page under Settings  -> Security.</string>
+    <string name="setting_resotre">3. Factory settings</string>
+    <string name="setting_resotre_description">If you are having a problem on your phone, you may try to reset the phone to its factory settings. Just go to Settings-> Backup ＆ reset -> Factory data reset. Please take note that all data saved in your phone will be deleted including messages, contacts, call logs, applications and media files. It is highly recommended to backup your important file to avoid data loss.</string>
+
+    <!-- otg.xml -->
+    <string name="otg_charge">1 USB On-The-Go function</string>
+    <string name="otg_charge_description">USB On-The-Go is a specification that allows your phone to act as a host, enabling other peripheral devices such as USB flash drive, mouse or keyboard to communicate between each other. You may also charge other phone by just connecting it to your OTG-enabled device by using the right USB OTG cable. Please take note that your device will consume more power and may discharge quickly when connected to other phone as it will serve as a power source.</string>
+
+    <string name="backupandrestore_other_description">Besides using \"SYNCit\", you can also go to \"Settings\" and choose \"Backup＆reset\" to back up or restore SMS, Contacts and Call logs.</string>
+    <string name="backupandrestore_other">4. Other backup and restore methods</string>
+
+    <!-- character.xml -->
+
+
+
+    
+
+
+
+<string name="character_functions_description">Users can view system features and their instructions by going to <b>Settings->Feature settings</b>.</string>
+</resources>

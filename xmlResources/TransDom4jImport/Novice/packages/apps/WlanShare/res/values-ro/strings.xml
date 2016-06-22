@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_cancel">"Anulaţi"</string>
+<string name="wifi_p2p_delete_group_message">"Eliminaţi acest grup?"</string>
+<string name="dlg_ok">"Confirmaţi"</string>
+<string name="wifi_p2p_menu_rename">"Redenumiţi dispozitivul"</string>
+<string name="wifi_p2p_remembered_groups">"Grupuri reţinute"</string>
+<string name="help_label">"Ajutor"</string>
+<string name="wifi_p2p_disconnect_title">Deconectare?</string>
+<string name="wifi_p2p_cancel_connect_title">"Anulaţi invitaţia?"</string>
+    <string name="dlg_open_wifi_message">WLAN trebuie activat pt. activ. partajării WLAN, doriţi să activaţi WLAN?</string>
+    <string name="socketchannel_busy">În lucru. Vă rugăm să încercaţi din nou mai târziu!</string>
+    <string name="wifi_p2p_cancel_connect_message">Doriţi să anulaţi invitaţia de conectare?</string>
+    <string name="sending_file_notification">Partaj. WLAN: Trimit. document</string>
+    <string name="received_file_fail_dialog">Document neprimit!</string>
+    <string name="dlg_received_file_fail_notification_message">Document neprimit. Reîncercaţi.</string>
+    <string name="wifi_p2p_disconnect_multiple_message">Dacă întrerupeţi conexiunea, toate disp. vor fi şi ele deconectate.</string>
+    <string name="toast_no_send_files">Selectaţi unul sau mai multe doc. de partajat înainte de conectare!</string>
+    <string name="dlg_close_bt_then_send_file">Închideţi Bluetooth înainte de a trim. docum.!</string>
+    <string name="app_name">"Partaj. WLAN"</string>
+    <string name="dlg_received_file_confirm_notification_message">Sigur doriţi să anulaţi transm. docum. curent?</string>
+    <string name="dlg_request_if_send_file">
+	       Doriţi să trim. documentul: <xliff:g id="id_2">%2$s</xliff:g> - <xliff:g id="id_1">%1$s</xliff:g>?
+    </string>
+    <string name="wifi_p2p_failed_connect_message">Conectare imposib.</string>
+    <string name="dlg_request_if_receive_file">Accept </string>
+    <string name="dlg_go_to_file_browser_message">Verificaţi docum. la Manager documente/Partaj.WLAN fişiere!</string>
+    <string name="connect_info_one2one">Acceptă doar conexiunea unu-la-unu. Închideţi toate celelalte con. înainte de a reîncerca.</string>
+    <string name="dlg_airplane_open_message">Ieşiţi din modul Avion, apoi utiliz. Partaj.WLAN!</string>
+    <string name="dlg_sent_file_fail_notification_message">Document netrimis. Retrimiteţi.</string>
+    <string name="received_file_result_notification">"Partaj. WLAN: Document primit"</string>
+    <string name="lock_settings_picker_title">Sel. modul ecran de blocare</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> reuşit, <xliff:g id="unsuccessful_number">%2$s</xliff:g> eşuat.
+    </string>
+    <string name="dlg_open_wifi_message_tel">Nu pot utiliza Partaj. WLAN în modul Avion.</string>
+    <string name="receiving_file_notification">Partaj. WLAN: Primire document</string>
+    <string name="sent_file_fail_dialog">Document netrimis!</string>
+    <string name="wifi_p2p_disconnect_message">Dacă într. conexiunea, toate conex. vor fi şi ele întrer.</string>
+    <string name="wifi_p2p_menu_searching">Se caută...</string>
+    <string name="dlg_sdcard_not_mounted_message">Disp.de stocare indisponibil. Închideţi disp.de mem.USB înainte de a încerca.</string>
+    <string name="sent_file_dialog">Document trimis cu succes (document salvat în: /Partaj.WLAN în tel.mobil al destinat.):</string>
+    <string name="open_file_fail_dialog">Acest tip de fişier nu poate fi deschis, instal. software-ul necesar!</string>
+    <string name="wifi_p2p_failed_rename_message">Disp. nu poate fi redenum.</string>
+    <string name="dlg_received_file_success_notification_message">Document primit cu succes. Apăsaţi pentru a vizualiza.</string>
+    <string name="wifi_p2p_peer_devices">Dispozitiv peer-to-peer</string>
+    <string name="wifi_p2p_menu_search">Căutare dispozitiv</string>
+    <string name="received_file_dialog">Document primit cu succes (salvat în :/Partaj.WLAN):</string>
+    <string name="sent_file_result_notification">"Partaj. WLAN: Document trimis"</string>
+    <string name="dlg_sent_file_confirm_notification_message">Sigur doriţi să anulaţi transm. docum. curent?</string>
+    <string name="dlg_sent_file_success_notification_message">Document trimis cu succes. Vizual. pe tel.mobil al destinatarului.</string>
+<string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Conectat"</item>
+    <item msgid="3189211552661432651">"Invitat(ă)"</item>
+    <item msgid="3206450250360237549">"Nereuşită"</item>
+    <item msgid="7785896708926971207">"Disponibil"</item>
+    <item msgid="2330782789550628803">"Fără acoperire"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">Fără conţinut</string>
+</resources>

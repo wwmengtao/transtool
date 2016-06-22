@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="silent_mode_entries">
+    <item msgid="783505504936446770">Close"</item>
+    <item msgid="4804571292609523335">"Vibration"</item>
+    <item msgid="595707141547423573">"Mute"</item>
+  </string-array>
+</resources>

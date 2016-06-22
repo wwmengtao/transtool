@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="socketchannel_busy">En cours d\'utilisation… Merci de réessayer ultérieurement !</string>
+<string name="received_file_fail_dialog">Le document n\'a pas été reçu !</string>
+<string name="dlg_received_file_fail_notification_message">Le document n\'a pas été reçu. Veuillez réessayer.</string>
+<string name="dlg_cancel">"Annuler"</string>
+<string name="toast_no_send_files">Veuillez sélectionner un ou plusieurs documents à partager avant de vous connecter !</string>
+<string name="dlg_close_bt_then_send_file">Veuillez fermer Bluetooth avant d\'envoyer le document !</string>
+<string name="wifi_p2p_delete_group_message">"Voulez-vous vraiment supprimer ce groupe ?"</string>
+<string name="dlg_request_if_receive_file">Accepter ? </string>
+<string name="dlg_ok">"Confirmer"</string>
+<string name="dlg_go_to_file_browser_message">Veuillez vérifier le document sous Gestionnaire de documents/fichiers WlanShare !</string>
+<string name="connect_info_one2one">Prend en charge une connexion en face à face uniquement. Veuillez fermer les autres connexions avant de réessayer.</string>
+<string name="wifi_p2p_menu_rename">"Renommer l\'appareil"</string>
+<string name="dlg_sent_file_fail_notification_message">Le document n\'a pas été envoyé. Veuillez l\'envoyer de nouveau.</string>
+<string name="sent_file_fail_dialog">Le document n\'a pas été envoyé !</string>
+<string name="wifi_p2p_remembered_groups">"Groupes mémorisés"</string>
+<string name="help_label">"Aide"</string>
+<string name="dlg_sdcard_not_mounted_message">Périphérique de stockage non disponible. Veuillez fermer le périphérique de stockage USB avant d\'essayer.</string>
+<string name="sent_file_dialog">Le document a bien été envoyé (document enregistré sous : /WlanShare sur le téléphone mobile du destinataire) :</string>
+<string name="wifi_p2p_disconnect_title">Déconnecter?</string>
+<string name="wifi_p2p_cancel_connect_title">"Annuler l\'invitation ?"</string>
+<string name="dlg_received_file_success_notification_message">Le document a bien été reçu. Veuillez appuyer pour le consulter.</string>
+<string name="received_file_dialog">Le document a bien été reçu (enregistré sous :/WlanShare) :</string>
+<string name="dlg_sent_file_success_notification_message">Le document a bien été envoyé. Veuillez le consulter sur le téléphone mobile du destinataire.</string>
+    <string name="dlg_open_wifi_message">Le réseau local sans fil doit être activé pour autoriser le partage WLAN ; voulez-vous l\'activer ?</string>
+    <string name="lock_settings_picker_title">"Choisir le mode de verrouillage de l\'écran</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> réussi, <xliff:g id="unsuccessful_number">%2$s</xliff:g> échoué.
+    </string>
+    <string name="wifi_p2p_cancel_connect_message">Souhaitez-vous annuler l\'invitation à la connexion ?</string>
+    <string name="dlg_open_wifi_message_tel">Vous ne pouvez pas utiliser le partage WLAN en mode Avion.</string>
+    <string name="receiving_file_notification">Partage de réseau local sans fil : Réception de document en cours...</string>
+    <string name="sending_file_notification">Partage de réseau local sans fil : Envoi du document</string>
+    <string name="wifi_p2p_disconnect_multiple_message">Si vous mettez fin à la connexion, tous les périphériques seront également déconnectés.</string>
+    <string name="wifi_p2p_disconnect_message">La déconnexion met fin à l\'ensemble des connexions.</string>
+    <string name="wifi_p2p_menu_searching">Recherche en cours...</string>
+    <string name="open_file_fail_dialog">Impossible d\'ouvrir ce type de fichier, installez le logiciel approprié !</string>
+    <string name="app_name">"Partage de réseau local sans fil"</string>
+    <string name="dlg_received_file_confirm_notification_message">Êtes-vous sûr de vouloir annuler la transmission du document actuel ?</string>
+    <string name="dlg_request_if_send_file">
+	       Voulez-vous envoyer le document : <xliff:g id="id_2">%2$s</xliff:g> à <xliff:g id="id_1">%1$s</xliff:g> ?
+    </string>
+    <string name="wifi_p2p_failed_rename_message">Impossible de renommer le périphérique.</string>
+    <string name="wifi_p2p_peer_devices">Périphérique égal à égal</string>
+    <string name="wifi_p2p_menu_search">Recherche du périphérique en cours…</string>
+    <string name="sent_file_result_notification">"Partage de réseau local sans fil : Envoyer le document"</string>
+    <string name="dlg_sent_file_confirm_notification_message">Êtes-vous sûr de vouloir annuler la transmission du document actuel ?</string>
+    <string name="wifi_p2p_failed_connect_message">Connexion impossible.</string>
+    <string name="dlg_airplane_open_message">Quittez le mode avion, puis utilisez le partage WLAN !</string>
+    <string name="received_file_result_notification">"Partage de réseau local sans fil : Document reçu"</string>
+  <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Connecté"</item>
+    <item msgid="3189211552661432651">"Invité"</item>
+    <item msgid="3206450250360237549">"Échec."</item>
+    <item msgid="7785896708926971207">"Disponible"</item>
+    <item msgid="2330782789550628803">"Hors de portée"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">Pas de contenu</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">البيئة العامة</string>
+<string name="user_auto_start_user_summary">بدء البيئة الآمنة تلقائيًا في الخلفية أثناء التمهيد</string>
+<string name="user_setup_seuser_msg">البيئة الآمنة قيد التشغيل. هل تريد الدخول الآن وإكمال الإعداد؟</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"يتم التحكم فيه بواسطة <xliff:g id="APP">%1$s</xliff:g>"</string>
+<string name="user_config_apps_for_seuser">قم بتعيين التطبيق الذي تريد تثبيته في البيئة الحالية</string>
+<string name="user_add_seuser_msg">لم يتم تشغيل البيئة الآمنة بعد. هل تريد التشغيل الآن؟</string>
+<string name="user_auto_start_user">بدء البيئة الآمنة أثناء التمهيد</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"ليس الآن"</string>
+<string name="user_need_lockscreen_for_seuser_msg">يجب تعيين تأمين الشاشة بهدف حماية التطبيقات والبيانات في الوضع الآمن.</string>
+<string name="user_share_data_summary">تتم مشاركة جهات الاتصال والرسائل النصية وسجلات المكالمات وغيرها من البيانات بين البيئتين بعد إعادة التشغيل</string>
+<string name="app_name" msgid="1626402585530130914">"الإعدادات"</string>
+<string name="done_button" msgid="1991471253042622230">"تم"</string>
+<string name="user_share_data">مشاركة البيانات</string>
+<string name="user_float_switch_button_summary">عرض الزر العائم على الشاشة لتسهيل التبديل بين البيئات المختلفة</string>
+<string name="user_security_mode">بيئة آمنة</string>
+<string name="user_float_switch_button">الزر العائم</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"تعيين التأمين"</string>
+    <string name="user_guide_title_2">تكوين الوضع الحالي </string>
+    <string name="user_guide_title_3">إعلامات عبر الأوضاع</string>
+    <string name="user_guide_title_1">مقدمة إلى الوضع الآمن</string>
+    <string name="user_guide_title_4">عزل البيانات ومشاركتها </string>
+    <string name="user_guide_desc_1">يسمح لك الوضع الآمن بتكوين التطبيقات والحسابات والخلفيات وكلمات مرور شاشة القفل التي تختلف عن تلك الخاصة بالوضع الحالي. اضغط على رمز \"الوضع الآمن\" في شريط الحالة للتبديل بين الأوضاع بشكل سريع.</string>
+    <string name="user_guide_desc_2">اضغط مع الاستمرار على رمز \"الوضع الآمن\" في شريط الحالة للدخول إلى واجهة الإعداد للوضع الحالي. يمكنك تكوين التطبيق الذي تريد تثبيته في الوضع الحالي</string>
+    <string name="user_guide_desc_3">في الوضع العادي، سيتم عرض أي إعلامات من التطبيقات في الوضع الآمن في شريط الحالة. تظهر نقطة حمراء على رمز الإعلام لتمييزه عن الإعلامات في الوضع الحالي. قم بتبديل الأوضاع لعرض الإعلامات.</string>
+    <string name="user_guide_desc_4">تبقى بيانات التطبيقات والمستندات في الوضعين معزولة بالكامل. يمكن عرض محتويات بطاقة SD في الوضع العادي في دليل OpenUserData الخاص ببطاقة SD في الوضع الآمن، ولكن العكس ليس صحيحًا. تتم مشاركة سجل المكالمات وسجل الرسائل وجهات الاتصال بين الوضعين لضمان تشغيل عادي لوظائف المكالمات والرسائل في كلا الوضعين.</string>
+    <string name="user_remove_secure_user">حذف البيئة الآمنة</string>
+    <string name="user_privacy_mgt_summary">قم بتقييد التطبيقات من الوصول إلى جهات الاتصال والرسائل وسجل المكالمات.</string>
+    <string name="user_remove_secure_user_reboot_msg">سيتم مسح كل بيانات التطبيقات والصور والملفات في البيئة الآمنة. ستتم تلقائيًا إعادة تشغيل النظام لتطبيق التغييرات. هل تريد الحذف؟</string>
+    <string name="user_bgapp_mgt">تقييد تطبيقات الخلفية</string>
+    <string name="user_privacy_mgt">التحكم في الوصول إلى المعلومات الخاصة</string>
+    <string name="user_privacy_mgt_msg">قم بحظر التطبيقات من الوصول إلى جهات الاتصال والرسائل وسجل المكالمات.</string>
+    <string name="user_bgapp_mgt_summary">قم بحظر التطبيقات من التشغيل التلقائي وإنهاء عملياتها الجارية في الخلفية.</string>
+    <string name="user_remove_secure_user_msg">سيتم مسح كل بيانات التطبيقات والصور والملفات في البيئة الآمنة. هل تريد الحذف؟</string>
+    <string name="user_bgapp_mgt_msg">قم بحظر التطبيق من التشغيل التلقائي وإنهاء عملياته الجارية في الخلفية. لا يجب التطبيق على تطبيقات تحتاج إلى التشغيل في الخلفية، مثل البريد الإلكتروني وWhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">لم يتم تثبيت التطبيق في البيئات الأخرى وسيتم حذفه بالكامل من هاتفك بعد إلغاء تثبيته. هل تريد إلغاء التثبيت؟</string>
+<string name="help_label">"مساعدة"</string>
+    <string name="user_uninstall_app_msg">هل تريد إلغاء تثبيت هذا التطبيق في البيئة الحالية؟</string>
+</resources>

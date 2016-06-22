@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="dlg_ok">"Потврда"</string>
+    <string name="dlg_cancel">"Откажи"</string>
+    <string name="help_label">"Помоћ"</string>
+    <string name="wifi_p2p_menu_rename">"Преименуј уређај"</string>
+    <string name="wifi_p2p_disconnect_title">"Желите ли да прекинете везу?"</string>
+    <string name="wifi_p2p_cancel_connect_title">"Желите ли да откажете позивницу?"</string>
+    <string name="wifi_p2p_remembered_groups">"Запамћене групе"</string>
+    <string name="wifi_p2p_delete_group_message">"Желите ли да заборавите ову групу?"</string>
+    <string name="lock_settings_picker_title" msgid="1095755849152582712">"Избор закључав. екрана"</string>
+    <string name="wifi_p2p_failed_rename_message" msgid="2562182284946936380">"Преименовање уређаја није успело."</string>
+    <string name="wifi_p2p_menu_search" msgid="3436429984738771974">"Претражи уређаје"</string>
+    <string name="wifi_p2p_peer_devices" msgid="299526878463303432">"Равноправни уређаји"</string>
+    <string name="wifi_p2p_cancel_connect_message" msgid="7477756213423749402">"Желите ли да откажете позивницу за повезивање са уређајем <xliff:g id="PEER_NAME">%1$s</xliff:g>?"</string>
+    <string name="wifi_p2p_failed_connect_message" msgid="8921447388048243547">"Повезивање није могуће."</string>
+    <string name="wifi_p2p_disconnect_multiple_message" msgid="3283805371034883105">"Ако прекинете везу, окончаћете везу са уређајем <xliff:g id="PEER_NAME">%1$s</xliff:g> и другим уређајима (<xliff:g id="PEER_COUNT">%2$s</xliff:g>)."</string>
+    <string name="wifi_p2p_disconnect_message" msgid="8227342771610125771">"Ако прекинете везу, окончаћете везу са уређајем <xliff:g id="PEER_NAME">%1$s</xliff:g>."</string>
+    <string name="wifi_p2p_menu_searching" msgid="2396704492143633876">"Претраживање…"</string>
+</resources>

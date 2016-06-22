@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"WlanBindingLocation"</string>
+    <string name="setting_activity">"WLAN binding of location"</string>
+    <string name="dialog_title">"Enable WLAN?"</string>
+    <string name="dialog_text">"This location had been connected ap，enable WLAN？"</string>
+    <string name="disable_dialog_title">"Disable WLAN?"</string>
+    <string name="disable_dialog_text">This location is farway the location of connected ap，disable WLAN？</string>
+    <string name="show_dialog">Don\'t remind me</string>
+    <string name="disable_show_dialog">Don\'t remind me</string>  
+    <string name="wifi_enable_text">Enter location, popup prompt</string>
+    <string name="wifi_enable_summary">When enter location of connected ap with signal level 3 or higher and have GRPS data，enable WLAN</string>
+    <string name="wifi_disable_text">Faraway location, popup prompt</string>
+    <string name="wifi_disable_summary">When faraway location of connected ap，disable WLAN</string>
+    <string name="wifi_setting_summary">Binding of connected WLAN network, and later if you use 3G/2G GPRS data service in its coverage area, you will be remined to connect to this WLAN network or it will connect to this network automatically</string>
+	<string name="wifi_popup_tip">Popup prompt</string>
+	<string name="wifi_auto_enable">Automatically connect</string>
+	<string name="wifi_auto_disable">Automatically disable</string>
+	<string name="wifi_popup_0">Binding of connected ap.When enter this location,popup prompt</string>
+	<string name="wifi_popup_1">Binding of connected ap.When enter this location,auto enable</string>
+	<string name="wifi_popup_2">Don\'t remind me</string>
+	<string name="confirm_yes">Yes</string>
+	<string name="confirm_no">No</string>
+</resources>

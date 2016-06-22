@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="profile_edit_weaken_help">ينخفض مستوى صوت نغمة الرنين عند التقاط الهاتف.</string>
+<string name="smart_calling_title">مكالمة ذكية</string>
+<string name="character_settings_gestural_hand_category">تشغيل بيد واحدة وبالإيماءات</string>
+<string name="select_subscription">تحديد الاشتراك</string>
+<string name="wifi_scan_always_available_summary">السماح بخدمة مواقع Google والتطبيقات الأخرى بالمسح بحثًا عن الشبكات، حتى أثناء إيقاف تشغيل WLAN</string>
+<string name="whatis_lenovoid_cando_summary"> "وصول غير مقيّد لعمليات الاقتران لتطبيقات وخدمات سحابية وغيرها من الخدمات المتعددة. "بطاقة واحدة قيد الاستخدام، تم إلغاء الحظر. "</string>
+<string name="enable_traces_title" msgid="7448835465859512430">"تمكين الآثار"</string>
+<string name="wifi_setup_wizard_title" msgid="70277346338812325">"‏تحديد WLAN"</string>
+<string name="schpwr_time_invalid">يجب أن يكون الفاصل بين التشغيل وإيقاف التشغيل المجدول على الأقل %d من الدقائق</string>
+<string name="multiwindow_title">نافذة الوسائط المتعدده</string>
+<string name="lockscreen_shake_unlock_ctrl_summary">قم بهز الهاتف بسرعة في اتجاه واحد لقفل الشاشة </string>
+<string name="show_frame_count_size">الحجم</string>
+<string name="character_settings_phone_call_ring_weaken_help_message">ينخفض مستوى صوت نغمة الرنين عند التقاط الهاتف.</string>
+<string name="gestural_phone_summary">مرر إلى اليسار واليمين للرد على المكالمات | اضغط على الشاشة لأعلى باستمرار لقطع المكالمة</string>
+<string name="teos_settings">تأثيرات الشاشة</string>
+<string name="display_effect_of_screen_saturation_title">التشبع</string>
+<string name="lock_wallpaper">قفل الخلفية</string>
+<string name="done">"تم"</string>
+<string name="version_info">معلومات الإصدار</string>
+<string name="desktop_wallpaper">خلفية سطح المكتب</string>
+<string name="devices_info_cpu">"وحدة المعالجة المركزية: رباعي النواة، 2.2 جيجاهرتز"</string>
+<string name="backup_data_to_device_title">نسخ البيانات احتياطيًا إلى جهاز آخر</string>
+<string name="smart_call_answer_settings_title">الإجابة الذكية</string>
+<string name="reset_skip_backup_title">تجاوز النسخ الاحتياطي</string>
+<string name="recovery_data_from_device_title">استعادة البيانات من الجهاز الآخر</string>
+<string name="roaming_time_settings_category">إعدادات التجوال الدولي</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"يمكن لـ <xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> جمع كل النصوص التي تكتبها باستثناء كلمات المرور. ويتضمن ذلك البيانات الشخصية مثل أرقام البطاقات الائتمانية. كما يمكنها جمع بيانات عن تعاملاتك باستخدام الجهاز اللوحي."</string>
+<string name="header_category_shortcut_key">مفتاح الاختصار</string>
+<string name="multi_sim_settings_summary">تعيين إعدادات بطاقات Sim المتعددة للصوت والبيانات ورسائل SMS</string>
+<string name="voice_title">الصوت/USSD/‏MMI</string>
+<string name="never">"مطلقًا"</string>
+<string name="data_usage_metered_body" msgid="2446827764036316131">"‏حدد شبكات WLAN التي تعد نقاط اتصال جوّال. يمكن تقييد استخدام التطبيقات لهذه الشبكات عندما تكون في الخلفية. كما يمكن أن تحصل على تنبيه من التطبيقات قبل استخدام هذه الشبكات مع عمليات التنزيل الكبيرة."</string>
+<string name="character_settings_swing_lock_screen_help_message">قم بهز الهاتف بسرعة في اتجاه واحد لقفل الشاشة </string>
+<string name="global_single_hand_title_v2">شاشة صغيرة للتحكم بيد واحدة</string>
+<string name="products_version">رقم الطراز</string>
+<string name="wifi_display_summary_on" msgid="3695429596604962531">"تشغيل"</string>
+<string name="multiwindow_divide_settings_summary">إكمال المهام على هاتفك بفتح نافذتين</string>
+<string name="startup_time_enabled">تمت جدولة التشغيل</string>
+<string name="wifi_setup_title_connected_network" msgid="209755856836003839">"‏تم الاتصال بشبكة WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>."</string>
+<string name="multi_sim_settings_title">إعدادات بطاقات SIM المتعددة</string>
+<string name="framework_version">رقم إصدار Android</string>
+<string name="display_effect_of_screen_apply">تطبيق</string>
+<string name="character_settings_float_button_help_message">افتح لوحة الاختصارات والتطبيقات من خلال النقر فوق الزر العائم.</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"هل تريد استخدام <xliff:g id="SERVICE">%1$s</xliff:g>؟"</string>
+<string name="wifi_empty_list_wifi_off" msgid="4722299515264875943">"‏لمشاهدة الشبكات المتاحة، شغّل WLAN."</string>
+<string name="mercury_keyboard_title">طالب الذكي</string>
+<string name="data_usage_restrict_background" msgid="6387252645350792955">"‏في حالة تقييد بيانات الجوّال للخلفية، لن تعمل بعض التطبيقات والخدمات ما لم تكن متصلاً بشبكة WLAN."</string>
+<string name="screensaver_timeout_zero_summary">"أبدًا"</string>
+<string name="still_sleep_ctrl">من وضع الجمود إلى وضع السكون</string>
+<string name="playersTutorial_stoped">تم إيقاف تطبيق PlayersTutorial.</string>
+<string name="lenovo_exp_title">الموافقة على المشاركة في برنامج Lenovo Experience</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet" msgid="2609163428726042269">"‏في حالة تقييد بيانات الجوّال للخلفية، لن تعمل بعض التطبيقات والخدمات ما لم تكن متصلاً بشبكة WLAN.\n\nيؤثر هذا الإعداد على جميع مستخدمي هذا الجهاز اللوحي."</string>
+<string name="set_sms_error">خطأ في تعيين اشتراك sms. الاشتراك غير نشط.</string>
+<string name="lockscreen_face_detection_ctrl_description">سيخفض إلغاء الكاميرا لقفل اكتشاف الوجه من مستوى التمييز في حالة عدم وجود إضاءة كافية.</string>
+<string name="glove_mode">اللمس عالي الحساسية</string>
+<string name="smart_standby_ctrl_summary">الشاشة سوف تضيء عندما تنظر اليها</string>
+<string name="battery_action_wifi" msgid="2272741639606146903">"‏إعدادات WLAN"</string>
+<string name="backup_data_summary" msgid="9157861529438245957">"‏الاحتفاظ بنسخة احتياطية من بيانات التطبيق وكلمات مرور WLAN والإعدادات الأخرى على خوادم Google"</string>
+<string name="black_screen_settings_flash_mode_off">إغلاق</string>
+<string name="exit">خروج</string>
+<string name="gadget_wifi" msgid="4712584536500629417">"WLAN"</string>
+<string name="lockscreen_knock_on_ctrl">انقر فوق مجموعة الإضاءة</string>
+<string name="gestural_music_summary">مرر الشاشة إلى اليسار واليمين لتبديل الموسيقى | مرر الشاشة لأعلى لأسفل لتعديل مستوى الصوت</string>
+<string name="notificationbar_setings_title">"نغمة رنين المكالمات"</string>
+<string name="unlock_proximity_ctrl">تطبيق تجنب اللمس غير المقصود لمفتاح الطاقة</string>
+<string name="shellt_phone_info_camera">"8 مليون"</string>
+<string name="wifi_scan_notify_text_location_off">قد تقوم التطبيقات بالمسح بحثًا عن شبكات قريبة، حتى عندما يكون WLAN متوقفًا عن التشغيل. إذا كنت لا تريد ذلك، انتقل إلى الإعدادات المتقدمة &gt; المسح متوفر دائمًا.</string>
+<string name="location_neighborhood_level_wifi" msgid="7457348712272184793">"‏الموقع الذي تم تحديده بواسطة WLAN"</string>
+<string name="teos_settings_title">تأثيرات الشاشة</string>
+<string name="tilt_scroll_control_summary">عندما يكون هذا الخيار قيد التشغيل، تقوم الواجهات التي تدعم التمرير بالإمالة بالتمرير إلى اليسار/اليمين عند إمالة الهاتف</string>
+<string name="wifi_setting_sleep_policy_title" msgid="9107237003911220057">"‏احتفاظ بـ WLAN في وضع السكون"</string>
+<string name="location_consent_dialog_title">الموافقة على الموقع</string>
+<string name="devices_info_runMemory">"ذاكرة الوصول العشوائي: 2.0 جيجابايت</string>
+<string name="reset_backup_befor_reset_summary">نسخ البيانات المهمة مثل جهات الاتصال احتياطيًا قبل إعادة التعيين</string>
+<string name="wifi_advanced_titlebar" msgid="1627063574532930090">"‏إعدادات WLAN المتقدمة"</string>
+<string name="personal_hotspot">"نقطة الاتصال الشخصية"</string>
+<string name="save_power_summary">"تحديد التطبيقات لمحاذاة وقت تنبيه النظام"</string>
+<string msgid="1584700623164275282" name="internal_storage_app">"مساحة الذاكرة للتطبيقات الداخلية"</string>
+<string name="category_smart">الذكي</string>
+<string name="show_frame_count_y_coordinate">الإحداثي الصادي</string>
+<string name="fast_poweron_next_time">بدء التشغيل السريع في المرة التالية</string>
+<string name="black_screen_camera_gallery_title"> "وضع المعاينة" </string>
+<string name="data_usage_tab_slot2">فتحة 2</string>
+<string name="data_usage_tab_slot1">فتحة 1</string>
+<string name="show_frame_count_ok_button_text">"موافق"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen_summary">اضغط مرتين على الشاشة عندما تكون متوقفة عن التشغيل لتنشيط الهاتف</string>
+<string name="black_screen_camera_fast_title"> "وضع الكاميرا" </string>
+<string name="sel_sub_summary">تحديد الاشتراك لـ SIM-1 وSIM-2</string>
+<string name="character_settings_single_hand_help_message">ارسم "c" من الزاوية العليا للشاشة إلى أسفلها للحصول على شاشة صغيرة للتحكم بيد واحدة.</string>
+<string name="wifi_setup_wizard_next">"التالي"</string>
+<string name="lenovo_exp_content">"دعم لـ CN فقط"</string>
+<string name="character_settings_shortcuts_category">أساليب الاختصارات</string>
+<string name="gestural_summary">يمكن استخدام الإيماءات للتحكم بالهاتف عن بعد</string>
+<string name="profile_edit_weaken_title">خفض مستوى صوت الرنين</string>
+<string name="character_settings_help_category_title">"تعليمات"</string>
+<string name="profile_settings">إعدادات ملف التعريف</string>
+<string name="black_screen_settings_shortcut_quick_shots_summary">انقر نقرًا مزدوجًا فوق زر الصفحة الرئيسية عندما تكون الشاشة متوقفة عن التشغيل لالتقاط صور</string>
+<string name="global_single_hand_title">وضع اليد الواحدة</string>
+<string name="startup_shutdown_time_errmsg">يجب أن يكون الفاصل الزمني بين التشغيل وإيقاف التشغيل أطول من 10 دقائق، الرجاء الإعداد مرة أخرى.</string>
+<string name="system_time_am">ص</string>
+<string name="still_sleep_ctrl_summary">سيدخل الهاتف في حالة السكون تلقائيًا إذا وُضع على مكان أفقي</string>
+<string name="enable_schpwr">تشغيل</string>
+<string name="save_power_wait_message">"جارٍ تحميل التطبيقات"</string>
+<string name="schpwr_power_on">"تشغيل"</string>
+<string name="reboot_progress">إعادة تشغيل\u2026</string>
+<string name="recovery_data_title">استعادة البيانات من النسخة الاحتياطية ببطاقة SD </string>
+<string name="day">"1 يوم"</string>
+<string name="multiwindow_settings_summary">تمكين النوافذ المتعددة</string>
+<string msgid="6844156253576174488" name="service_background_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g>التطبيقات المتوفرة"</string>
+<string name="mercury_keyboard_summary">ستتغير نسبة حجم لوحة المفاتيح تبعًا لزاوية الهاتف لتيسير استخدام اليد الواحدة | تعليمات</string>
+<string name="save_power_count">"هناك <xliff:g id="NUMBER">%d</xliff:g> تطبيقات تمت محاذاتها إجمالاً"</string>
+<string name="lockscreen_face_detection_ctrl">مجموعة إلغاء قفل اكتشاف الوجه</string>
+<string name="fuse_backup_data_description">إجراء نسخ احتياطي لجهات الاتصال والصور والرسائل والتطبيقات وغيرها من البيانات الهامة قبل إعادة تعيين الهاتف"</string>
+<string name="settings_header_ringtone_k7">"إعدادات نغمة الرنين"</string>
+<string name="gestural_image_summary">مرر الشاشة إلى اليسار واليمين للتبديل بين الصور | مرر الشاشة لأعلى ولأسفل للتبديل بين التأثيرات الخاصة</string>
+<string name="wifi_starting" msgid="6716593470710880000">"‏جارٍ تشغيل WLAN..."</string>
+<string name="memory_info">الذاكرة المستخدمة</string>
+<string name="set_dds_failed">خطأ في تعيين بيانات الاشتراك.  قم بمسح أي اتصال بيانات حالي وحاول مرة أخرى.</string>
+<string name="device_section_title">الجهاز</string>
+<string name="wave_not_screenoff_title">لا تحرك الهاتف فالشاشة متوقة عن التشغيل</string>
+<string name="wifi_setup_eap_not_supported" msgid="595556546597351489">"‏لا يمكنك تهيئة اتصال EAP WLAN أثناء الإعداد. بعد الإعداد، يمكنك إجراء ذلك من الإعدادات &gt; الWLAN والشبكات."</string>
+<string name="gestural_phone">الرد بواسطة الإيماءات</string>
+<string name="lock_title" product="tablet">"تأمين الهاتف"</string>
+<string name="character_settings_pocket_mode_help_message">يرتفع مستوى صوت نغمة الرنين تلقائيًا إذا كان الهاتف موضوعًا داخل الجيب.</string>
+<string name="global_action_meeting">"اهتزاز"</string>
+<string name="wifi_tether_checkbox_text" msgid="6961605862058056788">"‏نقطة اتصال WLAN المحمولة"</string>
+<string name="unlock_set_unlock_speech_title">إلغاء القفل بالأوامر الصوتية</string>
+<string name="slide_unlock_help">عند إيقاف تشغيل الشاشة، قم بالتمرير من اليسار إلى اليمين في أسفل الشاشة لإلغاء القفل.</string>
+<string name="character_settings_intelligent_category">التحكم الذكي</string>
+<string name="black_screen_settings_broswer_summary">ارسم "e" على الشاشة</string>
+<string name="incoming_call_ringer_title1">"مشغل نغمات المكالمات الواردة (1)"</string>
+<string name="incoming_call_ringer_title2">"مشغل نغمات المكالمات الواردة (2)"</string>
+<string name="safety_information">معلومات السلامة</string>
+<string name="color_light_hasopen">فتح</string>
+<string name="nfc_beam_transmit">نقل على Android</string>
+<string name="wifi_empty_list_wifi_on" msgid="3354911729026237372">"‏جارٍ البحث عن شبكات WLAN..."</string>
+<string name="multiwindow_smart_settings">وظيفة النوافذ المتعدد الذكية</string>
+<string name="display_effect_of_screen_contrast_item0">هادئ</string>
+<string name="display_effect_of_screen_contrast_item1">افتراضي</string>
+<string name="black_screen_settings_category_shortcut">تشغيل اختصار الشاشة السوداء</string>
+<string name="black_screen_settings_music">إلغاء التأمين للوصول إلى الموسيقى</string>
+<string name="unlock_proximity_ctrl_summary">عند وضع الهاتف في أحد جيوب سترتك؛ يتم إيقاف تشغيل الشاشة تلقائيًا عند تفعيل تطبيق تجنب اللمس غير المقصود لمفتاح الطاقة.</string>
+<string name="display_effect_of_screen_contrast_item2">دافئ</string>
+<string name="memory_video_usage">"مقاطع الفيديو"</string>
+<string name="timing_startup_and_shutdown_settings_title">جدول  تشغيل/إيقاف  الطاقة</string>
+<string name="mercury_keyboard_help">عند استخدام لوحة المفاتيح، ستتغير تبعًا لزاوية الهاتف لتيسير تشغيل اليد الواحدة امسح الشاشة عندما تكون واجهة لوحة المفاتيح مستوية لتنشيط لوحة المفاتيح الزئبقية.</string>
+<string name="wifi_wps_setup_title" msgid="6034518116333042484">"‏إعداد WLAN المحمي"</string>
+<string name="restriction_wifi_config_title" msgid="8889556384136994814">"‏WLAN والجوال"</string>
+<string name="other_wallpaper">خلفية أخرى</string>
+<string name="show_dev_countdown">أنت الآن على بعد خطوات قليلة من أن تصبح مطورًا.</string>
+<string name="os_version">رقم إصدار النظام</string>
+<string name="show_frame_count_title">دخول البرنامج التعليمي للمبتدئين</string>
+<string name="ringtone_picker_more_ringtones_title">"المزيد من نغمات الرنين &gt;&gt;&gt;"</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"الضغط على الأزرار الجانبية لإضاءة الهاتف | تعليمات"</string>
+<string name="crypt_keeper_encrypt_summary" product="default" msgid="514138079795442371">"يلزم توفير رقم تعريف شخصي (PIN) رقمي أو كلمة مرور لفك تشفير الهاتف في كل مرة يتم فيها تشغيله"</string>
+<string name="category_single_hand">يد واحدة</string>
+<string name="black_screen_settings_shortcut_quick_shots">التقاط صور بسرعة قصوى</string>
+<string name="black_screen_settings_normal">إلغاء التأمين العادي</string>
+<string name="userguide_title">"دليل التمهيد"</string>
+<string name="black_screen_settings_summary_app_selected">إلغاء تأمين <xliff:g id="app">%s</xliff:g></string>
+<string name="character_settings_help_title">استكشاف تشغيل الشاشة السوداء</string>
+<string name="wifi_setup_title_editing_network" msgid="7304321031985059969">"‏الاتصال بشبكة WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="never_timeout">بلا استعداد مطلقًا</string>
+<string name="screensaver_settings_disabled_prompt" msgid="3857507943322777651">"للتحكم في ما يحدث عندما يتم إرساء الهاتف و/أو عند السكون، شغّل \"حلم اليقظة\"."</string>
+<string name="subscription_02_title">SIM 2</string>
+<string name="category_gesture">إيماءة</string>
+<string name="accessibility_script_injection_allowed" msgid="7624804397748427621">"مسموح به"</string>
+<string name="airbuse_phone_info_camera">"الأمامية 300,000، الخلفية 5 مليون"</string>
+<string name="character_settings_call_voice_category">المكالمات والصوت</string>
+<string name="lock_title" product="default">تأمين هاتفك</string>
+<string name="devices_info_memory">"الذاكرة: <xliff:g>%1$s</xliff:g>(خالية) 4 جيجابايت (الإجمالي)"</string>
+<string name="wifi_wps_onstart_pin" msgid="8067502591043979939">"‏أدخل رقم التعريف الشخصي <xliff:g id="NUMBER">%1$s</xliff:g> في جهاز توجيه WLAN. يمكن أن يستغرق إكمال الإعداد فترة قد تصل إلى دقيقتين."</string>
+<string name="enable_traces_summary_all" msgid="3950139649125158247">"تم تمكين جميع الآثار حاليًا"</string>
+<string name="every_day">كل يوم</string>
+<string name="voice_wakeup_title">التنشيط من خلال الصوت</string>
+<string name="side_key_backlight_help">اضغط على مفتاح مستوى الصوت لتشغيل الإضاءة الخلفية.</string>
+<string name="set_voice_error">خطأ تعيين الاشتراك بالصوت. الاشتراك غير نشط.</string>
+<string name="data_usage_enable_mobile_statistics_dialog">بتمكين هذه الميزة، سيكون استهلاك الطاقة لهذه الميزة مرتفعًا على الشبكات ذات معدل بيانات مرتفع مثل LTE...</string>
+<string name="ota_title">تحديث النظام</string>
+<string name="memory_image_usage">"الصور"</string>
+<string name="hardware_version">إصدار الجهاز:</string>
+<string-array name="contrast"> 
+         
+         
+    <item>افتراضي</item>
+        <item>عالٍ</item>
+    </string-array>
+<string name="crypt_keeper_desc" product="default" msgid="7663118199519229502">"يمكنك تشفير الحسابات والإعدادات والتطبيقات التي تم تنزيلها وبياناتها والوسائط والملفات الأخرى. بعد تشفير الهاتف، يلزمك إدخال رقم تعريف شخصي رقمي أو كلمة مرور لإلغاء تشفيره عند كل مرة تجري فيها تشغيله: يتعذر عليك إلغاء تشفير هاتفك إلا عند إجراء إعادة ضبط بحسب بيانات المصنع وهو ما يؤدي إلى محو جميع البيانات."\n\n"تستغرق عملية التشفير ساعة أو أكثر. يجب البدء ببطارية مشحونة والإبقاء على توصيل هاتفك بمصدر الكهرباء حتى تنتهي عملية التشفير. إذا تمت مقاطعة عملية التشفير، فستفقد بعض بياناتك أو كلها."</string>
+<string name="china_telcom_push_summary">رسوم خدمة دفع الرسائل في China Telecom</string>
+<string name="color_light_missed_call">اتصال مفقود</string>
+<string name="devices_info_products_version">"الطراز: Lenovo K910"</string>
+<string name="usb_mtp_summary" msgid="4617321473211391236">"يتيح لك نقل ملفات الوسائط على Windows، أو استخدام نقل الملفات في Android على Mac (راجع www.android.com/filetransfer)"</string>
+<string name="what_lenovoid_cando_title"> "تم تجاوز عملية الاقتران، ماذا يمكنني أن أفعل؟ "</string>
+<string name="k6kk_phone_info_cpu">"رباعي النواة، 2.2 جيجاهرتز"</string>
+<string name="smart_answer_incommingcall_summary">عند تلقي مكالمات واردة، يمكن للمستخدم الرد على المكالمة عن طريق إيماءة معينة</string>
+<string name="gadget_state_template" msgid="5156935629902649932">"<xliff:g id="ID_1">%1$s</xliff:g> <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+<string name="k6kk_phone_info_camera">"الأمامية 5 مليون، الخلفية 13 مليون"</string>
+<string name="wifi_setup_title" msgid="661074868726906436">"‏إعداد WLAN"</string>
+<string name="system_shortcutbar_title">"شريط الاختصارات بالنظام"</string>
+<string name="call_ring_pocket_enable_title">"وضع الجيب"</string>
+<string name="schpwr_shutdown_message_second">"سيتم إيقاف تشغيل جهازك في <xliff:g id="second">%s</xliff:g> ثوانٍ"</string>
+<string name="smart_rotete_cbox_summary">ذكي</string>
+<string name="gestural_gesture">التحكم بواسطة الإيماءات</string>
+<string name="black_screen_settings_quick_shots_three">ثلاث صور</string>
+<string name="smart_call_answer_settings_summary">قم بالرد على المكالمة عند رفع سماعة الهاتف بالقرب من الأذن</string>
+<string name="wifi_wps_onstart_pbc" msgid="7204827509934892103">"‏اضغط على زر الإعداد المحمي لشبكة WLAN على جهاز التوجيه. قد يكون اسمه \"WPS\" أو قد يحتوي على الرمز التالي:"</string>
+<string name="crypt_keeper_final_desc" product="default" msgid="5682944380460921880">"لا يمكن التراجع عن عملية التشفير، وفي حالة مقاطعتها، ستفقد البيانات. تستغرق عملية التشفير ساعة أو أكثر، وسيتم خلالها إعادة تشغيل الهاتف عدة مرات."</string>
+<string name="wifi_quick_toggle_summary" msgid="1047950931623694366">"‏تشغيل شبكة WLAN"</string>
+<string name="k6kk_phone_info_screen">"الدقة: 1080 * 1920، الحجم: 5.5 بوصة</string>
+<string name="swing_lock_help">قم بهز الهاتف لقفل الشاشة</string>
+<string name="software_version">رقم إصدار البرنامج</string>
+<string name="header_category_lock_unlock">القفل والشاشة</string>
+<string name="gestural_gesture_summary">إن السحب لليسار\\لليمين\\لأعلى\\لأسفل من دون لمس إصبعك للشاشة لديه التأثير نفسه للسحب مع لمس الشاشة. لا تعمل هذه الوظيفة في واجهات الموسيقى أو الفيديو أو المستعرض.</string>
+<string name="black_screen_settings_quick_shots_six">ست صور</string>
+<string name="show_frame_count_bit">بت</string>
+<string name="wlan_share">"المشاركة عبر WLAN"</string>
+<string name="bottom_shortcutbar_title">"شريط الاختصارات الأسفل"</string>
+<string name="smart_calling_summary">في واجهة محادثة الرسالة أو تفاصيل جهة الاتصال، ضع الهاتف على أذنك للاتصال بجهة الاتصال تلقائيًا</string>
+<string name="usage_type_data_wifi_send" msgid="7178327382353096029">"‏تم إرسال بيانات WLAN"</string>
+<string name="double_click_menu_enabled_title">"انقر مطولاً فوق مفتاح "القائمة" لتنشيط الصوت"</string>
+<string name="glove_mode_summary">عند تمكين ميزة "اللمس عالي الحساسية"، يمكن لمس الشاشة أثناء ارتداء القفازات</string>
+<string name="gestural_v2">إيماءات ثلاثية الأبعاد</string>
+<string name="double_click_home_enabled_title">"انقر نقرًا مزدوجًا فوق مفتاح HOME (الرئيسية) ذو الصوت النشط "</string>
+<string name="backup_data_section_title">النسخ الاحتياطي للبيانات</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"تم تمكين <xliff:g id="NUM">%1$d</xliff:g> من الآثار حاليًا"</string>
+<string name="show_frame_count_summary">إظهار إظهار عدد الإطارات عند تمكين هذه الميزة.</string>
+<string name="wifi_quick_toggle_title" msgid="874495178395350104">"WLAN"</string>
+<string name="reset_backup_befor_reset_title">نسخ البيانات احتياطيًا قبل إعادة التعيين</string>
+<string name="restriction_wifi_config_summary" msgid="70888791513065244">"‏السماح بتعديل إعدادات WLAN والجوال"</string>
+<string name="reboot">"إعادة التشغيل"</string>
+<string name="bluetooth_on_time" msgid="6157799524996162271">"‏وقت تشغيل WLAN"</string>
+<string name="quicksettings">"إعدادات سريعة"</string>
+<string name="color_light_demo">عرض توضيحي لضوء الألوان</string>
+<string name="sim_settings_title">إعدادات بطاقة SIM</string>
+<string name="hours"><xliff:g id="hours">%s</xliff:g> من الساعات</string>
+<string name="save_power_title">"محاذات وقت تنبيه النظام"</string>
+<string name="header_category_call_message">المكالمات والرسائل</string>
+<string name="show_hw_overdraw" msgid="1136884304711318251">"عرض استخدام GPU الزائد"</string>
+<string name="display_effect_of_screen_hue_title">تدرج اللون</string>
+<string name="whatis_lenovoid_summary"> "استخدم هاتفك الخلوي لإنشاء حساب Pass لهاتف Lenovo، واصبح عضوًا في الجمعية. "</string>
+<string name="data_usage_menu_show_wifi" msgid="8266875319417201085">"‏عرض استخدام WLAN"</string>
+<string name="master_clear_desc" product="default" msgid="9165016501623540228">"يؤدي ذلك إلى مسح جميع البيانات من "<b>"وحدة التخزين الداخلية"</b>" لهاتفك، بما في ذلك:"\n\n<li>"حسابك في Google"</li>\n<li>"النظام وبيانات التطبيقات والإعدادات"</li>\n<li>"التطبيقات التي تم تنزيلها"</li></string>
+<string name="data_summary">تحديد الاشتراك لاتصال البيانات</string>
+<string name="savepower_all_title">"الكل"</string>
+<string name="black_screen_settings_flash_mode_auto">تلقائي</string>
+<string name="wifi_setting_frequency_band_title" msgid="7493768705046080060">"‏نطاق تردد WLAN"</string>
+<string name="hide_recent_settings">سحب للأسفل لإظهار الإعدادات الحديثة</string>
+<string name="showing_color_light">إظهار أضواء المؤشر </string>
+<string name="system_time_pm">م</string>
+<string name="reset_skip_backup_summary">حدد هذا الخيار للعناصر التي تم نسخها احتياطيًا أو لا تحتاج إلى النسخ الاحتياطي</string>
+<string name="wifi_stopping" msgid="244864762599017659">"‏إيقاف WLAN…"</string>
+<string name="wifi_wps_connected" msgid="5754399645462924103">"‏تم الاتصال بشبكة WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>."</string>
+<string name="global_action_outdoors">"خارجي"</string>
+<string name="schpwr_shutdown_message">"سيتم إيقاف تشغيل جهازك في <xliff:g id="seconds">%s</xliff:g> من الثواني"</string>
+<string name="overturn_lock_ctrl_summary">"قلب الهاتف لقفل الشاشة"</string>
+<string name="schedule_power_on_off_time">الوقت</string>
+<string name="show_screen_frame_count">إظهار عدد إطارات الشاشة</string>
+<string name="timing_startup_head_text">تشغيل</string>
+<string name="wifi_setting_summary">عند إدخال موقع التطبيق المتصل والحصول على بيانات GRPS،قم بربط الموقع</string>
+<string name="unsupported_headset_warning" product="default">
+       "مرفق غير مدعوم"
+    </string>
+<string name="overturn_lock_ctrl">"اقلب لقفل الشاشة"</string>
+<string name="restart_confirm_question">هل تريد إعادة التشغيل؟</string>
+<string name="multiwindow_divide_settings">نوافذ متعددة مع تقسيم الشاشة</string>
+<string name="backup_data_to_sdcard_title">نسخ البيانات احتياطيًا إلى بطاقة SD</string>
+<string name="data_title">اتصال البيانات</string>
+<string name="sim_not_available">بطاقة SIM غير متوفرة</string>
+<string name="preference_status_open">"فتح"</string>
+<string-array name="saturation"> 
+         
+         
+         
+    <item>معتدل</item>
+        <item>افتراضي</item>
+        <item>ساطع</item>
+    </string-array>
+<string name="multiwindow_smart_settings_summary">إذا تلقيت رسالة أثناء مشاهدة فيديو بملء الشاشة وبتوجيه أفقي، قم بتدوير الهاتف إلى التوجيه العمودي لعرض النوافذ المتعددة تلقائيًا وإنجاز المهام المتعددة.</string>
+<string name="user_you_section" msgid="6247838798859425408">"أنت"</string>
+<string name="backup_data_to_sdcard_summary">نسخ بيانات الهاتف احتياطيًا إلى بطاقة SD</string>
+<string name="airbuse_phone_info_runMemory">"1.0 جيجابايت"</string>
+<string name="whatis_lenovoid_title"> تم تجاوز الاقتران، فماذا يعني ذلك؟ "</string>
+<string name="wifi_setup_description_connected" msgid="5235991893829582459">"‏المس "<b>"التالي"</b>" لمتابعة الإعداد.\n\nالمس "<b>"رجوع"</b>" للاتصال بشبكة WLAN مختلفة."</string>
+<string name="black_screen_face_recognization_title"> "وضع التعرف على الوجوه" </string>
+<string name="minute">"1 دقيقة"</string>
+<string name="unlock_settings_title">"إلغاء القفل"</string>
+<string name="schedule_power_off_set">تحديد إيقاف جدول التشغيل</string>
+<string name="location_mode_battery_saving_description" msgid="1728668969743485109">"‏استخدام WLAN وشبكات الجوّال لتحديد الموقع"</string>
+<string name="black_screen_handler_title"> "تشغيل إيماءات الشاشة السوداء" </string>
+<string name="wide_touch_float_button_summary">المس الزر العائم لفتح شاشة لمس عريضة</string>
+<string name="black_screen_settings_camera_summary">ارسم "c" على الشاشة</string>
+<string name="share_music_a2dp_headphones_control_title">التحكم بمشاركة الموسيقى</string>
+<string name="location_consent_dialog_message">السماح لخدمة تحديد المواقع بجمع بيانات موقع مجهولة. يمكن تخزين بعض البيانات على جهازك. قد يتم الجمع حتى عند عدم تشغيل تطبيقات.</string>
+<string name="phone_car_mode_title">"وضع السيارة"</string>
+<string name="minutes">%d من الدقائق"</string>
+<string name="global_action_silence">"كتم الصوت"</string>
+<string name="wifi_display_summary_off" msgid="2445210133184740611">"إيقاف"</string>
+<string name="usergudie_button_text">"إدخال إعدادات التمهيد"</string>
+<string name="color_light_hasclose">أغلق</string>
+<string name="backup_recovery_dialog_message">هل تريد إيقاف نسخ بيانات التطبيق احتياطيًا أو استردادها؟</string>
+<string name="ringtone_and_sound_settings">"نغمة الرنين والصوت"</string>
+<string name="charge_stream_min">دفق الشحن الحالي هو 1500 ملي أمبير </string>
+<string name="k6kk_phone_info_runMemory">"2.0 جيجابايت"</string>
+<string name="gestural_broswer">التحكم بالمتصفح بواسطة الإيماءات</string>
+<string name="black_screen_time_service_title"> "وضع جرس الصوت" </string>
+<string name="playertutorial_title">دليل المستخدم</string>
+<string name="dtmf_settings_title">"لوحة الاتصال"</string>
+<string name="status_wifi_mac_address" msgid="33109409206264790">"‏عنوان Mac لشبكة WLAN"</string>
+<string name="timing_shutdown_head_text">إيقاف</string>
+<string name="black_screen_settings_vedio_summary">ارسم "v" على الشاشة</string>
+<string name="black_screen_time_show_title"> "وضع العرض" </string>
+<string name="subs_settings">حالة SIMS</string>
+<string name="weather_live_wallpaper">خلفية Weather Live</string>
+<string name="data_usage_menu_restrict_systembgdata">"السماح ببيانات خلفية النظام"</string>
+<string name="gestural_image">التحكم بالصور بواسطة الإيماءات</string>
+<string name="location_settings_title" msgid="4483843407328665068">"خدمات الموقع"</string>
+<string name="phone_info_unset">إلغاء تعيين معلومات الهاتف</string>
+<string name="wifi_menu_p2p" msgid="2575893749303670353">"‏اتصال WLAN مباشر"</string>
+<string name="wide_touch_float_button">شاشة لمس عريضة</string>
+<string name="wifi_empty_list_user_restricted">لا تملك الإذن لتغيير شبكة WLAN.</string>
+<string name="airbuse_phone_info_cpu">"Qualcomm MSM8612  4*‏1.2 جيجاهرتز"</string>
+<string name="schpwr_power_off">"إيقاف"</string>
+<string name="fuse_backup_data_to_cloud_title">نسخ البيانات احتياطيًا إلى السحابة</string>
+<string name="double_click_menu_enabled_description">"انقر مطولاً فوق (مفتاح "القائمة") لتنشيط خدمة الصوت"</string>
+<string name="display_effect_of_screen_sharpen_item0">افتراضي</string>
+<string name="enable_traces_dialog_title" msgid="5026490474669452929">"تحديد الآثار الممكنة"</string>
+<string name="display_effect_of_screen_sharpen_item1">زيادة الحدة</string>
+<string name="global_action_general">"قياسي"</string>
+<string name="backup_data_description">"قم بعمل نسخة احتياطية من جهات الاتصال والبيانات الهامة الأخرى قبل إعادة ضبط الهاتف"</string>
+<string name="all_setings_title">"النظام"</string>
+<string name="wifi_tether_failed_subtext" msgid="2654888578056042315">"‏خطأ في نقطة اتصال WLAN المحمولة"</string>
+<string name="enable_traces_summary_none" msgid="1867562808503494163">"ليست هناك آثار ممكنة حاليًا"</string>
+<string name="black_screen_settings_camera">إلغاء التأمين للوصول إلى الكاميرا</string>
+<string name="call_ring_pocket_enable_summary">"زيادة مستوى صوت نغمة الرنين إلى أقصى حد في وضع الجيب أو الغلاف"</string>
+<string name="wifi_display_summary_disabled" msgid="5318394806146587849">"معطّل"</string>
+<string name="data_usage_enable_mobile_statistics">إحصاءات البيانات</string>
+<string name="touch_free_phone">مكالمة مجانية </string>
+<string name="double_click_home_enabled_description">"انقر مطولاً فوق (مفتاح "القائمة") لتنشيط خدمة الصوت"</string>
+<string name="black_screen_settings_quick_shots_eight">ثماني صور</string>
+<string name="black_screen_settings_vedio">إلغاء التأمين للوصول إلى الفيديو</string>
+<string name="backup_data_to_device_summary">نقل البيانات إلى جهاز آخر من خلال مشاركتها</string>
+<string name="disable_schpwr">مغلق</string>
+<string name="fuse_backup_data_to_cloud_summary">نسخ بيانات الهاتف احتياطيًا إلى السحابة</string>
+<string name="lll_pbtn_alert">"ضغط مع الاستمرار على زر التشغيل <xliff:g id="COUNT_DOWN_TIME">%1$s</xliff:g>لإيقاف تشغيل الجهاز..."</string>
+<string name="profile_edit_pocket_help">"زيادة مستوى صوت نغمة الرنين إلى أقصى حد في وضع الجيب أو الغلاف"</string>
+<string name="monotype_preference_title">نمط الخط</string>
+<string name="call_ring_weaken_enable_title">خفض مستوى صوت الرنين</string>
+<string name="subscription_01_title">SIM 1</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> من الأيام"</string>
+<string name="wifi_switch_summary">"مقدمة: قم بتسجيل شبكة WLAN المتصلة، وإذا استخدمت لاحقًا خدمة بيانات 3G/2G GPRS في منطقة تغطيتها، فسيتم تذكيرك بالاتصال بشبكة WLAN هذه أو أنها ستتصل تلقائيًا بهذه الشبكة."</string>
+<string name="airplane_open_confirm">"وضع الطائرة"</string>
+<string name="smart_standby_ctrl">وضع الاستعداد الذكي"</string>
+<string name="display_effect_of_screen_sharpen_title">الحدّة</string>
+<string name="devices_info_camera">"الكاميرا: الأمامية 5 مليون  الخلفية 13 مليون"</string>
+<string name="close_home_landscape_title">ميزة تعطيل زر الصفحة الرئيسية عندما تكون الشاشة في وضعية أفقية</string>
+<string name="schedule_power_on_off_set">ضبط  جدول  تشغيل/إيقاف  الطاقة</string>
+<string name="flip_screen_control_title">قلب الشاشة للتحكم</string>
+<string name="display_effect_of_screen_cancel">إلغاء الأمر</string>
+<string name="devices_info_screen">"Screen: 1080*720   5.0-inch"</string>
+<string name="character_settings_side_key_backlight_screen_help_message">اضغط على مفتاح مستوى الصوت لتشغيل الإضاءة الخلفية.</string>
+<string name="poweron_nosim">يتعذر اكتشاف بطاقة SIM</string>
+<string name="shellt_phone_info_screen">"الدقة: 720P، الحجم: 6.0 بوصة</string>
+<string name="location_mode_high_accuracy_description" msgid="6418936349431602808">"‏استخدام نظام تحديد المواقع العالمي (GPS) وWLAN وشبكات الجوّال لتحديد الموقع"</string>
+<string name="track_frame_time_summary" msgid="447577515813970287">"قياس وقت العرض بـ adb shell dumpsys gfxinfo"</string>
+<string name="font_settings_title">"إعدادات الخط"</string>
+<string name="voice_wakeup_summary">يمكن تنشيط النظام من خلال الصوت</string>
+<string name="smart_answer_incommingcall_title">رد ذكي</string>
+<string name="wifi_required_info_text" msgid="9014073093293520112">"‏لإكمال الإعداد، يحتاج جهازك اللوحي إلى الدخول إلى WLAN. وبعد الإعداد، ستتمكن من التبديل بين بيانات الجوّال وWLAN."</string>
+<string name="gestural_ebook">التحكم بالكتب الإلكترونية بواسطة الإيماءات</string>
+<string name="character_settings_black_screen_help_message">إلغاء التأمين التقليدي: مرر إلى اليسار أو إلى اليمين في أسفل الشاشة لإلغاء التأمين. للدخول إلى التطبيق: لإلغاء تأمين الكاميرا، ارسم "C" على الشاشة. ستؤثر هذه الميزة على استهلاك الطاقة في وضع الاستعداد.</string>
+<string name="charge_stream_max">دفق الشحن الحالي هو 2000 ملي أمبير </string>
+<string name="power_off">"إيقاف التشغيل"</string>
+<string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"‏لتحسين مستوى دقة تحديد الموقع ولأغراض أخرى، يحتاج <xliff:g id="APP_NAME">%1$s</xliff:g> إلى تشغيل البحث عن الشبكات، حتى مع إيقاف WLAN.\n\nهل تريد السماح بذلك لجميع التطبيقات التي تحتاج إلى فحص؟"</string>
+<string name="global_single_hand_summary">تشغيل بيد واحدة متوافق</string>
+<string name="set_data_subscription_progress">يتم الآن تعيين بيانات الاشتراك</string>
+<string name="color_light">ضوء الألوان</string>
+<string name="knock_light_title">انقر نقرًا مزدوجًا لتنشيط الشاشة</string>
+<string name="show_frame_count_x_coordinate">الإحداثي السيني</string>
+<string name="wifi_tether_configure_subtext" msgid="1927454307836232128">"‏نقطة اتصال إعداد نقطة اتصال WLAN المحمولة <xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g>"</string>
+<string msgid="7583975676795574276" name="service_foreground_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> التطبيقات المستخدمة"</string>
+<string name="tilt_scroll_control_title">التمرير بالإمالة</string>
+<string name="roaming_time_settings_zone">المنطقة الزمنية الموصى بها</string>
+<string name="volume_title">"مستوى الصوت"</string>
+<string name="black_screen_settings_summary">إمكانية إلغاء التأمين عندما تكون الشاشة سوداء وتشغيل التطبيقات بسرعة</string>
+<string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"ليس هناك رقم تعريف شخصي (PIN) أو كلمة مرور لتأمين الشاشة"</string>
+<string name="wifi_setup_wizard_skip">"تخطٍ"</string>
+<string name="hour">1 ساعة</string>
+<string name="black_screen_settings_flash_mode">الفلاش</string>
+<string name="status_esn_number">"رقم تسلسلي إلكتروني"</string>
+<string name="lock_intro_message" product="default">احمِ هاتفك من الاستخدام غير المصرح له من خلال إنشاء نمط شخصي لإلغاء قفل الشاشة. مرر إصبعك لتوصيل أربع نقاط على الأقل بأي ترتيب على الشاشة التالية.
+        \n\nهل أنت جاهز للبدء؟ المس التالي.
+    </string>
+<string name="gestural">التحكم بواسطة الإيماءات</string>
+<string name="preference_status_unknown">غير معروف</string>
+<string name="simple_settings">دليل المبتدئين</string>
+<string name="startup_confirm_auto_shutdown">سيتم إيقاف تشغيل الهاتف المحمول في غضون %s ثانية (ثوانٍ).</string>
+<string name="A_gps_summary"> استخدام البيانات المساعدة لإسراع الوقت الثابت للموقع باستخدام GPS</string>
+<string name="safety_information_content">قم بترقية نظام الهاتف بواسطة خدمة المبيعات الرسمية من خلال Lenovo أو وظيفة Lenovo لترقيات نظام المحمول (OTA). قد يؤدي استخدام أساليب أخرى لترقية النظام إلى فشل الأجهزة أو فقدان البيانات وقد يؤدي إلى إتلاف إمكانيات أمان النظام مما يتسبب في التعرض لمخاطر الأمان. في حالة استخدام أساليب أخرى، لا تتحمل Lenovo أي مسؤوليات عن الصيانة.</string>
+<string name="color_light_other_summary">Weixin، QQ، Weibo</string>
+<string name="incoming_call_ringer_title">"للمكالمات الرنين نغمة"</string>
+<string name="unlock_set_unlock_speechpwd_title">"استخدام كلمة المرور الصوتية والنمط للحماية"</string>
+<string name="display_effect_of_screen_contrast_title">التباين</string>
+<string name="crypt_keeper_dialog_need_password_message" msgid="4071395977297369642">"يجب تعيين رقم تعريف شخصي أو كلمة مرور لتأمين الشاشة قبل أن تتمكن من بدء عملية التشفير."</string>
+<string name="accessibility_script_injection_button_disallow" msgid="5697152768523270885">"عدم السماح"</string>
+<string name="character_settings_mercury_keyboard_help_message">عند استخدام لوحة المفاتيح، ستتغير تبعًا لزاوية الهاتف لتيسير تشغيل اليد الواحدة امسح الشاشة عندما تكون واجهة لوحة المفاتيح مستوية لتنشيط لوحة المفاتيح الزئبقية.</string>
+<string name="startup_confirm_airplane_turn_off">هل تريد الخروج من وضع الطائرة؟</string>
+<string name="wifi_access_points" msgid="2664629396767022441">"‏شبكات WLAN"</string>
+<string name="header_category_personalcustom">تخصيص</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"سيؤدي لمس \"موافق\" إلى إيقاف <xliff:g id="SERVICE">%1$s</xliff:g>."</string>
+<string name="unlock_set_unlock_speechnormal_title">"إلغاء القفل صوتيًا سريعًا"</string>
+<string name="headset_play_mms_enabled_title">"تشغيل سماعة رسائل الوسائط المتعددة"</string>
+<string name="black_screen_notification_title"> "وضع التنبيه بالاهتزاز للرسائل غير المقروءة" </string>
+<string name="set_dds_error">خطأ في تعيين بيانات الاشتراك.</string>
+<string name="shutdown_time">إيقاف تشغيل في</string>
+<string-array name="alarm_set">
+        <item>تم تعيين التشغيل إلى أقل من دقيقة واحدة بدءًا من الآن.</item>
+        <item>تم تعيين التشغيل إلى <xliff:g id="DAYS">%1$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين التشغيل إلى <xliff:g id="HOURS">%2$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين التشغيل إلى <xliff:g id="DAYS">%1$s</xliff:g> و<xliff:g id="HOURS">%2$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين التشغيل إلى <xliff:g id="MINUTES">%3$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين التشغيل إلى <xliff:g id="DAYS">%1$s</xliff:g> و<xliff:g id="MINUTES">%3$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين التشغيل إلى <xliff:g id="HOURS">%2$s</xliff:g> و<xliff:g id="MINUTES">%3$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين التشغيل إلى <xliff:g id="DAYS">%1$s</xliff:g>، <xliff:g id="HOURS">%2$s</xliff:g>، و <xliff:g id="MINUTES">%3$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين إيقاف التشغيل إلى أقل من دقيقة واحدة بدءًا من الآن.</item>
+        <item>تم تعيين إيقاف التشغيل إلى <xliff:g id="DAYS">%1$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين إيقاف التشغيل إلى <xliff:g id="HOURS">%2$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين إيقاف التشغيل إلى <xliff:g id="DAYS">%1$s</xliff:g> و<xliff:g id="HOURS">%2$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين إيقاف التشغيل إلى <xliff:g id="MINUTES">%3$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين إيقاف التشغيل إلى <xliff:g id="DAYS">%1$s</xliff:g> و<xliff:g id="MINUTES">%3$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين إيقاف التشغيل إلى <xliff:g id="HOURS">%2$s</xliff:g> و<xliff:g id="MINUTES">%3$s</xliff:g> بدءًا من الآن.</item>
+        <item>تم تعيين إيقاف التشغيل إلى <xliff:g id="DAYS">%1$s</xliff:g>، <xliff:g id="HOURS">%2$s</xliff:g>، و<xliff:g id="MINUTES">%3$s</xliff:g> بدءًا من الآن.</item>
+    </string-array>
+<string name="camera_info">"الكاميرا"</string>
+<string name="startup_auto_shutdown_title">إيقاف تشغيل تلقائي</string>
+<string name="nfc_not_inservice">محول Nfc متوقف عن الخدمة!</string>
+<string name="black_screen_settings_quick_shots_nums">لقطات سريعة</string>
+<string name="i_know_it">أعرفها</string>
+<string name="fuse_recovery_data_from_cloud_summary">اضغط للمباشرة بنسخ البيانات احتياطيًا إلى السحابة</string>
+<string name="accessibility_script_injection_button_allow" msgid="2201503285877102870">"السماح"</string>
+<string name="quicksettings_summary">مرحبًا بك كمستخدم لهاتف Lenovo، الرجاء البدء بالإعداد السريع! يمكنك\n إعداد عناصر مفردة في "إعداد النظام".</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl">"زيادة سطوع الشاشة عبر مفاتيح الصوت "</string>
+<string name="backup_data">"قم بعمل نسخة احتياطية من البيانات قبل إعادة ضبط الهاتف"</string>
+<string name="fuse_recovery_data_from_cloud_title">استرداد البيانات من السحابة</string>
+<string name="shellt_phone_info_cpu">"Qualcomm MSM8926  4*1.2 جيجاهرتز"</string>
+<string name="still_sleep_title">لا يزال في وضع السكون</string>
+<string name="usb_ptp_summary" msgid="7673397474756664929">"يتيح لك نقل الصور باستخدام برامج الكاميرا، ونقل أي ملفات على أجهزة كمبيوتر لا تدعم MTP"</string>
+<string name="color_light_other">"غير ذلك"</string>
+<string name="black_screen_settings_broswer">إلغاء التأمين للوصول إلى المستعرض</string>
+<string name="schedule_power_on_off_repeat">تكرار</string>
+<string name="display_effect_of_screen_saturation_item1">افتراضي</string>
+<string name="show_frame_count_cancel_button_text">"إلغاء"</string>
+<string name="display_effect_of_screen_saturation_item0">معتدل</string>
+<string name="display_effect_of_screen_saturation_item2">ساطع</string>
+<string name="wifi_connect_failed_message" product="default" msgid="3894921379368046855">"‏لم يتمكن الهاتف من الاتصال بشبكة WLAN هذه."</string>
+<string name="processor_info">المعالج</string>
+<string name="data_usage_metered_wifi" msgid="4151511616349458705">"‏شبكات WLAN"</string>
+<string name="shutdown_alarm_confirm">"سيوقظك المنبه عند <xliff:g id="ALARM_TIME">%1$s</xliff:g>."</string>
+<string name="wave_wakeup_title">حرّك للتنشيط</string>
+<string name="voice_summary">تحديد الاشتراك للمكالمات الصوتية</string>
+<string name="wifi_tether_configure_ap_text" msgid="61237027772641155">"‏إعداد نقطة اتصال WLAN"</string>
+<string name="black_screen_settings_normal_summary">يمكنك التمرير في أسفل الشاشة من اليسار إلى اليمين لإلغاء التأمين</string>
+<string name="fuse_master_clear_desc_erase_storage">سيتم محو "\n\n<xliff:g>كل بيانات المستخدم</xliff:g> (بما في ذلك الموسيقى والصور وبيانات المستخدم الأخرى) في <xliff:g>التخزين الداخلي</xliff:g>. يرجى نسخ البيانات احتياطيًا قبل إعادة تعيين الهاتف."</string>
+<string name="wifi_p2p_settings_title" msgid="400503541488064638">"‏اتصال WLAN مباشر"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen">اضغط لإضاءة الشاشة</string>
+<string name="flip_screen_control_summary">اقلب الهاتف لتشغيل الشاشة أو إيقاف تشغيلها</string>
+<string name="wifi_setup_title_connecting_network" msgid="3747859666621319757">"‏جارٍ الاتصال بشبكة WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>..."</string>
+<string name="screen_info">الشاشة</string>
+<string name="startup_time">تشغيل في</string>
+<string name="keyboard_lights_title">أضواء لوحة المفاتيح</string>
+<string name="wifi_poor_network_detection_summary" msgid="2466956369738047669">"‏عدم استخدام شبكات WLAN ما لم يكن لها اتصال إنترنت جيد"</string>
+<string name="muti_window_summary">يتم دعم نوافذ المهام المتعددة للعرض والتشغيل على نفس الشاشة في نفس الوقت</string>
+<string name="credentials_configure_lock_screen_hint" msgid="6757119179588664966">"يلزمك تعيين رقم تعريف شخصي لتأمين الشاشة أو كلمة مرور حتى تتمكن من استخدام وحدة تخزين بيانات الاعتماد."</string>
+<string name="shellt_phone_info_runMemory">"1.0 جيجابايت"</string>
+<string name="roaming_time_settings_time_display">برنامج عرض الوقت</string>
+<string name="header_category_other">"أخرى"</string>
+<string name="data_usage_metered_wifi_disabled" msgid="7566012564261138417">"‏لتحديد نقاط اتصال جوّال، شغّل WLAN."</string>
+<string name="recovery_data_section_title">استعادة البيانات</string>
+<string name="gestural_ebook_summary">مرر الشاشة إلى اليسار واليمين للتحكم بطريقة تدوير صفحة الكتب الإلكترونية</string>
+<string name="auto_shutdown_interrupted">تمت مقاطعة إيقاف التشغيل الموقوت</string>
+<string name="start_camera_gesture_summary">بدء تشغيل الكاميرا بسرعة من خلال الإيماءات</string>
+<string name="wifi_connect_failed_message" product="tablet" msgid="6904081070290941807">"‏لم يتمكن الجهاز اللوحي من الاتصال بشبكة WLAN هذه."</string>
+<string name="phone_car_mode_summary">"إعدادات وضع السيارة"</string>
+<string name="data_connect_settings_title">البيانات</string>
+<string name="still_sleep_summary">عندما يكون الهاتف في وضع الجمود، سينتقل إلى وضع السكون</string>
+<string name="theme_settings_title">"الموضوع"</string>
+<string name="smart_rotete_cbox_title">شاشة التدوير</string>
+<string name="recovery_data_from_device_summary">احصل على بيانات من جهاز آخر من خلال مشاركتها</string>
+<string name="voice_call_way_title">"طريقة المكالمات الصوتية"</string>
+<string name="gestural_music">التحكم بالموسيقى بواسطة الإيماءات</string>
+<string name="color_light_unread_mms">رسالة غير مقروءه</string>
+<string name="stop_color_light">إيقاف</string>
+<string name="save_power_wait_title">"الرجاء الانتظار..."</string>
+<string name="black_screen_settings">إلغاء تأمين الشاشة السوداء</string>
+<string name="savepower_black_title">"القائمة السوداء"</string>
+<string name="set_dds_success">نجاح تعيين بيانات الاشتراك</string>
+<string name="multiwindow_summary">"عدم النوافذ المتعددة"</string>
+<string name="lock_intro_message" product="tablet">"يمكنك حماية الجهاز اللوحي من الاستخدام غير المصرح به من خلال إنشاء نقش شخصي لإلغاء تأمين الشاشة. استخدم إصبعك لتوصيل النقاط بأي ترتيب في الشاشة التالية. يلزمك توصيل أربع نقاط على الأقل."\n\n"هل أنت مستعد للبدء؟ المس \"التالي\"."</string>
+<string name="show_dialog">لا تذكرني</string>
+<string name="close_home_landscape_summary">ضع الهاتف بوضعية أفقية لتعطيل زر الصفحة الرئيسية</string>
+<string name="airbuse_phone_info_screen">الدقة: qHD960*540، الحجم: 6.0 بوصة</string>
+<string name="shutdown_time_enabled">تمت جدولة إيقاف التشغيل</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"يمكن لـ <xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> جمع كل النصوص التي تكتبها باستثناء كلمات المرور. ويتضمن ذلك البيانات الشخصية مثل أرقام البطاقات الائتمانية. كما يمكنها جمع بيانات عن تعاملاتك باستخدام الهاتف."</string>
+<string name="black_screen_settings_select_app">حدد التطبيق الذي تريد تعيينه</string>
+<string name="incoming_mms_ringer_title">"نغمة الرسائل"</string>
+<string name="no_sim_info">لا تتوفر معلومات حول بطاقة SIM.\nيتعذّر الوصول إلى القائمة</string>
+<string-array name="hue"> 
+         
+         
+         
+    <item>هادئ</item>
+        <item>افتراضي</item>
+        <item>دافئ</item>
+    </string-array>
+<string name="wifi_suspend_optimizations" msgid="387215679583759376">"‏تحسين WLAN"</string>
+<string name="wifi_on_time" msgid="6310209835617490616">"‏وقت تشغيل WLAN"</string>
+<string name="recovery_data_summary">المس للدخول إلى النسخة الاحتياطية للبيانات ببطاقة SD</string>
+<string-array name="sharpen"> 
+         
+         
+    <item>افتراضي</item>
+        <item>زيادة الحدة</item>
+    </string-array>
+<string name="wifi_menu_wps_pin" msgid="6426448256268695933">"إدخال رقم تعريف شخصي في WPS"</string>
+<string name="poweron_emergencycallonly">"مكالمات الطوارئ فقط"</string>
+<string name="data_usage_disable_mobile_statistics_dialog">بتعطيل هذه الميزة، يتم إيقاف تشغيل جمع إحصاءات استخدام البيانات.</string>
+<string name="wifi_switch_settings_title">ربط شبكة WLAN</string>
+<string name="schedule_power_on_off_settings_title">جدول  تشغيل/إيقاف  الطاقة</string>
+<string name="gestural_broswer_summary">مرر الشاشة لأعلى ولأسفل للتنقل في صفحات المستعرض</string>
+<string name="wifi_scan_notify_text_location_on">بهدف تحسين دقة تحديد الموقع ولأغراض أخرى، قد يقوم Google وتطبيقات أخرى بالمسح بحثًا عن شبكات قريبة، حتى عندما يكون WLAN متوقفًا عن التشغيل. إذا كنت لا تريد ذلك، انتقل إلى الإعدادات المتقدمة &gt; المسح متوفر دائمًا.</string>
+<string name="gestural_vedio_summary">مرر إلى اليسار واليمين للتحكم بتشغيل الفيديو | مرر الشاشة لأعلى ولأسفل لتعديل مستوى الصوت</string>
+<string name="lenovo_recent_settings">الإعدادات الحديثة</string>
+<string name="no_ftp_app">لا توجد تطبيقات تدعم FTP</string>
+<string name="accessibility_toggle_script_injection_preference_title" msgid="7950932054266694403">"تحسين إمكانية الوصول إلى الويب"</string>
+<string name="phone_info">معلومات الهاتف</string>
+<string name="sel_sub_title">تكوين الاشتراكات </string>
+<string name="accessibility_script_injection_disallowed" msgid="8639525487720429182">"غير مسموح به"</string>
+<string name="start_camera_gesture_title">تشغيل الكاميرا بالإيماءات</string>
+<string name="rotate_type_choose_cancel">إلغاء الأمر</string>
+<string name="lockscreen_knock_on_ctrl_summary">النقر المزدوج فوق الشاشة لإضاءة الهاتف</string>
+<string name="airplane_open_confirm_message">هل تريد بالتأكيد تنشيط وضع الطائرة؟</string>
+<string name="data_usage_restrict_background_multiuser" product="default" msgid="8025473178302056174">"‏في حالة تقييد بيانات الجوّال للخلفية، لن تعمل بعض التطبيقات والخدمات ما لم تكن متصلاً بشبكة WLAN.\n\nيؤثر هذا الإعداد على جميع مستخدمي هذا الهاتف."</string>
+<string name="savepower_white_title">"القائمة البيضاء"</string>
+<string name="lenovoID_registered_title">"الموافقة على استخدام رقم الهاتف المحمول كـ Lenovo ID (كلمة مرور Lenovo) للحساب"</string>
+<string name="mannual">دخول البرنامج التعليمي للمبتدئين</string>
+<string name="header_category_personalcustom_k7">"مخصص"</string>
+<string name="china_telcom_push_title">China Telecom Yi Push</string>
+<string name="location_network_based" msgid="7472814266821714527">"‏شبكة WLAN وموقع شبكة الجوّال"</string>
+<string name="header_category_singlehand_settings">"إعدادات التحريك الفردي"</string>
+<string name="devices_info_buildNumber">"رقم التصنيع: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="location_improve_allow">تم تحسين خدمات تحديد الموقع بواسطة WLAN و/أو شبكات المحمول</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"هل تريد إيقاف <xliff:g id="SERVICE">%1$s</xliff:g>؟"</string>
+<string name="schedule_power_on_set">تحديد تشغيل جدول التشغيل</string>
+<string name="lockscreen_shake_unlock_ctrl">هز للقفل</string>
+<string name="call_ring_weaken_enable_summary">خفض مستوى صوت الرنين عند الإمساك بالهاتف | تعليمات</string>
+<string name="wifi_popup_0">ربط تطبيق المتصل \n وستظهر نافذة منبثقة عند دخول هذا الموقع.</string>
+<string name="wifi_popup_2">عدم الربط من هذا الموقع</string>
+<string name="wifi_popup_1">ربط التطبيق المتصل \n وسيتم تمكينه تلقائيًا عند دخول هذا الموقع.</string>
+<string name="double_click_muti_window_title">نافذة الوسائط المتعدده</string>
+<string name="roaming_settings_title">إعدادات التجوال</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"هل تريد تثبيت نصوص برمجية من Google بواسطة التطبيقات لتسهيل الدخول إلى محتواها على الويب؟"</string>
+<string name="enter_bright_mode_warning" product="default"> "صوت أصفى، مكالمات أوضح" </string>
+<string name="character_setings_title">"مميزات"</string>
+<string name="backup_recovery_data_summary">نسخ بيانات التطبيقات احتياطيًا أو استردادها على الهاتف</string>
+<string name="security_settings_title">"الأمان وشاشة التأمين"</string>
+<string name="black_screen_settings_flash_mode_on">فتح</string>
+<string name="black_screen_settings_quick_shots_one">صورة واحدة</string>
+<string name="leave_bright_mode_warning" product="default"> "تم إيقاف تشغيل الوظيفة" </string>
+<string name="black_screen_settings_music_summary">ارسم "m" على الشاشة</string>
+<string name="quicksettings_title">الإعداد السريع</string>
+<string name="summary_keyboard_lights">التحكم الذكي</string>
+<string name="backup_recovery_data_title">نسخ بيانات التطبيقات احتياطيًا أو استردادها</string>
+<string name="poweron_nouim">لم يتم العثور على UIM</string>
+<string name="wifi_suspend_optimizations_summary" msgid="7774946457510541054">"‏تقليل استخدام البطارية إلى الحد الأدنى عند تشغيل WLAN"</string>
+<string name="gestural_vedio">التحكم بالفيديو بواسطة الإيماءات </string>
+<string name="gadget_toggle_wifi" msgid="2382963973155082629">"‏تحديث إعداد WLAN"</string>
+<string name="backup_data_recovery_section_title">النسخ الاحتياطي للبيانات واستردادها</string>
+<string name="share_music_a2dp_headphones_control_summary">عند تشغيل هذا الخيار، يمكنك مشاركة الموسيقى عبر سماعة رأس بلوتوث والهاتف السلكي.</string>
+<string name="memory_os_size">الحجم الذي يشغله نظام التشغيل</string>
+<string name="revert">"تراجع"</string>
+<string name="usage_type_data_wifi_recv" msgid="7822328607564241372">"‏تم تلقي بيانات WLAN"</string>
+<string name="double_click_dock_enabled_title">"أيقونة منطقة التثبيت المزدوجة ذات الصوت النشط"</string>
+<string name="color_light_battery">البطارية</string>
+<string name="internal_version">رقم الإصدار الداخلي</string>
+<string name="preference_status_close">إغلاق</string>
+<string name="apn_call_number">رقم هاتف PPP</string>
+<string name="sound_settings_title">"الصوت"</string>
+<string name="set_priority_sub_error">خطأ في تعيين الاشتراك ذي الأولوية. الاشتراك غير نشط.</string>
+<string name="common_setings_title">"الشائعة"</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="sms_summary">تحديد الاشتراك لإرسال رسائل SMS</string>
+<string name="devices_info_firmwareVersion">"إصدار Android: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="wifi_settings_category" msgid="2810363951104753710">"‏إعدادات WLAN"</string>
+<string name="show_hw_overdraw_summary" msgid="4295714000923082647">"من الأفضل إلى الأسوأ: أزرق، أخضر، أحمر فاتح، أحمر"</string>
+<string name="show_recent_settings">اسحب للأعلى لإخفاء الإعدادات</string>
+<string name="global_action_restart">"إعادة التشغيل"</string>
+<string name="color_light_call">"اتصال"</string>
+    <string name="eap_sim_aka_airplanemode">يُرجى إيقاف تشغيل وضع الطيران لاستخدام EAP-SIM/AKA</string>
+    <string name="wifi_ap_bandwidth_chart_title">سرعة البيانات الفعلية</string>
+    <string name="single_hand_title">شاشة صغيرة للتحكم بيد واحدة</string>
+    <string name="pch_warning_message">سينخفض معدل نقل البيانات.</string>
+    <string name="dlg_error_unmount_usb_text" product="default">"تعذر إلغاء تحميل بطاقة SD. أعد المحاولة لاحقًا."</string>
+    <string name="move_success">اكتملت عملية النقل! يتعذر نقل بعض التطبيقات إلى بطاقة الذاكرة الافتراضية. <xliff:g>%1$s</xliff:g> تم نقل التطبيقات بنجاح!</string>
+    <string name="AGPS_NOTIFY_ONLY">إعلام طلب الموقع</string>
+    <string name="agps_str_deny">منع</string>
+    <string name="privacy_backup_userdata_category_title">بيانات النسخ الاحتياطي</string>
+    <string name="usb_ums_without_external_sd_summary">"لم يتم اكتشاف بطاقة ذاكرة خارجية، لا تدعم بطاقة الذاكرة المضمنة وضع القرص U، لذا لا يمكن استخدامها"</string>
+    <string name="privacy_category_title_cloud">السحابة:</string>
+    <string name="wifi_backup_category_title">نسخ احتياطي لـ WLAN</string>
+    <string name="display_effect_of_screen_reset">"إعادة تعيين"</string>
+    <string name="double_click_tip">انقر نقرًا مزدوجًا هنا</string>
+    <string name="ipo_title">التمهيد السريع</string>
+    <string name="authdlg_message">يطلب \'%1$s\' الإذن للاتصال بـ %2$s.</string>
+    <string name="lockdown_vpn_already_connected">تم تمكين خاصية دائما على شبكة VPN للاتصال.</string>
+    <string name="usb_connect_as_cdrom_category">"اتصال كـ CD-ROM"</string>
+    <string name="wifi_ap_max_connection_title">الحد الأقصى للاتصالات</string>
+    <string name="launch_main">ابدء التطبيق بالنشاط الرئيسي</string>
+    <string name="usbsetting_help_content">
+1. أجهزة تخزين USB الكبيرة: الهاتف كقرص U disk لتشغيل الملف. \n\n
+2. جهاز الوسائط (MTP)：الهاتف كقرص U disk لتشغيل الملف，قم بتشغيل الملف في الهاتف في آنٍ واحد. عندما يكون نظام تشغيل الكمبيوتر هو نظام XP أو ما هو أقدم منه, فيتعين عليك تثبيت برنامج تشغيل. \n\n
+3. الكاميرا (PTP)：استخدم برنامج الكاميرا لترجمة الصور.عندما يكون نظام تشغيل الكمبيوتر هو نظام XP أو ما هو أقدم منه, فيتعين عليك تثبيت برنامج تشغيل. \n\n
+4. تصحيح أخطاء USB: في حالة الاتصال قم بإدارة الهاتف في الكمبيوتر باستخدام بعض البرامج مثل برنامج LeHelper وبرنامج 91 Helper وغيرها.  \n\n
+5. ربط الإنترنت عبر USB: في حالة الاتصال, يمكن للكمبيوتر الوصول إلى الإنترنت عبر هاتفك, ولا يمكن تثبيت قرص U disk عند الاتصال. </string>
+    <string name="title_lcd_invert">عكس ألوان LCD</string>
+    <string name="test_area">مساحة اختبار:</string>
+    <string name="wfd_change_resolution_menu_title">تغيير الدقة</string>
+    <string name="smart_scene_summary">"يتطلب التبديل الذكي وضع المشهد"</string>
+    <string name="lenovo_system_update">"تحديث النظام"</string>
+    <string name="wifi_ap_reset_OOB_title">إعادة ضبط شبكة SSID والحماية وكلمة المرور إلى الوضع الافتراضي (عملية تكوين مبتكرة لشبكة WPS)</string>
+    <string name="mouse_primary_button_title">التبديل بين الأزرار الرئيسية والثانوية</string>
+    <string name="wide_touch_summary">المس الزر العائم لفتح شاشة لمس عريضة</string>
+    <string name="try_swing_lock_result_longer">اهتزاز غير مناسب. الرجاء إعادة المحاولة</string>
+    <string name="bluetooth_ask_enablement_ext">يريد التطبيق <xliff:g>%1$s</xliff:g> تشغيل بلوتوث.</string>
+    <string name="wifi_ap_reset_OOB">إعادة ضبط OOB</string>
+    <string name="side_key_backlight_title">"زيادة سطوع الشاشة عبر مفاتيح الصوت "</string>
+    <string name="privacy_restore_userdata_summary">اختيار استعادة البيانات من وحدة التخزين</string>
+    <string name="swing_lock">قفل الاهتزاز</string>
+    <string name="default_name">"افتراضي"</string>
+    <string name="gesture_rotete_cbox_summary">إيماءة</string>
+    <string name="usb_sharing_title">إنترنت USB</string>
+    <string name="wifi_restore_category_title">استعادة WLAN</string>
+    <string name="landscape_launcher_none">لا شئ </string>
+    <string name="drm_reset_toast_msg">تم حذف الرخص بنجاح.</string>
+    <string name="ringtone_settings">مستوى صوت النغمات</string>
+    <string name="network_synchronization_enable_confirm">تحتاج مزامنة الشبكة إلى اتصال بيانات لاسلكي للحصول على البيانات المساعدة، مما قد يؤدي إلى فرض رسوم إضافية. هل تريد بالتأكيد تشغيل مزامنة الشبكة؟</string>
+    <string name="usb_charge_title">شحن فقط</string>
+    <string name="runningapp_stop_dlg_title">إيقاف الخدمة؟</string>
+    <string name="sim_remain">(باقي:<xliff:g id="remains">%d</xliff:g>)</string>
+    <string name="lockscreen_style_default_desc">"الوصول السريع إلى التطبيقات في شاشة التأمين"</string>
+    <string name="pin_scroll_summary">عند التمرير في قائمة في الأعلى، توقف لبرهة وحررها، وسيتم تثبيت القائمة للتتمكن من العمل بسهولة أكبر.</string>
+    <string name="AGPS_DEFAULT_STRING">سلسلة A-GPS افتراضية</string>
+    <string name="vpn_lockdown_savelogin_error">يجب حفظ معلومات تسجيل الدخول الخاصة بالحساب إذا كان VPN دائمًا قيد التشغيل. </string>
+    <string name="smart_call_answer_title">الإجابة الذكية</string>
+    <string name="sim_slot">فتحة SIM</string>
+    <string name="stop_select_app">"هل حددت إيقاف؟"</string>
+    <string name="wifi_ap_client_block_title">"حظر"</string>
+    <string name="usb_sharing_summary">مشاركة نوافذ الإنترنت على الكمبيوتر عبر كبل USB</string>
+    <string name="current_suffix">"(الحالي)"</string>
+    <string name="wifi_backup">نسخ احتياطي لتكوين WLAN</string>
+    <string name="agps_profile_select_Title">ملف A-GPS</string>
+    <string name="usb_tether">ربط USB</string>
+    <string name="single_hand_summary">تشغيل الهاتف بيد واحدة فقط</string>
+    <string name="smart_scene_title">مشهد ذكي</string>
+    <string name="cpu_dtm_summary">قم بتعيين الحد الأقصى لأداء وحدة المعالجة المركزية للحفاظ على العمر الافتراضي للبطارية وخفض درجة حرارة الجهاز.</string>
+    <string name="dlg_confirm_unmount_usb_title" product="default">"هل تريد إلغاء تحميل بطاقة SD؟"</string>
+    <string name="battery_percent">النسبة المئوية لطاقة البطارية</string>
+    <string name="server_lenovo_exp_dialogmsg">إذا قمت بإنهاء برنامج Lenovo Enhanced Experience، فقد لا تعمل بعض التطبيقات بشكل صحيح، وقد تتأثر خدمة المنتج وتجربته. هل تريد الإنهاء بالفعل؟</string>
+    <string name="apn_port_warning">يجب أن تكون قيمة المنفذ 1-65535!</string>
+    <string name="agps_str_allow">السماح</string>
+    <string name="tethered_ipv4v6">(IPv6 متاح)</string>
+    <string name="autopop_warning_title">هل تريد عدم الظهور في المرة التالية؟</string>
+    <string name="prevent_misoperation_title">وضع منع الاتصال أثناء الوضع في الجيب</string>
+    <string name="default_soft_setting">ﺈﻋﺩﺍﺩﺎﺗ ﺎﻠﺑﺮﻧﺎﻤﺟ ﺍﻼﻔﺗﺭﺎﻀﻳﺓ</string>
+    <string name="lockscreen_style_set">إعداد إقفال الشاشة</string>
+    <string name="wifi_backup_ok">نجاح عملية النسخ الاحتياطي!</string>
+    <string name="wifi_backup_failed">فشلت عملية النسخ الاحتياطي.</string>
+    <string name="dlg_default_write_disk0_change_msg">"عند تحديد وحدة التخزين SD; لا يمكن استخدام التطبيقات المثبتة على وحدة التخزين USB، وسيؤدي هذا إلى إعادة تشغيل الجهاز, هل تود بالتأكيد التغيير إلى وحدة التخزين SD؟"</string>
+    <string name="MobileNetwork_SIM2_Active">شريحة البطاقة 2 تعمل</string>
+    <string name="eap_sim_slot_0">فتحة Sim 0</string>
+    <string name="smart_standby_ctrl_description">عندما يقترب وقت إيقاف الشاشة من فتح الكاميرا الأمامية وتحويل الشاشة إلى وضع السطوع واكتشاف الهاتف أنه في مواجهة مباشرة مع وجهك، يتم على النقيض إيقاف الشاشة</string>
+    <string name="eap_sim_slot_1">فتحة Sim 1</string>
+    <string name="auto_rotete_cbox_summary">تلقائي</string>
+    <string name="wifi_restore_ok">نجاح عملية الاستعادة!</string>
+    <string name="auto_time_off">"إغلاق"</string>
+    <string name="passpoint_certificate">الشهادة</string>
+    <string name="audio_profile_error">خطأ</string>
+    <string name="dlg_mount_external_sd_summary" product="default">في حال تثبيت بطاقة SD، ستتوقف بعض التطبيقات التي تستخدمها.</string>
+    <string name="wifi_channel">القناة المفضلة</string>
+    <string name="agps_str_verify">تأكد</string>
+    <string name="personal_hotsport_title">نقطة الاتصال الشخصية</string>
+    <string name="bluetooth_stop_search_for_devices">إيقاف البحث</string>
+    <string name="phone_model_number">"طراز الهاتف"</string>
+    <string name="akp_installer_settings_title">برنامج تثبيت APK</string>
+    <string name="authdlg_service_pbap">هذا الهاتف لتنزيل جهات الاتصال</string>
+    <string name="wifi_security_wapi_certificate">شهادة WAPI</string>
+    <string name="gps_time_sync_attention_gps_off">لاستخدام الوقت المقدم من GPS، يجب تمكين GPS أولاً، سيستغرق ضبط GPS دقيقة واحدة على أقصى تقدير، علاوة على ذلك، ربما يفشل GPS في عرض الوقت الصحيح بسبب ضعف الإشارة البيئية. \n\nهل أنت متأكد من أنك تريد تمكين GPS الآن وانتظار الوقت المقدم من GPS؟</string>
+    <string name="launch_activitie">بدء</string>
+    <string name="sd_eject_usbstorage_summary" product="default">"إلغاء تركيب وحدة تخزين USB الداخلية"</string>
+    <string name="smart_call_answer_summary">قم بالرد على المكالمة عند رفع سماعة الهاتف بالقرب من الأذن</string>
+    <string name="tethering_apn_settings_summary">تهيئة APN للربط بالإنترنت</string>
+    <string name="hdmi_settings">إعدادات HDMI</string>
+    <string name="try_swing_lock_result_harder">اهتزاز غير مناسب. الرجاء إعادة المحاولة</string>
+    <string name="usb_ums_with_external_sd_summary">"يوصى بـ XP. استخدم بطاقة الذاكرة الخارجية وليس المضمنة كقرص U لنسخ الملفات. "</string>
+    <string name="gemini_data_connection_progress_message">يُرجى الانتظار...</string>
+    <string name="display_effect_of_screen_toast_title">نظرًا لأنك لم تختر تطبيق &gt; حفظ &gt; تأثيرات الشاشة، ستتم إعادة تعيين القيمة بعد إعادة تشغيل الكمبيوتر</string>
+    <string name="privacy_category_title_sd">بطاقة SD</string>
+    <string name="privacy_backup_userdata_text">هل تريد عمل نسخة احتياطية من SMS وجهات الاتصال وسجلات المكالمات في وحدة التخزين الداخلي؟</string>
+    <string name="mobile">اتصال البيانات</string>
+    <string name="choose_soft_place">الرجاء تحديد مكان تثبيت البرنامج</string>
+    <string name="display_smart_standby">الاستعداد الذكي</string>
+    <string name="ims_toggle_summary">توفير خدمات الوسائط المتعددة عبر IP </string>
+    <string name="bluetooth_ask_establish_connection_ext">"يريد التطبيق <xliff:g>%1$s</xliff:g> الاتصال بـ <xliff:g>%2$s</xliff:g> عبر بلوتوث."</string>
+    <string name="wifi_advanced_ipv6_address_title">عنوان IPv6</string>
+    <string name="clear_motion_summary">معزز سلاسة الفيديو</string>
+    <string name="rcse_settings_title">إعدادات Joyn</string>
+    <string name="voice_ui_title">"التحكم في الصوت"</string>
+    <string name="bluetooth_ftp_profile_summary_use_for">استخدام مع نقل الملفات</string>
+    <string name="select_memory">قرص الكتابة الافتراضي</string>
+    <string name="usb_ums_summary">"يوصى بنظام التشغيل XP، إذ يتيح لك نقل الملفات بين الكمبيوتر ووحدة التخزين USB في أجهزة Android."</string>
+    <string name="clear_cache_msg">ﻢُﺴﺣ. ﺡُﺭﺭ <xliff:g>%1$s</xliff:g> ﻢﻧ ﺎﻟﺫﺎﻛﺭﺓ.</string>
+    <string name="data_usage_more_settings">المزيد من الإعدادات</string>
+    <string name="dlg_confirm_unmount_usb_text" product="default">"في حالة إلغاء تحميل بطاقة SD، ستتوقف بعض التطبيقات التي تستخدمها وربما لا تتوفر حتى يتم إعادة تحميل بطاقة SD."</string>
+    <string name="cpu_dtm_title">وضع توفير طاقة وحدة المعالجة المركزية</string>
+    <string name="display_effect_of_screen_dialog_ok">موافق</string>
+    <string name="smart_roll_summary">حرك إصبعك على حافة الشاشة لتمرير الأزرار</string>
+    <string name="light_settings">اخرى</string>
+    <string name="agps_str_notify">إخطار</string>
+    <string name="unmount_usb_inform_text" product="default">"سيتم إلغاء تركيب بطاقة SD."</string>
+    <string name="agps_OK">موافق</string>
+    <string name="hotknot_explained_description">السماح بتبادل البيانات عندما تلمس الشاشة جهازًا آخر</string>
+    <string name="wifi_restore_title">استعادة تكوين WLAN</string>
+    <string name="security_not_set">الأمان ليس مضبوطًا</string>
+    <string name="bluetooth_ask_establish_connection">"يريد أحد التطبيقات الاتصال بـ <xliff:g>%1$s</xliff:g> عبر بلوتوث."</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">"يريد التطبيق <xliff:g>%1$s</xliff:g> تشغيل بلوتوث والاتصال بـ <xliff:g>%2$s</xliff:g> عبر بلوتوث."</string>
+    <string name="sd_eject_usbstorage" product="default">"إلغاء تحميل وحدة تخزين USB"</string>
+    <string name="swing_lock_summary">قم بهز الهاتف بسرعة في اتجاه واحد لقفل الشاشة </string>
+    <string name="usb_tether_type_title">نوع الربط عبر USB</string>
+    <string name="gesture_series_title">تشغيل الشاشة السوداء</string>
+    <string name="header_category_system_and_key">تشغيل الاختصار</string>
+    <string name="wifi_ap_client_ip_label">عنوان IP:</string>
+    <string name="wifi_ap_title">الإحصائيات</string>
+    <string name="gemini_sim_management_title">إدارة بطاقة SIM</string>
+    <string name="try_it">جرب الاستخدام</string>
+    <string name="AGPS_NOTIFY_PRIVACY">طلب الموقع (خصوصية)</string>
+    <string name="pch_call_prefer_summary_on">تفضيل المكالمة</string>
+    <string name="wifi_hotspot_suspend_optimizations">تحسين نقطة اتصال WLAN</string>
+    <string name="network_synchronization_enable_allow">متابعة</string>
+    <string name="wifi_ipv4_address">عنوان IPv4</string>
+    <string name="autopop_warning_message">عند إلغاء تحديد هذا العنصر لن تظهر هذه النافذة عند توصيل هاتفك بالكمبيوتر في المرة القادمة. ويمكن عرض هذه النافذة بالنقر على إشعار النظام. </string>
+    <string name="launch_error">"لا يمكن بدء التطبيق"</string>
+    <string name="wifi_no_cert_for_wapi">لم يتم العثور على الشهادة الخاصة باتصال نقطة الوصول الحالية</string>
+    <string name="custom_theme_name">[%1$s] جديد</string>
+    <string name="wifi_tethering_title">نقطة وصول لاسلكي</string>
+    <string name="passpoint_config_credential_type">نوع بيانات الاعتماد</string>
+    <string name="smart_roll_title">قائمة ذكية</string>
+    <string name="tethered_ipv6_title">إعدادات نقاط الاتصال والربط بالإنترنت</string>
+    <string name="wifi_settings" msgid="1277428034634973011">WLAN</string>
+    <string name="display_effect_of_screen_soft">معتدل</string>
+    <string name="wifi_ap_connected_title">المستخدمون المتصلون</string>
+    <string name="tvout_settings">مخرج تلفزيون</string>
+    <string name="side_key_backlight_summary">"الضغط على الأزرار الجانبية لإضاءة الهاتف | تعليمات"</string>
+    <string name="authdlg_service_ftp">هذا الهاتف لتحويل الملفات</string>
+    <string name="loading">"جارٍ التحميل..."</string>
+    <string name="profile_edit_pocket_title">"وضع الجيب"</string>
+    <string name="display_effect_of_screen_warm">دافئ</string>
+    <string name="display_effect_of_screen_default">"افتراضي"</string>
+    <string name="wifi_restore_summary">استعادة تكوين WLAN (على سبيل المثال الحساب/كلمة المرور) من LeCloud</string>
+    <string name="stop_all_app">"إيقاف الكل"</string>
+    <string name="sd_insert_usb_summary" product="default">"إدراج وحدة تخزين USB للتركيب"</string>
+    <string name="dlg_mount_external_sd_title" product="default">تثبيت بطاقة SD؟</string>
+    <string name="credentials_none">لا تتوفر أدلة حاليًا</string>
+    <string name="privacy_backup_userdata_summary">نسخ بياناتك احتياطيًا في وحدة التخزين</string>
+    <string name="mtk_thememanager_title">الثيمات</string>
+    <string name="wifi_ap_bandwidth_enable">تمكين التحكم بالنطاق الترددي</string>
+    <string name="passpoint_supported">مدعوم</string>
+    <string name="screen_timeout_CU">سكون</string>
+    <string name="vpn_delete">هل تريد بالتأكيد الحذف؟</string>
+    <string name="privacy_backup_userdata_summary_cloud">نسخ البيانات المتوفرة في الهاتف اختياطيًا إلى السحابة</string>
+    <string name="bluetooth_advanced_settings">إعدادات بلوتوث المتقدمة</string>
+    <string name="gemini_default_sim_never">إيقاف</string>
+    <string name="bluetooth_profile_ftp">نقل الملفات</string>
+    <string name="try_swing_lock_info">قم بهز الهاتف لقفل الشاشة</string>
+    <string name="network_synchronization_enable_deny">إلغاء</string>
+    <string name="sim_enter_pin_hints">(أدخل الأرقام من 4 إلى 8)</string>
+    <string name="ipo_summary_on">تعطيل التمهيد السريع</string>
+    <string name="authorizaion_failed_error">فشل التخويل. تعذّر الاتصال بجهاز التحكم عن بعد.</string>
+    <string name="ipo_summary_off">تمكين التمهيد السريع</string>
+    <string name="display_settings_scences_title">المناظر</string>
+    <string name="runningapp_stop_dlg_text" product="tablet">إذا قمت بإيقاف هذه الخدمة; قد
+        تتوقف بعض خصائص الحاسب اللوحي عن العمل على النحو الأمثل حتى تقوم بإيقافه
+        ثم تشغيله مرة أخرى.</string>
+    <string name="usbsetting_usbmassstorage_wait">يرجى الانتظار...</string>
+    <string name="wifi_WEP_transmit_key">مفتاح البث</string>
+    <string name="move_to_sdcard">الانتقال إلى بطاقة الذاكرة الافتراضية</string>
+    <string name="gps_time_sync_attention_gps_on">سيستغرق الحصول على إرسال GPS شهرًا واحدًا على أقصى تقدير. إلى جانب ذلك، قد يفشل نظام GPS في توفير الوقت بسبب ضعف الإشارة البيئية.\n\nهل تريد بالفعل استخدام الوقت المتوفر من نظام GPS؟</string>
+    <string name="bluetooth_turning_on_failed">فشل فتح بلوتوث</string>
+    <string name="tether_title">نقطة الوصول الشخصية</string>
+    <string name="wifi_tether_wps_connect_title">اتصال WPS</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">طلب موقع (الرفض إذا لم توجد إجابة)</string>
+    <string name="authdlg_auto_reply">لا تسأل مرة أخرى</string>
+    <string name="move_tomemory_success">اكتملت عملية النقل! <xliff:g>%1$s</xliff:g> تم نقل التطبيقات بنجاح!</string>
+    <string name="eap_sim_aka_no_sim_slot_selected">يجب تحديد بطاقة sim حتى تتمكن من استخدام EAP-SIM/AKA</string>
+    <string name="passpoint_summary">التوصيل التلقائي إلى نقاط اتصال ممكنة بنقطة مرور </string>
+    <string name="usb_ums_title">"وحدة تخزين USB"</string>
+    <string name="usb_bicr_summary">إظهار قرص مدمج ظاهري يحتوي على بعض البرامج المفيدة.</string>
+    <string name="authdlg_service_map">هذا الهاتف للوصول إلى الرسائل</string>
+    <string name="server_lenovo_exp_ok">موافق</string>
+    <string name="slide_unlock_title">إلغاء قفل الشاشة السوداء</string>
+    <string name="authdlg_service_spp">منفذ بلوتوث التسلسلي في هذا الهاتف</string>
+    <string name="display_effect_of_screen_dialog_title">سيتم تفعيل النغمة المحددة بعد تفتيح الشاشة.</string>
+    <string name="move_select">هل تريد نقل التطبيقات المحددة؟ يتعذر نقل بعض التطبيقات إلى بطاقة الذاكرة الافتراضية.</string>
+    <string name="wifi_restore_failed">فشلت عملية الاستعادة.</string>
+    <string name="landscape_launcher_title">المشغل في الوضع الأفقي</string>
+    <string name="usb_sharing_info_title">وضع تمرير الإنترنت</string>
+    <string name="clear_cache">"محو ذاكرة التخزين المؤقت"</string>
+    <string name="authdlg_service_default">هذا الهاتف</string>
+    <string name="wifi_tether_auto_disable_title">إبقاء نقطة وصول WLAN في وضع التشغيل</string>
+    <string name="wifi_backup_summary">نسخ احتياطي لتكوين WLAN (على سبيل المثال الحساب/كلمة المرور) إلى LeCloud</string>
+    <string name="storage_phone">وحدة تخزين USB</string>
+    <string name="hdmi_audio_toggler">الصوت</string>
+    <string name="NI_Request_ID">رقم تعريف الطالب</string>
+    <string name="passpoint_config_eap_method">أسلوب EAP</string>
+    <string name="wifi_ap_wps_mode_title">وضع شبكة WPS</string>
+    <string name="authdlg_title">طلب تخويل بلوتوث</string>
+    <string name="usb_bicr_title">قرص مدمج مضمن</string>
+    <string name="double_click_title">سرعة النقر المزدوج</string>
+    <string name="pin_scroll_title">التمرير لتثبيت القائمة</string>
+    <string name="wifi_backup_title">نسخ احتياطي لـ WLAN</string>
+    <string name="eap_sim_aka_no_sim_error">يجب إدخال بطاقة sim حتى تتمكن من استخدام EAP-SIM/AKA</string>
+    <string name="wifi_wps_fail_error">فشل إعداد شبكة لاسلكي المحمية, أعد المحاولة.</string>
+    <string name="bluetooth_ftp_profile_summary_connected">"متصل بنقل الملفات"</string>
+    <string name="privacy_backup_userdata_title_cloud">نسخ احتياطي إلى السحابة</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">تقليل استخدام البطارية عندما تكون نقطة اتصال WLAN قيد التشغيل</string>
+    <string name="privacy_restore_userdata_category_title">استعادة البيانات</string>
+    <string name="gesture_series_summary">إمكانية إلغاء التأمين عندما تكون الشاشة سوداء وتشغيل التطبيقات بسرعة</string>
+    <string name="auto_popup">عدم انبثاق العناصر</string>
+    <string name="MobileNetwork_SIM1_Active">شريحة البطاقة 1 تعمل</string>
+    <string name="move_app_to_where">" إلى بطاقة "<xliff:g id="location">%s</xliff:g>
+  </string>
+    <string name="launch_main_label">بدء التطبيق</string>
+    <string name="akp_installer_settings_summary">قم بتثبيت APK من بطاقة SD</string>
+    <string name="tv_system_title">نظام التليفزيون</string>
+    <string name="NI_Request_ClientName">اسم برنامج العميل</string>
+    <string name="profile_edit_pocket_summary">"زيادة مستوى صوت نغمة الرنين إلى أقصى حد في وضع الجيب أو الغلاف"</string>
+    <string name="profile_edit_weaken_summary">خفض مستوى صوت الرنين عند الإمساك بالهاتف | تعليمات</string>
+    <string name="privacy_restore_userdata_summary_cloud">اختر استعادة البيانات التي تم نسخها احتياطيًا إلى السحابة</string>
+    <string name="display_effect_of_screen_cool">هادئ</string>
+    <string name="lock_screen_notifications_title">إخطارات قفل الشاشة</string>
+    <string name="header_category_call_and_msg">الاتصال والإرسال</string>
+    <string name="status_imei_slot1">IMEI(فتحة1)</string>
+    <string name="wifi_ap_client_details_title">التفاصيل</string>
+    <string name="server_lenovo_exp_title">الموافقة على المشاركة في برنامج Lenovo Experience</string>
+    <string name="status_imei_slot2">IMEI(فتحة2)</string>
+    <string name="header_category_lock_and_screen">قفل الشاشة والشاشة</string>
+    <string name="passpoint_append_summary">(عبر نقطة مرور)</string>
+    <string name="lock_screen_style_title">طريقة قفل الشاشة</string>
+    <string name="privacy_restore_userdata_title_cloud">الاستعادة من السحابة</string>
+    <string name="app_privacy_settings">إعدادات خصوصية التطبيق</string>
+    <string name="wifi_settings_title" msgid="4351120897298124250">WLAN</string>
+    <string name="drm_reset_dialog_msg">تقوم هذه العملية بحذف جميع التراخيص بهذا الجهاز. متابعة؟</string>
+    <string name="wapi_as_certificate">شهادة ASE</string>
+    <string name="erase_external_storage_description_fuse">"محو كل البيانات في بطاقة الذاكرة الداخلية، على سبيل المثال: الموسيقى أو الصور"</string>
+    <string name="wifi_tether_auto_channel_width_text">آلي 20/40 ميجا هرتز</string>
+    <string name="bluetooth_security_confirm">"طلب إذن بلوتوث"</string>
+    <string name="slide_unlock_summary">قم بالسحب  إلى اليسار أو إلى اليمين في أسفل الشاشة لإلغاء القفل | تعليمات</string>
+    <string name="wifi_tether_auto_channel_text">ترتيب ذاتي </string>
+    <string name="usb_charge_summary">إيقاف كل وظائف USB، يتيح زيادة سرعة الشحن وتقليل استهلاك الطاقة.</string>
+    <string name="long_menu_active_voice_summary">عندما تضيء الشاشة، اضغط طويلاً على مفتاح القائمة لتنشيط وظيفة الصوت</string>
+    <string name="wifi_ap_time_duration">المدة الزمنية: 
+        <xliff:g id="time">%1$s</xliff:g> 
+    </string>
+    <string name="wifi_ap_client_mac_label">عنوان MAC:</string>
+    <string name="wifi_advanced_ipv4_address_title">عنوان IPv4</string>
+    <string name="hdmi_video_resolution">دقة الفيديو</string>
+    <string name="tethered_ipv4">(IPv6 غير متاح)</string>
+    <string name="soft_permission">إدارة الأذونات</string>
+    <string name="authdlg_service_dun">خدمة شبكة الطلب الهاتفي على هذا الهاتف</string>
+    <string name="privacy_backup_userdata_title">النسخ الاحتياطي في وحدة التخزين</string>
+    <string name="prevent_misoperation_summary">استخدم مستشعر التقارب لتجنب عمليات التشغيل غير المقصودة عند وضع الهاتف في الجيب</string>
+    <string name="tethered_ipv6">(متاح IPv6 فقط)</string>
+    <string name="wifi_ipv6_address">عنوان IPv6</string>
+    <string name="wifi_ap_bandwidth_title">استخدام عرض النطاق</string>
+    <string name="tethering_apn_settings_title">إعدادات APN</string>
+    <string name="erase_external_storage_fuse">"تهيئة بطاقة الذاكرة المدمجة"</string>
+    <string name="server_lenovo_exp_summery">جمع البيانات لتحسين منتجنا وخدمتنا</string>
+    <string name="usbsetting_usbmassstorage_close">إغلاق جهاز تخزين USB</string>
+    <string name="wifi_ap_no_connected">0 المستخدمون المتصلون</string>
+    <string name="wifi_channel_width">عرض القناة</string>
+    <string name="dlg_default_write_disk1_change_msg">"عند تحديد وحدة التخزين USB; لا يمكنك استخدام التطبيقات المثبتة على وحدة التخزين SD وسيؤدي هذا إلى إعادة تشغيل الجهاز, هل تود بالتأكيد التغيير إلى وحدة التخزين USB؟"</string>
+    <string name="wifi_ap_bandwidth_chart_summary">تم القياس باستخدام هاتفك، قد تختلف عملية حساب سرعة ناقل البيانات.</string>
+    <string name="usbsetting_help_title">تعليمات</string>
+    <string name="bluetooth_remote_device">جهاز بلوتوث</string>
+    <string name="long_menu_active_voice">تنشيط صوت مفتاح القائمة</string>
+    <string name="mouse_primary_button_dialog_title">تبديل الزر الرئيسي</string>
+    <string name="authdlg_service_decline">رفض</string>
+    <string name="move_select_short">"هل تريد نقل التطبيق المحدد؟"</string>
+    <string name="display_effect_of_screen_bright">ساطع</string>
+    <string name="hdmi_video_toggler">لقد وصلت هاتفك بجهاز الكمبيوتر عبر مدخل USB. اختر الزر الموجود بالأسفل إذا كنت تريد نسخ الملفات بين جهاز الكمبيوتر ووحدة التخزين USB الخاصة بنظام أندرويد . </string>
+    <string name="wifi_tether_wps_pin_error">رمز PIN غير صالح</string>
+    <string name="hdmi_toggler">واجهة متعدد الوسائط عالي الوضوح</string>
+    <string name="auto_time_on">"استخدام دعم الشبكة"</string>
+    <string name="usb_sharing_info_step_1">"1 - افتح اتصالات الشبكة على نوافذ الكمبيوتر."</string>
+    <string name="button_brightness">زر السطوع</string>
+    <string name="display_default">الشاشة</string>
+    <string name="pch_toggle_title">أفضلية نقل النظام العالمي لتحديد المواقع.</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">طلب موقع (السماح إذا لم توجد إجابة)</string>
+    <string name="usb_sharing_info_step_3">"3 - انقر فوق علامة التبويب مشاركة وحدد \'السماح لمستخدمي الشبكة الآخرين بالاتصال عبر \'اتصال الإنترنت\' الخاص بهذا الكمبيوتر ( اختر شبكة مضافة حديثًا تعمل من خلال إنترنت USB في حال ظهور \'اتصال الشبكة المنزلية \')."</string>
+    <string name="wifi_ap_wps_pin_title">اكتب رمز PIN من العميل</string>
+    <string name="usb_sharing_info_step_2">"2 - انقر بزر الماوس الأيمن على الاتصال الذي ترغب مشاركته ثم انقر فوق خصائص."</string>
+    <string name="runningapp_stop_dlg_text" product="default">إذا قمت بإيقاف هذه الخدمة; قد
+        تتوقف بعض خصائص الهاتف عن العمل على النحو الأمثل حتى تقوم بإيقافه
+        ثم تشغيله مرة أخرى.</string>
+    <string name="wifi_tether_wps_connect_summary">وضع الإعداد المحمي للشبكة اللاسلكية لاسلكي المحدد قيد المتابعة</string>
+    <string name="wizard_title">دليل المستخدم</string>
+    <string name="location_settings_label">وضع موقع المهندس</string>
+    <string name="sim_status_title">حالة بطاقة SIM</string>
+    <string name="auto_rotate_type">تدوير تلقائي للشاشة</string>
+    <string name="wifi_hex_password">كلمة مرور مكونة ستة عشر حرف.</string>
+    <string name="pch_data_prefer_summary_off">تفضيل البيانات </string>
+    <string name="wifi_WEP_secury_key">مفتاح الأمان</string>
+    <string name="passpoint_username_pw">اسم المستخدم/كلمة المرور</string>
+    <string name="dlg_default_write_disk_change_msg">تم تغيير قرص الكتابة الافتراضي, يجب إعادة التمهيد الآن!</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off" msgid="1225626898926363100">"للاطلاع على الأجهزة، شغّل وحدة العرض الWLANة."</string>
+    <string name="drm_settings_title">إعادة تعيين DRM</string>
+    <string name="notification_settings_title">إعدادات الإشعارات</string>
+    <string name="wifi_ap_client_unblock_title">إلغاء الحظر</string>
+    <string name="authdlg_service_opp">هذا الهاتف</string>
+    <string name="display_personalize">تخصيص</string>
+    <string name="usb_tethering_select_version">حدد إصدار نظام الحاسب الشخصي</string>
+    <string name="drm_settings_summary">حذف كافة تراخيص DRM</string>
+    <string name="hdmi_settings_summary">اضغط لتهيئة HDMI</string>
+    <string name="wifi_ap_no_blocked">0 المستخدمون المحظورون</string>
+    <string name="smart_rotate_type">شاشة التدوير الذكي</string>
+    <string name="wifi_tether_setting_title">الإعدادات الأساسية</string>
+    <string name="master_clear_error">إن ميزة SYNCit معطلة. يرجى تمكينها.</string>
+    <string name="tvout_settings_summary">إعدادات التليفزيون</string>
+    <string name="try_swing_lock_result_ok">الطريقة صحيحة. يمكنك استخدام هذه الوظيفة</string>
+    <string name="wifi_ap_wps_dialog_title">اتصال WPS</string>
+    <string name="authdlg_service_accept">تخويل</string>
+    <string name="dialog_title_button_brightness">زر السطوع</string>
+    <string name="move_to_phone">النقل إلى الهاتف</string>
+    <string name="usbsetting_usbmassstorage_open">فتح جهاز تخزين USB</string>
+    <string name="wide_touch_title">شاشة لمس عريضة</string>
+    <string name="wifi_ap_blocked_title">المستخدمون المحظورون</string>
+    <string name="gesture_rotate_type">شاشة تدوير الإشارات</string>
+    <string name="sd_mount_usbstorage" product="default">"تركيب وحدة تخزين USB"</string>
+    <string name="vpn_delete_title">حذف</string>
+    <string name="wifi_ap_total_data">إجمالي البيانات المستخدمة:
+        <xliff:g id="time">%1$s</xliff:g>
+    </string>
+    <string name="unlock_set_unlock_mode_voice_weak">إلغاء القفل بالأوامر الصوتية</string>
+    <string name="audio_profile_settings_title_lap">أوضاع الصوت</string>
+    <string name="storage_path0">وحدة التخزين USB</string>
+    <string name="uninstall_select">هل حددت إلغاء التثبيت؟</string>
+    <string name="storage_path1">وحدة التخزين SD</string>
+    <string name="install_local">موقع تثبيت البرنامج</string>
+    <string name="server_lenovo_exp_cancel">إلغاء</string>
+    <string name="hdmi_auto">"تلقائي"</string>
+    <string name="server_lenovo_exp_dlg_title">تحذير</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">"يريد أحد التطبيقات تشغيل بلوتوث والاتصال بـ <xliff:g>%1$s</xliff:g> عبر بلوتوث."</string>
+    <string name="lock_screen_notifications_summary">بعض الإخطارات الموجودة في قفل الشاشة</string>
+    <string name="wapi_user_certificate">شهادة المستخدم</string>
+    <string name="privacy_restore_userdata_title">الاستعادة من وحدة التخزين</string>
+
+    <string name="dlg_error_unmount_usb_title" product="default">لا يوجد حساب </string>
+    <string name="show_password_summary">لا يوجد حساب </string>
+    <string name="summary_lcd_invert">لا يوجد حساب </string>
+    <string name="show_password_summary">لا يوجد حساب </string>
+
+    <string name="power_settings">إدارة الطاقة</string>
+    <string name="multiwindow_settings">نوافذ متعددة</string>
+    <string name="night_mode_summary">يلائم هذا الوضع الاستعراض الليلي ولن يكون ممكنًا في بعض التطبيقات الضغط على بعض الأزرار.</string>
+    <string name="long_press_back_finish_title">الضغط لفترة طويلة على "السابق" للخروج</string>
+    <string name="night_mode">حماية العينين في الليل</string>
+    <string name="long_press_back_finish_summary">الضغط مطولاً على "السابق" للخروج من البرنامج الحالي</string>
+    <string name="change_settings_to_all_settings">التبديل إلى "الإعدادات"</string>
+    <string name="touch_free_phone_dial">الطلب بدون اللمس</string>
+    <string name="tilt_slide_summary">السحب إلى اليسار/اليمين للاستعراض</string>
+    <string name="change_settings_to_recent">التبديل إلى الإعدادات الحديثة</string>
+    <string name="touch_free_phone_answer">الرد بدون اللمس</string>
+    <string name="recent_settings_empty">لم يتم إجراء أي إعدادا للنظام مؤخرًا</string>
+    <string name="recent_settings">الإعدادات الحديثة</string>
+    <string name="tilt_slide_title">التمرير</string>
+    <string name="display_effect_type_hue_cool">لون بارد</string>
+    <string name="display_effect_buttom_text_cancel">إلغاء</string>
+    <string name="display_effect_mode_default_summary">وضع المصنّع الافتراضي للحصول على ألوان مثالية.</string>
+    <string name="display_effect_mode_auto_summary">للتبديل بين الأوضاع تلقائيًا بالاستناد إلى تطبيق المستعرض والبيئة.</string>
+    <string name="display_effect_type_hue">الطنين</string>
+    <string name="display_effect_mode_default_title">الوضع الافتراضي</string>
+    <string name="display_effect_mode_comfirtable_title">وضع الراحة</string>
+    <string name="display_effect_type_hue_default">عادي</string>
+    <string name="display_effect_type_contrast_sharp">حاد</string>
+    <string name="display_effect_mode_comfirtable_summary">لحماية عينيك، وهو مناسب أثناء استعراض هاتفك لفترات طويلة.</string>
+    <string name="display_effect_type_hue_warm">لون دافئ</string>
+    <string name="display_effect_type_saturation">التشبع</string>
+    <string name="display_effect_type_contrast_soft">لون فاتح</string>
+    <string name="display_effect_mode_auto_title">الوضع التلقائي</string>
+    <string name="display_effect_mode_ultra_bright_summary">لتأثير الشاشة بمستوى سطوع مرتفع. سيؤثر هذا الوضع على الطاقة في وضع الاستعداد.</string>
+    <string name="display_effect_type_saturation_default">عادي</string>
+    <string name="display_effect_smart_brightness_title">وضع الضوء القوي الذكي</string>
+    <string name="display_effect_buttom_text_apply">تطبيق</string>
+    <string name="display_effect_mode_ultra_bright_title">وضع السطوع العالي</string>
+    <string name="display_effect_category_title_commom_mode">الوضع الشائع</string>
+    <string name="display_effect_mode_outdoor_title">وضع الضوء القوي</string>
+    <string name="display_effect_type_contrast_default">عادي</string>
+    <string name="display_effect_type_saturation_bright">ساطع</string>
+    <string name="display_effect_type_contrast">التباين</string>
+    <string name="display_effect_mode_outdoor_summary">مناسب للاستخدام في الخارج في ظروف الضوء القوي. لتحسين الرؤية أثناء التواجد في الخارج. سيؤثر هذا الوضع على وظائف وضع الاستعداد. يوصى أن يتوخى المستخدمون العاديون الحذر!</string>
+    <string name="display_effect_mode_custom_title">مخصص</string>
+    <string name="display_effect_category_title_smart">ذكي</string>
+    <string name="display_effect_type_saturation_soft">لون فاتح</string>
+    <string name="display_effect_mode_custom_summary">قم بتعيين كل قيمة معلمة يدويًا.</string>
+    <string name="display_effect_smart_brightness_summary">تكشف التقنية الذكية عندما يكون الهاتف في بيئة ضوء قوي وتمكّن بالتالي وضع الضوء القوي. يحسن هذا الوضع الرؤية في الخارج في بيئات الضوء القوي.</string>
+<string name="device_info" msgid="3191876744469364173">"معلومات الجهاز"</string>
+<string name="pocket_mode_title">"وضع الجيب"</string>
+<string name="pocket_mode_summary">"زيادة مستوى صوت نغمة الرنين إلى أقصى حد في وضع الجيب أو الغلاف"</string>
+<string name="pocket_mode_help">"زيادة مستوى صوت نغمة الرنين إلى أقصى حد في وضع الجيب أو الغلاف"</string>
+<string name="ringtone_weaken_title">خفض مستوى صوت الرنين</string>
+<string name="ringtone_weaken_summary">خفض مستوى صوت الرنين عند الإمساك بالهاتف | تعليمات</string>
+<string name="ringtone_weaken_help">ينخفض مستوى صوت نغمة الرنين عند التقاط الهاتف.</string>
+<string name="gesture_topspeed_snap_title">التقاط صور بسرعة قصوى</string>
+<string name="gesture_topspeed_snap_summary">انقر نقرًا مزدوجًا فوق زر الصفحة الرئيسية عندما تكون الشاشة متوقفة عن التشغيل لالتقاط صور</string>
+<string name="gesture_light_up_screen_title">"اضغط مرتين لتنشيط/إيقاف تشغيل الشاشة"</string>
+<string name="gesture_light_up_screen_summary">"اضغط مرتين في أي مكان على الشاشة لتنشيطها عندما تكون متوقفة عن التشغيل؛ اضعط مرتين في أي مكان على شاشة التأمين لإدخال الجهاز في وضع السكون"</string>
+<string name="usb_detail_message">استخدم الكمبيوتر لإدارة هاتفك. يرجى زيارة http://sj.lenovo.com للحصول على برنامج Lenovo الرسمي.</string>
+<string name="bluetooth_confirm_device_pair">إقتران مع:</string>
+<string name="wifi_ap_less">التحقق من توفر استقبال جيد</string>
+<string name="usb_adb_summary">بدء وضع تصحيح الأخطاء استخدم الكمبيوتر لإدارة هاتفك. يوصى باستخدام البرنامج الرسمي.</string>
+<string name="wifi_ap_more">التحقق من كل نقاط الوصول</string>
+<string name="bluetooth_confirm_passkey_show">تأكد من أنه يظهر مفتاح المرورهذا:</string>
+<string name="usb_adb_title">تصحيح أخطاء USB‏ (ADB)</string>
+<string name="wifi_wapi_cert_install">تثبيت شهادة WAPI</string>
+<string name="location_agps_pref_apn_title">apn المفضل</string>
+<string name="location_agps_roaming_help">تحذير：قد يؤدي اختيار كل الشبكات لفتح AGPS إلى فقدان رسوم الهاتف أثناء التجوال！</string>
+<string name="wifi_wapi_cert_install_button">تثبيت</string>
+<string name="wifi_wapi_cert_create_subdir">إنشاء دليل</string>
+<string name="wifi_wapi_cert_mgmt_user_dont_exist">يرجى إدخال اسم شهادة المستخدم</string>
+<string name="wifi_wapi_user_cert">شهادة المستخدم</string>
+<string name="location_agps_apn_summary">اختيار نوع apn المفضل</string>
+<string name="location_agps_apn_choose_dialog_title">أنواع Apn</string>
+<string name="location_agps_si_mode_dialog_title">أسلوب AGPS</string>
+<string name="wifi_wapi_cert_mgmt_subdir_exist">يرجى إدخال اسم دليل آخر، فهذا الاسم موجود بالفعل</string>
+<string name="location_agps_pref_reset_type_title">نوع إعادة التعيين المفضل</string>
+<string name="wifi_wapi_as_cert">شهادة AS</string>
+<string name="supl_not_set">"&lt;لم يتم تعيينه&gt;"</string>
+<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">يرجى إدخال اسم الدليل الذي تريد إنشاءه!</string>
+<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">إن تنسيق شهادة المستخدم غير صحيح! يرجى تثبيت شهادة المستخدم الصحيحة</string>
+<string name="location_agps_si_mode">وضع AGPS SI</string>
+<string name="location_agps_reset_type_summary">اختيار نوع إعادة التعيين المفضل</string>
+<string name="location_agps_supl_settings">إعدادات SUPL</string>
+<string name="wifi_wapi_cert_mgmt_subdir_create_fail">فشل إنشاء دليل</string>
+<string name="wifi_wapi_cert_mgmt_as_dont_exist">بطاقة SD غير مزودة بشهادة AS، يرجى التحقق منها!</string>
+<string name="invalid_network_mode">وضع الشبكة غير صالح</string>
+<string name="location_agps_si_mode_summary">اختيار أسلوب AGPS المفضل</string>
+<string name="location_agps_reset_type">إعادة تعيين الأنواع</string>
+<string name="not_support_choose">لا تدعم الفتحة 2 وضع الشبكة الذي تم اختياره</string>
+<string name="location_agps_supl_server_addr">عنوان الخادم</string>
+<string name="location_agps_pref_si_title">الوضع المفضل</string>
+<string name="location_agps_def_reset_type">ساخن</string>
+<string name="wifi_wapi_cert_uninstall">إلغاء تثبيت شهادة WAPI</string>
+<string name="location_agps_def_network_mode">الشاشة الرئيسية</string>
+<string name="wifi_wapi_cert_mgmt_as_name_is_empty">يرجى كتابة اسم شهادة AS</string>
+<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">إن تنسيق شهادة AS غير صحيح! يرجى تثبيت شهادة AS الصحيحة</string>
+<string name="location_agps_apn_type">أنواع Apn</string>
+<string name="location_agps_register_network_type">الوصول إلى نوع الشبكة</string>
+<string name="wifi_wapi_cert_uninstall_button">إزالة تثبيت</string>
+<string name="location_agps_supl_server_port">منفذ الخادم</string>
+<string name="location_agps_register_network_type_summary">اختيار شبكة الوصول لتمكين AGPS...</string>
+<string name="location_agps_params_settings_title">إعدادات AGPS</string>
+<string name="wifi_wapi_cert_mgmt_titlebar">إدارة شهادة WAPI</string>
+<string name="wifi_wapi_cert_cancel_button">"إلغاء"</string>
+<string name="wifi_wapi_cert_delet_subdir">تحديد شهادة مناسبة</string>
+<string name="wifi_wapi_cert_mgmt_user_name_is_empty">يرجى إدخال اسم شهادة المستخدم</string>
+<string name="location_agps_pref_network_title">الشبكة المفضلة</string>
+<string name="location_agps_register_network_type_dialog_title">تحديد شبكة</string>
+<string name="smart_standby_enable_title">وضع الاستعداد الذكي"</string>
+<string name="smart_standby_enable_summary">الشاشة سوف تضيء عندما تنظر اليها</string>
+<string name="phone_storage_info">ذاكرة الهاتف</string>
+    <string name="usb_detail_title">الحصول على برنامج Lenovo الأصلي</string>
+    <string name="processor_unit_info">عدد النواة</string>
+    <string name="night_mode_tip_secure_button">قم بتعطيل وضع القراءة الليلية ثم انقر مجددًا</string>
+    <string name="location_agps_reset_type_choose_dialog_title">كل أنواع البدء</string>
+    <string name="wide_touch_help">افتح لوحة الاختصارات والتطبيقات من خلال النقر فوق الزر العائم.</string>
+    <string name="lenovo_cloud">خدمة السحابة</string>
+    <string name="zone_auto_summaryOn_not_row">"استخدم المنطقة الزمنية المتوفرة من الشبكة. تستند هذه الميزة إلى موفر الخدمة وهي غير معتمدة في بعض البلدان"</string>
+    <string name="zone_auto_summaryOff_not_row">"استخدم المنطقة الزمنية المتوفرة من الشبكة. تستند هذه الميزة إلى موفر الخدمة وهي غير معتمدة في بعض البلدان"</string>
+    <string name="location_agps_settings_title">إعداداتAGPS</string>
+    <string name="night_mode_notification_title">تم تمكين وضع القراءة الليلية</string>
+    <string name="night_mode_notification_text">انقر لتعطيل وضع القراءة الليلية</string>
+<string name="wifi_account_share">@string/wlan_share</string>
+<string name="wifi_status_test">حالة بطاقة WLAN</string>
+<string name="wifi_signal_strong_title">"تعزيز إشارة WLAN"</string>
+<string name="wifi_signal_strong_summary">"لتعزيز قوة الإشارة تلقائيًا وضمان جودة اتصال أفضل عندما تكون إشارة الاتصال ضعيفة." </string>
+    <string name="do_not_distube">"وضع ممنوع الإزعاج"</string>
+    <string name="gesture_light_up_off_screen_title">"اضغط مرتَين لتنشيط/إيقاف تشغيل الشاشة"</string>
+    
+    <string name="StorageDialog_summary">لقد تم الكشف عن قيامك بسحب بيانات من ذاكرة التخزين الخارجية، وسيبدّل النظام إلى ذاكرة التخزين المضمّنة ويبدأ التشغيل من جديد، هل تريد تأكيد إعادة التشغيل؟ \n\n إذا تمت إعادة إدخالها في ذاكرة التخزين الخارجية، فلا حاجة إلى إعادة التشغيل!</string>
+    <string name="StorageDialog_comfirm">إعادة التشغيل</string>
+    <string name="StorageDialog_title">مهم</string>
+    <string name="dlg_default_write_disk_encrypted_msg">لحماية الخصوصية بشكل أفضل، يجب تعيين التخزين الأولي دائمًا إلى وحدة التخزين المدمجة عندما يكون الهاتف مشفرًا.</string>
+</resources>

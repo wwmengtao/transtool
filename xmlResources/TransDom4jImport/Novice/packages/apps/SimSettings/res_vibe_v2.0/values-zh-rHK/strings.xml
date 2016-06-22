@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="setting_setting">SIM 卡管理</string>	
+	<string name="setting_info">SIM 卡訊息</string>
+
+    <string name="default_setting">預設 SIM 卡</string>
+    <string name="voice_call">語音電話</string>
+    <string name="video_call">視訊電話</string>
+    <string name="sms">訊息</string>
+    <string name="data_connection">數據連結</string>	
+
+    <string name="voice_call_title">語音電話:</string>
+    <string name="video_call_title">視訊電話:</string>
+    <string name="sms_title">訊息:</string>
+    <string name="data_connection_title">數據連結:</string>
+    <string name="not_set">未設定</string>
+
+    <string name="setting_push">訊息推送服務</string>
+
+    <string name="others_setting">其他設定</string>
+
+	<string name="dual_sim_title">雙卡網絡模式設定 (僅限國際漫遊)</string>
+	<string name="dual_sim_dialogTitle">網絡模式設定</string>
+
+
+    <string name="edit_sim_name">編輯 SIM 卡名稱</string>
+    <string name="edit_sim_number">編輯 SIM 卡號碼</string>
+    <string name="set_sim_color">設定背景顏色</string>
+    <string name="show_sim_number">號碼顯示</string>
+    <string name="first_4">前 4 位</string>
+    <string name="last_4">後 4 位</string>
+    <string name="no_display">不顯示</string>
+    <string name="show_sim_status">狀態訊息</string>
+    <string name="show_sim_status_summary">電話號碼，信號等</string>
+
+    <string name="chinamobilecard">中國移動</string>
+    <string name="chinaunicomcard">中國聯通</string>
+    <string name="chinatelecomcard">中國電信</string>
+    <string name="unkowntypecard">未知類型</string>
+    
+    <string name="chinamobile">中國移動</string>
+    <string name="chinaunicom">中國聯通</string>
+    <string name="chinatelecom">中國電信</string>
+
+    <string name="save_success">"儲存成功"</string>
+    <string name="save_failed">"儲存失敗"</string>
+    <string name="wrong_adn_format">"格式錯誤"</string>
+
+     <string name="clir_title">"本機號碼"</string>
+     <string name="newwork_title">"目前電信業者"</string>
+     <string name="signal_strength_title">"信號強度"</string>
+     <string name="network_types_title">"網絡類型"</string>
+     <string name="service_status_title">"服務狀態"</string>
+     <string name="roam_title">"漫遊"</string>
+     <string name="network_state_title">"網絡狀態"</string>
+     <string name="DATA_DISCONNECTED">"已斷開連結"</string>
+     <string name="DATA_CONNECTED">"已連結"</string>
+     <string name="isRoam">"漫遊"</string>
+     <string name="is_not_roam">"非漫遊"</string>
+
+     <string name="interal_roaming">"國際漫遊設定"</string>
+     <string name="data_roaming_title">"數據漫遊"</string>
+     <string name="data_roaming_sum">"漫遊時連結到數據服務"</string>
+     <string name="show_roaming_tips_title">"顯示漫遊提示"</string>
+     <string name="show_roaming_tips_sum">"顯示漫遊提醒"</string>
+
+    <string name="interl_data_roam_setting">"數據漫遊"</string>
+    <string name="data_roam_alert_title">"注意"</string>
+    <string name="data_roam_alert_mesg">"是否允許數據漫遊？這可能產生大量漫遊費"</string>
+    <string name="data_roam_alert_ok">"確定"</string>
+    <string name="data_roam_alert_cancel">"取消"</string>
+
+    <string name="newsim_title">"有新卡插入"</string>
+    <string name="change">"變更設定"</string>
+    <string name="close">"關閉"</string>
+    <string name="confirm">"確認"</string>
+    <string name="newsimlabel1">"新卡被命名為:"</string>
+	<string name="newsimlabel2">"目前預設的 SIM 卡設定為:"</string>
+
+	<string name="no_default_sim">"提示我選擇"</string>
+
+	<string name="activating">"正在啟用..."</string>
+	<string name="deactivating">"正在停用..."</string>
+
+	<string name="inservice">"正在使用中"</string>
+	<string name="outofservice">"不可用"</string>
+
+	<string name="data_connect_settings_title">"數據連結"</string>
+
+	<string name="wait">"請稍候..."</string>
+
+	<string name="msg_init">"正在初始化..."</string>
+	<string name="title_wait">"請稍候"</string>
+
+	<string name="data_connect_settings_failed">"數據連結設定失敗，請稍後重試"</string>
+
+	<string name="finish_cause_airplane_mode">"飛行模式下該功能不可用，請關閉後再試"</string>
+
+	<string name="set_sim_actived_failed">"設定 SIM 卡狀態時發生異常，請重啟手機後重試"</string>
+
+	<string name="set_sim_actived_failed_try_later">"設定 SIM 卡狀態時發生異常，請稍後重試"</string>
+
+	<string name="title_network_select">"優先網絡選擇"</string>
+	<string name="title_cdma">DMA</string>
+	<string name="summary_cdma">"使用 CDMA 網絡"</string>
+	<string name="title_gsm">"GSM/UMTS (僅漫遊)"</string>
+	<string name="summary_gsm">"大陸和澳門地區 GSM 模式不可用"</string>
+	<string name="title_allworld">"全球模式"</string>
+	<string name="summary_allworld">"CDMA 與 GSM 網絡模式自動切換"</string>
+
+	<string name="title_gsm_for_sim2">"GSM/UMTS"</string>
+	<string name="summary_gsm_for_sim2">"使用 GSM/UMTS 網絡"</string>
+
+	<string name="title_network_settings">"網絡業者"</string>
+	<string name="title_network_settings_cdma">"CDMA 網絡選擇"</string>
+	<string name="title_network_settings_gsm">"GSM 網絡選擇"</string>
+
+	<string name="title_roaming_options">"漫遊設定"</string>
+	<string name="title_auto_mms">"多媒體訊息漫遊"</string>
+	<string name="summary_auto_mms">"漫遊時自動下載多媒體訊息"</string>
+
+	<string name="title_network_info">"目前網絡資訊"</string>
+
+	<string name="title_request_next_network">"手動切換到下一網絡"</string>
+	<string name="title_show_avoid_network">"查看過濾網絡清單"</string>
+	<string name="toast_no_avoid_network">"沒有任何過濾網絡"</string>
+	<string name="title_clear_avoid_network">"清空過濾網絡清單"</string>
+	<string name="title_tip_interal_roaming_network_settings">"說明"</string>
+	<string name="summary_tip_interal_roaming_network_settings">"CDMA 系統預設為自動選網，無須手動干預，但如果目前網絡無法進行業務，可嘗試“手動切換”操作等。"</string>
+
+	<string name="dialog_msg_request_next_network">"按“確定”後嘗試搜尋下一個可用的網絡，並將目前網絡新增到過濾清單，下次搜尋時自動跳過該網絡。"</string>
+	<string name="dialog_msg_clear_avoid_network">"即將清空過濾網絡清單，是否繼續?"</string>
+
+	<string name="prl_title">"PRL 版本"</string>
+	<string name="sms_center_title">"簡訊中心號碼"</string>
+
+	<string name="g_card_data_conn_enable">"GSM 卡上網功能已開啟，要設定預設數據連結卡，請依次轉至“設定”&gt;“UIM/SIM 卡管理”。"</string>
+	<string name="g_card_data_conn_close">"GSM 卡上網功能已關閉。"</string>
+	<string name="g_card_data_conn_set_failed">"GSM 卡上網功能開關失敗，請稍候再試。"</string>
+
+	<string name="wing_dial">翼撥號</string>
+	<string name="call_back_china">撥回國</string>
+	<string name="call_International_dial">國際漫遊通話</string>
+	<string name="call_International_back">**133 回撥</string>
+	<string name="call_other_countries">撥打其他國家地區</string>
+	<string name="call_local">撥打本地</string>
+	<string name="wing_dial_find_countries_prefix_code">請輸入國家名稱</string>
+
+	<string name="setting_setting_uim">UIM/SIM 卡管理</string>
+	<string name="setting_info_uim">UIM/SIM 卡訊息</string>
+	<string name="default_setting_uim">預設 UIM/SIM 卡</string>
+	<string name="edit_sim_name_uim">編輯 UIM/SIM 卡名稱</string>
+    <string name="edit_sim_number_uim">編輯 UIM/SIM 卡號碼</string>
+	<string name="newsimlabel2_uim">"目前預設的 UIM/SIM 卡設定為:"</string>
+	<string name="set_sim_actived_failed_uim">"設定 UIM/SIM 卡狀態時發生異常，請重啟手機後重試"</string>
+	<string name="set_sim_actived_failed_try_later_uim">"設定 UIM/SIM 卡狀態時發生異常，請稍後重試"</string>
+
+<!-- 	<string name="roaming">国际漫游</string> -->
+
+
+
+    <!-- for Roaming Settings -->
+    <string name="roaming_settings_title">國際漫遊設定</string>
+    <string name="network_select_setting">網絡選擇和設定</string>
+    <string name="prl_update">CDMA 漫遊清單 (PRL) 更新</string>
+    <string name="prl_update_hint">PRL 更新請求已發送，請稍候…</string>
+    <string name="sms_send_success">簡訊發送成功</string>
+    <string name="sms_send_fail">簡訊發送失敗</string>
+    <string name="roaming_hotline">國際漫遊免費服務熱線</string>
+    <string name="roaming_hotline_number">+86 18918910000</string>
+    <string name="reset_settings">還原預設值</string>
+    <string name="reset_settings_hint">即將還原國際漫遊各選單項目為出廠預設，是否確認？</string>
+    <string name="roaming_settings_hint">說明：此選單適用於中國電信用戶，如有問題，請聯繫中國電信客服。</string>
+
+    <!-- For slot name, it will used for tab title and attention dialog title -->
+    <string name="network_config_title">網絡選擇和設定</string>
+
+    <string name="message_push_service">訊息推送服務</string>
+    <string name="sim_message_push_sum_on">資訊推送服務已開啟</string>
+    <string name="sim_message_push_sum_off">資訊推送服務已關閉</string>
+    <string name="sms_push_title">資訊推送服務協定</string>
+    <string name="sms_push_message">"1 開啟自動推送服務後，可以接收業務平台向終端推送的消息。"\n"2 接收到推送消息後，將自動觸發本地程式運行並產生數據流量，該費用請參考行動電信業者公佈的收費標準。"\n"3 需要開啟相應 SIM 卡的數據連結功能，才能接收推送消息。"\n"4 常見的自動推送服務包括郵件通知、設備管理、服務指示、服務載入、配置推送等。"</string>
+
+    <string name="sms_push_notification_title">是否接受自動推送服務？</string>
+    <string name="sms_push_notification_content">請點擊選擇</string>
+
+    <string name="dialog_active_simcard_alert_message">"您使用的名稱為 “<xliff:g id="SIM_CARD_NAME">%s</xliff:g>” 的<xliff:g id="SIM_OR_UIM">%s</xliff:g>已被禁用，是否進入<xliff:g id="SIM_SETTINGS_NAME">%s</xliff:g>更改狀態？"</string>
+    <string name="sim_card">SIM 卡</string>
+    <string name="uim_card">UIM/SIM 卡</string>
+
+    <string name="know">我了解了</string>
+    <string name="tips_thiscard_serviceprefer">"優先使用這張卡片上的行動服務"</string>
+    <string name="card_alert_dialog_cancel">"取消"</string>
+    <string name="network_auto_failure_info">註冊網絡失敗</string>
+    <string name="card_call_default_reminder">如您需要使用副卡致電，請選擇撥號程式介面功能表。</string>
+    <string name="network_prefer_title_gsm">偏好的網絡版本</string>
+    <string name="time_checkbox_local">"本地時間"</string>
+    <string name="mcc_title">MCC</string>
+    <string name="card_setting_initialling">卡正在初始化</string>
+    <string name="mms_roam_alert_mesg">漫遊時允許自動接收 MMS 嗎？您可能需支付昂貴的漫遊費用！</string>
+    <string name="uim_card_number_reminder">未設定 UIM 號碼</string>
+    <string name="hint">請輸入城市</string>
+    <string name="networks_available">有可用網絡</string>
+    <string name="card_manager_title_name">SIM 設定</string>
+    <string name="network_registering">正在註冊網絡...</string>
+    <string name="network_prefer_title_cdma">GSM (WCDMA) 偏好網絡版本</string>
+    <string name="valid_only_this_time">僅限本次有效</string>
+    <string name="auto_selectnetwork_status">已在網絡上註冊，目前狀態為自動選取網絡</string>
+    <string name="dlg_ok" msgid="2402639055725653590">"確定"</string>
+    <string name="no_card">沒有 SIM</string>
+    <string name="card_number_reminder">未設定 SIM 號碼</string>
+    <string name="network_auto_success_info">註冊網絡成功</string>
+    <string name="next_network">下一個網絡</string>
+    <string name="card_number_summary">未設定號碼</string>
+    <string name="card_default_name_category">預設 SIM</string>
+    <string name="firstcard_selectnetwork_manual">手動選取插槽 1 網絡</string>
+    <string name="gsm_networks_searching">正在搜尋 GSM 網絡...</string>
+    <string name="data_usage_tab_slot2">插槽 2</string>
+    <string name="time_display_title">"時間顯示選項"</string>
+    <string name="secondcard_selectnetwork_manual">手動選取插槽 2 網絡</string>
+    <string name="data_usage_tab_slot1">插槽 1</string>
+    <string name="network_selectmanual_title">"手動選取網絡"</string>
+    <string name="card_call_default">語音通話</string>
+    <string name="register_network_failed">網絡 <xliff:g id="network">%s</xliff:g> 無法使用，系統將會自動在其他漫遊網絡上註冊。</string>
+    <string name="card_info_name_category">SIM 資訊</string>
+    <string name="card_deactived_failed_when_call_actived">由於正在通話，發生例外狀況，請再試一次。</string>
+    <string name="card_network_default">已登記 3G/4G 服務 </string>
+    <string name="card_edit_number">編輯 SIM 號碼</string>
+    <string name="card2_cdma_dsda_default_data">正在使用卡 2 數據連線</string>
+    <string name="card_data_default">資料連接</string>
+    <string name="card_active">"使用中"</string>
+    <string name="dlg_cancel" msgid="1674753358972975911">"取消"</string>
+    <string name="card_sim_reminder">永遠詢問</string>
+    <string name="card_edit_name">編輯 SIM 名稱</string>
+    <string name="card_sms_default_reminder">如您需要使用副卡傳送，請選擇 SMS 介面功能表。</string>
+    <string name="time_checkbox_beijing">北京時間</string>
+    <string name="card_alert_dialog_ok">"確定"</string>
+    <string name="system_time_am">上午</string>
+    <string name="register_network_success">您已在 <xliff:g id="network">%s</xliff:g> 上註冊成功，在網絡連線狀態不佳時，系統會自動在其他漫遊網絡上註冊。</string>
+    <string name="timezone_recommend">建議的時區</string>
+    <string name="card_sms_default">信息</string>
+    <string name="cdma_networks_searching">正在搜尋 CDMA 網絡...</string>
+    <string name="time_display">時間顯示</string>
+    <string name="card1_cdma_dsda_default_data">正在使用卡 1 數據連線</string>
+    <string name="active_card_title">作用中</string>
+    <string name="no_card_number">沒有號碼</string>
+    <string name="system_time_pm">下午</string>
+    <string name="time_display_content">"設定通話日誌、訊息、行事曆的時間顯示選項。"</string>
+    <string name="nid_title">NID</string>
+    <string name="mnc_title">MNC</string>
+    <string name="sid_title">SID、NID</string>
+    <string name="cellid_title">CELL ID</string>
+</resources>

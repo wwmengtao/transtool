@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Ecran wireless"</string>
+    <string name="miracast_app_name">"Ecran wireless"</string>
+    <string name="welcome_version">Versiunea <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"Conectați-vă la dispozitiv"</string>
+    <string name="item_device_mode_audio_only_title">Audio</string>
+    <string name="item_device_mode_video_only_title">Video</string>
+    <string name="item_device_mode_meeting_title">Întâlnire</string>
+    <string name="item_device_mode_connect_title">Conectare</string>
+    <string name="item_device_mode_disconnect_title">"Deconectaţi"</string>
+    <string name="item_device_mode_rename_title">Redenumire</string>
+    <string name="item_device_mode_forget_title">Eliminare</string>
+    <string name="activity_settings_title">"Setări"</string>
+    <string name="preference_settings_resolution_title">Rezoluţie</string>
+    <string name="preference_settings_update_title">"Despre"</string>
+    <string name="dlg_confirm_switch_av_message">Pt. a comuta modul, trebuie decon. mai întâi conex. curentă.\nDoriţi să comutaţi acum?</string>
+    <string name="dlg_loading_scan_device_message">Căutare dispozitive ...</string>
+    <string name="dlg_loading_enable_wifi_message">Activare WLAN...</string>
+    <string name="dlg_loading_reconnect_message">Comut. mod, reconectare...</string>
+    <string name="toast_connecting">Conectare, încercaţi din nou mai târziu</string>
+    <string name="toast_already_connected">Alt disp. deja conectat, deconectaţi mai întâi</string>
+    <string name="toast_device_not_available">Conect. imposibilă, dispozitiv indisp.</string>
+    <string name="tutor_message_1">Conectaţi cheia HW AllShare Cast la un disp. HDMI folosind cablul HDMI A-TO-A.</string>
+    <string name="tutor_message_2">Când ind. roşu începe să clipească, apăsaţi but. de reset. Aşteptaţi ca indic. să fie albastru. Nu e nevoie de un alt clic la reconectare.</string>
+    <string name="tutor_message_4">Dacă v-aţi conectat cu succes, vă puteţi partaja ecranul cu alt dispozitiv.</string>
+    <string name="tutor_message_audioonly">Dacă ieş. audio este sup. de cheia HW, puteţi încerca modul Numai audio pt. a exper. muzică wireless.</string>
+    <string name="tutor_message_videoonly">Dacă doriţi să vă conec. la o cheie HW cu interfaţă DVI sau VGA, se recom. modul Numai video.</string>
+    <string name="activity_meeting_mode_title">Mod Întâlnire</string>
+    <string name="tutor_message_3">Introduceţi Miracast, apoi comutaţi butonul Activare la Activat. Numele dispozitivelor disponibile pentru conectare vor apărea ulterior în lista de dispozitive disponibile</string>
+    <string name="dlg_select_resolution_title">Selectaţi rezoluţia</string>
+    <string name="dlg_confirm_switch_video_message">În Modul Video partajaţi conţinutul de pe ecran numai prin dongle . \nConexiunea curentă trebuie întreruptă pentru a comuta între moduri. \nContinuaţi?</string>
+    <string name="dlg_rename_title">Redenumiţi dispozitivul</string>
+    <string name="dlg_confirm_disconnect_message">Deconectaţi?</string>
+    <string name="toast_not_paired">Operaţie disponibilă numai pentru dispozitivele conectate</string>
+    <string name="dlg_confirm_switch_audio_message">În modul Audio partajaţi fişiere audio numai prin dongle. Înainte de a trece la modul Audio, confirmaţi că este acceptat de dongle-ul dvs., altfel conectarea va eşua. \nConexiunea curentă trebuie întreruptă pentru a comuta între moduri. \nContinuaţi?</string>
+    <string name="dlg_confirm_forget_message">Eliminaţi acest dispozitiv din lista de dispozitive conectate?</string>
+    <string name="preference_settings_meeting_mode_title">Mod Întâlnire</string>
+    <string name="preference_settings_tutor_title">Tutorial</string>
+    <string name="dlg_confirm_meeting_mode_message">Apelurile sunt limitate în modul Întâlnire, iar SMS-urile sunt afişate automat în prim-plan. Activaţi modul Întâlnire?</string>
+</resources>

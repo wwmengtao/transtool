@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wallpaper_instructions">تنظیم تصویر زمینه</string>
+    <string name="crop_wallpaper">برش تصویر زمینه</string>
+    <string name="wallpaper_load_fail">بارگیری تصویر به عنوان تصویر زمینه انجام نشد</string>
+</resources>

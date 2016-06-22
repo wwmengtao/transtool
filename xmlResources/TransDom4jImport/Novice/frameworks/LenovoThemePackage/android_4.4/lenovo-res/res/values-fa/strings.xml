@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+    <string name="storage_sd_card">"کارت SD"</string>
+    <string name="storage_usb">"حافظه USB"</string>
+    <string name="storage_phone">حافظه تلفن</string>
+    <string name="storage_external_usb">حافظه USB خارجی</string>
+    <string name="default_string">"پیش فرض"</string>
+    <string name="capital_on">"روشن"</string>
+    <string name="capital_off">"خاموش"</string>
+    <string name="global_action_reboot">"راه اندازی مجدد"</string>
+    <string name="reboot_confirm_title">"راه اندازی مجدد"</string>
+    <string name="silent_mode_silent">"بیصدا"</string>
+    <string name="silent_mode_vibrate">جلسه</string>
+    <string name="silent_mode_normal">عمومی</string>
+    <string name="silent_mode_outdoor">فضای باز</string>
+    <string name="captive_portal_dialog_title">"ورود به شبکه WLAN"</string>
+    <string name="captive_portal_dialog_button">"ورود به سیستم"</string>
+    <string name="volume_icon_description_ringer">آهنگ زنگ</string>
+    <string name="volume_icon_description_bluetooth">بلوتوث</string>
+    <string name="volume_icon_description_incall">"تماس"</string>
+    <string name="volume_alarm">هشدار</string>
+    <string name="volume_fm">صدای FM</string>
+    <string name="volume_matv">صدای تلويزيون همراه</string>
+    <string name="volume_icon_description_media">"رسانه"</string>
+    <string name="volume_icon_description_notification">اعلان</string>
+    <string name="turn_on_data">روشن کردن</string>
+    <string name="keyguard_password_waring_dlg_title">رمز ورود اشتباه</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">وقتی نمایشگر بي سيم را روشن کنید، بلوتوث خاموش خواهد شد. آیا مایلید ادامه دهید؟</string>
+    <string name="author">"Google"</string>
+    <string name="app_name">کلاسيک</string>
+    <string name="turn_off_data">غيرفعال کردن</string>
+    <string name="long_back_exit_info">خروج</string>
+    <string name="kg_forgot_password_button_text">گذرواژه فراموش شده است</string>
+    <string name="turn_on_mobile_data_warning">برخی از برنامه‌ها ممکن است هزینه اتصال به داده را ایجاد کنند</string>
+    <string name="ext_storage_internal_notification_title">در حال آماده‌سازی حافظه داخلی</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">حالت هواپیما فعال شود؟</string>
+    <string name="msg_shutdown_habit_guess">"اخیراً شما سه مرتبه در طی این مدت دستگاه را خاموش کرده‌اید. 
+آیا مایلید به تنظیمات روشن-خاموش با برنامه بروید؟"</string>
+    <string name="not_support_too_long_string">جستجوی عبارت بسیار طولانی پشتیبانی نمی‌شود</string>
+    <string name="keyguard_password_waring_dlg_remind">لطفاً lenovo را وارد نمایید و برای ادامه روی تأیید کلیک کنید.</string>
+    <string name="keyguard_password_dlg_input_err">خطا در وارد کردن، لطفاً دوباره امتحان کنید</string>
+    <string name="reboot_dialog_msg">"بعد از <xliff:g id="DELAY">^1</xliff:g> ثانیه کلید روشن و خاموش را برای خاموش شدن فشار دهید. 
+برای راه‌اندازی مجدد بعد از خاموش شدن، به فشار دادن دکمه تا ۲ ثانیه ادامه دهید"</string>
+    <string name="keyguard_password_attempts_warning">شما به صورت نادرست سعی کرده‌اید که قفل گوشی را <xliff:g id="number">%d</xliff:g> مرتبه باز کنید.
+       بعد از <xliff:g id="number">%d</xliff:g> تلاش ناموفق دیگر، گوشی به حالت پیش‌فرض کارخانه بازنشانی می‌شود و همه داده‌های کاربر از بین خواهد رفت.</string>
+    <string name="dlg_ipo_confirm_warning">در حالت راه‌اندازی سریع، سیستم به طور کامل خاموش نمی‌شود، لطفاً سیم‌کارت یا کارت حافظه را در این حالت وارد دستگاه نکنید چون ممکن است به کارت آسیب برسد.</string>
+    <string name="dlg_use_ipo_confirm">راه‌اندازی سیستم سریع</string>
+    <string name="prevent_misoperation_message">بالای صفحه را نپوشانید</string>
+    <string name="usb_notification_content">حالت نصب usb و عیب‌یابی adb را انتخاب کنید.</string>
+    <string name="prevent_misoperation_title">حالت ممانعت از سوء عملکرد</string>
+    <string name="powerOnWarning_boot_msg">روشن شدن بعدی: %1$s</string>
+    <string name="reboot_confirm_msg">گوشی شما دوباره راه‌اندازی می‌شود</string>
+    <string name="powerOnWarning_alarm_msg">زنگ ساعت بعدی: %1$s</string>
+    <string name="next_time_no_warning">بار بعد نادیده گرفته شود</string>
+    <string name="ext_storage_external_notification_title">در حال آماده‌سازی حافظه خارجی</string>
+    <string name="captive_portal_dialog_message">پیش از دسترسی به اینترنت باید برای شبکه WLAN کنونی ثبت‌نام کنید، لطفاً ابتدا ثبت‌نام کنید</string>
+    <string name="usb_notification_title">تنظیمات اتصال USB</string>
+    <string name="prevent_misoperation_quit_hint">برای خروج اجباری: کلید \"بازگشت\" + \"افزایش صدا\" را فشار دهید</string>
+    <string name="component">صفحه تماس</string>
+    <string name="description">طرح زمینه Lenovo PhoneApp Snoopy</string>
+</resources>

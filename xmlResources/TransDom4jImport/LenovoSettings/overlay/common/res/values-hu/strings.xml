@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="profile_edit_weaken_help">A hangjelzés hangereje a telefon felvételekor csökken.</string>
+<string name="smart_calling_title">Intelligens hívás</string>
+<string name="character_settings_gestural_hand_category">Egykezes és kézmozdulatok</string>
+<string name="select_subscription">Előfizetés kijelölése</string>
+<string name="wifi_scan_always_available_summary" msgid="7768204638882691453">"A Google helyszolgáltatása és más alkalmazások akkor is kereshetnek hálózatokat, ha a WLAN ki van kapcsolva"</string>
+<string name="whatis_lenovoid_cando_summary"> "korlátlan hozzáférés a különböző alkalmazások, felhőalapú szolgáltatások és egyéb szolgáltatás társításához. Egy kártya elérhető, zárolása feloldva. "</string>
+<string name="enable_traces_title">"Nyomkövetés engedélyezése"</string>
+<string name="wifi_setup_wizard_title" msgid="8242230950011819054">"WLAN hálózat kiválasztása"</string>
+<string name="schpwr_time_invalid">A be-/kikapcsolás ütemezése között legalább %d perc időköznek kell lennie</string>
+<string name="multiwindow_title">"multiwindow"</string>
+<string name="lockscreen_shake_unlock_ctrl_summary">A képernyő zárolásához rázza gyorsan egy irányba a telefont | Súgó</string>
+<string name="show_frame_count_size">Méret</string>
+<string name="character_settings_phone_call_ring_weaken_help_message">A hangjelzés hangereje a telefon felvételekor csökken.</string>
+<string name="gestural_phone_summary">Csúsztassa a képernyőt balra és jobbra a hívások fogadásához | Nyomja a képernyőt felfelé és tartsa nyomva a hívás befejezéséhez</string>
+<string name="teos_settings">Színegyensúly megjelenítése</string>
+<string name="display_effect_of_screen_saturation_title">"Telítettség"</string>
+<string name="lock_wallpaper">Háttérkép zárolása</string>
+<string name="done">"Kész"</string>
+<string name="version_info">Verzióadatok</string>
+<string name="desktop_wallpaper">Asztali háttérkép</string>
+<string name="devices_info_cpu">"CPU：négymagos 2,2 GHz"</string>
+<string name="backup_data_to_device_title">Biztonsági másolat készítése az adatokról másik készülékre</string>
+<string name="smart_call_answer_settings_title">Intelligens hívásfogadás</string>
+<string name="reset_skip_backup_title">Biztonsági mentés kihagyása</string>
+<string name="recovery_data_from_device_title">Adatok helyreállítása másik készülékről</string>
+<string name="roaming_time_settings_category">Nemzetközi roaming beállításai</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"A(z) <xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> összegyűjti az összes beírt szöveget, kivéve a jelszavakat. Ez magában foglalja a személyes adatokat, például a bankkártyaszámokat. A táblagépével való interakciójáról is gyűjthet adatokat."</string>
+<string name="header_category_shortcut_key">PARANCSIKON-FUNKCIÓK</string>
+<string name="multi_sim_settings_summary">Több SIM-kártya beállításainak megadása hanghoz, adatokhoz és SMS-üzenetekhez</string>
+<string name="voice_title">Hang/USSD/MMI</string>
+<string name="never">"Soha"</string>
+<string name="data_usage_metered_body" msgid="4959032833706695848">"Válassza ki azokat a WLAN hálózatokat, amelyek mobil hotspotok. A háttérben futó alkalmazásoknál letilthatja az ilyen hálózatok használatát. Az alkalmazások akár értesíthetik is Önt, mielőtt nagyméretű letöltésekre használnák az ilyen hálózatokat."</string>
+<string name="character_settings_swing_lock_screen_help_message">A képernyő zárolásához rázza meg a telefont</string>
+<string name="global_single_hand_title_v2">Egykezes mikroképernyő</string>
+<string name="products_version">Modell száma</string>
+<string name="wifi_display_summary_on">"Megnyitás</string>
+<string name="multiwindow_divide_settings_summary">Feladatok végzése a telefonon két ablak megnyitásával</string>
+<string name="startup_time_enabled">Ütemezett bekapcsolás</string>
+<string name="wifi_setup_title_connected_network" msgid="1608788657122010919">"Csatlakozva a(z) <xliff:g id="NETWORK_NAME">%s</xliff:g> WLAN hálózathoz"</string>
+<string name="multi_sim_settings_title">Több SIM-kártya beállításai</string>
+<string name="framework_version">Android verziószáma</string>
+<string name="display_effect_of_screen_apply">Alkalmaz</string>
+<string name="character_settings_float_button_help_message">Nyissa meg a parancsikonokat és az alkalmazások panelét a lebegő gombbal.</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"Használja a következő szolgáltatást: <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="wifi_empty_list_wifi_off" msgid="8056223875951079463">"Kapcsolja be a WLAN a hálózatok megjelenítéséhez"</string>
+<string name="mercury_keyboard_title">telefon automatikus elfordítása</string>
+<string name="data_usage_restrict_background" msgid="8447934953579275363">"Ha korlátozza a háttérben zajló mobil adatforgalmat, néhány alkalmazás és szolgáltatás nem fog működni, ha a WLAN nincs engedélyezve."</string>
+<string name="screensaver_timeout_zero_summary">"Soha"</string>
+<string name="still_sleep_ctrl">Intelligens alvó állapot</string>
+<string name="playersTutorial_stoped">Az oktatóprogramot leállították</string>
+<string name="lenovo_exp_title">A Lenovo Experience Programban való részvétel elfogadása</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet" msgid="7132639594296036143">"Ha korlátozza a háttérben futó mobil adatátvitelt, bizonyos alkalmazások és szolgáltatások nem fognak működni, amíg nem kapcsolódik WLAN hálózathoz.\n\nEz a beállítás minden felhasználót érint ezen a táblagépen."</string>
+<string name="set_sms_error">Hiba történt az SMS-előfizetés beállításakor. Az előfizetés nem aktív.</string>
+<string name="lockscreen_face_detection_ctrl_description">A feloldáshoz emelje a telefont az arcához</string>
+<string name="glove_mode">Nagy érintési érzékenységű</string>
+<string name="smart_standby_ctrl_summary">"A képernyő ránézéskor kivilágosodik"</string>
+<string name="battery_action_wifi" msgid="8181553479021841207">"WLAN beállítások"</string>
+<string name="backup_data_summary" msgid="708773323451655666">"Alkalmazásadatok, WLAN jelszavak és egyéb beállítások mentése a Google szervereire"</string>
+<string name="black_screen_settings_flash_mode_off">Bezárás</string>
+<string name="exit">Kilépés</string>
+<string name="gadget_wifi" msgid="4712584536500629417">"WLAN"</string>
+<string name="lockscreen_knock_on_ctrl">Gombvilágítás beállítása</string>
+<string name="gestural_music_summary">Csúsztassa a képernyőt balra és jobbra a zene váltásához | Csúsztassa a képernyőt felfelé és lefelé a hangerő beállításához</string>
+<string name="notificationbar_setings_title">"Értesítési központ"</string>
+<string name="unlock_proximity_ctrl">Zsebben véletlen hívást megakadályozó mód</string>
+<string name="shellt_phone_info_camera">"8 millió"</string>
+<string name="wifi_scan_notify_text_location_off" msgid="6323983741393280935">"Az alkalmazások még akkor is megkereshetik a közeli hálózatokat, ha a WLAN ki van kapcsolva. Ha nem szeretné ezt, állítsa át a Speciális &gt; A keresés mindig elérhető beállítást."</string>
+<string name="location_neighborhood_level_wifi" msgid="4234820941954812210">"Helymeghatározás WLAN-vel"</string>
+<string name="teos_settings_title">Színegyensúly megjelenítése</string>
+<string name="tilt_scroll_control_summary">Ha ez az opció be van kapcsolva, a döntve görgetés funkciót támogató felületek a telefon megdöntése esetén automatikusan balra/jobbra gördülnek</string>
+<string name="wifi_setting_sleep_policy_title" msgid="5149574280392680092">"Tartsa bekapcsolva a WLAN alvó üzemmódban"</string>
+<string name="location_consent_dialog_title">A hely hozzájárulása</string>
+<string name="devices_info_runMemory">"RAM: 2,0 GB</string>
+<string name="reset_backup_befor_reset_summary">A visszaállítás előtt készítsen biztonsági másolatot a fontos adatokról, például a partnerekről</string>
+<string name="wifi_advanced_titlebar" msgid="4485841401774142908">"Haladó WLAN"</string>
+<string name="personal_hotspot">"Átjátszó"</string>
+<string name="save_power_summary">"A rendszerébresztési időpont igazításához szükséges alkalmazások kiválasztása"</string>
+<string name="internal_storage_app">Belső alkalmazás tárolóhely</string>
+<string name="category_smart">Intelligens</string>
+<string name="show_frame_count_y_coordinate">Y-koordináta</string>
+<string name="fast_poweron_next_time">A következő alkalommal gyors indítás</string>
+<string name="black_screen_camera_gallery_title"> "Előnézet mód" </string>
+<string name="data_usage_tab_slot2">2. bővítőhely</string>
+<string name="data_usage_tab_slot1">1. bővítőhely</string>
+<string name="show_frame_count_ok_button_text">"OK"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen_summary">Kikapcsolt állapotban érintse meg kétszer a képernyőt a telefon felébresztéséhez</string>
+<string name="black_screen_camera_fast_title"> "Kamera mód" </string>
+<string name="sel_sub_summary">Válassza ki a SIM-1 és SIM-2 előfizetés lehetőséget</string>
+<string name="character_settings_single_hand_help_message">Rajzoljon egy "c" betűt a képernyő felső szélétől az alsó széle felé haladva az egykezes mikro-képernyő előhívásához.</string>
+<string name="wifi_setup_wizard_next">"Tovább"</string>
+<string name="lenovo_exp_content">"Csak a CN támogatása"</string>
+<string name="character_settings_shortcuts_category">Parancsikon módszerek</string>
+<string name="gestural_summary">Kézmozdulatokkal távolról is lehet vezérelni a telefont</string>
+<string name="profile_edit_weaken_title">Hangjelzés hangerejének csökkentése</string>
+<string name="character_settings_help_category_title">"Súgó"</string>
+<string name="profile_settings">"Hang"</string>
+<string name="black_screen_settings_shortcut_quick_shots_summary">A képernyő kikapcsolt állapotában a Home gombra kétszer kattintva készíthet képeket</string>
+<string name="global_single_hand_title">Egykezes üzemmód</string>
+<string name="startup_shutdown_time_errmsg">A be- és kikapcsolás között eltelt idő nem lehet hosszabb 10 percnél, végezze el újra a beállítást.</string>
+<string name="still_sleep_ctrl_summary">Ha a telefont vízszintes helyre rakja, automatikusan átmegy alvó állapotba</string>
+<string name="enable_schpwr">Engedélyezés</string>
+<string name="save_power_wait_message">"Alkalmazások betöltése"</string>
+<string name="schpwr_power_on">"be"</string>
+<string name="reboot_progress">Újraindítás\u2026</string>
+<string name="recovery_data_title">Adatok helyreállítása az SD-kártyán lévő biztonsági másolatról </string>
+<string name="day">"1 nap"</string>
+<string name="multiwindow_settings_summary">Multi-Window engedélyezése</string>
+<string name="service_background_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> alkalmazás ingyenes"</string>
+<string name="mercury_keyboard_summary">A billentyűzet igazodik a telefon tájolásához, hogy megkönnyítse az egykezes használatot | Súgó</string>
+<string name="save_power_count">"Összesen <xliff:g id="NUMBER">%d</xliff:g> alkalmazás van igazítva"</string>
+<string name="lockscreen_face_detection_ctrl">Arcfelismeréses feloldás</string>
+<string name="fuse_backup_data_description">"A telefonja gyári visszaállítása előtt készítsen biztonsági mentést a partnereiről, képeiről, üzeneteiről, alkalmazásairól és egyéb fontos adatairól"</string>
+<string name="settings_header_ringtone_k7">"Csengőhang beállításai"</string>
+<string name="gestural_image_summary">Csúsztassa a képernyőt balra és jobbra a képek közötti váltáshoz | Csúsztassa a képernyőt felfelé és lefelé a speciális effektusok közötti váltáshoz</string>
+<string name="wifi_starting" msgid="6732377932749942954">"WLAN bekacsolása..."</string>
+<string name="memory_info">RAM</string>
+<string name="set_dds_failed">Hiba történt az adat-előfizetés beállításakor.  Töröljön ki minden meglévő adatkapcsolatot, majd próbálja meg újra.</string>
+<string name="device_section_title">Eszköz</string>
+<string name="wave_not_screenoff_title">Nincs kikapcsolás intésre</string>
+<string name="wifi_setup_eap_not_supported" msgid="1955087534276570962">"A beállítás során nem állíthat be EAP WLAN kapcsolatot. Ezt a beállítás után a Beállításokban teheti meg, a Vezeték nélküli és egyéb hálózatok menüpontban."</string>
+<string name="gestural_phone">Válaszolás kézmozdulatokkal</string>
+<string name="lock_title" product="tablet">"A telefon védelme"</string>
+<string name="character_settings_pocket_mode_help_message">A csengőhang automatikusan hangosabb lesz, amikor a telefon a zsebében van.</string>
+<string name="global_action_meeting">"Rezgés"</string>
+<string name="wifi_tether_checkbox_text" msgid="1847167643625779136">"Hordozható WLAN hotspot"</string>
+<string name="unlock_set_unlock_speech_title">Hangkioldás</string>
+<string name="slide_unlock_help">Ha a képernyő ki van kapcsolva, a feloldásához csúsztasson a képernyő alján balra vagy jobbra. Ez a funkció befolyásolja a készenléti energiafogyasztást.</string>
+<string name="character_settings_intelligent_category">Intelligens vezérlés</string>
+<string name="black_screen_settings_broswer_summary">Rajzoljon egy "e" betűt a képernyőre</string>
+<string name="incoming_call_ringer_title1">"Bejövő hívás csengőhangja (1)"</string>
+<string name="incoming_call_ringer_title2">"Bejövő hívás csengőhangja (2)"</string>
+<string name="safety_information">Biztonsági információ</string>
+<string name="color_light_hasopen">Be</string>
+<string name="nfc_beam_transmit">Android-os továbbítás</string>
+<string name="wifi_empty_list_wifi_on" msgid="8746108031587976356">"WLAN hálózatok keresése..."</string>
+<string name="multiwindow_smart_settings">Intelligens Multi-Window</string>
+<string name="display_effect_of_screen_contrast_item0">Király</string>
+<string name="display_effect_of_screen_contrast_item1">"Alapértelmezett"</string>
+<string name="black_screen_settings_category_shortcut">Fekete képernyő parancsikonos működés</string>
+<string name="black_screen_settings_music">Zene feloldása</string>
+<string name="unlock_proximity_ctrl_summary">Amikor a telefon a zsebében van, a véletlen műveletek elkerüléséhez használja a közelségi érzékelőt.</string>
+<string name="display_effect_of_screen_contrast_item2">Meleg</string>
+<string name="memory_video_usage">"Videók"</string>
+<string name="timing_startup_and_shutdown_settings_title">Ütemezett be- és kikapcsolás</string>
+<string name="mercury_keyboard_help">Billentyűzet használatakor a méretaránya igazodik a telefon tájolásához, hogy megkönnyítse az egykezes használatot | Súgó Bökjön a képernyőre, amikor a billentyűzet felülete azon a szinten van, hogy aktiválja a telefon automatikus elfordításaet.</string>
+<string name="wifi_wps_setup_title" msgid="8207552222481570175">"WLAN Protected Setup"</string>
+<string name="restriction_wifi_config_title" msgid="8889556384136994814">"WLAN és mobil"</string>
+<string name="other_wallpaper">Egyéb háttérkép</string>
+<string name="show_dev_countdown">Ön távol áll attól, hogy fejlesztő legyen.</string>
+<string name="os_version">Rendszer verziószáma</string>
+<string name="show_frame_count_title">Lépjen be a Kezdőknek szóló oktatóprogramba</string>
+<string name="ringtone_picker_more_ringtones_title">"További csengőhangok &gt;&gt;&gt;"</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"A képernyő bekapcsolásához nyomja meg a hangerő Fel vagy Le gombját | Súgó"</string>
+<string name="crypt_keeper_encrypt_summary" product="default" msgid="514138079795442371">"A telefon titkosításának feloldásához kérjen minden bekapcsoláskor egy számokból álló PIN kódot vagy jelszót"</string>
+<string name="category_single_hand">Egykezes</string>
+<string name="black_screen_settings_shortcut_quick_shots">Csúcssebességű kattintás</string>
+<string name="black_screen_settings_normal">Normál feloldás</string>
+<string name="userguide_title">"Indítási útmutató"</string>
+<string name="black_screen_settings_summary_app_selected">Feloldás <xliff:g id="app">%s</xliff:g></string>
+<string name="character_settings_help_title">Fekete képernyő művelet elérése</string>
+<string name="wifi_setup_title_editing_network" msgid="6020614644556717979">"Csatlakozás a(z) <xliff:g id="NETWORK_NAME">%s</xliff:g> WLAN hálózathoz"</string>
+<string name="never_timeout">Soha nincs készenlétben</string>
+<string name="screensaver_settings_disabled_prompt" msgid="3857507943322777651">"Az Álmodozás bekapcsolásával beállíthatja, hogy mit csináljon a telefon dokkolt vagy alvó állapotban."</string>
+<string name="subscription_02_title">SIM 2</string>
+<string name="category_gesture">Kézmozdulatok</string>
+<string name="accessibility_script_injection_allowed">Engedélyezett</string>
+<string name="airbuse_phone_info_camera">"Elöl 300 000, hátul 5 millió"</string>
+<string name="character_settings_call_voice_category">Hívások és hang</string>
+<string name="lock_title" product="default">A telefon védelme</string>
+<string name="devices_info_memory">"Memória：<xliff:g>%1$s</xliff:g>(szabad)  4 GB(teljes)"</string>
+<string name="wifi_wps_onstart_pin" msgid="223344506445335358">"Írja be a WLAN router PIN kódját (<xliff:g id="NUMBER">%1$s</xliff:g>). A telepítés legfeljebb 2 percet vesz igénybe."</string>
+<string name="enable_traces_summary_all">"Jelenleg minden nyomkövetés engedélyezve van."</string>
+<string name="every_day">mindennap</string>
+<string name="voice_wakeup_title">Hangos ébresztés</string>
+<string name="side_key_backlight_help">A háttérvilágítás bekapcsolásához a hangerő gombját kell megnyomni.</string>
+<string name="set_voice_error">Hiba történt a hangos előfizetés beállításakor. Az előfizetés nem aktív.</string>
+<string name="data_usage_enable_mobile_statistics_dialog">A funkció engedélyezésekor az energiafogyasztás mértéke magas lesz, ha olyan nagy adatátviteli sebességű hálózatot használ, mint az LTE...</string>
+<string name="ota_title">Rendszerfrissítés</string>
+<string name="memory_image_usage">"Képek"</string>
+<string name="hardware_version">Hardververzió</string>
+<string-array name="contrast">
+        <item>Alapértelmezett</item>
+        <item>Magasság</item>
+    </string-array>
+<string name="crypt_keeper_desc" product="default" msgid="7663118199519229502">"Titkosíthatja a fiókjait, beállításait, letöltött alkalmazásait és azok adatait, illetve média- és egyéb fájljait. Ha titkosítja telefonját, akkor minden bekapcsolásakor be kell írnia egy numerikus PIN kódot vagy jelszót a titkosítás feloldásához: telefonjának titkosítását nem tudja visszavonni, kivéve, ha visszaállítja a gyári adatokat, és minden adatot töröl a gépről.\n\nA titkosítás legalább egy órát vesz igénybe. Feltöltött akkumulátorral kezdjen hozzá, és a titkosítás befejeződéséig hagyja töltőn a telefonját. Ha megszakítja a titkosítási folyamatot, akkor elveszíti néhány vagy az összes adatát."</string>
+<string name="china_telcom_push_summary">A China Telecom ingyenes üzenetküldő szolgáltatása</string>
+<string name="color_light_missed_call">Nem fogadott hívások</string>
+<string name="devices_info_products_version">"Model: Lenovo K910"</string>
+<string name="usb_mtp_summary" msgid="4617321473211391236">"Lehetővé teszi a médiafájlok átvitelét Windows alatt, vagy az Android fájlátvitel használatát Macen (tekintse meg a www.android.com/filetransfer webhelyet)"</string>
+<string name="what_lenovoid_cando_title"> "A Társulás megmondja, mit tehetek? "</string>
+<string name="k6kk_phone_info_cpu">"Snapdragon 800 2,2 GHz"</string>
+<string name="smart_answer_incommingcall_summary">A bejövő hívást a felhasználó meghatározott kézmozdulattal fogadhatja</string>
+<string name="gadget_state_template" msgid="5156935629902649932">"<xliff:g id="ID_1">%1$s</xliff:g> <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+<string name="k6kk_phone_info_camera">"Elöl 5 millió, hátul 13 millió"</string>
+<string name="wifi_setup_title" msgid="2970260757780025029">"WLAN beállítása"</string>
+<string name="system_shortcutbar_title">"A rendszer parancssávja"</string>
+<string name="call_ring_pocket_enable_title">"zsebmód"</string>
+<string name="schpwr_shutdown_message_second">"A készüléke <xliff:g id="second">%s</xliff:g> másodperc múlva kikapcsol"</string>
+<string name="smart_rotete_cbox_summary">Intelligens</string>
+<string name="gestural_gesture">Vezérlés kézmozdulatokkal</string>
+<string name="black_screen_settings_quick_shots_three">három kép</string>
+<string name="smart_call_answer_settings_summary">Bejövő hívás automatikus fogadása a készülék fülhöz emelésekor</string>
+<string name="wifi_wps_onstart_pbc" msgid="5940801028985255304">"Nyomja meg a WLAN Protected Setup gombot a routeren. Ennek elnevezése lehet „WPS” is, illetve a következő szimbólum is jelölheti:"</string>
+<string name="crypt_keeper_final_desc" product="default" msgid="5682944380460921880">"A titkosítási művelet visszafordíthatatlan, ha megszakítja, adatai elvesznek. A titkosítás legalább egy órát vesz igénybe, mialatt a telefon többször újra fog indulni."</string>
+<string name="wifi_quick_toggle_summary" msgid="2696547080481267642">"WLAN bekapcsolása"</string>
+<string name="k6kk_phone_info_screen">"Felbontás: 1080*1920, méret: 5,5 hüvelyk"</string>
+<string name="swing_lock_help">A képernyő zárolásához rázza meg a telefont</string>
+<string name="software_version">Szoftver verziószáma</string>
+<string name="header_category_lock_unlock">KÉPERNYŐFUNKCIÓK</string>
+<string name="gestural_gesture_summary">Ha a képernyő érintése nélkül pöccint az ujjával balra\\jobbra\\fel\\le, akkor ennek ugyanolyan hatása van, mintha a képernyő érintésével végezné ezeket. Ez a funkció nem működik zene, videó vagy böngésző kezelőfelületeken.</string>
+<string name="black_screen_settings_quick_shots_six">hat kép</string>
+<string name="wlan_share">"WLAN-megosztás"</string>
+<string name="bottom_shortcutbar_title">"Alsó parancssáv"</string>
+<string name="smart_calling_summary">Amikor egy névjegy részleteinek vagy beszélgetési üzenetnek a felületén van, a telefont a füléhez emelve a készülék automatikusan felhívja az illetőt</string>
+<string name="usage_type_data_wifi_send" msgid="7178327382353096029">"Küldött WLAN adat"</string>
+<string name="double_click_menu_enabled_title">"Hangjelzés a MENÜ gombra történő hosszú kattintáskor"</string>
+<string name="glove_mode_summary">Ha a Nagy érintési érzékenység funkció be van kapcsolva, a képernyő kesztyűben való érintése támogatott</string>
+<string name="gestural_v2">3D kézmozdulatok</string>
+<string name="double_click_home_enabled_title">"Hangjelzés a KEZDET gombra kettős bökéskor "</string>
+<string name="backup_data_section_title">Adatok biztonsági mentése</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"Jelenleg <xliff:g id="NUM">%1$d</xliff:g> nyomkövetés engedélyezett."</string>
+<string name="show_frame_count_summary">Képkockaszám megjelenítése, ha engedélyezve van.</string>
+<string name="wifi_quick_toggle_title" msgid="8850161330437693895">"WLAN"</string>
+<string name="reset_backup_befor_reset_title">Biztonsági másolat készítése az adatokról a visszaállítás előtt</string>
+<string name="restriction_wifi_config_summary" msgid="70888791513065244">"Lehetővé teszi a WLAN és mobilbeállítások módosítását."</string>
+<string name="reboot">"Újraindítás"</string>
+<string name="bluetooth_on_time" msgid="3056108148042308690">"WLAN időben"</string>
+<string name="quicksettings">"gyorsbeállítások"</string>
+<string name="color_light_demo">LED-es bemutató</string>
+<string name="sim_settings_title">SIM-beállítások</string>
+<string name="hours"><xliff:g id="hours">%s</xliff:g> óra</string>
+<string name="save_power_title">"Rendszerébresztési időpont igazítása"</string>
+<string name="header_category_call_message">Hívás és üzenet</string>
+<string name="show_hw_overdraw">"GPU-kitakarás megjelenít."</string>
+<string name="display_effect_of_screen_hue_title">Árnyalat</string>
+<string name="whatis_lenovoid_summary"> "használja mobiltelefonját Lenovo-fiókként, legyen a Társulás tagja. "</string>
+<string name="data_usage_menu_show_wifi" msgid="5056401102877964564">"WLAN forgalom mutatása"</string>
+<string name="master_clear_desc" product="default" msgid="9165016501623540228">"Ez minden adatot töröl a telefon "<b>"belső tárolójáról"</b>", többek között: \n \n"<li>"Google Fiókját"</li>\n<li>"A rendszer- és alkalmazásadatokat és beállításokat"</li>" \n "<li>"A letöltött alkalmazásokat"</li></string>
+<string name="data_summary">Válassza ki az Adathívás előfizetése lehetőséget</string>
+<string name="savepower_all_title">"Összes"</string>
+<string name="black_screen_settings_flash_mode_auto">Automatikus</string>
+<string name="wifi_setting_frequency_band_title" msgid="3655327399028584656">"WLAN frekvenciasáv"</string>
+<string name="hide_recent_settings">a legutóbbi beállítások megjelenítéséhez húzza lefelé</string>
+<string name="showing_color_light">LED-színek megjelenítése</string>
+<string name="reset_skip_backup_summary">Ezt az opciót azoknál az elemeknél jelölje be, amelyek biztonsági másolata már elkészült vagy azoknál, amelyek nem igényelnek biztonsági másolatot</string>
+<string name="wifi_stopping" msgid="8952524572499500804">"WLAN kikapcsolása..."</string>
+<string name="wifi_wps_connected" msgid="7153432445748931183">"Csatlakozva a(z) <xliff:g id="NETWORK_NAME">%s</xliff:g> WLAN hálózathoz"</string>
+<string name="global_action_outdoors">"Kültéri használat"</string>
+<string name="schpwr_shutdown_message">"A készüléke <xliff:g id="seconds">%s</xliff:g> másodperc múlva kikapcsol"</string>
+<string name="overturn_lock_ctrl_summary">"Képernyő zárolása a telefon megfordításával"</string>
+<string name="schedule_power_on_off_time">Idő</string>
+<string name="show_screen_frame_count">Képernyő képkockaszámának megjelenítése</string>
+<string name="timing_startup_head_text">Be</string>
+<string name="wifi_setting_summary">A csatlakoztatott hozzáférési pont helyének megadásakor és GPRS adatokkal rendelkezés esetén，a hely hozzárendelése</string>
+<string name="unsupported_headset_warning" product="default">
+       "Nem támogatott melléklet"
+    </string>
+<string name="overturn_lock_ctrl">Képernyő zárolása megfordítással</string>
+<string name="restart_confirm_question">Szeretné újraindítani?</string>
+<string name="multiwindow_divide_settings">Osztott képernyős Multi-Window</string>
+<string name="backup_data_to_sdcard_title">Biztonsági másolat készítése az adatokról SD-kártyára</string>
+<string name="data_title">Adathívás</string>
+<string name="sim_not_available">A SIM-kártya nem érhető el</string>
+<string name="preference_status_open">"Megnyitva"</string>
+<string-array name="saturation">
+        <item>Lágy</item>
+        <item>Alapértelmezett</item>
+        <item>Fényes</item>
+    </string-array>
+<string name="multiwindow_smart_settings_summary">Ha teljes képernyős videó vízszintes helyzetben való nézése közben kap üzenetet, a telefon függőleges helyzetbe fordításával jeleníthet meg több ablakot, ha egyszerre több feladattal szeretne foglalkozni.</string>
+<string name="user_you_section">"Ön"</string>
+<string name="backup_data_to_sdcard_summary">Biztonsági másolat készítése a telefon adatairól SD-kártyára</string>
+<string name="airbuse_phone_info_runMemory">"1,0 GB"</string>
+<string name="whatis_lenovoid_title"> "A Társulás megmondja, mi ez? "</string>
+<string name="wifi_setup_description_connected" msgid="736032046548460779">"Érintse meg a "<b>"Tovább"</b>" lehetőséget a telepítés folytatásához.\n\nÉrintse meg a "<b>"Vissza"</b>" lehetőséget egy másik WLAN-hálózathoz való csatlakozáshoz."</string>
+<string name="black_screen_face_recognization_title"> "Arcfelismerési mód" </string>
+<string name="minute">"1 perc"</string>
+<string name="unlock_settings_title">"Feloldás"</string>
+<string name="schedule_power_off_set">Kikapcsolás ütemezése</string>
+<string name="location_mode_battery_saving_description" msgid="1728668969743485109">"WLAN és mobilhálózatok használata a tartózkodási hely meghatározásához."</string>
+<string name="black_screen_handler_title"> "Fekete képernyőn végzett kézmozdulatok" </string>
+<string name="wide_touch_float_button_summary">A parancsikonok elérése egyetlen érintéssel</string>
+<string name="black_screen_settings_camera_summary">Rajzoljon egy "c" betűt a képernyőre</string>
+<string name="share_music_a2dp_headphones_control_title">Zenemegosztás vezérlése</string>
+<string name="location_consent_dialog_message">A helymeghatározó szolgáltatás bekapcsolása a névtelen helyadatok összegyűjtéséhez. Néhány adat a készüléken tárolódhat. A gyűjtés akkor is történhet, amikor egyik alkalmazás sem fut.</string>
+<string name="phone_car_mode_title">"Gépkocsi mód"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> perc"</string>
+<string name="global_action_silence">"Némítás"</string>
+<string name="wifi_display_summary_off" msgid="2445210133184740611">"ki"</string>
+<string name="usergudie_button_text">"Adja meg az indítási beállításokat"</string>
+<string name="color_light_hasclose">Kikapcsolva</string>
+<string name="backup_recovery_dialog_message">Leállítja az alkalmazás adatainak biztonsági mentését vagy helyreállítását？</string>
+<string name="ringtone_and_sound_settings">"Csengőhang és hang"</string>
+<string name="charge_stream_min">Az aktuális töltőáram 1500mA </string>
+<string name="k6kk_phone_info_runMemory">"2,0 GB"</string>
+<string name="gestural_broswer">Böngésző vezérlése kézmozdulatokkal</string>
+<string name="black_screen_time_service_title"> "Harangjáték mód" </string>
+<string name="playertutorial_title">Oktatóanyag</string>
+<string name="dtmf_settings_title">"Tárcsázó"</string>
+<string name="status_wifi_mac_address" msgid="2202206684020765378">"WLAN eszköz MAC-címe"</string>
+<string name="timing_shutdown_head_text">"Kikapcsolás"</string>
+<string name="black_screen_settings_vedio_summary">Rajzoljon egy "v" betűt a képernyőre</string>
+<string name="black_screen_time_show_title"> "Megjelenítési mód" </string>
+<string name="subs_settings">SIMS állapota</string>
+<string name="weather_live_wallpaper">Élő időjárási háttérképek</string>
+<string name="data_usage_menu_restrict_systembgdata">A rendszer háttéradatainak engedélyezése</string>
+<string name="gestural_image">Képek vezérlése kézmozdulatokkal</string>
+<string name="location_settings_title" msgid="1369675479310751735">"Tartózkodási hely"</string>
+<string name="phone_info_unset">A telefon paraméterei nincsenek beállítva</string>
+<string name="wifi_menu_p2p" msgid="7619851399250896797">"WLAN Direct"</string>
+<string name="wide_touch_float_button">Széles érintés</string>
+<string name="wifi_empty_list_user_restricted" msgid="8280257225419947565">"Nincs jogosultsága a WLAN hálózat módosítására."</string>
+<string name="airbuse_phone_info_cpu">"Qualcomm MSM8612 4*1,2 GHz"</string>
+<string name="schpwr_power_off">"ki"</string>
+<string name="fuse_backup_data_to_cloud_title">Biztonsági másolat mentése az adatokról a felhőbe</string>
+<string name="double_click_menu_enabled_description">"Hangjelzés szolgáltatás (a MENÜ gombra történő) hosszú kattintáskor"</string>
+<string name="display_effect_of_screen_sharpen_item0">"Alapértelmezett"</string>
+<string name="enable_traces_dialog_title">"Eng. nyomkövetés kivál."</string>
+<string name="display_effect_of_screen_sharpen_item1">"Élesítés"</string>
+<string name="global_action_general">"Szokásos"</string>
+<string name="backup_data_description">"A telefonja gyári visszaállítása előtt készítsen biztonsági mentést a partnereiről és egyéb fontos adatairól"</string>
+<string name="all_setings_title">"Rendszerbeállítások"</string>
+<string name="wifi_tether_failed_subtext" msgid="1484941858530919002">"A hordozható WLAN hotspottal kapcsolatos hiba"</string>
+<string name="enable_traces_summary_none">"Jelenleg nincs engedélyezett nyomkövetés."</string>
+<string name="black_screen_settings_camera">Kamera zárolásának feloldása</string>
+<string name="call_ring_pocket_enable_summary">"Hívás hangerejének felfokozása, ha a telefon zseb vagy tok módban van"</string>
+<string name="wifi_display_summary_disabled" msgid="5318394806146587849">"Letiltva"</string>
+<string name="data_usage_enable_mobile_statistics">Adatstatisztika</string>
+<string name="touch_free_phone">Ingyenes hívás </string>
+<string name="double_click_home_enabled_description">"Hangjelzés szolgáltatás (a MENÜ gombra történő) hosszú kattintáskor"</string>
+<string name="black_screen_settings_quick_shots_eight">nyolc kép</string>
+<string name="black_screen_settings_vedio">Videó feloldása</string>
+<string name="backup_data_to_device_summary">Adatok küldése másik készülékre a SHAREit segítségével</string>
+<string name="disable_schpwr">Letiltás</string>
+<string name="fuse_backup_data_to_cloud_summary">A telefon adatainak biztonsági mentése felhőbe</string>
+<string name="lll_pbtn_alert">"A készülék leállításához <xliff:g id="COUNT_DOWN_TIME">%1$s</xliff:g> másodpercig tartsa lenyomva a Főkapcsoló gombot..."</string>
+<string name="profile_edit_pocket_help">"Hívás hangerejének felfokozása, ha a telefon zseb vagy tok módban van"</string>
+<string name="monotype_preference_title">Betűstílus</string>
+<string name="call_ring_weaken_enable_title">Hangjelzés hangerejének csökkentése</string>
+<string name="subscription_01_title">SIM 1</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> nap"</string>
+<string name="wifi_switch_summary">Azokhoz a WLAN hálózatokhoz, amelyekhez korábban már csatlakozott, a tartományukban automatikusan csatlakozik, ha internetes adatkapcsolata van, hogy folytathassa az adatfelhasználást.</string>
+<string name="airplane_open_confirm">"Repülőgépi mód"</string>
+<string name="smart_standby_ctrl">"Intelligens készenlét"</string>
+<string name="display_effect_of_screen_sharpen_title">Élesség</string>
+<string name="devices_info_camera">"Kamera ：Elöl 5 millió, hátul 13 millió"</string>
+<string name="close_home_landscape_title">Vízszintes képernyő esetén a Home gomb letiltva” funkció</string>
+<string name="schedule_power_on_off_set">Be-/kikapcsolás ütemezése</string>
+<string name="flip_screen_control_title">Fordítsa át a képernyőt a vezérléshez</string>
+<string name="display_effect_of_screen_cancel">"Mégse"</string>
+<string name="devices_info_screen">"Képernyő: 1080*1920   5,5 hüvelykes"</string>
+<string name="character_settings_side_key_backlight_screen_help_message">A háttérvilágítás bekapcsolásához a hangerő gombját kell megnyomni.</string>
+<string name="poweron_nosim">Nem található SIM-kártya</string>
+<string name="shellt_phone_info_screen">"Felbontás: 720 P, méret: 6,0 hüvelyk"</string>
+<string name="location_mode_high_accuracy_description" msgid="6418936349431602808">"GPS, WLAN és mobilhálózatok használata a tartózkodási hely meghatározásához"</string>
+<string name="track_frame_time_summary">"Renderelési idő mérés ADB shell dumpsys gfxinfoban"</string>
+<string name="font_settings_title">"Betűkészlet-beállítások"</string>
+<string name="voice_wakeup_summary">A rendszer beszédhanggal felébreszthető</string>
+<string name="smart_answer_incommingcall_title">Intelligens hívásfogadás</string>
+<string name="wifi_required_info_text" msgid="4080969509965288881">"A telepítés befejezéséhez a táblagépnek WLAN hálózatra van szüksége. A beállítás után válthat a mobil adatforgalom és a WLAN között."</string>
+<string name="gestural_ebook">E-könyvek vezérlése kézmozdulatokkal</string>
+<string name="character_settings_black_screen_help_message">Hagyományos feloldás: a feloldásához csúsztasson a képernyő alján balra vagy jobbra. Belépés az alkalmazásba: oldja fel a kamera zárolását, és rajzoljon egy "C" betűt a képernyőre. Ez a funkció befolyásolja a készenléti energiafogyasztást.</string>
+<string name="charge_stream_max">Az aktuális töltőáram 2000 mA </string>
+<string name="power_off">Kikapcsolás megerősítése</string>
+<string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"A helymeghatározás pontosságának javítása és egyéb célok érdekében a(z) <xliff:g id="APP_NAME">%1$s</xliff:g> szeretné engedélyezni a hálózatkeresést még kikapcsolt WLAN mellett is.\n\nEngedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni?"</string>
+<string name="global_single_hand_summary">Hagyományos egykezes használat</string>
+<string name="set_data_subscription_progress">Adat-előfizetés beállítása folyamatban</string>
+<string name="color_light">LED-es figyelmeztetés</string>
+<string name="knock_light_title">Kettős érintésű képernyő-felébresztés</string>
+<string name="show_frame_count_x_coordinate">X-koordináta</string>
+<string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> hordozható WLAN hotspot"</string>
+<string name="service_foreground_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> alkalmazás használatban van"</string>
+<string name="tilt_scroll_control_title">Döntve görgetés</string>
+<string name="roaming_time_settings_zone">Ajánlott időzóna</string>
+<string name="volume_title">"Hangerő"</string>
+<string name="black_screen_settings_summary">Fekete képernyő alatt feloldhatja a zárolást, és gyorsan indíthat alkalmazásokat</string>
+<string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"Nincs a zárolási képernyőhöz tartozó PIN kód vagy jelszó"</string>
+<string name="wifi_setup_wizard_skip">"Kihagyás"</string>
+<string name="hour">1 óra</string>
+<string name="black_screen_settings_flash_mode">Vaku</string>
+<string name="lock_intro_message" product="default">Védje telefonját a jogosulatlan használat ellen személyes képernyőzár-feloldási minta létrehozásával. Az ujja csúsztatásával kössön össze legalább négy pontot bármilyen sorrendben a következő képernyőn.
+        \n\nKészen áll a kezdésre? Érintse meg a következőt.
+    </string>
+<string name="gestural">Vezérlés kézmozdulatokkal</string>
+<string name="preference_status_unknown">Ismeretlen</string>
+<string name="simple_settings">Útmutató kezdők számára</string>
+<string name="startup_confirm_auto_shutdown">A mobiltelefon %s másodperc múlva kikapcsol.</string>
+<string name="A_gps_summary"> a segédadatok felhasználásával gyorsítsa fel a GPS szolgáltatással történő helymeghatározás rögzített idejét</string>
+<string name="safety_information_content">Ha szeretné frissíteni a telefonja rendszerét, kérjük, lépjen kapcsolatba a hivatalos Lenovo    értékesítés utáni szolgáltatási hálózattal, vagy használja a Lenovo telefonján található rendszerfrissítő funkciót. Ellenkező esetben a készülékhibához vagy adatvesztéshez vezethet, továbbá a rendszer biztonsági funkcióit is megsemmisítheti, és biztonsági kockázatot okozhat.</string>
+<string name="color_light_other_summary">Egyebek</string>
+<string name="incoming_call_ringer_title">"Hívásra figyelmeztető hangjelzés"</string>
+<string name="unlock_set_unlock_speechpwd_title">"A védelemhez használjon hangos jelszót és mintát"</string>
+<string name="display_effect_of_screen_contrast_title">Kontraszt</string>
+<string name="crypt_keeper_dialog_need_password_message" msgid="4071395977297369642">"Be kell állítani egy zárolási képernyőhöz tartozó PIN kódot vagy jelszót a titkosítás megkezdése előtt."</string>
+<string name="accessibility_script_injection_button_disallow">"Tiltás"</string>
+<string name="character_settings_mercury_keyboard_help_message">Billentyűzet használatakor a méretaránya igazodik a telefon tájolásához, hogy megkönnyítse az egykezes használatot | Súgó Bökjön a képernyőre, amikor a billentyűzet felülete azon a szinten van, hogy aktiválja a telefon automatikus elfordításaet.</string>
+<string name="startup_confirm_airplane_turn_off">Kilép a repülőgépi módból?</string>
+<string name="wifi_access_points" msgid="7053990007031968609">"WLAN hálózatok"</string>
+<string name="header_category_personalcustom">Testreszabás</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"Az OK gomb megnyomásával leállítja a következőt: <xliff:g id="SERVICE">%1$s</xliff:g>"</string>
+<string name="unlock_set_unlock_speechnormal_title">"Zárolás gyors feloldása hanggal"</string>
+<string name="headset_play_mms_enabled_title">"MMS lejátszása fülhallgatóval"</string>
+<string name="black_screen_notification_title"> "Olvasatlan üzenetre figyelmeztető rezgési mód" </string>
+<string name="set_dds_error">Hiba történt az adatelőfizetés beállításakor.</string>
+<string name="shutdown_time">Kikapcsolás időpontja:</string>
+<string-array name="alarm_set">
+        <item>A bekapcsolás mostantól kevesebb, mint 1 percre van beállítva.</item>
+        <item>A bekapcsolás mostantól <xliff:g id="DAYS">%1$s</xliff:g> napra van beállítva.</item>
+        <item>A bekapcsolás mostantól <xliff:g id="HOURS">%2$s</xliff:g> órára van beállítva.</item>
+        <item>A bekapcsolás mostantól <xliff:g id="DAYS">%1$s</xliff:g> napra és <xliff:g id="HOURS">%2$s</xliff:g> órára van beállítva.</item>
+        <item>A bekapcsolás mostantól <xliff:g id="MINUTES">%3$s</xliff:g> percre van beállítva.</item>
+        <item>A bekapcsolás mostantól <xliff:g id="DAYS">%1$s</xliff:g> napra és <xliff:g id="MINUTES">%3$s</xliff:g> percre van beállítva.</item>
+        <item>A bekapcsolás mostantól <xliff:g id="HOURS">%2$s</xliff:g> órára és <xliff:g id="MINUTES">%3$s</xliff:g> percre van beállítva.</item>
+        <item>A bekapcsolás mostantól <xliff:g id="DAYS">%1$s</xliff:g> napra, <xliff:g id="HOURS">%2$s</xliff:g> órára és <xliff:g id="MINUTES">%3$s</xliff:g> percre van beállítva.</item>
+        <item>A kikapcsolás mostantól kevesebb, mint 1 percre van beállítva.</item>
+        <item>A kikapcsolás mostantól <xliff:g id="DAYS">%1$s</xliff:g> napra van beállítva.</item>
+        <item>A kikapcsolás mostantól <xliff:g id="HOURS">%2$s</xliff:g> órára van beállítva.</item>
+        <item>A kikapcsolás mostantól <xliff:g id="DAYS">%1$s</xliff:g> napra és <xliff:g id="HOURS">%2$s</xliff:g> órára van beállítva.</item>
+        <item>A kikapcsolás mostantól <xliff:g id="MINUTES">%3$s</xliff:g> percre van beállítva.</item>
+        <item>A kikapcsolás mostantól <xliff:g id="DAYS">%1$s</xliff:g> napra és <xliff:g id="MINUTES">%3$s</xliff:g> percre van beállítva.</item>
+        <item>A kikapcsolás mostantól <xliff:g id="HOURS">%2$s</xliff:g> órára és <xliff:g id="MINUTES">%3$s</xliff:g> percre van beállítva.</item>
+        <item>A kikapcsolás mostantól <xliff:g id="DAYS">%1$s</xliff:g> napra, <xliff:g id="HOURS">%2$s</xliff:g> órára és <xliff:g id="MINUTES">%3$s</xliff:g> percre van beállítva.</item>
+    </string-array>
+<string name="camera_info">Kamera</string>
+<string name="startup_auto_shutdown_title">Automatikus leállítás</string>
+<string name="nfc_not_inservice">Az NFC-adapter nem működik!</string>
+<string name="black_screen_settings_quick_shots_nums">Gyors felvétel(ek)</string>
+<string name="i_know_it">"OK"</string>
+<string name="fuse_recovery_data_from_cloud_summary">Válassza az adatok biztonsági mentését a felhőbe</string>
+<string name="accessibility_script_injection_button_allow">"Engedélyezés"</string>
+<string name="quicksettings_summary">Üdvözöljük a Lenovo telefon használata alkalmából! Kezdje egy gyors beállítással! Önállóan is elvégezheti\n a beállítást a "Rendszerbeállítás" részben.</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl">"Hangerő gomb háttérvilágítása"</string>
+<string name="backup_data">"Adatok biztonsági mentése"</string>
+<string name="fuse_recovery_data_from_cloud_title">Adatok helyreállítása a felhőből</string>
+<string name="shellt_phone_info_cpu">"Qualcomm MSM8926 4*1,2 GHz"</string>
+<string name="still_sleep_title">Még mindig alvó állapotban van</string>
+<string name="usb_ptp_summary" msgid="7673397474756664929">"Lehetővé teszi a fotók átvitelét a fényképezőgép szoftverével, valamint bármely fájl átvitelét olyan számítógépeken, amelyek nem támogatják az MTP-t"</string>
+<string name="color_light_other">Egyéb</string>
+<string name="black_screen_settings_broswer">Böngésző feloldása</string>
+<string name="schedule_power_on_off_repeat">Ismétlés</string>
+<string name="display_effect_of_screen_saturation_item1">"Alapértelmezett"</string>
+<string name="show_frame_count_cancel_button_text">"Mégse"</string>
+<string name="display_effect_of_screen_saturation_item0">Lágy</string>
+<string name="display_effect_of_screen_saturation_item2">Fényes</string>
+<string name="wifi_connect_failed_message" product="default" msgid="2185803140161396572">"A telefon nem tudott csatlakozni ehhez a WLAN hálózathoz."</string>
+<string name="processor_info">Processzor</string>
+<string name="data_usage_metered_wifi" msgid="8540872226614404873">"WLAN hálózatok"</string>
+<string name="shutdown_alarm_confirm">"Az ébresztés időpontja: <xliff:g id="ALARM_TIME">%1$s</xliff:g>."</string>
+<string name="wave_wakeup_title">Rezgéses ébresztés</string>
+<string name="voice_summary">Válassza ki a Hanghívás előfizetése lehetőséget</string>
+<string name="wifi_tether_configure_ap_text" msgid="7974681394041609308">"WLAN hotspot beállítása"</string>
+<string name="black_screen_settings_normal_summary">Csúsztasson végig a képernyő alján balról jobbra a feloldáshoz</string>
+<string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Az összes felhasználói adat</xliff:g> (többek között a zenék, képek és egyéb felhasználói adatok) törlődik a <xliff:g>belső tárolóból</xliff:g>. A telefon alaphelyzetbe állítása előtt készítsen biztonsági másolatot az adatairól."</string>
+<string name="wifi_p2p_settings_title" msgid="5444461191435291082">"WLAN Direct"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen">Érintse meg a képernyő világításának a bekapcsolásához</string>
+<string name="flip_screen_control_summary">A készüléket képernyővel lefelé vagy felfelé fordítva kapcsolhatja be vagy ki a képernyőt</string>
+<string name="wifi_setup_title_connecting_network" msgid="5572226790101017822">"Csatlakozás a(z) <xliff:g id="NETWORK_NAME">%s</xliff:g> WLAN hálózathoz..."</string>
+<string name="screen_info">Képernyő</string>
+<string name="startup_time">Bekapcsolás időpontja:</string>
+<string name="keyboard_lights_title">Érintse meg a Világítás gombot</string>
+<string name="wifi_poor_network_detection_summary" msgid="7843672905900544785">"Csak akkor használjon WLAN hálózatot, ha jó internetkapcsolatot tud biztosítani."</string>
+<string name="muti_window_summary">Megjelenít egy másik ablakot a kijelölt alkalmazásokhoz</string>
+<string name="credentials_configure_lock_screen_hint" msgid="6757119179588664966">"Be kell állítania a zárolási képernyő PIN kódját vagy jelszavát, mielőtt használhatná az azonosítótárolót."</string>
+<string name="shellt_phone_info_runMemory">"1,0 GB"</string>
+<string name="roaming_time_settings_time_display">Időkijelző program</string>
+<string name="header_category_other">"Egyéb"</string>
+<string name="data_usage_metered_wifi_disabled" msgid="5502020778468643732">"A mobil hotspotok kiválasztásához kapcsolja be a WLAN."</string>
+<string name="recovery_data_section_title">Adatok helyreállítása</string>
+<string name="gestural_ebook_summary">Csúsztassa a képernyőt balra és jobbra az e-könyvek lapozásához</string>
+<string name="auto_shutdown_interrupted">Az időzített leállítás megszakadt</string>
+<string name="start_camera_gesture_summary">A kamera gyors indítása kézmozdulattal</string>
+<string name="wifi_connect_failed_message" product="tablet" msgid="4474691090681670156">"A táblagép nem tudott csatlakozni ehhez a WLAN hálózathoz."</string>
+<string name="phone_car_mode_summary">"Gépkocsi mód beállításai"</string>
+<string name="data_connect_settings_title">Adatkapcsolat</string>
+<string name="still_sleep_summary">Ha a telefon még mindig be van kapcsolva, alvó állapotba kerül</string>
+<string name="theme_settings_title">"Téma"</string>
+<string name="smart_rotete_cbox_title">Képernyő elforgatása</string>
+<string name="recovery_data_from_device_summary">Adatok áthúzása másik készülékről a SHAREit segítségével</string>
+<string name="voice_call_way_title">"Hanghívás módja"</string>
+<string name="gestural_music">Zene vezérlése kézmozdulatokkal</string>
+<string name="color_light_unread_mms">Olvasatlan üzenetek</string>
+<string name="stop_color_light">leállítás</string>
+<string name="save_power_wait_title">"Kérjük várjon"</string>
+<string name="black_screen_settings">Fekete képernyő feloldása</string>
+<string name="savepower_black_title">"Feketelista"</string>
+<string name="set_dds_success">Az adat-előfizetés beállítása sikerült</string>
+<string name="multiwindow_summary">"a többablakos mód támogatása"</string>
+<string name="lock_intro_message" product="tablet">Védje táblagépét a jogosulatlan használat ellen személyes képernyőzár-feloldási minta létrehozásával. Az ujja csúsztatásával kösse össze a pontokat bármilyen sorrendben a következő képernyőn.  Legalább négy pontot kell összekötnie.
+        \n\nKészen áll a kezdésre? Érintse meg a következőt.
+    </string>
+<string name="show_dialog">Ne kérdezze újra</string>
+<string name="close_home_landscape_summary">A Home gomb letiltásához fordítsa meg vízszintesen a telefont</string>
+<string name="airbuse_phone_info_screen">"Felbontás: qHD960*540, méret: 6,0 hüvelyk"</string>
+<string name="shutdown_time_enabled">Ütemezett kikapcsolás</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"A(z) <xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> összegyűjti az összes beírt szöveget, kivéve a jelszavakat. Ez magában foglalja a személyes adatokat, például a bankkártyaszámokat. A telefonnal való interakciójáról is gyűjthet adatokat."</string>
+<string name="black_screen_settings_select_app">Válassza ki a beállítani kívánt alkalmazást</string>
+<string name="incoming_mms_ringer_title">Üzenetre figyelmeztető hangjelzés</string>
+<string name="no_sim_info">A SIM-kártyára vonatkozó információk nem érhetők el.\nA menühöz nem lehet hozzáférni</string>
+<string name="wifi_settings" msgid="29722149822540994">"WLAN"</string>
+<string-array name="hue">
+        <item>Király</item>
+        <item>Alapértelmezett</item>
+        <item>Meleg</item>
+    </string-array>
+<string name="wifi_suspend_optimizations" msgid="1220174276403689487">"WLAN optimalizálása"</string>
+<string name="wifi_on_time" msgid="3208518458663637035">"WLAN időben"</string>
+<string name="recovery_data_summary">Érintse meg az SD-kártya adatai biztonsági mentésének megadásához</string>
+<string-array name="sharpen">
+        <item>Alapértelmezett</item>
+        <item>Élesítés</item>
+    </string-array>
+<string name="wifi_menu_wps_pin" msgid="6426448256268695933">"WPS PIN kód megadása"</string>
+<string name="poweron_emergencycallonly">"Csak segélyhívások"</string>
+<string name="data_usage_disable_mobile_statistics_dialog">A funkció letiltásával kikapcsolja a statisztikákhoz szükséges adatok gyűjtését.</string>
+<string name="wifi_switch_settings_title">WLAN alapú helymeghatározás</string>
+<string name="schedule_power_on_off_settings_title">Be-/kikapcsolás ütemezése</string>
+<string name="gestural_broswer_summary">Csúsztassa a képernyőt felfelé és lefelé a böngésző oldalainak végiggörgetéséhez</string>
+<string name="wifi_scan_notify_text_location_on" msgid="8135076005488914200">"A hely pontosságának javítása és egyéb célok érdekében a Google és más alkalmazások kereshetnek közeli WLAN hálózatokat még akkor is, ha a WLAN ki van kapcsolva. Ha nem szeretné ezt, állítsa át a Speciális &gt; A keresés mindig elérhető beállítást."</string>
+<string name="gestural_vedio_summary">Csúsztassa a képernyőt balra és jobbra a videolejátszás vezérléséhez | Csúsztassa a képernyőt felfelé és lefelé a hangerő beállításához</string>
+<string name="lenovo_recent_settings">Legutóbbi beállítások</string>
+<string name="no_ftp_app">Egyetlen alkalmazás sem támogatja az FTP protokollt</string>
+<string name="accessibility_toggle_script_injection_preference_title">"Webelérhetőség fokozása"</string>
+<string name="phone_info">Telefonadatok</string>
+<string name="sel_sub_title">Előfizetések konfigurálása </string>
+<string name="accessibility_script_injection_disallowed">Nem engedélyezett</string>
+<string name="start_camera_gesture_title">Kameravezérlés kézmozdulattal</string>
+<string name="rotate_type_choose_cancel">"Mégse"</string>
+<string name="lockscreen_knock_on_ctrl_summary">Kattintson duplán a telefon képernyő-megvilágítására</string>
+<string name="airplane_open_confirm_message">Biztos, hogy aktiválja a repülőgépes módot?</string>
+<string name="data_usage_restrict_background_multiuser" product="default" msgid="2642864376010074543">"Ha korlátozza a háttérben futó mobil adatátvitelt, bizonyos alkalmazások és szolgáltatások nem fognak működni, amíg nem kapcsolódik WLAN hálózathoz.\n\nEz a beállítás minden felhasználót érint ezen a telefonon."</string>
+<string name="savepower_white_title">"Fehérlista"</string>
+<string name="lenovoID_registered_title">"Hozzájárulás a mobiltelefon-szám Lenovo-azonosító fiókként történő használatához"</string>
+<string name="mannual">Lépjen be a Kezdőknek szóló oktatóprogramba</string>
+<string name="header_category_personalcustom_k7">"Testreszabott"</string>
+<string name="china_telcom_push_title">China Telecom Yi Push</string>
+<string name="location_network_based" msgid="9134175479520582215">"Hely WLAN és mobilhálózat alapján"</string>
+<string name="header_category_singlehand_settings">"Egykezes használat beállításai"</string>
+<string name="devices_info_buildNumber">"Buildszám: " <xliff:g>%1$s</xliff:g>"</string>
+<string name="location_improve_allow">A WLAN és/vagy a mobilhálózatok által továbbfejlesztett helymeghatározó szolgáltatások</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"Leállítja a következőt: <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="schedule_power_on_set">Bekapcsolás ütemezése</string>
+<string name="lockscreen_shake_unlock_ctrl">Zárolás rázással</string>
+<string name="call_ring_weaken_enable_summary">Automatikusan csökkenti a csengés hangerejét a telefon felvételekor | Súgó</string>
+<string name="wifi_popup_0">WLAN vagy 3G adathálózatra csatlakozáskor kapjak értesítést.</string>
+<string name="wifi_popup_2">WLAN alapú helymeghatározás letiltása</string>
+<string name="wifi_popup_1">Ha a telefon 3G adathasználatban van, és van elérhető WLAN hozzáférési pont, automatikusan arra csatlakozzon.</string>
+<string name="double_click_muti_window_title">Többablakos</string>
+<string name="roaming_settings_title">Roaming beállításai</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"Szeretné, ha az alkalmazások telepíthetnének olyan szkripteket a Google-tól, melyek révén az internetes tartalom még inkább hozzáférhetővé válik?"</string>
+<string name="enter_bright_mode_warning" product="default"> "Nyílt hang, tisztább hívások" </string>
+<string name="character_setings_title">"Funkciók beállításai"</string>
+<string name="backup_recovery_data_summary">Alkalmazás adatainak biztonsági mentése vagy helyreállítása a telefonon</string>
+<string name="wifi_settings_title" msgid="3103415012485692233">"WLAN"</string>
+<string name="security_settings_title">"Biztonsági és zárolási képernyő"</string>
+<string name="black_screen_settings_flash_mode_on">Megnyitott</string>
+<string name="black_screen_settings_quick_shots_one">egy kép</string>
+<string name="leave_bright_mode_warning" product="default"> "A funkció ki van kapcsolva" </string>
+<string name="black_screen_settings_music_summary">Rajzoljon egy "m" betűt a képernyőre</string>
+<string name="quicksettings_title">Gyors beállítás</string>
+<string name="summary_keyboard_lights">Intelligens vezérlés</string>
+<string name="backup_recovery_data_title">Alkalmazás adatainak biztonsági mentése vagy helyreállítása</string>
+<string name="poweron_nouim">Nem található UIM-kártya</string>
+<string name="wifi_suspend_optimizations_summary" msgid="4151428966089116856">"Az akkumulátorhasználat minimalizálása, ha a WLAN be van kapcsolva"</string>
+<string name="gestural_vedio">Videó vezérlése kézmozdulatokkal </string>
+<string name="gadget_toggle_wifi" msgid="319262861956544493">"WLAN beállítás frissítése"</string>
+<string name="backup_data_recovery_section_title">Adatok biztonsági mentése és helyreállítása</string>
+<string name="share_music_a2dp_headphones_control_summary">Zenék megosztása A2dp-eszközre kapcsoló</string>
+<string name="memory_os_size">Az operációs rendszer által elfoglalt terület</string>
+<string name="revert">"Visszavonás"</string>
+<string name="usage_type_data_wifi_recv" msgid="7822328607564241372">"Fogadott WLAN adat"</string>
+<string name="double_click_dock_enabled_title">"Hangjelzés a DOKK terület ikonjára kettős bökéskor"</string>
+<string name="color_light_battery">Akkumulátor</string>
+<string name="internal_version">Belső verziószám</string>
+<string name="preference_status_close">Bezárva</string>
+<string name="apn_call_number">PPP telefonszám</string>
+<string name="sound_settings_title">"Hang"</string>
+<string name="set_priority_sub_error">Hiba történt a prioritásos előfizetés beállításakor. Az előfizetés nem aktív.</string>
+<string name="common_setings_title">"Általános beállítások"</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="sms_summary">Válassza ki az SMS-küldési előfizetést</string>
+<string name="devices_info_firmwareVersion">"Android verziója: <xliff:g>%1$s</xliff:g>"</string>
+<string name="wifi_settings_category" msgid="8719175790520448014">"WLAN beállítások"</string>
+<string name="show_hw_overdraw_summary">"Legjobbtól a legrosszabbig: kék, zöld, piros"</string>
+<string name="show_recent_settings">húzza felfelé a beállítások elrejtéséhez</string>
+<string name="global_action_restart">"Újraindítás"</string>
+<string name="color_light_call">Hívás</string>
+    <string name="eap_sim_aka_airplanemode">EAP-SIM/AKA használatához kapcsolja ki a Repülőgép üzemmódot</string>
+    <string name="wifi_ap_bandwidth_chart_title">Valós idejű adatsebesség</string>
+    <string name="single_hand_title">Egykezes mikro-képernyő</string>
+    <string name="pch_warning_message">Az adatátvitel sebesség romlani fog.</string>
+    <string name="dlg_error_unmount_usb_text" product="default">"Nem lehetett leválasztani az SD-kártyát. Próbálkozzon újra később."</string>
+    <string name="move_success">Áthelyezve! Az alkalmazás egyes részei nem helyezhetők át az alapértelmezett memóriakártyára</string>
+    <string name="AGPS_NOTIFY_ONLY">Helyszínkérés értesítés</string>
+    <string name="agps_str_deny">MEGTAGAD</string>
+    <string name="privacy_backup_userdata_category_title">Adatok biztonsági mentése</string>
+    <string name="usb_ums_without_external_sd_summary">"Nem észlelhető külső memóriakártya, a beépített memóriakártya nem támogatja az U disk módot, ezért az nem használható"</string>
+    <string name="privacy_category_title_cloud">Felhő</string>
+    <string name="wifi_backup_category_title">WLAN biztonsági mentés</string>
+    <string name="display_effect_of_screen_reset">"Alaphelyzet"</string>
+    <string name="double_click_tip">Kattintson ide duplán</string>
+    <string name="ipo_title">Gyorsindítás</string>
+    <string name="authdlg_message">A(z) \'%1$s\' engedélyt kér a következőhöz való csatlakozásra: %2$s.</string>
+    <string name="lockdown_vpn_already_connected">A mindig bekapcsolt VPN már engedélyezett a kapcsolódáshoz.</string>
+    <string name="usb_connect_as_cdrom_category">"Kapcsolódás a következőként: CD-ROM"</string>
+    <string name="wifi_ap_max_connection_title">Maximális kapcsolatszám</string>
+    <string name="launch_main">Alkalmazás indítása főtevékenység által</string>
+    <string name="usbsetting_help_content">1 USB tömegtároló: Lehetővé teszi a fájlátvitelt a számítógépe és az Android készülék USB és SD tárolója között. \n\n
+2. MTP: Lehetővé teszi a fájlok egyidejű kezelését a telefonján és a számítógépén is.
+Megjegyzés: Windows 7 vagy újabb ajánlott. XP használatakor először az illesztőprogramokat telepítse. \n\n
+3. MTP: MTP támogatás nélkül is lehetővé teszi a fényképek átvitelét a számítógépére.
+Megjegyzés: Windows 7 vagy újabb ajánlott. XP használatakor először az illesztőprogramokat telepítse. \n\n
+4. Hibakeresés USB használatával Lehetővé teszi az adatok másolását a számítógép és a készülék között, alkalmazások értesítés nélküli készülékre telepítését és a naplóadatok olvasását. Ez csak fejlesztési célokra szolgál. \n\n
+5. Átjátszás USB használatával: Lehetővé teszi, hogy a készülék a számítógép részére 3G internetkapcsolatot biztosítson. Adatforgalmi költségek felmerülhetnek.</string>
+    <string name="test_area">TESZTELÉSI TERÜLET:</string>
+    <string name="wfd_change_resolution_menu_title">Felbontás módosítása</string>
+    <string name="smart_scene_summary">"Az intelligens átváltás csak helyszín módban működik"</string>
+    <string name="lenovo_system_update">"Rendszerfrissítés"</string>
+    <string name="wifi_ap_reset_OOB_title">A hálózati SSID, biztonság és jelszó alapértelmezettre állítása („dobozból kivéve” WPS-konfiguráció)</string>
+    <string name="mouse_primary_button_title">Elsődleges és másodlagos gomb váltása</string>
+    <string name="wide_touch_summary">A parancsikonok elérése egyetlen érintéssel</string>
+    <string name="try_swing_lock_result_longer">kérjük, próbálja újra: rázza nagyobb távolságban</string>
+    <string name="bluetooth_ask_enablement_ext">A Bluetooth bekapcsolását kérő alkalmazás: <xliff:g>%1$s</xliff:g>.</string>
+    <string name="wifi_ap_reset_OOB">OOB alaphelyzet</string>
+    <string name="side_key_backlight_title">"Hangerő gomb háttérvilágítása"</string>
+    <string name="privacy_restore_userdata_summary">Adatok helyreállítása a tárolóból</string>
+    <string name="swing_lock">Zárolás rázással</string>
+    <string name="default_name">"Alapértelmezett"</string>
+    <string name="gesture_rotete_cbox_summary">Kézmozdulatok</string>
+    <string name="usb_sharing_title">USB internet</string>
+    <string name="wifi_restore_category_title">WLAN visszaállítása</string>
+    <string name="landscape_launcher_none">Nincs</string>
+    <string name="drm_reset_toast_msg">A licencek törlése sikeresen megtörtént.</string>
+    <string name="ringtone_settings">Csengőhangok és a hangerő</string>
+    <string name="network_synchronization_enable_confirm">A Hálózat szinkronizálásához vezeték nélküli adatkapcsolatra van szükség a segédadatok beszerzéséhez, ami további díjakat jelent. Biztosan bekapcsolja a Hálózat szinkronizálása funkciót?</string>
+    <string name="usb_charge_title">Csak töltés</string>
+    <string name="runningapp_stop_dlg_title">Leállítja a szolgáltatást?</string>
+    <string name="sim_remain">(Maradt: <xliff:g id="remains">%d</xliff:g>)</string>
+    <string name="lockscreen_style_default_desc">"Alkalmazások gyors elérése a lezárt képernyőn"</string>
+    <string name="pin_scroll_summary">Ha listát görget felül, álljon meg egy pillanatra és engedje el, a lista rögzül a könnyebb használat érdekében.</string>
+    <string name="AGPS_DEFAULT_STRING">A-GPS alapértelmezett karaktersor</string>
+    <string name="vpn_lockdown_savelogin_error">A mindig bekapcsolt VPN-hez szükséges a belépési adatok elmentése.</string>
+    <string name="smart_call_answer_title">Intelligens hívásfogadás</string>
+    <string name="sim_slot">SIM-nyílás</string>
+    <string name="stop_select_app">"Leállítja a kijelöltet?"</string>
+    <string name="wifi_ap_client_block_title">"Letiltás"</string>
+    <string name="usb_sharing_summary">Windows PC internet megosztása USB-kábelen</string>
+    <string name="current_suffix">"(Aktuális)"</string>
+    <string name="wifi_backup">WLAN konfigurációjának biztonsági mentése</string>
+    <string name="agps_profile_select_Title">SUPL-profil</string>
+    <string name="usb_tether">USB átjátszó</string>
+    <string name="single_hand_summary">A telefon használata egy kézzel</string>
+    <string name="smart_scene_title">Intelligens helyszín funkció</string>
+    <string name="cpu_dtm_summary">A CPU maximális teljesítményének korlátozása az akku kímélése és az eszköz hidegebb működése érdekében.</string>
+    <string name="dlg_confirm_unmount_usb_title" product="default">"SD-kártya leválasztása?"</string>
+    <string name="battery_percent">Akkumulátor százalék</string>
+    <string name="server_lenovo_exp_dialogmsg">Ha megszakítja a Lenovo Experience Program használatát, az alkalmazás egyes részeinek nem lesz megfelelő a működése, és ezzel korlátozottá válhat a termék szolgáltatása és használhatósága. Biztos, hogy megszakítja a szolgáltatás használatát? </string>
+    <string name="apn_port_warning">A port értéke csak 1-65535 lehet!</string>
+    <string name="agps_str_allow">ENGEDÉLYEZ</string>
+    <string name="tethered_ipv4v6">(IPv6 elérhető)</string>
+    <string name="autopop_warning_title">Ne bukkanjon fel legközelebb?</string>
+    <string name="prevent_misoperation_title">Zsebben véletlen hívást megakadályozó mód</string>
+    <string name="default_soft_setting">Alapértelmezett szoftverbeállítások</string>
+    <string name="lockscreen_style_set">Zárolt képernyő beállítása</string>
+    <string name="wifi_backup_ok">Biztonsági másolat rendben!</string>
+    <string name="wifi_backup_failed">Biztonsági mentése nem sikerült.</string>
+    <string name="dlg_default_write_disk0_change_msg">"Az SD tároló választásakor a belső tárolóban telepített alkalmazások nem használhatók, és a készülék újraindul, biztosan átvált az SD tároló használatára?"</string>
+    <string name="MobileNetwork_SIM2_Active">A SIM2 aktív</string>
+    <string name="eap_sim_slot_0">0. SIM-nyílás</string>
+    <string name="smart_standby_ctrl_description">A képernyő ránézéskor kivilágosodik</string>
+    <string name="eap_sim_slot_1">1. SIM-nyílás</string>
+    <string name="auto_rotete_cbox_summary">Automatikus</string>
+    <string name="wifi_restore_ok">Visszaállítás rendben!</string>
+    <string name="auto_time_off">"letiltva"</string>
+    <string name="passpoint_certificate">Tanúsítvány</string>
+    <string name="audio_profile_error">Hiba</string>
+    <string name="dlg_mount_external_sd_summary" product="default">Ha csatlakoztatja az SD-kártyát, elképzelhető, hogy bizonyos megnyitott alkalmazások leállnak.</string>
+    <string name="wifi_channel">Preferált csatorna</string>
+    <string name="agps_str_verify">Ellenőrzés</string>
+    <string name="personal_hotsport_title">"Hotspot"</string>
+    <string name="bluetooth_stop_search_for_devices">Keresés befejezése</string>
+    <string name="phone_model_number">"Telefonmodell"</string>
+    <string name="akp_installer_settings_title">APK telepítő</string>
+    <string name="authdlg_service_pbap">ahhoz, hogy a telefonra letölthesse a névjegyeket</string>
+    <string name="wifi_security_wapi_certificate">WAPI-tanúsítvány</string>
+    <string name="gps_time_sync_attention_gps_off">A GPS által biztosított idő használatához engedélyeznie kell a GPS-t. A GPS-helymeghatározás legfeljebb 1 percet vesz igénybe. Ezenkívül előfordulhat, hogy a GPS nem ad időinformációt a gyenge jel miatt. \n\nBiztosan engedélyezni akarja a GPS-t és várakozik a GPS által biztosított időadatokra?</string>
+    <string name="launch_activitie">Indítás</string>
+    <string name="sd_eject_usbstorage_summary" product="default">"A belső USB-tár leválasztása"</string>
+    <string name="smart_call_answer_summary">Bejövő hívás automatikus fogadása a készülék fülhez emelésekor</string>
+    <string name="tethering_apn_settings_summary">APN beállítása internet-megosztáshoz</string>
+    <string name="hdmi_settings">HDMI-beállítások</string>
+    <string name="try_swing_lock_result_harder">kérjük, próbálja újra: rázza erősebben a mobilt</string>
+    <string name="usb_ums_with_external_sd_summary">"XP ajánlott. Ne a beépített, hanem a külső memóriakártyát használja U disk adattárolóként a fájlok másolásához. "</string>
+    <string name="gemini_data_connection_progress_message">"Kérjük, várjon..."</string>
+    <string name="display_effect_of_screen_toast_title">Ha nem jelöli be az \"Alkalmaz\" gombot, a konfiguráció visszaáll alaphelyzetbe az újraindítás után </string>
+    <string name="privacy_category_title_sd">"SD-kártya"</string>
+    <string name="privacy_backup_userdata_text">Kéri az SMS-einek, névjegyeinek és hívásnaplójának biztonsági mentését a tárolóba?</string>
+    <string name="mobile">Adatkapcsolat</string>
+    <string name="choose_soft_place">Válassza ki a szoftver telepítési helyét</string>
+    <string name="display_smart_standby">Intelligens készenlét</string>
+    <string name="ims_toggle_summary">IP Multimedia Subsystem szolgáltatások nyújtása </string>
+    <string name="bluetooth_ask_establish_connection_ext">"A(z) <xliff:g>%1$s</xliff:g> alkalmazás kíván Bluetoothon keresztül kommunikálni a következővel: <xliff:g>%2$s</xliff:g>."</string>
+    <string name="wifi_advanced_ipv6_address_title">IPv6-cím</string>
+    <string name="clear_motion_summary">Videofolyamatosság-javító</string>
+    <string name="rcse_settings_title">Joyn beállításai</string>
+    <string name="voice_ui_title">Hangvezérlés</string>
+    <string name="bluetooth_ftp_profile_summary_use_for">Használat fájlátvitelhez</string>
+    <string name="select_memory">Alapértelmezet írás-lemez</string>
+    <string name="usb_ums_summary">"XP ajánlott. Lehetővé teszi a fájlok átvitelét a számítógép és az Android USB-tárolója között."</string>
+    <string name="clear_cache_msg">Kitörölve. Felszabadítva <xliff:g>%1$s</xliff:g> memória.</string>
+    <string name="data_usage_more_settings">További beállítások</string>
+    <string name="dlg_confirm_unmount_usb_text" product="default">"Ha leválasztja az SD-kártyát, egyes használatban lévő alkalmazások leállnak, és lehet, hogy addig nem lesznek elérhetők, amíg nem csatlakoztatja újra a kártyát."</string>
+    <string name="cpu_dtm_title">CPU energiatakarékos mód </string>
+    <string name="display_effect_of_screen_dialog_ok">OK</string>
+    <string name="smart_roll_summary">Csúsztassa el a képernyőt a szélétől, hogy megváltoztassa az elrendezést, és másikra váltsa a képernyőt. Az eredeti elrendezéshez visszatéréshez húzza el újra a képernyőt a szélétől.</string>
+    <string name="light_settings">A LED-es figyelmeztetés beállításai</string>
+    <string name="agps_str_notify">Értesítés</string>
+    <string name="unmount_usb_inform_text" product="default">"Az SD-kártya leválasztásra kerül."</string>
+    <string name="agps_OK">"OK"</string>
+    <string name="hotknot_explained_description">Adatcsere engedélyezése, ha a képernyő másik eszközzel érintkezik</string>
+    <string name="wifi_restore_title">WLAN konfigurációjának visszaállítása</string>
+    <string name="security_not_set">A biztonság nincs beállítva</string>
+    <string name="bluetooth_ask_establish_connection">"Egy alkalmazás kíván Bluetoothon keresztül kommunikálni a következővel: <xliff:g>%1$s</xliff:g>."</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">"A(z) <xliff:g>%1$s</xliff:g> kéri a Bluetooth bekapcsolását, mert azon kíván kommunikálni a következővel: <xliff:g>%2$s</xliff:g>."</string>
+    <string name="sd_eject_usbstorage" product="default">"USB-tár leválasztása"</string>
+    <string name="swing_lock_summary">A képernyő zárolásához rázza gyorsan egy irányba a telefont | Súgó</string>
+    <string name="usb_tether_type_title">USB tethering típusa</string>
+    <string name="gesture_series_title">Fekete képernyő művelet</string>
+    <string name="header_category_system_and_key">Helyi menüs működés</string>
+    <string name="wifi_ap_client_ip_label">IP-cím:</string>
+    <string name="wifi_ap_title">Statisztika</string>
+    <string name="gemini_sim_management_title">SIM-beállítások</string>
+    <string name="try_it">Próbálja meg</string>
+    <string name="AGPS_NOTIFY_PRIVACY">Helyszínkérés értesítés (Magán)</string>
+    <string name="pch_call_prefer_summary_on">Hívás előnyben</string>
+    <string name="wifi_hotspot_suspend_optimizations">WLAN-hotspot optimalizálása</string>
+    <string name="network_synchronization_enable_allow">Tovább</string>
+    <string name="wifi_ipv4_address">IPv4-cím</string>
+    <string name="autopop_warning_message">Ha törli ezen elem bejelölését, ez az ablak nem jelenik meg, amikor a telefonját legközelebb a számítógéphez csatlakoztatja. Ebbe az ablakba a rendszerértesítésre kattintva kerülhet. </string>
+    <string name="launch_error">"Az alkalmazás elindítása sikertelen!"</string>
+    <string name="wifi_no_cert_for_wapi">Nem található tanúsítvány a jelenleg kapcsolódó AP-hez</string>
+    <string name="custom_theme_name">Új [%1$s]</string>
+    <string name="passpoint_config_credential_type">Hitelesítő adattípus</string>
+    <string name="smart_roll_title">Intelligens görgetés</string>
+    <string name="tethered_ipv6_title">Hotspot és kapcsolat-megosztás beállításai</string>
+    <string name="display_effect_of_screen_soft">Lágy</string>
+    <string name="wifi_ap_connected_title">Csatlakoztatott felhasználók</string>
+    <string name="tvout_settings">TV-kimenet</string>
+    <string name="side_key_backlight_summary">"A képernyő bekapcsolásához nyomja meg a hangerő Fel vagy Le gombját | Súgó"</string>
+    <string name="authdlg_service_ftp">ahhoz, hogy a telefonon fájlokat továbbíthasson</string>
+    <string name="loading">"Betöltés..."</string>
+    <string name="profile_edit_pocket_title">"zsebmód"</string>
+    <string name="display_effect_of_screen_warm">Meleg</string>
+    <string name="display_effect_of_screen_default">"Alapértelmezett"</string>
+    <string name="wifi_restore_summary">WLAN konfiguráció(fiók/jelszó pl.) visszaállítása a LeCloud felhőből</string>
+    <string name="stop_all_app">"Mindegyik leállítása"</string>
+    <string name="sd_insert_usb_summary" product="default">"Helyezze be az USB-tárat"</string>
+    <string name="dlg_mount_external_sd_title" product="default">Csatlakoztatja az SD-kártyát?</string>
+    <string name="credentials_none">Jogosultságok nem léteznek</string>
+    <string name="privacy_backup_userdata_summary">Adatai biztonsági mentése tárolóba</string>
+    <string name="mtk_thememanager_title">Téma</string>
+    <string name="wifi_ap_bandwidth_enable">Sávszélesség-szabályozás engedélyezése</string>
+    <string name="passpoint_supported">Támogatott</string>
+    <string name="screen_timeout_CU">Alvás</string>
+    <string name="vpn_delete">Biztosan törli?</string>
+    <string name="privacy_backup_userdata_summary_cloud">Adatok biztonsági másolatának mentése felhőbe</string>
+    <string name="bluetooth_advanced_settings">Bluetooth speciális beállítások</string>
+    <string name="gemini_default_sim_never">Ki</string>
+    <string name="bluetooth_profile_ftp">Fájlátvitel</string>
+    <string name="try_swing_lock_info">kérjük, rázással próbálja lezárni a mobilt</string>
+    <string name="network_synchronization_enable_deny">"Mégse"</string>
+    <string name="sim_enter_pin_hints">(4-8 számjegyet adjon meg)</string>
+    <string name="ipo_summary_on">Gyorsindítás letiltása</string>
+    <string name="authorizaion_failed_error">Az engedélyezés nem sikerült. Nem lehet csatlakozni a távoli eszközhöz.</string>
+    <string name="ipo_summary_off">Gyorsindítás engedélyezése</string>
+    <string name="display_settings_scences_title">Jelenetek</string>
+    <string name="runningapp_stop_dlg_text" product="tablet">Ha leállítja ezen szolgáltatásokat, a táblagép
+        néhány szolgáltatása is rosszul működhet, amíg ki nem kapcsolja,
+        majd újra bekapcsolja.</string>
+    <string name="usbsetting_usbmassstorage_wait">Kérjük, várjon...</string>
+    <string name="wifi_WEP_transmit_key">Közvetítési kulcs</string>
+    <string name="move_to_sdcard">Váltás az alapértelmezett memóriakártyára</string>
+    <string name="gps_time_sync_attention_gps_on">A GPS-helymeghatározás legfeljebb 1 percig tart. Emellett előfordulhat, hogy a gyenge környezeti jel miatt a GPS nem szolgáltatja az időt.\n\nBiztosan a GPS-időt akarja használni?</string>
+    <string name="bluetooth_turning_on_failed">Bluetooth bekapcsolása sikertelen</string>
+    <string name="wifi_tether_wps_connect_title">WPS csatlakozás</string>
+    <string name="tether_title">Személyes átjátszó</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Helyszínkérés (Elutasít, ha nincs válasz)</string>
+    <string name="authdlg_auto_reply">Ne kérdezze újra</string>
+    <string name="move_tomemory_success">Áthelyezve!</string>
+    <string name="eap_sim_aka_no_sim_slot_selected">EAP-SIM/AKA használatához válasszon SIM-kártyanyílást</string>
+    <string name="passpoint_summary">Automatikus csatlakozás az áteresztő pontként működő hozzáférési pontokhoz</string>
+    <string name="usb_ums_title">"USB-tár"</string>
+    <string name="usb_bicr_summary">Hasznos szoftvereket tartalmazó virtuális CD-ROM mutatása.</string>
+    <string name="authdlg_service_map">ahhoz, hogy a telefonnal hozzáférhessen az üzenetekhez</string>
+    <string name="server_lenovo_exp_ok">"OK"</string>
+    <string name="slide_unlock_title">Képernyőzár feloldása</string>
+    <string name="authdlg_service_spp">a Bluetooth soros portja ezen a telefonon</string>
+    <string name="display_effect_of_screen_dialog_title">A képernyő újbóli bekapcsolása után hat!</string>
+    <string name="move_select">Áthelyezi a kijelölt alkalmazást? Egyes részek nem helyezhetők át a belső memóriakártyára.</string>
+    <string name="wifi_restore_failed">Visszaállítás sikertelen.</string>
+    <string name="landscape_launcher_title">Landscape indító</string>
+    <string name="usb_sharing_info_title">Internet átmenő</string>
+    <string name="clear_cache">Gyorsítótár egygombos kitörlése</string>
+    <string name="authdlg_service_default">ez a telefon</string>
+    <string name="wifi_tether_auto_disable_title">WLAN hotspot bekapcsolva tartása</string>
+    <string name="wifi_backup_summary">WLAN konfiguráció(fiók/jelszó pl.) biztonsági mentése a LeCloud felhőbe</string>
+    <string name="storage_phone">Beépített tároló</string>
+    <string name="hdmi_audio_toggler">Audió</string>
+    <string name="NI_Request_ID">Igénylő azonosítója</string>
+    <string name="passpoint_config_eap_method">EAP módszer</string>
+    <string name="wifi_ap_wps_mode_title">WPS mód</string>
+    <string name="authdlg_title">Bluetooth-engedélyezés kérése</string>
+    <string name="usb_bicr_title">Beépített CD-ROM</string>
+    <string name="double_click_title">A dupla kattintás sebessége</string>
+    <string name="pin_scroll_title">Görgesse a lista rögzítéséhez</string>
+    <string name="wifi_backup_title">WLAN biztonsági mentés</string>
+    <string name="eap_sim_aka_no_sim_error">EAP-SIM/AKA használatához helyezzen be egy SIM-kártyát</string>
+    <string name="wifi_wps_fail_error">A WLAN Protected Setup sikertelen. Próbálja újra.</string>
+    <string name="bluetooth_ftp_profile_summary_connected">"Csatlakoztatva fájlátvitelhez"</string>
+    <string name="privacy_backup_userdata_title_cloud">Biztonsági mentés felhőbe</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">Akkumulátorhasználat minimális szintre csökkentése, amikor a WLAN-hotspot funkció be van kapcsolva</string>
+    <string name="privacy_restore_userdata_category_title">Adatok helyreállítása</string>
+    <string name="gesture_series_summary">Fekete képernyő alatt feloldhatja a zárolást, és gyorsan indíthat alkalmazásokat</string>
+    <string name="auto_popup">Ne bukkanjon fel</string>
+    <string name="MobileNetwork_SIM1_Active">A SIM1 aktív</string>
+    <string name="move_app_to_where">"Áthelyezés az " <xliff:g id="location">%s</xliff:g>
+  </string>
+    <string name="launch_main_label">Alkalmazás indítása</string>
+    <string name="akp_installer_settings_summary">APK telepítése SD-kártyáról</string>
+    <string name="tv_system_title">TV-képrendszer</string>
+    <string name="NI_Request_ClientName">Kliens neve</string>
+    <string name="profile_edit_pocket_summary">"Hívás hangerejének felfokozása, ha a telefon zseb vagy tok módban van"</string>
+    <string name="profile_edit_weaken_summary">Automatikusan csökkenti a csengés hangerejét a telefon felvételekor | Súgó</string>
+    <string name="privacy_restore_userdata_summary_cloud">Válassza az adatok helyreállítását a felhőből</string>
+    <string name="display_effect_of_screen_cool">Király</string>
+    <string name="lock_screen_notifications_title">Zárolt képernyő értesítések</string>
+    <string name="header_category_call_and_msg">Hívás és üzenet</string>
+    <string name="status_imei_slot1">IMEI(1. nyílás)</string>
+    <string name="wifi_ap_client_details_title">Részletek</string>
+    <string name="server_lenovo_exp_title">A Lenovo Experience Programban való részvétel elfogadása</string>
+    <string name="status_imei_slot2">IMEI(2. nyílás)</string>
+    <string name="header_category_lock_and_screen">Képernyőzár és képernyő</string>
+    <string name="passpoint_append_summary">(az áteresztő ponton keresztül)</string>
+    <string name="lock_screen_style_title">Zárolt képernyő stílusa</string>
+    <string name="privacy_restore_userdata_title_cloud">Helyreállítás a felhőből</string>
+    <string name="app_privacy_settings">Alkalmazás adatvédelmi beállításai</string>
+    <string name="drm_reset_dialog_msg">Ez a művelet törli az eszközön tárolt összes licencet. Folytatja?</string>
+    <string name="wapi_as_certificate">ASE tanúsítvány</string>
+    <string name="erase_external_storage_description_fuse">"Minden adat, például zenék és képek törlése az SD-kártyáról"</string>
+    <string name="wifi_tether_auto_channel_width_text">Auto. 20/40 MHz</string>
+    <string name="bluetooth_security_confirm">"Bluetooth engedély kérése"</string>
+    <string name="slide_unlock_summary">A feloldásához csúsztasson a képernyő alján balra vagy jobbra | Súgó</string>
+    <string name="wifi_tether_auto_channel_text">"Automatikus"</string>
+    <string name="usb_charge_summary">Összes USB funkció leállítása. Ezzel a funkcióval gyorsíthatja az USB-töltést és csökkentheti az energiafogyasztást.</string>
+    <string name="long_menu_active_voice_summary">Ha a képernyő világít, a menügomb hosszan nyomása aktiválja a beszédfunkciót</string>
+    <string name="wifi_ap_time_duration">Időtartam: 
+        <xliff:g id="time">%1$s</xliff:g> 
+    </string>
+    <string name="wifi_ap_client_mac_label">MAC-cím:</string>
+    <string name="wifi_advanced_ipv4_address_title">IPv4-cím</string>
+    <string name="hdmi_video_resolution">Videó felbontás</string>
+    <string name="tethered_ipv4">(IPv6 nem elérhető)</string>
+    <string name="soft_permission">Engedélyek kezelése</string>
+    <string name="authdlg_service_dun">a telefonos hálózati szolgáltatás ezen a telefonon</string>
+    <string name="privacy_backup_userdata_title">Biztonsági mentés a tárolóba</string>
+    <string name="prevent_misoperation_summary">Amikor a telefon a zsebében van, a véletlen műveletek elkerüléséhez használja a közelségi érzékelőt.</string>
+    <string name="tethered_ipv6">(Csak IPv6 elérhető)</string>
+    <string name="wifi_ipv6_address">IPv6-cím</string>
+    <string name="wifi_ap_bandwidth_title">Sávszélesség-használat</string>
+    <string name="tethering_apn_settings_title">APN-beállítások</string>
+    <string name="erase_external_storage_fuse">"SD-kártya törlése"</string>
+    <string name="server_lenovo_exp_summery">Adatok gyűjtése a termékünk és szolgáltatásunk javítása érdekében</string>
+    <string name="usbsetting_usbmassstorage_close">USB tárolóeszköz kiadása</string>
+    <string name="wifi_ap_no_connected">0 csatlakoztatott felhasználók</string>
+    <string name="wifi_channel_width">Csatorna szélessége</string>
+    <string name="dlg_default_write_disk1_change_msg">"A belső tároló választásakor az SD tárolóban telepített alkalmazások nem használhatók, és a készülék újraindul, biztosan átvált a belső tároló használatára?"</string>
+    <string name="wifi_ap_bandwidth_chart_summary">A telefon által mért érték. A szolgáltató adatsebesség-elszámolása eltérhet.</string>
+    <string name="usbsetting_help_title">Súgó</string>
+    <string name="bluetooth_remote_device">Bluetooth-eszköz</string>
+    <string name="long_menu_active_voice">Menügomb hangjának aktiválása</string>
+    <string name="mouse_primary_button_dialog_title">Elsődleges gomb váltása</string>
+    <string name="authdlg_service_decline">Elutasítás</string>
+    <string name="move_select_short">"Kiválasztott elemek áthelyezését alkalmazza?"</string>
+    <string name="display_effect_of_screen_bright">Fényes</string>
+    <string name="hdmi_video_toggler">Videó</string>
+    <string name="wifi_tether_wps_pin_error">Érvénytelen PIN</string>
+    <string name="auto_time_on">"Hálózati támogatás használata"</string>
+    <string name="usb_sharing_info_step_1">"1. Nyissa meg a hálózati kapcsolatokat a Windows PC-n.”</string>
+    <string name="button_brightness">Menügombok háttérfénye</string>
+    <string name="display_default">Megjelenítés</string>
+    <string name="pch_toggle_title">GPRS átvitel előnyben mód</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Helyszínkérés (Engedélyez, ha nincs válasz)</string>
+    <string name="usb_sharing_info_step_3">"3. Kattintson a Megosztás lapfülre, és válassza ki az \'Engedélyezés más hálózati felhasználóknak, hogy csatlakozzanak ennek a számítógépnek az internetkapcsolatán keresztül\' lehetőséget (ha az \'Otthoni hálózati kapcsolat\' felirat megjelenik, válassza ki az újonnan hozzáadott hálózatot, amely az USB-n keresztüli internetelérést jelképezi)."</string>
+    <string name="wifi_ap_wps_pin_title">Gépelje meg az ügyfél által megadott PIN-t</string>
+    <string name="usb_sharing_info_step_2">"2. A jobb egérgombbal kattintson a megosztani kívánt kapcsolatra, majd a tulajdonságok elemre."</string>
+    <string name="runningapp_stop_dlg_text" product="default">Ha leállítja ezen szolgáltatásokat, a telefon
+        néhány szolgáltatása is rosszul működhet, amíg ki nem kapcsolja,
+        majd újra bekapcsolja.</string>
+    <string name="wifi_tether_wps_connect_summary">Válassza a WLAN védett beállítás módot a folytatáshoz</string>
+    <string name="wizard_title">Oktatóanyag</string>
+    <string name="location_settings_label">Helyszín Mérnök mód</string>
+    <string name="sim_status_title">SIM állapot</string>
+    <string name="auto_rotate_type">Képernyő automatikus tájolása</string>
+    <string name="wifi_hex_password">Hexadecimális jelszó.</string>
+    <string name="pch_data_prefer_summary_off">Adat előnyben</string>
+    <string name="wifi_WEP_secury_key">Biztonsági kulcs</string>
+    <string name="passpoint_username_pw">Felhasználónév/jelszó</string>
+    <string name="dlg_default_write_disk_change_msg">Megváltozott az alapértelmezett lemezre írás, újra kell indítani most!</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off" msgid="1225626898926363100">"Az eszközök megtekintéséhez kapcsolja be a vezeték nélküli kijelzőt."</string>
+    <string name="drm_settings_title">DRM alaphelyzet</string>
+    <string name="notification_settings_title">Értesítési központ</string>
+    <string name="wifi_ap_client_unblock_title">Tiltás feloldása</string>
+    <string name="authdlg_service_opp">ez a telefon</string>
+    <string name="display_personalize">Személyre szabás</string>
+    <string name="usb_tethering_select_version">Válassza ki a számítógép verzióját</string>
+    <string name="drm_settings_summary">Törli az összes DRM-licenet</string>
+    <string name="hdmi_settings_summary">Kattintson rá a HDMI konfigurálásához</string>
+    <string name="wifi_ap_no_blocked">0 tiltott felhasználók</string>
+    <string name="smart_rotate_type">Intelligens képernyőtájolás</string>
+    <string name="wifi_tether_setting_title">Alapbeállítások</string>
+    <string name="master_clear_error">" Kérjük, nyissa ki: SYNCit "</string>
+    <string name="tvout_settings_summary">TV-kimenet beállítása</string>
+    <string name="try_swing_lock_result_ok">a módszere helyes</string>
+    <string name="wifi_ap_wps_dialog_title">WPS csatlakozás</string>
+    <string name="authdlg_service_accept">Engedélyezés</string>
+    <string name="dialog_title_button_brightness">Menügombok háttérfénye</string>
+    <string name="move_to_phone">Áthelyezés telefonra</string>
+    <string name="usbsetting_usbmassstorage_open">Csatlakozás az USB tárolóeszközhöz</string>
+    <string name="wide_touch_title">Széles érintés</string>
+    <string name="wifi_ap_blocked_title">Tiltott felhasználók</string>
+    <string name="gesture_rotate_type">Képernyőtájoló mozdulat</string>
+    <string name="sd_mount_usbstorage" product="default">"Az USB-tár csatolása"</string>
+    <string name="vpn_delete_title">"Delete"</string>
+    <string name="wifi_ap_total_data">Felhasznált adatok összesen:
+        <xliff:g id="time">%1$s</xliff:g>
+    </string>
+    <string name="unlock_set_unlock_mode_voice_weak">Hangkioldás</string>
+    <string name="audio_profile_settings_title_lap">Hangprofilok</string>
+    <string name="storage_path0">USB tároló</string>
+    <string name="uninstall_select">Eltávolítja a kijelöltet?</string>
+    <string name="storage_path1">SD tároló</string>
+    <string name="install_local">"Szoftver telepítési helye"</string>
+    <string name="server_lenovo_exp_cancel">"Mégse"</string>
+    <string name="hdmi_auto">"AUTO"</string>
+    <string name="server_lenovo_exp_dlg_title">Figyelmeztetés</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">"Egy alkalmazás kéri a Bluetooth bekapcsolását, mert azon kíván kommunikálni a következővel: <xliff:g>%1$s</xliff:g>."</string>
+    <string name="lock_screen_notifications_summary">Értesítések mutatása a zárolt képernyőn</string>
+    <string name="wapi_user_certificate">Felhasználói tanúsítvány</string>
+    <string name="privacy_restore_userdata_title">Helyreállítás a tárolóból</string>
+
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="wifi_tethering_title">WLAN hotspot</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="dlg_error_unmount_usb_title" product="default">Hiba</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Hiba</string>
+    <string name="summary_lcd_invert">Hiba</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Hiba</string>
+
+    <string name="power_settings">Energiakezelő</string>
+    <string name="multiwindow_settings">Több-ablak</string>
+    <string name="night_mode_summary">Ez az üzemmód éjszakai böngészésre alkalmas, és elképzelhető, hogy néhány alkalmazásban nem lehet megérinteni bizonyos gombokat.</string>
+    <string name="long_press_back_finish_title">Kilépéshez hosszan nyomja a Vissza gombot</string>
+    <string name="night_mode">Éjszakai szemvédelem</string>
+    <string name="long_press_back_finish_summary">Az aktuális programból való kilépéshez hosszan nyomja a Vissza gombot</string>
+    <string name="change_settings_to_all_settings">Váltás a Beállításokra</string>
+    <string name="touch_free_phone_dial">Érintés nélküli tárcsázás</string>
+    <string name="tilt_slide_summary">Balra/jobbra döntés a csúsztatásos böngészéshez</string>
+    <string name="title_lcd_invert">LCD-színek invertálása</string>
+    <string name="change_settings_to_recent">Váltás a Legutóbbi beállításokra</string>
+    <string name="touch_free_phone_answer">Érintés nélküli válasz</string>
+    <string name="recent_settings_empty">Nem történt módosítás a rendszerbeállításokban az utóbbi időben</string>
+    <string name="recent_settings">Legutóbbi beállítások</string>
+    <string name="tilt_slide_title">Megdöntve csúsztatás</string>
+    <string name="display_effect_type_hue_cool">Hideg szín</string>
+    <string name="display_effect_buttom_text_cancel">Mégse</string>
+    <string name="display_effect_mode_default_summary">Gyári alapbeállítások mód az optimális színért.</string>
+    <string name="display_effect_mode_auto_summary">A böngésző-alkalmazástól és -környezettől függően automatikusan vált a módok között.</string>
+    <string name="display_effect_type_hue">Tónus</string>
+    <string name="display_effect_mode_default_title">Alapértelmezett mód</string>
+    <string name="display_effect_mode_comfirtable_title">Kényelmi mód</string>
+    <string name="display_effect_type_hue_default">Normál</string>
+    <string name="display_effect_mode_comfirtable_summary">Védi a szemet, és megfelelő a telefonon való huzamosabb ideig tartó böngészésre.</string>
+    <string name="display_effect_type_hue_warm">Meleg szín</string>
+    <string name="display_effect_type_saturation">Telítettség</string>
+    <string name="display_effect_mode_auto_title">Automatikus mód</string>
+    <string name="display_effect_mode_ultra_bright_summary">Extra fényerő kijelzőeffektus. Ez a mód befolyásolja az energiafogyasztást készenléti módban.</string>
+    <string name="display_effect_type_saturation_default">Normál</string>
+    <string name="display_effect_smart_brightness_title">Intelligens éles fény mód</string>
+    <string name="display_effect_buttom_text_apply">Alkalmaz</string>
+    <string name="display_effect_mode_ultra_bright_title">Extra fényerő mód</string>
+    <string name="display_effect_category_title_commom_mode">Általános mód</string>
+    <string name="display_effect_mode_outdoor_title">Éles fény mód</string>
+    <string name="display_effect_type_contrast_default">Normál</string>
+    <string name="display_effect_type_saturation_bright">Fényes</string>
+    <string name="display_effect_type_contrast">Kontraszt</string>
+    <string name="display_effect_mode_outdoor_summary">Alkalmas kültéri használatra, éles fényviszonyok esetén. Javítja a látási viszonyokat kültéren. Ez a mód befolyásolja a készenléti funkciókat, így az egyszerű felhasználóknak körültekintően kell eljárniuk!</string>
+    <string name="display_effect_category_title_smart">Intelligens</string>
+    <string name="display_effect_mode_custom_title">Egyéni</string>
+    <string name="display_effect_mode_custom_summary">Összes paraméterérték beállítása manuálisan.</string>
+    <string name="display_effect_smart_brightness_summary">Az intelligens technológia megítéli, hogy a telefon mikor van éles fényviszonyok között, és elindítja az éles fény módot. Ez a mód javítja a látási viszonyokat kültéren, éles fényviszonyok esetén.</string>
+<string name="device_info" msgid="3191876744469364173">"Készülékadatok"</string>
+
+    <string name="display_effect_type_contrast_sharp">Magas</string>
+    <string name="display_effect_type_contrast_soft">"Pasztell"</string>
+    <string name="display_effect_type_saturation_soft">"Pasztell"</string>
+<string name="pocket_mode_title">"Zsebmód"</string>
+<string name="pocket_mode_summary">"Hívás hangerejének felfokozása, ha a telefon zseb vagy tok módban van"</string>
+<string name="pocket_mode_help">"Hívás hangerejének felfokozása, ha a telefon zseb vagy tok módban van"</string>
+<string name="ringtone_weaken_title">Hangjelzés hangerejének csökkentése</string>
+<string name="ringtone_weaken_summary">Automatikusan csökkenti a csengés hangerejét a telefon felvételekor | Súgó</string>
+<string name="ringtone_weaken_help">A hangjelzés hangereje a telefon felvételekor csökken.</string>
+<string name="gesture_topspeed_snap_title">Csúcssebességű kattintás</string>
+<string name="gesture_topspeed_snap_summary">A képernyő kikapcsolt állapotában a Home gombra kétszer kattintva készíthet képeket</string>
+<string name="gesture_light_up_screen_title">"Kijelző be/kikapcs. kettős érintéssel"</string>
+<string name="gesture_light_up_screen_summary">"Érintse meg kétszer a kijelző bármely részét a képernyő felébresztéséhez; érintse meg kétszer a zárolt képernyő bármely részét a készülék alvó állapotba kapcsolásához"</string>
+<string name="usb_detail_message">Használja számítógépét a telefon kezelésére. Látogasson el a http://sj.lenovo.com oldalra a hivatalos Lenovo szoftverért.</string>
+<string name="bluetooth_confirm_device_pair">Párosítás a következővel:</string>
+<string name="wifi_ap_less">Jó minőségű vétel ellenőrzése</string>
+<string name="usb_adb_summary">Hibakeresési mód indítása. Használja számítógépét a telefon kezelésére. Hivatalos szoftver használata ajánlott.</string>
+<string name="wifi_ap_more">Összes hozzáférési pont ellenőrzése</string>
+<string name="bluetooth_confirm_passkey_show">Ellenőrizze az azonosítókulcsot:</string>
+<string name="usb_adb_title">USB hibakeresés (ADB)</string>
+<string name="wifi_wapi_cert_install">WAPI tanúsítvány telepítése</string>
+<string name="location_agps_pref_apn_title">Kedvenc hozzáférési pont</string>
+<string name="location_agps_roaming_help">Figyelmeztetés：Az AGPS funkció megnyitásához szükséges MINDEN HÁLÓZAT lehetőség kiválasztásával roaming közben elveszítheti a telefondíjakat！</string>
+<string name="wifi_wapi_cert_install_button">Telepítés</string>
+<string name="wifi_wapi_cert_create_subdir">Hozzon létre egy könyvtárt</string>
+<string name="wifi_wapi_cert_mgmt_user_dont_exist">Írja be a felhasználói tanúsítvány nevét</string>
+<string name="wifi_wapi_user_cert">Felhasználói tanúsítvány</string>
+<string name="location_agps_apn_summary">Válassza ki a kedvenc hozzáférésipont-típust</string>
+<string name="location_agps_apn_choose_dialog_title">Hozzáférési pontok típusai</string>
+<string name="location_agps_si_mode_dialog_title">AGPS módszer</string>
+<string name="wifi_wapi_cert_mgmt_subdir_exist">Adjon meg másik könyvtárnevet, ez már létezik</string>
+<string name="location_agps_pref_reset_type_title">Kedvenc visszaállítás-típus</string>
+<string name="wifi_wapi_as_cert">AS tanúsítvány</string>
+<string name="supl_not_set">"&lt;Nincs megadva&gt;"</string>
+<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Adja meg a létrehozni kívánt könyvtár nevét!</string>
+<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Rossz a felhasználói tanúsítvány formátuma! Telepítse a megfelelő felhasználói tanúsítványt</string>
+<string name="location_agps_si_mode">AGPS SI mód</string>
+<string name="location_agps_reset_type_summary">Válassza ki a kedvenc visszaállítás-típust</string>
+<string name="location_agps_supl_settings">SUPL-beállítások</string>
+<string name="wifi_wapi_cert_mgmt_subdir_create_fail">Nem sikerült létrehozni a könyvtárt</string>
+<string name="wifi_wapi_cert_mgmt_as_dont_exist">Az SD-kártya nem rendelkezik AS-tanúsítvánnyal, ellenőrizze!</string>
+<string name="invalid_network_mode">Érvénytelen hálózati mód</string>
+<string name="location_agps_si_mode_summary">Válassza ki a kedvenc AGPS módszert</string>
+<string name="location_agps_reset_type">Típusok visszaállítása</string>
+<string name="not_support_choose">A 2. nyílás nem támogatja a választott hálózati módot</string>
+<string name="location_agps_supl_server_addr">Kiszolgáló címe</string>
+<string name="location_agps_pref_si_title">Kedvelt mód</string>
+<string name="location_agps_def_reset_type">FORRÓ</string>
+<string name="wifi_wapi_cert_uninstall">WAPI tanúsítvány eltávolítása</string>
+<string name="location_agps_def_network_mode">KEZDŐLAP</string>
+<string name="wifi_wapi_cert_mgmt_as_name_is_empty">Írja be a tanúsítvány nevét</string>
+<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Rossz a tanúsítvány formátuma! Telepítse a megfelelő tanúsítványt</string>
+<string name="location_agps_apn_type">Hozzáférési pontok típusai</string>
+<string name="location_agps_register_network_type">Hálózati hozzáférés típusa</string>
+<string name="wifi_wapi_cert_uninstall_button">Eltávolítás</string>
+<string name="location_agps_supl_server_port">Kiszolgáló portja</string>
+<string name="location_agps_register_network_type_summary">Az AGPS engedélyezéséhez válassza a hálózati hozzáférést...</string>
+<string name="location_agps_params_settings_title">AGPS-beállítások</string>
+<string name="wifi_wapi_cert_mgmt_titlebar">WAPI tanúsítványkezelés</string>
+<string name="wifi_wapi_cert_cancel_button">"Mégse"</string>
+<string name="wifi_wapi_cert_delet_subdir">Válassza ki a megfelelő tanúsítványt</string>
+<string name="wifi_wapi_cert_mgmt_user_name_is_empty">Írja be a felhasználói tanúsítvány nevét</string>
+<string name="location_agps_pref_network_title">Kedvenc hálózat</string>
+<string name="location_agps_register_network_type_dialog_title">Hálózat kiválasztása</string>
+<string name="smart_standby_enable_title">"Intelligens készenlét"</string>
+<string name="smart_standby_enable_summary">"A képernyő ránézéskor kivilágosodik"</string>
+<string name="phone_storage_info">Telefonmemória</string>
+    <string name="usb_detail_title">Szerezzen be hivatalos Lenovo szoftvert</string>
+    <string name="processor_unit_info">Magok</string>
+    <string name="night_mode_tip_secure_button">Kapcsolja ki az éjszakai olvasás módot, majd kattintson újra</string>
+    <string name="location_agps_reset_type_choose_dialog_title">Minden indítási típus</string>
+    <string name="wide_touch_help">Nyissa meg a parancsikonokat és az alkalmazások panelét a lebegő gombbal.</string>
+    <string name="lenovo_cloud">Felhő szolgáltatás</string>
+    <string name="zone_auto_summaryOn_not_row">"A hálózatszolgáltató időzónájának használata. Ez a funkció a szolgáltatótól függ, és egyes országokban nem elérhető"</string>
+    <string name="zone_auto_summaryOff_not_row">"A hálózatszolgáltató időzónájának használata. Ez a funkció a szolgáltatótól függ, és egyes országokban nem elérhető"</string>
+    <string name="location_agps_settings_title">AGPS-beállítások</string>
+    <string name="night_mode_notification_title">Éjszakai olvasás mód engedélyezve</string>
+    <string name="night_mode_notification_text">Kattintson az éjszakai olvasás mód kikapcsolásához</string>
+<string name="wifi_account_share">@string/wlan_share</string>
+<string name="wifi_status_test">WLAN állapot</string>
+<string name="wifi_signal_strong_title">"WLAN jelerősítés"</string>
+<string name="wifi_signal_strong_summary">"Gyenge kapcsolati jel esetén automatikusan erősíti a jelet a jobb kapcsolat érdekében." </string>
+    <string name="do_not_distube">"Ne zavarjanak mód"</string>
+    <string name="gesture_light_up_off_screen_title">"Képernyő felébresztése/kikapcsolása kettős koppintással"</string>
+
+    <string name="StorageDialog_summary">A rendszer a külső tároló eltávolítását észleli, és a beépített tároló használatára vált, majd újraindul. Megerősíti az újraindítást? \n\n Ha visszahelyezte a külső tárolót, nincs szükség a rendszer újraindítására.</string>
+    <string name="StorageDialog_comfirm">Újraindítás</string>
+    <string name="StorageDialog_title">Figyelem</string>
+    <string name="dlg_default_write_disk_encrypted_msg">Ha a telefon titkosítva van, adatai jobb védelme érdekében az elsődleges tárolóként mindig a beépített tárhelyet használja.</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">無線顯示</string>
+    <string name="miracast_app_name">無線顯示</string>
+    <string name="welcome_version">版本 <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"連接裝置"</string>
+    <string name="item_device_mode_audio_only_title">"音訊"</string>
+    <string name="item_device_mode_video_only_title">"视频"</string>
+    <string name="item_device_mode_meeting_title">會議</string>
+    <string name="item_device_mode_connect_title">"连接"</string>
+    <string name="item_device_mode_disconnect_title">"断开网络共享"</string>
+    <string name="item_device_mode_rename_title">"重命名"</string>
+    <string name="item_device_mode_forget_title">"取消保存"</string>
+    <string name="activity_settings_title">"設定"</string>
+    <string name="preference_settings_update_title">"相關資訊"</string>
+    <string name="dlg_confirm_switch_av_message">必須先中斷目前的連線才可切換模式。\n要現在切換嗎？</string>
+    <string name="dlg_loading_scan_device_message">正在掃描裝置…</string>
+    <string name="dlg_loading_enable_wifi_message">正在啟用 WLAN…</string>
+    <string name="dlg_loading_reconnect_message">切換模式，正在重新連線…</string>
+    <string name="toast_connecting">正在連線，請稍後再試</string>
+    <string name="toast_already_connected">其他裝置已連線，請先中斷連線</string>
+    <string name="toast_device_not_available">無法連線，裝置無法使用</string>
+    <string name="tutor_message_1">使用 HDMI 連接線 (A to A) 將 AllShare Cast 接收器連接至 HDMI 裝置。</string>
+    <string name="tutor_message_2">當紅色指示燈開始閃爍時，按下重設按鈕。等候指示燈變為藍色。重新連線時無需再次按下。</string>
+    <string name="tutor_message_4">如成功連線，您可與其他裝置分享螢幕。</string>
+    <string name="tutor_message_audioonly">如接收器支援音訊輸出，您可嘗試「僅限音訊」模式以體驗無線音樂。</string>
+    <string name="tutor_message_videoonly">如您希望連線到備有 DVI 或 VGA 介面的接收器，建議使用「僅限視訊」模式。</string>
+    <string name="activity_meeting_mode_title">會議模式</string>
+    <string name="tutor_message_3">進入 Miracast，然後開啟啟用按鈕。可供連線的裝置名稱會顯示在可用裝置清單中</string>
+    <string name="dlg_select_resolution_title">選擇解像度</string>
+    <string name="dlg_confirm_switch_video_message">視訊模式只會透過 dongle 分享視訊內容。\n切換模式必須先中斷目前連線。\n是否繼續？</string>
+    <string name="dlg_rename_title">重新命名裝置</string>
+    <string name="dlg_confirm_disconnect_message">中斷連線？</string>
+    <string name="toast_not_paired">只有已連接裝置可進行此操作</string>
+    <string name="dlg_confirm_switch_audio_message">音訊模式只會透過 dongle 分享音訊。切換至音訊模式前，請確認您的 dongle 支援音訊模式，否則無法成功連接。\n切換模式必須先中斷目前連線。\n是否繼續？</string>
+    <string name="dlg_confirm_forget_message">是否從已連接裝置清單中移除此裝置？</string>
+    <string name="preference_settings_meeting_mode_title">會議模式</string>
+    <string name="preference_settings_tutor_title">教學課程</string>
+    <string name="dlg_confirm_meeting_mode_message">會議模式限制通話，SMS 會自動在前景顯示。是否啟用會議模式？</string>
+</resources>

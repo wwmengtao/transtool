@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"Podešavanja"</string>
+    <string name="user_setup_button_setup_later">"Ne sada"</string>
+    <string name="user_set_lock_button">"Podesi zaključavanje"</string>
+    <string name="done_button">"Gotovo"</string>
+    <string name="user_restrictions_controlled_by">"Kontroliše <xliff:g id="APP">%1$s</xliff:g>"</string>
+    <string name="help_label">"pomoć"</string>
+    <string name="user_normal_mode">Otvorena zona</string>
+    <string name="user_privacy_mgt_summary">Onemogućava aplikacijama da pristupaju kontaktima, porukama i evidenciji poziva.</string>
+    <string name="user_config_apps_for_seuser">Konfigurišite aplikacije za trenutnu zonu</string>
+    <string name="user_auto_start_user">Pokreni prilikom pokretanja sistema</string>
+    <string name="user_guide_desc_1">Funkcija Bezbedna zona omogućava vam da konfigurišete aplikacije, naloge, pozadine i lozinke za zaključavanje ekrana koje se razlikuju od postavki u zoni u kojoj se trenutno nalazite. Dodirnite ikonu \„Bezbedna zona\“ u statusnoj traci da biste brzo prešli iz jedne u drugu zonu.</string>
+    <string name="user_bgapp_mgt_summary">Blokirajte automatsko pokretanje aplikacija i zatvorite njihove procese u pozadini.</string>
+    <string name="user_guide_desc_2">Pritisnite i zadržite ikonu \„Bezbedna zona\“ u statusnoj traci da biste otvorili meni za podešavanje trenutne zone. Možete da konfigurišete aplikacije koje želite da instalirate u trenutnoj zoni.</string>
+    <string name="user_guide_desc_3">U otvorenoj zoni, u statusnoj traci će se prikazivati i sva obaveštenja aplikacija iz bezbedne zone. Crvena tačka biće prikazana na ikoni obaveštenja kako bi se razlikovala od obaveštenja iz trenutne zone. Promenite zonu da biste videli obaveštenja.</string>
+    <string name="user_remove_secure_user_msg">Svi podaci aplikacija, fotografije i datoteke iz Bezbedne zone biće obrisani. Želite li da izbrišete?</string>
+    <string name="user_need_lockscreen_for_seuser_msg">Potrebno je da podesite zaključavanje ekrana kako biste zaštitili svoje aplikacije i podatke u Bezbednoj zoni.</string>
+    <string name="user_guide_desc_4">Podaci aplikacija i dokumenti iz ove dve zone u potpunosti su odvojeni. Sadržaju unutrašnje memorije u Otvorenoj zoni možete pristupiti iz direktorijuma OpenUserData koji se nalazi u unutrašnjoj memoriji u Bezbednoj zoni, ali obrnuto nije moguće. Evidencija poziva, evidencija poruka i kontakti mogu se koristiti u obe zone kako bi se omogućio normalan radi funkcija za pozivanje i slanje poruka u obe zone.</string>
+    <string name="user_share_data_summary">Deli kontakte, tekstualne poruke, evidenciju poziva i druge podatke između dve zone. Ova postavka će se primeniti nakon ponovnog pokretanja sistema.</string>
+    <string name="user_share_data">Deljenje podataka</string>
+    <string name="user_uninstall_app_msg">Želite li da deinstalirate ovu aplikaciju u trenutnoj zoni?</string>
+    <string name="user_security_mode">Bezbedna zona</string>
+    <string name="user_auto_start_user_summary">Automatski pokreni Bezbednu zonu u pozadini prilikom pokretanja sistema</string>
+    <string name="user_guide_title_2">Konfiguriši trenutnu zonu </string>
+    <string name="user_setup_seuser_msg">Bezbedna zona je aktivirana. Želite li sada da je konfigurišete?</string>
+    <string name="user_guide_title_3">Obaveštenja iz druge zone</string>
+    <string name="user_remove_secure_user">Izbriši Bezbednu zonu</string>
+    <string name="user_guide_title_1">Uvod u Bezbednu zonu</string>
+    <string name="user_bgapp_mgt">Ograniči aplikacije u pozadini</string>
+    <string name="user_add_seuser_msg">Želite li da aktivirate Bezbednu zonu?</string>
+    <string name="user_guide_title_4">Izolovanje i deljenje podataka </string>
+    <string name="user_privacy_mgt_msg">Onemogućava aplikacijama da pristupaju kontaktima, porukama i evidenciji poziva.</string>
+    <string name="user_privacy_mgt">Kontrola privatnosti</string>
+    <string name="user_remove_secure_user_reboot_msg">Svi podaci aplikacija, fotografije i datoteke iz Bezbedne zone biće obrisani. Sistem će se automatski ponovo pokrenuti kako bi se primenile promene. Želite li da izbrišete?</string>
+    <string name="user_float_switch_button_summary">Prikaži plutajuće dugme na ekranu koje olakšava promenu zone</string>
+    <string name="user_bgapp_mgt_msg">Blokira automatsko pokretanje aplikacija i zatvara njihove procese u pozadini. Ne primenjuje se na aplikacije koje moraju da budu pokrenute u pozadini, kao što je e-pošta i WhatsApp.</string>
+    <string name="user_float_switch_button">Plutajuće dugme</string>
+    <string name="user_uninstall_app_for_all_user_msg">Aplikacija nije instalirana u drugim zonama, pa će deinstalacijom biti potpuno izbrisana sa telefona. Želite li da deinstalirate?</string>
+</resources>

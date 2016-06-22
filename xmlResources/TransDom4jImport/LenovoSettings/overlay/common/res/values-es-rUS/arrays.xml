@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="entries_keyboard_lights">
+        <item>Siempre activado</item>
+        <item>Activado durante 3 segundos</item>
+    </string-array>
+<string-array name="multi_sim_entries_voice">
+        <item>Suscripción 1</item>
+        <item>Suscripción 2</item>
+        <item>Indicar</item>
+    </string-array>
+<string-array name="entries_smart_rotation">
+        <item>Giro de pantalla inteligente (la pantalla gira como sus ojos)</item>
+        <item>Giro automático de pantalla</item>
+        <item>Desactivado</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1X EAP</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Automático</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720p (60 cuadros/seg)</item>
+        <item>720p (30 cuadros/seg)</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(no especificado)</item>
+        <item>Ranura para tarjeta Sim 1</item>
+        <item>Ranura para tarjeta Sim 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 e IPv6</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        <item>Abrir</item>
+        <item>Por 3 segundos</item>
+        <item>Cerrar</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1X EAP</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>Botón derecho del mouse</item>
+        <item>Botón izquierdo del mouse</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Siempre</item>
+        <item>Apagar al estar inactivo durante 5 min.</item>
+        <item>Apagar al estar inactivo durante 10 min.</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080p (30 cuadros/seg)</item>
+        <item>720p (60 cuadros/seg)</item>
+        <item>720p (30 cuadros/seg)</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>Certificado WAPI</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1X EAP</item>
+        <item>WAPI PSK</item>
+        <item>Certificado WAPI</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Utilizar el tiempo proporcionado por la red</item>
+        <item>Utilizar el tiempo proporcionado por el GPS</item>
+        <item>Desactivado</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        <item>Rotación del gesto</item>
+        <item>Rotación automática</item>
+        <item>Desactivado</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Recomendaciones del sistema</item>
+        <item>Instalar en el teléfono</item>
+        <item>Instalar en la tarjeta de memoria predeterminada</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        <item>"Siempre"</item>
+        <item>"Solo durante la carga"</item>
+        <item>"Nunca (aumenta el uso de datos)"</item>
+        <item>"Suspensión Inteligente (transferencia de datos activada/desactivada según el tráfico)"</item>
+    </string-array>
+</resources>

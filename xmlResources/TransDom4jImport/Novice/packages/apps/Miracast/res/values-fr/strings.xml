@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Affichage sans fil"</string>
+    <string name="miracast_app_name">"Affichage sans fil"</string>
+    <string name="welcome_version">Version <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">Se connecter au périphérique</string>
+    <string name="item_device_mode_audio_only_title">Audio</string>
+    <string name="item_device_mode_video_only_title">Vidéo</string>
+    <string name="item_device_mode_meeting_title">Réunion</string>
+    <string name="item_device_mode_connect_title">"Se connecter"</string>
+    <string name="item_device_mode_disconnect_title">"Déconnecter"</string>
+    <string name="item_device_mode_rename_title">Renommer</string>
+    <string name="item_device_mode_forget_title">Oublier</string>
+    <string name="activity_settings_title">Paramètres</string>
+    <string name="preference_settings_resolution_title">Résolution</string>
+    <string name="preference_settings_update_title">"À propos de"</string>
+    <string name="dlg_confirm_switch_av_message">La connexion actuelle doit être déconnectée avant de changer de mode.\nVoulez-vous changer le mode maintenant ?</string>
+    <string name="dlg_loading_scan_device_message">Recherche de périphériques en cours...</string>
+    <string name="dlg_loading_enable_wifi_message">Activation du wlan en cours...</string>
+    <string name="dlg_loading_reconnect_message">Changement de mode, reconnexion en cours.</string>
+    <string name="toast_connecting">Connexion en cours. Merci de réessayer ultérieurement.</string>
+    <string name="toast_already_connected">Un autre périphérique est déjà connecté. Veuillez le déconnecter au préalable.</string>
+    <string name="toast_device_not_available">Connexion impossible, le périphérique n\'est pas disponible.</string>
+    <string name="tutor_message_1">Connectez le dongle AllShare Cast à un périphérique HDMI à l\'aide du câble HDMI A à A.</string>
+    <string name="tutor_message_2">Quand l\'indicateur rouge se met à clignoter, cliquez sur le bouton de réinitialisation. Attendez que l\'indicateur devienne bleu. Vous n\'avez plus besoin de cliquer quand vous vous reconnectez.</string>
+    <string name="tutor_message_4">Si la connexion est établie, vous pouvez partager votre écran avec un autre périphérique.</string>
+    <string name="tutor_message_audioonly">Si le dongle prend en charge la sortie audio, vous pouvez essayer le mode Audio uniquement pour écouter de la musique sans fil.</string>
+    <string name="tutor_message_videoonly">Pour vous connecter à un dongle avec une interface DVI ou VGA, le mode Vidéo uniquement est recommandé.</string>
+    <string name="activity_meeting_mode_title">Mode Réunion</string>
+    <string name="tutor_message_3">Accédez à Miracast, puis activez le bouton Activer. Le nom des périphériques disponibles pour la connexion s\'affiche alors dans la liste des périphériques disponibles.</string>
+    <string name="dlg_select_resolution_title">Sélectionner la résolution</string>
+    <string name="dlg_confirm_switch_video_message">Le mode Vidéo ne permet de partager le contenu de l\'écran que via un  dongle. \nLa connexion en cours doit être coupée pour changer de mode. \nContinuer ?</string>
+    <string name="dlg_rename_title">Renommer le périphérique</string>
+    <string name="dlg_confirm_disconnect_message">Se déconnecter ?</string>
+    <string name="toast_not_paired">Opération disponible uniquement pour les périphériques connectés</string>
+    <string name="dlg_confirm_switch_audio_message">Le mode Audio ne permet de partager du son que via un dongle. Avant de passer au mode Audio, assurez-vous qu\'il est pris en charge par votre dongle, sinon la connexion échouera. \nLa connexion en cours doit être coupée pour changer de mode. \nContinuer ?</string>
+    <string name="dlg_confirm_forget_message">Retirer ce périphérique de la liste des périphériques connectés ?</string>
+    <string name="preference_settings_meeting_mode_title">Mode Réunion</string>
+    <string name="preference_settings_tutor_title">Tutoriel</string>
+    <string name="dlg_confirm_meeting_mode_message">Les appels sont limités en mode Réunion, et les SMS sont automatiquement affichés en arrière-plan. Activer le mode Réunion ?</string>
+</resources>

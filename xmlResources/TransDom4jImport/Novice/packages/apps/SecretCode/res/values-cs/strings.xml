@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="btn_post">Aktivovat</string>
+    <string name="btn_neg">Deaktivovat</string>
+    <string name="enable_fdn">Aktivovat</string>
+    <string name="disable_fdn">Deaktivovat</string>
+    <string name="reboot">"Restartovat"</string>
+    <string name="cancel">"Zrušit"</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_no">NE</string>
+    <string name="framework_inf">Interní verze</string>
+    <string name="commit_cate">Uložit</string>
+    <string name="summary_on">"ZAPNUTO"</string>
+    <string name="summary_off">"VYPNUTO"</string>
+    <string name="yes_exit">Ano</string>
+    <string name="no_exit">Ne</string>
+    <string name="disable">"Zakázáno"</string>
+    <string name="regulatory_information">"Regulační informace"</string>
+    <string name="alert_message_ums_string">Stisknutím tlačítka [OK] nastavíte usb.config do režimu mass_storage pro ladění. Běžní uživatelé by měli být obezřetní!</string>
+    <string name="alert_string">Upozornění!</string>
+    <string name="hardversion">Verze hardwaru:</string>
+    <string name="softversion">Verze softwaru: </string>
+    <string name="productsversion">Verze produktů:</string>
+    <string name="frameworkversion">Verze platformy:</string>
+    <string name="app_name">Tajný kód</string>
+    <string name="modemversion">Verze modemu:</string>
+    <string name="osversion">Verze operačního systému: </string>
+    <string name="alert_message_string">Stisknutím tlačítka [OK] obnovíte tovární nastavení a vymažete veškerá uživatelská data. Běžní uživatelé by měli být obezřetní!</string>
+</resources>

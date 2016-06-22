@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="close">Κλείσιμο</string>
+<string name="cancle">"Ακύρωση"</string>
+<string name="open">"Ανοιγμα"</string>
+<string name="confirm">"Επιβεβαίωση"</string>
+<string name="menu_settings">"Ρυθμίσεις"</string>
+    <string name="add">Προσθήκη</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Πολλαπλά παράθυρα</string>
+    <string name="authorization_message">Θα ανοίξετε αυτήν την εφαρμογή με πολλαπλά παράθυρα;</string>
+    <string name="tips">Σύρετε για να δημιουργήσετε πολλαπλά παράθυρα</string>
+    <string name="app_browser_title">Εφαρμογή πολλαπλών παραθύρων</string>
+    <string name="authorization_notication">Ειδοποίηση εξουσιοδότησης</string>
+</resources>

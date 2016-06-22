@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"Bežični prikaz"</string>
+    <string name="miracast_app_name">"Bežični prikaz"</string>
+    <string name="main_connect_switch_title">"Povezivanje s uređajem"</string>
+    <string name="item_device_mode_audio_only_title">"Audio"</string>
+    <string name="item_device_mode_video_only_title">"Videozapis"</string>
+    <string name="item_device_mode_connect_title">"Poveži"</string>
+    <string name="item_device_mode_disconnect_title">"Prekini vezu"</string>
+    <string name="item_device_mode_rename_title">"Preimenuj"</string>
+    <string name="item_device_mode_forget_title">"Zaboravi"</string>
+    <string name="activity_settings_title">"Postavke"</string>
+    <string name="preference_settings_update_title">"O kontaktu"</string>
+    <string name="preference_settings_tutor_title">"Vodič"</string>
+    <string name="dlg_confirm_disconnect_message">"Isključiti?"</string>
+    <string name="dlg_rename_title">"Preimenuj uređaj"</string>
+    <string name="activity_meeting_mode_title">Način rada na sastanku</string>
+    <string name="dlg_loading_reconnect_message">Prebacivanje načina rada, ponovno povezivanje...</string>
+    <string name="dlg_select_resolution_title">odabir razlučivosti</string>
+    <string name="tutor_message_audioonly">Ako hardverski dodatak podržava zvučni izlaz, možete pokušati koristiti način Samo zvuk kako biste bežično slušali glazbu.</string>
+    <string name="dlg_confirm_switch_av_message">Za promjenu načina rada prvo treba prekinuti aktivnu vezu.\nŽelite li promjenu izvršiti sada?</string>
+    <string name="welcome_version">Verzija <xliff:g id="version">%1s</xliff:g></string>
+    <string name="item_device_mode_meeting_title">Sastanak</string>
+    <string name="dlg_confirm_switch_audio_message">Zvučni način rada dijeli audiosadržaj samo putem hardverskog dodatka (dongle). Prije prelaska u zvučni način rada provjerite podržava li ga vaš hardverski dodatak jer u suprotnom veza neće biti uspješna. \nZa promjenu načina rada prvo treba prekinuti aktivnu vezu. \nNastaviti?</string>
+    <string name="preference_settings_meeting_mode_title">Način rada na sastanku</string>
+    <string name="dlg_loading_scan_device_message">Traže se uređaji...</string>
+    <string name="toast_connecting">Povezivanje u tijeku; pokušajte ponovo kasnije.</string>
+    <string name="tutor_message_3">Otvorite Miracast, zatim gumb Omogući prebacite na Uključeno. Nazivi svih uređaja s kojima je povezivanje moguće pojavit će se na popisu dostupnih uređaja</string>
+    <string name="tutor_message_4">U slučaju uspješnog povezivanja zaslon dijelite s drugim uređajem.</string>
+    <string name="tutor_message_1">Priključite hardverski dodatak AllShare Cast na HDMI uređaj pomoću HDMI A-TO-A kabela.</string>
+    <string name="dlg_confirm_switch_video_message">Video način rada dijeli sadržaj samo putem hardverskog dodatka (dongle). \nZa promjenu načina rada prvo treba prekinuti aktivnu vezu. \nNastaviti?</string>
+    <string name="tutor_message_2">Kada crveni indikator počne treptati pritisnite gumb za ponovno postavljanje. Pričekajte da indikator poprimi plavu boju. Pri ponovnom povezivanju nema potrebe za ponavljanjem pritiska.</string>
+    <string name="tutor_message_videoonly">Ako hardverski dodatak želite priključiti putem DVI ili VGA sučelja, preporučuje se upotreba načina Samo video.</string>
+    <string name="toast_already_connected">Drugi je uređaj već povezan, prvo prekinite vezu</string>
+    <string name="dlg_loading_enable_wifi_message">Omogućuje se WLAN...</string>
+    <string name="toast_not_paired">Postupak je dostupan samo za priključene uređaje</string>
+    <string name="dlg_confirm_forget_message">Ukloniti taj uređaj s popisa povezanih uređaja?</string>
+    <string name="toast_device_not_available">Povezivanje nije moguće, uređaj nije dostupan</string>
+    <string name="dlg_confirm_meeting_mode_message">U načinu rada na sastanku pozivi su ograničeni, a SMS poruke automatski se prikazuju u prednjem planu. Omogućiti način rada na sastanku?</string>
+    <string name="preference_settings_resolution_title">Razlučivost</string>
+</resources>

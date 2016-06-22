@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="app_name">"Ažuriranja sustava"</string>
+    <string name="btn_post">"Omogući"</string>
+    <string name="btn_neg">"Onemogući"</string>
+    <string name="enable_fdn">"Omogući"</string>
+    <string name="disable_fdn">"Onemogući"</string>
+    <string name="reboot">"Ponovno pokreni"</string>
+    <string name="cancel">"Odustani"</string>
+    <string name="alert_ok">"U redu"</string>
+    <string name="alert_no">"NE"</string>
+    <string name="commit_cate">"Spremi"</string>
+    <string name="summary_on">"Uključeno"</string>
+    <string name="summary_off">"Isključeno"</string>
+    <string name="report_log_summary">"Izvješće"</string>
+    <string name="report_log_title">"Izvješće"</string>
+    <string name="yes_exit">"Da"</string>
+    <string name="no_exit">"Ne"</string>
+    <string name="enable">"Omogući"</string>
+    <string name="disable">"Onemogući"</string>
+    <string name="regulatory_information">"Informacije o propisima"</string>
+    <string name="info_title_text">Lenovo mobitel</string>
+    <string name="sar_explanation">"Ovaj mobilni uređaj zadovoljava indijske odredbe o SAR ograničenju.\nIndijsko SAR ograničenje za mobilne uređaje iznosi 1,6 W/kg prosječno po 1 gramu tkiva. SAR testiranje izvršeno je pomoću standardnih položaja za rad uređaja pri čemu uređaj odašilje pri najvišoj certificiranoj razini u svim testiranim frekvencijskim pojasevima.\nNajviša SAR vrijednost za Lenovo uređaj prilikom testiranja u blizini glave i tijela:"</string>
+    <string name="more_info">Dodatne informacije potražite u korisničkom priručniku.</string>
+    <string name="sar_text">Informacije o specifičnoj stopi apsorpcije</string>
+    <string name="save_success">Uspješno spremljeno</string>
+</resources>

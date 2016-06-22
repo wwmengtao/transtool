@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="close">Bezárás</string>
+<string name="cancle">"Mégse"</string>
+<string name="open">"Megnyitás"</string>
+<string name="confirm">"Megerősítés"</string>
+<string name="menu_settings">"Beállítások"</string>
+    <string name="add">Hozzáadás</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Többablakos</string>
+    <string name="authorization_message">A MultiWindow (Többablakos) segítségével kívánja megnyitni az alkalmazást?</string>
+    <string name="tips">Húzással hozzon létre több ablakot</string>
+    <string name="app_browser_title">Többablakos alkalmazás</string>
+    <string name="authorization_notication">Engedélyezéssel kapcsolatos értesítés</string>
+</resources>

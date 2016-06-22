@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">Cài đặt đồng bộ chung</string>
+    <string name="sync_interval_settings">Cài đặt t.lượng đồng bộ</string>
+    <string name="try_sso_again">Thử đăng nhập riêng lại</string>
+    <string name="for_syncing">Để đồng bộ</string>
+</resources>

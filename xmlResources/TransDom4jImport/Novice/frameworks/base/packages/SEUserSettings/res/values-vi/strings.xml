@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">Môi trường chung</string>
+<string name="user_auto_start_user_summary">Tự động chạy nền Môi trường an toàn khi khởi động</string>
+<string name="user_setup_seuser_msg">Môi trường an toàn được bật. Vào ngay bây giờ và hoàn tất thiết lập?</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"Do <xliff:g id="APP">%1$s</xliff:g> kiểm soát"</string>
+<string name="user_config_apps_for_seuser">Nhận ứng dụng bạn cần để cài đặt trong môi trường hiện tại</string>
+<string name="user_add_seuser_msg">Môi trường an toàn chưa được bật. Bật ngay bây giờ?</string>
+<string name="user_auto_start_user">Khởi chạy Môi trường an toàn khi khởi động</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"Không phải bây giờ"</string>
+<string name="user_need_lockscreen_for_seuser_msg">Bạn cần đặt khóa màn hình để bảo vệ ứng dụng và dữ liệu ở chế độ an toàn.</string>
+<string name="user_share_data_summary">Chia sẻ danh bạ, tin nhắn văn bản, nhật ký cuộc gọi và các dữ liệu khác ở hai môi trường, có hiệu lực sau khi khởi động lại</string>
+<string name="app_name" msgid="1626402585530130914">"Cài đặt"</string>
+<string name="done_button" msgid="1991471253042622230">"Xong"</string>
+<string name="user_share_data">Chia sẻ dữ liệu</string>
+<string name="user_float_switch_button_summary">Hiển thị nút nổi trên màn hình để hỗ trợ chuyển đổi giữa các môi trường</string>
+<string name="user_security_mode">Môi trường an toàn</string>
+<string name="user_float_switch_button">Nút nổi</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"Thiết lập khóa"</string>
+    <string name="user_guide_title_2">Định cấu hình Chế độ Hiện tại </string>
+    <string name="user_guide_title_3">Thông báo Giữa các Chế độ</string>
+    <string name="user_guide_title_1">Giới thiệu Chế độ An toàn</string>
+    <string name="user_guide_title_4">Tách biệt và Chia sẻ Dữ liệu </string>
+    <string name="user_guide_desc_1">Chế độ an toàn cho phép bạn cài đặt ứng dụng, tài khoản, hình nền, màn hình khóa có mật khẩu khác với chế độ mở hiện tại. Chạm vào biểu tượng \"Chế độ an toàn\" trên thanh thông báo để chuyển giữa các chế độ.</string>
+    <string name="user_guide_desc_2">Nhấn và giữ biểu tượng \"Chế độ An toàn\" trên thanh trạng thái để vào giao diện thiết lập cho chế độ hiện tại. Bạn có thể định cấu hình ứng dụng bạn cần cài đặt ở chế độ hiện tại.</string>
+    <string name="user_guide_desc_3">Ở chế độ bình thường, mọi thông báo từ những ứng dụng ở chế độ an toàn cũng sẽ được hiển thị trên thanh trạng thái. Một dấu chấm đỏ xuất hiện trên biểu tượng thông báo để phân biệt nó với các thông báo ở chế độ hiện tại. Chuyển chế độ để xem thông báo.</string>
+    <string name="user_guide_desc_4">Dữ liệu ứng dụng và tài liệu ở hai chế độ được giữ hoàn toàn riêng biệt. Nội dung của thẻ SD ở chế độ bình thường có thể được xem trong thư mục OpenUserData trong thẻ SD ở chế độ an toàn, nhưng ngược lại thì không. Nhật ký cuộc gọi, nhật ký tin nhắn và số liên lạc được chia sẻ giữa hai chế độ để đảm bảo sự hoạt động bình thường của các chức năng gọi điện và nhắn tin ở cả hai chế độ.</string>
+    <string name="user_remove_secure_user">Xóa môi trường an toàn</string>
+    <string name="user_privacy_mgt_summary">Hạn chế các ứng dụng truy cập vào danh bạ, tin nhắn và nhật ký cuộc gọi.</string>
+    <string name="user_remove_secure_user_reboot_msg">Tất cả dữ liệu ứng dụng, ảnh và các tập tin trong môi trường an toàn sẽ bị xóa. Hệ thống sẽ tự động khởi động lại để áp dụng thay đổi. Xóa?</string>
+    <string name="user_bgapp_mgt">Hạn chế ứng dụng nền</string>
+    <string name="user_privacy_mgt">Kiểm soát truy cập riêng tư</string>
+    <string name="user_privacy_mgt_msg">Chặn không cho các ứng dụng truy cập vào danh bạ, tin nhắn và nhật ký cuộc gọi.</string>
+    <string name="user_bgapp_mgt_summary">Chặn không cho các ứng dụng tự động khởi động và kết thúc các quá trình nền của chúng.</string>
+    <string name="user_remove_secure_user_msg">Tất cả dữ liệu ứng dụng, ảnh và các tập tin trong môi trường an toàn sẽ bị xóa. Xóa?</string>
+    <string name="user_bgapp_mgt_msg">Chặn không cho ứng dụng tự động khởi động và kết thúc các quá trình nền của nó. Không áp dụng đối với những ứng dụng cần chạy dưới nền, chẳng hạn như email và WhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">Ứng dụng không được cài đặt trong các môi trường khác và sẽ bị xóa hoàn toàn trên điện thoại của bạn sau khi gỡ cài đặt. Gỡ cài đặt?</string>
+<string name="help_label">"trợ giúp"</string>
+    <string name="user_uninstall_app_msg">Bạn có muốn gỡ cài đặt ứng dụng này dưới môi trường hiện tại không?</string>
+</resources>

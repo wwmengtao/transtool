@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="wifi_security"> 
+        <item>"เปิด"</item>  
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080p (30 เฟรม/วินาที)</item>
+        <item>720p (60 เฟรม/วินาที)</item>
+        <item>720p (30 เฟรม/วินาที)</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>การรับรอง WAPI</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720p (60 เฟรม/วินาที)</item>
+        <item>﻿720p (30 เฟรม/วินาที)</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>อัตโนมัติ</item>
+        <item>WEP ASCII</item>
+        <item>เลขสิบหกหลักของ WEP</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>การรับรอง WAPI</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(ไม่ได้ระบุ)</item>
+        <item>ช่อง SIM 1</item>
+        <item>ช่อง SIM 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>เมาส์มือขวา</item>
+        <item>เมาส์มือซ้าย</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>ทุกครั้ง</item>
+        <item>ปิดเมื่อนิ่งเป็นเวลา 5 นาที</item>
+        <item>ปิดเมื่อนิ่งเป็นเวลา 10 นาที</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        <item>เปิดปกติ</item>
+        <item>นาน 3 วินาที</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>การสมัครใช้งาน 1</item>
+        <item>การสมัครใช้งาน 2</item>
+        <item>แจ้งถาม</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>หน้าจอแบบหมุนอัจฉริยะ (หมุนหน้าจอตามดวงตาของคุณ)</item>
+        <item>หมุนหน้าจออัตโนมัติ</item>
+        <item>ปิดแล้ว</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 &amp; IPv6</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+    	
+    	
+    	
+    <item>ใช้เวลาจากเครือข่าย</item>
+        <item>ใช้เวลาจาก GPS</item>
+        <item>ปิด</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        
+        
+        
+        
+    <item>เปิด</item>
+        <item>นาน 3 วินาที</item>
+        <item>สมาร์ทคอนโทรล</item>
+        <item>ปิด</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        
+        
+        
+    <item>หมุนตามท่าทาง</item>
+        <item>หมุนอัตโนมัติ</item>
+        <item>ปิด</item>
+    </string-array>
+    <string-array name="softspacename">
+        
+        
+        
+    <item>การแนะนำระบบ</item>
+        <item>ติดตั้งในโทรศัพท์</item>
+        <item>ติดตั้งในการ์ดหน่วยความจำเริ่มต้น</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        
+        
+        
+        
+    <item>"ทุกครั้ง"</item>
+        <item>"เฉพาะขณะชาร์จ"</item>
+        <item>"ไม่ (เพิ่มการรับส่งข้อมูล)"</item>
+        <item>"สลีปอัจฉริยะ (การถ่ายโอนข้อมูลจะเปิด/ปิดตามการรับส่งข้อมูล)"</item>
+    </string-array>
+</resources>

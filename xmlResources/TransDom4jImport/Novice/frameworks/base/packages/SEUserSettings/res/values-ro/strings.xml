@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">Mediul general</string>
+<string name="user_auto_start_user_summary">Activare automată în fundal mediu sigur la iniţializare</string>
+<string name="user_setup_seuser_msg">Mediul sigur este activat. Accesaţi acum şi finalizaţi configurarea?</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"Controlate de <xliff:g id="APP">%1$s</xliff:g>"</string>
+<string name="user_config_apps_for_seuser">Setaţi aplicaţia pe care trebuie să o instalaţi în mediul curent</string>
+<string name="user_add_seuser_msg">Mediul sigur nu este încă activat. Activaţi acum?</string>
+<string name="user_auto_start_user">Activare mediu sigur la iniţializare</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"Nu acum"</string>
+<string name="user_need_lockscreen_for_seuser_msg">Trebuie să setaţi blocarea ecranului pt. a proteja aplicaţiile şi datele în modul de siguranţă.</string>
+<string name="user_share_data_summary">Partajarea contactelor, mesajelor text, jurnalelor de apeluri şi altor date în cele două medii intră se realizează după reiniţializare</string>
+<string name="app_name" msgid="1626402585530130914">"Setări"</string>
+<string name="done_button" msgid="1991471253042622230">"Terminat"</string>
+<string name="user_share_data">Partajare date</string>
+<string name="user_float_switch_button_summary">Afişare buton mobil pe ecran pt. simplificarea comutării între medii</string>
+<string name="user_security_mode">Mediu sigur</string>
+<string name="user_float_switch_button">Buton mobil</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"Configurați blocarea"</string>
+    <string name="user_guide_title_2">Configuraţi modul curent </string>
+    <string name="user_guide_title_3">Notificări mod încrucişat</string>
+    <string name="user_guide_title_1">Prezent. mod de siguranţă</string>
+    <string name="user_guide_title_4">Izolare şi partajare date </string>
+    <string name="user_guide_desc_1">Modul de sig. vă permite să config. aplicaţii, conturi, imag. de fundal şi parolele de bloc. a ecr. care diferă de cele din modul curent. Ating. pictogr. \"Mod de siguranţă\" în bara de stare pt. a com. rapid între moduri.</string>
+    <string name="user_guide_desc_2">Apăs. cont. pictogr. \"Mod de siguranţă\" în bara de stare pt. a accesa interf. de config. pt. modul curent. Puteţi config. aplicaţia pe care trebuie să o instal. în modul curent.</string>
+    <string name="user_guide_desc_3">În modul norm., notif. de la aplic. în modul de siguranţă vor fi, de asem., afiş. în bara de stare. Pe pictograma de notificare apare un punct roşu pt. a o diferenţia de notificările din modul curent. Com. între mod. pt. vizualiz. notif.</string>
+    <string name="user_guide_desc_4">Datele şi documentele aplicaţiei celor două moduri rămân complet izolate. Conţin. de pe cardul SD în mod. norm. poate fi vizualiz. în direct. OpenUserData de pe cardul SD în mod. de sigur., dar nu invers. Jurn. apeluri, jurn. mes. şi contactele sunt partaj. între cele două moduri pt. a asig. oper. norm. a funcţiilor de apel. şi mesag. în ambele moduri.</string>
+    <string name="user_remove_secure_user">Ştergere mediu sigur</string>
+    <string name="user_privacy_mgt_summary">Împiedicaţi aplicaţiile să acceseze contacte, mesaje şi jurnalul de apeluri.</string>
+    <string name="user_remove_secure_user_reboot_msg">Toate datele de aplicaţii, fotografiile şi fişierele din mediul sigur vor fi şterse. Sistemul va reporni automat pentru a aplica modificările. Ştergeţi?</string>
+    <string name="user_bgapp_mgt">Restricţionare aplicaţii din fundal</string>
+    <string name="user_privacy_mgt">Control acces date confidenţiale</string>
+    <string name="user_privacy_mgt_msg">Împiedicaţi aplicaţia să acceseze contacte, mesaje şi jurnalul de apeluri.</string>
+    <string name="user_bgapp_mgt_summary">Împiedicaţi aplicaţiile să pornească şi să-şi încheie automat procesele din fundal.</string>
+    <string name="user_remove_secure_user_msg">Toate datele de aplicaţii, fotografiile şi fişierele din mediul sigur vor fi şterse. Ştergeţi?</string>
+    <string name="user_bgapp_mgt_msg">Împiedicaţi aplicaţia să pornească şi să-şi încheie automat procesele din fundal. Nu este valabil pentru aplicaţiile care trebuie să ruleze în fundal, cum ar fi e-mailul şi WhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">Aplicaţia nu este instalată în alte medii şi va fi complet ştearsă de pe telefon după dezinstalare. Dezinstalaţi?</string>
+<string name="help_label">"ajutor"</string>
+    <string name="user_uninstall_app_msg">Doriţi să dezinstalaţi această aplicaţie din mediul curent?</string>
+</resources>

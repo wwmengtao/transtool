@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Amplificare semnal WLAN"</string>
+<string name="dlg_msg">"Semnal WLAN foarte slab detectat. Amplificarea semnalului WLAN a fost activată automat pentru o mai bună conexiune de reţea. Puteţi configura şi setările funcţiei în Setări de sistem - WLAN." </string>
+<string name="dlg_ok">"OK"</string>
+<string name="dlg_no">nu</string>
+</resources>

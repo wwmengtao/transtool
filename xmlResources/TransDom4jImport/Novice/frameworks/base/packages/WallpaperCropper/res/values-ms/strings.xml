@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="crop_wallpaper">Pangkas kertas dinding</string>
+<string name="wallpaper_load_fail">Tidak dapat memuatkan imej sebagai hias latar</string>
+<string name="wallpaper_instructions">Tetapkan hias latar</string>
+</resources>

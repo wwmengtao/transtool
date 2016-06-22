@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_cancel">"Mégse"</string>
+<string name="wifi_p2p_delete_group_message">"Elfelejtse ezt a csoportot?"</string>
+<string name="dlg_ok">"Megerősítés"</string>
+<string name="wifi_p2p_menu_rename">"Eszköz átnevezése"</string>
+<string name="wifi_p2p_remembered_groups">"Megjegyzett csoportok"</string>
+<string name="help_label">"Súgó"</string>
+<string name="wifi_p2p_disconnect_title">Bontja a kapcsolatot?</string>
+<string name="wifi_p2p_cancel_connect_title">"Törli a meghívást?"</string>
+    <string name="dlg_open_wifi_message">A WLAN-megosztás engedélyezéséhez aktiválni kell a WLAN-hálózatot. Aktiválja a WLAN-hálózatot?</string>
+    <string name="socketchannel_busy">Működik. Próbálja újra később!</string>
+    <string name="wifi_p2p_cancel_connect_message">Törli a csatlakozásra való felkérést?</string>
+    <string name="sending_file_notification">WLAN-megosztás: Dokumentum küldése</string>
+    <string name="received_file_fail_dialog">A dokumentum nem érkezett meg!</string>
+    <string name="dlg_received_file_fail_notification_message">A dokumentum nem érkezett meg. Próbálja újra.</string>
+    <string name="wifi_p2p_disconnect_multiple_message">Ha megszakítja a kapcsolatot, az összes készüléket leválasztja.</string>
+    <string name="toast_no_send_files">A csatlakozás előtt jelöljön ki egy vagy több megosztandó dokumentumot!</string>
+    <string name="dlg_close_bt_then_send_file">A dokumentum elküldése előtt zárja be a Bluetooth-kapcsolatot!</string>
+    <string name="app_name">"WLAN-megosztás"</string>
+    <string name="dlg_received_file_confirm_notification_message">Biztosan megszakítja az aktuális dokumentumátvitelt?</string>
+    <string name="dlg_request_if_send_file">
+	       A dokumentum küldése: forrás: <xliff:g id="id_2">%2$s</xliff:g> cél: <xliff:g id="id_1">%1$s</xliff:g>?
+    </string>
+    <string name="wifi_p2p_failed_connect_message">Nem sikerül csatlakozni.</string>
+    <string name="dlg_request_if_receive_file">Elfogadás </string>
+    <string name="dlg_go_to_file_browser_message">Ellenőrizze a dokumentumot a Dokumentumkezelő/Wlan-megosztású fájlok menüpontban!</string>
+    <string name="connect_info_one2one">Csak az egy-egy kapcsolatot támogatja. Az újrapróbálkozás előtt zárjon be minden más kapcsolatot.</string>
+    <string name="dlg_airplane_open_message">Lépjen ki a repülőgépi módból, majd használja a Wlan-megosztás funkciót!</string>
+    <string name="dlg_sent_file_fail_notification_message">A dokumentum nem lett elküldve. Küldje el újra.</string>
+    <string name="received_file_result_notification">"WLAN-megosztás: Fogadott dokumentum"</string>
+    <string name="lock_settings_picker_title">Válasszon képernyő-zárolási módot</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> sikeres, <xliff:g id="unsuccessful_number">%2$s</xliff:g> sikertelen.
+    </string>
+    <string name="dlg_open_wifi_message_tel">Repülőgépi módban nem használhat WLAN-megosztást.</string>
+    <string name="receiving_file_notification">WLAN-megosztás: Dokumentum fogadása</string>
+    <string name="sent_file_fail_dialog">A dokumentum nem lett elküldve!</string>
+    <string name="wifi_p2p_disconnect_message">Ha megszakítja a kapcsolatot, az összes kapcsolat megszakad.</string>
+    <string name="wifi_p2p_menu_searching">Keresés...</string>
+    <string name="dlg_sdcard_not_mounted_message">A tárolóeszköz nem érhető el. A próbálkozás előtt zárja be az USB-tárolóeszközt.</string>
+    <string name="sent_file_dialog">A dokumentum sikeresen el lett küldve (a dokumentum az alábbi helyre lett mentve: /WlanShare a címzett mobiltelefonján):</string>
+    <string name="open_file_fail_dialog">Ez a fájltípus nem nyitható meg, telepítse a szükséges szoftvert!</string>
+    <string name="wifi_p2p_failed_rename_message">A készüléket nem lehet átnevezni.</string>
+    <string name="dlg_received_file_success_notification_message">A dokumentum sikeresen megérkezett. A megtekintéshez nyomja meg a gombot.</string>
+    <string name="wifi_p2p_peer_devices">Társ-társ készülék</string>
+    <string name="wifi_p2p_menu_search">Készülék keresése</string>
+    <string name="received_file_dialog">A dokumentum sikeresen megérkezett (mentés helye: /WlanShare):</string>
+    <string name="sent_file_result_notification">"WLAN-megosztás: Elküldött dokumentum"</string>
+    <string name="dlg_sent_file_confirm_notification_message">Biztosan megszakítja az aktuális dokumentumátvitelt?</string>
+    <string name="dlg_sent_file_success_notification_message">A dokumentum sikeresen el lett küldve. Tekintse meg a címzett mobiltelefonján.</string>
+ <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Kapcsolva"</item>
+    <item msgid="3189211552661432651">"Meghívott"</item>
+    <item msgid="3206450250360237549">"Sikertelen"</item>
+    <item msgid="7785896708926971207">"Rendelkezésre álló"</item>
+    <item msgid="2330782789550628803">"Tartományon kívül"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">Nincs tartalom</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_cancel">"Ακύρωση"</string>
+<string name="wifi_p2p_delete_group_message">"Διαγραφή αυτής της ομάδας;"</string>
+<string name="dlg_ok">"Επιβεβαίωση"</string>
+<string name="wifi_p2p_menu_rename">"Μετονομασία συσκευής"</string>
+<string name="wifi_p2p_remembered_groups">"Ομάδες που έχουν διατηρηθεί"</string>
+<string name="help_label">"Βοήθεια"</string>
+<string name="wifi_p2p_disconnect_title">Αποσύνδεση;</string>
+<string name="wifi_p2p_cancel_connect_title">"Ακύρωση πρόσκλησης;"</string>
+    <string name="dlg_open_wifi_message">Το WLAN πρέπει να ενεργοποιηθεί, για να ενεργοποιηθεί η κοινή χρήση μέσω WLAN. Θέλετε να ενεργοποιήσετε το WLAN;</string>
+    <string name="socketchannel_busy">Εργάζομαι. Δοκιμάστε ξανά αργότερα!</string>
+    <string name="wifi_p2p_cancel_connect_message">Θέλετε να ακυρώσετε την πρόσκληση για σύνδεση;</string>
+    <string name="sending_file_notification">Κοινή χρήση μέσω WLAN: Γίνεται αποστολή εγγράφου</string>
+    <string name="received_file_fail_dialog">Δεν έγινε λήψη του εγγράφου!</string>
+    <string name="dlg_received_file_fail_notification_message">Δεν έγινε λήψη του εγγράφου. Προσπαθήστε ξανά.</string>
+    <string name="wifi_p2p_disconnect_multiple_message">Εάν τερματίσετε τη σύνδεση, θα αποσυνδεθούν και όλες οι συσκευές.</string>
+    <string name="toast_no_send_files">Επιλέξτε ένα ή περισσότερα έγγραφα για κοινή χρήση πριν από τη σύνδεση!</string>
+    <string name="dlg_close_bt_then_send_file">Κλείστε το Bluetooth πριν από την αποστολή του εγγράφου!</string>
+    <string name="app_name">"Κοινή χρήση WLAN"</string>
+    <string name="dlg_received_file_confirm_notification_message">Είστε βέβαιοι ότι θέλετε να ακυρώσετε την τρέχουσα μετάδοση εγγράφων;</string>
+    <string name="dlg_request_if_send_file">
+	       Θέλετε να στείλετε το έγγραφο: <xliff:g id="id_2">%2$s</xliff:g> στο <xliff:g id="id_1">%1$s</xliff:g>;
+    </string>
+    <string name="wifi_p2p_failed_connect_message">Δεν είναι δυνατή η σύνδεση.</string>
+    <string name="dlg_request_if_receive_file">Αποδοχή </string>
+    <string name="dlg_go_to_file_browser_message">Ελέγξτε το έγγραφο στις επιλογές Διαχείριση εγγράφου/Αρχεία WlanShare!</string>
+    <string name="connect_info_one2one">Υποστηρίζει μόνο τη σύνδεση ένα-προς-ένα. Κλείστε όλες τις υπόλοιπες συνδέσεις πριν δοκιμάσετε ξανά.</string>
+    <string name="dlg_airplane_open_message">Εξέλθετε από τη λειτουργία πτήσης και κατόπιν χρησιμοποιήστε το WlanShare!</string>
+    <string name="dlg_sent_file_fail_notification_message">Το έγγραφο δεν απεστάλη. Επαναλάβετε την αποστολή.</string>
+    <string name="received_file_result_notification">"Κοινή χρήση μέσω WLAN: Έγινε λήψη του εγγράφου"</string>
+    <string name="lock_settings_picker_title">Επιλογή λειτουργίας κλειδώματος οθόνης</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> ήταν επιτυχές, <xliff:g id="unsuccessful_number">%2$s</xliff:g> απέτυχε.
+    </string>
+    <string name="dlg_open_wifi_message_tel">Δεν είναι δυνατή η χρήση της κοινής χρήσης μέσω WLAN στη λειτουργία πτήσης.</string>
+    <string name="receiving_file_notification">Κοινή χρήση μέσω WLAN: Γίνεται λήψη εγγράφου</string>
+    <string name="sent_file_fail_dialog">Το έγγραφο δεν απεστάλη!</string>
+    <string name="wifi_p2p_disconnect_message">Εάν τερματίσετε τη σύνδεση, θα τερματιστούν και όλες οι συνδέσεις.</string>
+    <string name="wifi_p2p_menu_searching">Αναζήτηση…</string>
+    <string name="dlg_sdcard_not_mounted_message">Η συσκευή αποθήκευσης δεν είναι διαθέσιμη. Κλείστε τη συσκευή αποθήκευσης USB προτού δοκιμάσετε.</string>
+    <string name="sent_file_dialog">Η αποστολή του εγγράφου ολοκληρώθηκε με επιτυχία (το έγγραφο έχει αποθηκευτεί στο: /WlanShare στο κινητό τηλέφωνο του παραλήπτη):</string>
+    <string name="open_file_fail_dialog">Δεν είναι δυνατό το άνοιγμα αυτού του τύπου αρχείου. Εγκαταστήστε το απαραίτητο λογισμικό!</string>
+    <string name="wifi_p2p_failed_rename_message">Δεν είναι δυνατή η μετονομασία της συσκευής.</string>
+    <string name="dlg_received_file_success_notification_message">Η λήψη του εγγράφου ολοκληρώθηκε με επιτυχία. Πατήστε για προβολή.</string>
+    <string name="wifi_p2p_peer_devices">Ομότιμη συσκευή</string>
+    <string name="wifi_p2p_menu_search">Αναζήτηση συσκευής</string>
+    <string name="received_file_dialog">Η λήψη του εγγράφου ολοκληρώθηκε με επιτυχία (έχει αποθηκευτεί στο:/WlanShare):</string>
+    <string name="sent_file_result_notification">"Κοινή χρήση μέσω WLAN: Το έγγραφο απεστάλη"</string>
+    <string name="dlg_sent_file_confirm_notification_message">Είστε βέβαιοι ότι θέλετε να ακυρώσετε την τρέχουσα μετάδοση εγγράφων;</string>
+    <string name="dlg_sent_file_success_notification_message">Η αποστολή του εγγράφου ολοκληρώθηκε με επιτυχία. Η προβολή πρέπει να γίνει στο κινητό τηλέφωνο του παραλήπτη.</string>
+  <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Σε σύνδεση"</item>
+    <item msgid="3189211552661432651">"Προσκεκλημένος"</item>
+    <item msgid="3206450250360237549">"Ανεπιτυχής"</item>
+    <item msgid="7785896708926971207">"Διαθέσιμος"</item>
+    <item msgid="2330782789550628803">"Εκτός εμβέλειας"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">Δεν υπάρχει περιεχόμενο</string>
+</resources>

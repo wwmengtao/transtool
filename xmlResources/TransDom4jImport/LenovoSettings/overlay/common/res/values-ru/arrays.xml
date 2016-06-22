@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="wifi_security"> 
+<!--Bengin,Lenovo-sw cairz1 add 2013-10-18,SNOOPYROW-3122,add for the translation in Russia. -->
+        <item>"Открытая"</item>  
+<!--End,Lenovo-sw cairz1 add 2013-10-18,SNOOPYROW-3122,add for the translation in Russia. -->
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Авто</item>
+        <item>WEP в кодировке ASCII</item>
+        <item>WEP в шестнадцатеричной системе</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720p (60 кадр./с)</item>
+        <item>﻿720p (30 кадр./с)</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(не указано)</item>
+        <item>Слот для SIM-карты 1</item>
+        <item>Слот для SIM-карты 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 и IPv6</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>Мышь для правшей</item>
+        <item>Мышь для левшей</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Всегда</item>
+        <item>Выключать при бездействии через 5 мин</item>
+        <item>Выключать при бездействии через 10 мин</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>Сертификат WAPI</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080p (30 кадр./с)</item>
+        <item>720p (60 кадр./с)</item>
+        <item>720p (30 кадр./с)</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Сертификат WAPI</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        <item>Включена</item>
+        <item>На 3 секунды</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Подсказка</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Смарт-поворот (зависит от положения глаз)</item>
+        <item>Автоповорот экрана</item>
+        <item>Отключен</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+    	
+    	
+    	
+    <item>Использовать время, заданное сетью</item>
+        <item>Использовать время, заданное GPS</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        <item>Включена</item>
+        <item>На 3 секунды</item>
+        <item>Смарт-контроль</item>
+        <item>Отключена</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        
+        
+        
+    <item>Поворот жестами</item>
+        <item>Автоповорот</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="softspacename">
+        
+        
+        
+    <item>Системные рекомендации</item>
+        <item>Установить на телефон</item>
+        <item>Установить на карту памяти по умолчанию</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">  
+        <item>"Включен"</item>
+        <item>"Включен при питании от сети"</item>
+        <item>"Отключен (моб. трафик больше)"</item>
+        <item>"Смарт-режим (ВКЛ/ОТКЛ в зависимости от трафика)"</item>
+    </string-array>
+</resources>

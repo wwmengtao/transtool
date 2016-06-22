@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+--><!--
+WangXuejin,2011.0719,dd lenovo added frameworks resource.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Lenovo-sw caijh modify: lenovo standard fast boot modify. [2012.02.28] begin
+     featureOption: LENOVO_STANDARD_FAST_BOOT_MODIFY --> 
+    <string name="dlg_use_ipo_confirm">Quick bootup at next booting</string>
+    <string name="dlg_ipo_confirm_warning">In the fast boot mode, the system is not completely powered off, please do not plug the SIM card or memory card in this state that may damage to the card.</string>
+    <!-- Lenovo-sw caijh modify: lenovo standard fast boot modify. [2011.02.28] begin
+     featureOption: LENOVO_STANDARD_FAST_BOOT_MODIFY --> 
+    <!-- Lenovo sw caijh 20120328 begin-->
+    <string name="storage_sd_card">external storage</string> <!-- lenovo sw wenglk1 20130617 -->
+    <string name="storage_usb">USB storage</string>
+    <string name="storage_phone">built-in storage</string> <!-- lenovo sw wenglk1 20130617 -->
+    <string name="storage_external_usb">External USB storage</string>
+    <!-- Lenovo sw caijh 20120328 end-->  
+
+    <!-- Lenovo-sw [huangxh2] 2012-03-08 add begin-->
+    <string name="ext_storage_internal_notification_title">Preparing Internal Storage</string>
+    <string name="ext_storage_external_notification_title">Preparing External Storage</string>
+    <!-- Lenovo-sw [huangxh2] 2012-03-08 add end-->
+    
+    <!--lenovo-sw linrq1 20131014 modify string value begin-->
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Activate Airplane Mode?</string>
+    <!--lenovo-sw linrq1 20131014 modify string value end -->
+    <!--Lenovo-huangleib add begin 20120803 -->
+    <string name="usb_notification_title">USB Connection Settings</string>
+    <string name="usb_notification_content">Select usb mount mode and adb debug.</string>
+    <!--Lenovo-huangleib add begin 20120803 -->
+    <string name="default_string">Default</string>
+
+    <!-- Default text for a button that can be toggled on and off. -->
+    <string name="capital_on">ON</string>
+    <!-- Default text for a button that can be toggled on and off. -->
+    <string name="capital_off">OFF</string>
+    <!--lenovo-sw caijh 2012_03_08 add begin -->
+    <string name="kg_forgot_password_button_text">Forgot Password</string>
+    <!--lenovo-sw caijh 2012_03_08 add end -->
+    <!--lenovo-sw wuzb1 2013-08-30 add begin -->
+    <string name="msg_shutdown_habit_guess">"Recently, you have shutdown device three times during this time. 
+Do you need to go the schedule power on-off settings?"</string>
+    <!--lenovo-sw wuzb1 2013-08-30 add end -->
+
+    <!--begin, lenovo-sw wuzb1 2013-06-30 -->
+    <string name="global_action_reboot">Reboot</string>
+    <string name="reboot_confirm_title">Reboot</string>
+    <string name="reboot_confirm_msg">Your handset will reboot</string>
+    <string name="reboot_dialog_msg">"Press power key to shutdown after <xliff:g id="DELAY">^1</xliff:g> seconds. 
+Continue to press with 2 seconds for reboot after shutdown"</string>
+    <string name="silent_mode_silent">Mute</string>
+    <string name="silent_mode_vibrate">Vibration</string>
+    <string name="silent_mode_normal">General</string>
+    <string name="silent_mode_outdoor">Outdoor</string>
+    <!--end, lenovo-sw wuzb1 2013-06-30 -->
+    <!--Lenovo-sw wuzb1 add 2013-08-06 begin,add for shutdown warning-->
+    <string name="powerOnWarning_alarm_msg">Next AlarmClock: %1$s</string>
+    <string name="powerOnWarning_boot_msg">Next PowerOn: %1$s</string>
+    <!--Lenovo-sw wuzb1 add 2013-08-06 end,add for shutdown warning-->
+
+    <!--lenovo-sw zhengpf1 modify: add for long press back key for exit current app[2013-07-10] begin-->
+    <string name="long_back_exit_info">exit</string>
+    <!--lenovo-sw zhengpf1 modify end-->
+
+    <!-- Lenovo Edit Begin -->
+    <!-- liubin add 2013.07.25, for Prevent Misoperation -->
+    <string name="prevent_misoperation_title">Misoperation prevent mode</string>
+    <string name="prevent_misoperation_message">Don\'t cover the top of screen</string>
+    <string name="prevent_misoperation_quit_hint">Force to quit: pressing \"Back\" + \"Volume Up\" key</string>
+    <!-- liubin add 2013.09.13, for Captive Portal Pop-up Dialog -->
+    <string name="captive_portal_dialog_title">Sign into WLAN network</string>
+    <string name="captive_portal_dialog_message">Sign-in is requested for current WLAN network before accessing internet, please sign in first</string>
+    <string name="captive_portal_dialog_button">Sign in</string>
+    <!-- Lenovo Edit End -->
+     <!--lenovo-sw shehh1 modify: add for volumePanel  begin-->
+    <string name="volume_icon_description_ringer">Ringtone and Message</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Call</string>
+    <string name="volume_alarm">Alarm</string>
+    <string name="volume_fm">FM</string>
+    <string name="volume_matv">Mobile TV</string>
+    <string name="volume_icon_description_media">Media</string>
+    <string name="volume_icon_description_notification">Notification</string>
+     <!--lenovo-sw shehh1 modify: add for volumePanel  end-->
+    <string name="not_support_too_long_string">Not support to search too long string</string>
+    <!--Lenovo-sw wangsq2 add 2013-09-12 begin,add turn on mobile data confirm dialog-->
+    <string name="turn_on_mobile_data_warning">Turn on data connection, mobile phone will use some GPRS data. The specific charges is up to operators. Are you sure to open?</string>
+    <string name="next_time_no_warning">Donot warning next time.</string>
+    <string name="turn_on_data">Turn on</string>
+    <string name="turn_off_data">Turn off</string>
+    <!--Lenovo-sw wangsq2 add 2013-09-12 end,add turn on mobile data confirm dialog-->
+    <string name="keyguard_password_waring_dlg_title">Wrong password</string>
+    <string name="keyguard_password_attempts_warning">You have incorrectly attempted to unlock the phone <xliff:g id="number">%d</xliff:g> times.
+       After <xliff:g id="number">%d</xliff:g> more unsuccessful attempts,
+       the phone will be reset to factory default and all user data will be lost.</string>
+    <string name="keyguard_password_waring_dlg_remind">Please enter lenovo and click OK to continue.</string>
+    <string name="keyguard_password_dlg_input_err">Input errors, please try again</string>
+    <!--lenovo-sw caijh add 2013-10-22, add "lenovo" recheck dialog on keuguard-->
+
+    <!--Lenovo-sw add by liqf2 on  2013/10/21 begin-->
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Bluetooth will be turned off when you turn on wireless display. Do you want to continue?</string>
+    <!--Lenovo-sw add by liqf2 on  2013/10/21 end-->
+    <string name="component">systemwidget</string>
+    <string name="author">Lenovo author</string>
+    <string name="description">Lenovo default theme </string>
+    <string name="app_name">Classical</string>
+</resources>

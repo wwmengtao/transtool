@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ --><!--[lenovo_fw,zhaoll8,framework_res] ,"Refer to lenovo_fw.txt" add --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_general">"标准"</string>
+    <string name="global_action_outdoors">"户外"</string>
+    <string name="global_action_silence">"静音"</string>
+    <string name="global_action_meeting">"振动"</string>
+    <string name="shutdown_alarm_confirm">"关机闹钟会在<xliff:g id="ALARM_TIME">%1$s</xliff:g>唤醒。"</string>
+    <string name="still_sleep_title">静止休眠</string>
+    <string name="still_sleep_summary">当手机静止在水平位置时，自动进入休眠状态</string>
+    <string name="smart_answer_incommingcall_title">智能接听</string>
+    <string name="smart_answer_incommingcall_summary">当来电时，用户通过指定手势即可接听来电</string>
+    <string name="start_camera_gesture_title">手势相机</string>
+    <string name="start_camera_gesture_summary">通过手势可以快速打开照相机</string>
+    <string name="voice_wakeup_title">语音唤醒</string>
+    <string name="global_single_hand_title">单手操作</string>
+    <string name="global_single_hand_summary">方便单手进行操作</string>
+    <string name="voice_wakeup_summary">可以通过语音唤醒系统</string>
+    <string name="wave_wakeup_title">挥手亮屏</string>
+    <string name="wave_not_screenoff_title">挥手不灭屏</string>
+    <string name="flip_screen_control_title">翻转屏幕控制</string>
+    <string name="flip_screen_control_summary">通过翻转手机来控制屏幕是否开启和关闭</string>
+
+    <string name="tilt_slide_title">倾斜滑动</string>
+    <string name="tilt_slide_summary">左右倾斜可以实现滑动浏览</string>
+
+    <string name="knock_light_title">双击亮屏</string>
+    <string name="share_music_a2dp_headphones_control_title">分享音乐到蓝牙耳机</string>
+    <string name="share_music_a2dp_headphones_control_summary">当打开该选项时，连接蓝牙耳机和有线耳机时播放音乐，可以同时分享音乐</string>
+    <string name="tilt_scroll_control_title">倾斜滚动</string>
+    <string name="tilt_scroll_control_summary">当打开该选项时，支持倾斜滚动的界面会在电话倾斜时自动左右滚屏</string>
+    <string name="startup_confirm_airplane_turn_off">关闭飞行模式?</string>
+    <string name="startup_confirm_auto_shutdown">在 %s秒后手机关闭.</string>
+    <string name="startup_auto_shutdown_title">自动关机</string>
+    <string name="poweron_nosim">SIM 找不到</string>
+    <string name="poweron_nouim">UIM 找不到</string>
+    <string name="poweron_emergencycallonly">仅限紧急呼叫</string>
+    <string name="auto_shutdown_interrupted">定时关机被打断</string>
+    <string name="fast_poweron_next_time">"下次快速开机"</string>
+    <string name="reboot">重启</string>
+    <string name="reboot_progress">重启\u2026</string>
+    <string name="no_ftp_app">没有支持ftp的应用程序</string>
+    <!--[lenovo_fw,jiangzc1,boot&shutdown_others], "Refer to lenovo_fw.txt" , modify-->
+    <string name="power_off">"关机确认"</string>
+    <string name="global_action_restart">"重启"</string>
+    <string name="restart_confirm_question">"您要重启吗？"</string>
+    <string name="lll_pbtn_alert">"继续按电源键<xliff:g id="COUNT_DOWN_TIME">%1$s</xliff:g>秒后将关机。"</string>
+    <!--[lenovo_fw,jiangzc1,boot&shutdown_others], end-->
+
+    <!--[lenovo_fw,zhusf,lenovo_more_ringtons_feature] ,"Refer to lenovo_fw.txt" , add -->
+    <string name="ringtone_picker_more_ringtones_title">"更多铃声 &gt;&gt;&gt;"</string>
+    <!--[lenovo_fw,zhusf,lenovo_more_ringtons_feature] ,end -->
+
+    <!--[lenovo_fw,zhusf,unsupported_headset_warning] ,"Refer to lenovo_fw.txt" , modify -->
+    <string name="unsupported_headset_warning" product="default">   "不支持的附件" </string>
+    <!--[lenovo_fw,zhusf,unsupported_headset_warning] ,end -->
+
+    <!--[lenovo_fw,zhusf,lenovo_phone_brightmode_feature] ,"Refer to lenovo_fw.txt" , modify -->
+    <string name="enter_bright_mode_warning" product="default">"已开启亮音功能，让通话更清晰"</string>
+    <string name="leave_bright_mode_warning" product="default">"已关闭亮音功能"</string>
+    <!--[lenovo_fw,zhusf,lenovo_phone_brightmode_feature] ,end -->
+
+    <!--[lenovo_fw,zhouzs1,add_black_screen_handler] ,add -->
+    <string name="black_screen_handler_title">"开启黑屏手势"</string>
+    <string name="black_screen_camera_fast_title">"相机快拍模式"</string>
+    <string name="black_screen_camera_gallery_title">"相机预览模式"</string>
+    <string name="black_screen_notification_title">"未读信息震动提醒模式"</string>
+    <string name="black_screen_time_service_title">"语音报时模式"</string>
+    <string name="black_screen_time_show_title">"时间显示模式"</string>
+    <string name="black_screen_face_recognization_title">"人脸识别模式"</string>
+    <!--[lenovo_fw,zhouzs1,add_black_screen_handler] ,end -->
+    <!--[lenovo_fw,fanll4,fastcharging],"Refer to lenovo_fw.txt", add-->
+    <string name="charge_stream_max">当前充电电流为2000mA </string>
+    <string name="charge_stream_min">当前充电电流为1500mA </string>
+    <!--[lenovo_fw,fanll4,fastcharging],end-->
+
+
+	<!-- begin,merge from lenovo_character_strings.xml -->
+	<string name="swing_lock">甩动锁屏</string>
+	<string name="swing_lock_summary">单向轻甩手机，即可屏幕锁定</string>
+	<string name="smart_call_answer_title">智能接听</string>
+	<string name="smart_call_answer_summary">来电时将手机靠近耳朵自动接听</string>
+	<string name="long_menu_active_voice">菜单键激活语音</string>
+	<string name="long_menu_active_voice_summary">亮屏状态，长按菜单键激活语音</string>
+	<string name="side_key_backlight_title">"侧键亮屏"</string>
+	<string name="slide_unlock_title">黑屏解锁</string>
+	<string name="slide_unlock_summary">在屏幕底部向左或向右滑动即可解锁</string>
+	<string name="smart_calling_title">智能呼叫</string>
+	<string name="smart_calling_summary">在联系人详情及信息会话界面,拿起电话靠近耳朵即可自动拨打该联系人电话</string>
+	<string name="header_category_call_and_msg">单手</string>
+	<string name="header_category_lock_and_screen">手势</string>
+	<string name="header_category_system_and_key">智能</string>
+	<string name="mercury_keyboard_title">水银键盘</string>
+	<string name="mercury_keyboard_summary">根据手握的角度调整界面比例大小以便单手操作。</string>
+	<string name="wide_touch_title">空灵触控</string>
+	<string name="wide_touch_summary">"点击悬浮按钮开启快捷操作和应用面板。"</string>
+	<string name="display_smart_standby">智能待机</string>
+	<string name="smart_standby_ctrl_description">亮屏时，如判断眼睛注视屏幕则保持常亮。角度太偏或光线不足时识别率降低</string>
+	<string name="smart_scene_title">"智能场景"</string>
+	<string name="smart_scene_summary">"智能切换所需要的场景模式"</string>
+	<string name="lockscreen_face_detection_ctrl">人脸解锁</string>
+	<string name="lockscreen_face_detection_ctrl_description">通过摄像头自动检测人脸解锁，光线不足时识别率将变低</string>
+	<string name="smart_roll_title">智能翻</string>
+	<string name="smart_roll_summary">边框向内滑动翻转界面</string>
+	<string name="side_key_backlight_summary">"按侧键即可点亮屏幕"</string>
+	<string name="pin_scroll_title">列表下拉锁定</string>
+	<string name="pin_scroll_summary">从列表顶部继续下拉，手指稍微停留，出现大头针提示时放开，即可锁定列表，更利于单手操作</string>
+	<string name="single_hand_title">单手微屏</string>
+	<string name="single_hand_summary">方便单手进行操作</string>
+	<string name="i_know_it">我知道了</string>
+	<string name="try_it">试用一下</string>
+	<string name="try_swing_lock_info">请甩动手机进行屏幕锁定</string>
+	<string name="try_swing_lock_result_ok">方法正确, 你可以使用该功能了</string>
+	<string name="try_swing_lock_result_harder">摇晃力度不够, 请重试</string>
+	<string name="try_swing_lock_result_longer">摇晃距离不够, 请重试</string>
+	<string name="profile_edit_pocket_help">手机放在口袋或皮套模式下，来电时音量自动调整到最大。</string>
+	<string name="profile_edit_weaken_help">来电时，拿起手机来电音量自动减弱。</string>
+	<string name="mercury_keyboard_help">应用于拨号键盘，键盘会感受重力的影响改变比例大小以方便用户单手操作。同时在拨号键盘界面水平滑动也可开启水银键盘。</string>
+	<string name="slide_unlock_help">黑屏界面下，手指在屏幕底部向左或向右滑动一段距离，即可进行解锁。此项功能会影响待机功耗。</string>
+	<string name="swing_lock_help">单向快速甩动手机，即可屏幕锁定。</string>
+	<string name="profile_edit_pocket_title">"来电口袋模式"</string>
+	<string name="profile_edit_pocket_summary">"在口袋或皮套模式下时来电音量最大"</string>
+	<string name="profile_edit_weaken_title">"拿起铃声减弱"</string>
+	<string name="profile_edit_weaken_summary">"拿起电话时铃声减弱"</string>
+	<!-- end,merge from lenovo_character_strings.xml -->
+
+	<!-- begin,merge from mtk_strings.xml -->
+	<string name="hdmi_toggler">HDMI</string>
+	<string name="hdmi_settings">HDMI 设定</string>
+	<string name="hdmi_settings_summary">点击设定 HDMI</string>
+	<string name="hdmi_audio_toggler">音频</string>
+	<string name="hdmi_video_toggler">视频</string>
+	<string name="hdmi_video_resolution">视频分辨率</string>
+	<string name="hdmi_auto">自动</string>
+	<string name="landscape_launcher_title">横向启动程序</string>
+	<string name="landscape_launcher_none">无</string>
+	<string name="tvout_settings">TV 输出</string>
+	<string name="tvout_settings_summary">TV 输出设置</string>
+	<string name="tv_system_title">TV 系统设置</string>
+	<string name="wifi_security_wapi_certificate">WAPI 证书</string>
+	<string name="wapi_user_certificate">"用户证书"</string>
+	<string name="wapi_as_certificate">"ASE 证书"</string>
+	<string name="wifi_disconnect">断开</string>
+	<string name="wifi_menu_disconnect">断开网络</string>
+	<string name="wifi_connect_type_title">自动连接类型</string>
+	<string name="wifi_setting_connect_type_error">设置自动连接类型时出现错误。</string>
+	<string name="wifi_priority_type_title">手动设定接入点的优先级</string>
+	<string name="wifi_priority_type_summary">允许手动设定每个接入点的优先级</string>
+	<string name="wifi_priority_settings_title">接入点优先级设定</string>
+	<string name="wifi_priority_settings_summary">点击设定各接入点的优先级</string>
+	<string name="wifi_priority_label">优先级</string>
+	<string name="wifi_priority_settings_label">优先级设定</string>
+	<string name="wifi_configured_ap_list">已保存的接入点列表</string>
+	<string name="msg_wlan_signal_found">发现 WLAN 信号 %s, 您是否要使用该 WLAN 网络？ 使用该网络将部分中断当前的数据连接。</string>
+	<string name="wifi_security_cmcc">加密方式</string>
+	<string name="wifi_channel">优先频道</string>
+	<string name="bluetooth_advanced_settings">"蓝牙高级设置"</string>
+	<string name="bluetooth_profile_ftp">"文件传输"</string>
+	<string name="bluetooth_ftp_profile_summary_use_for">"用于文件传输"</string>
+	<string name="bluetooth_ftp_profile_summary_connected">"已连接到文件传输"</string>
+	<string name="day">"1 天"</string>
+	<string name="days">"<xliff:g id="DAYS">%s</xliff:g> 天"</string>
+	<string name="hour">"1 小时"</string>
+	<string name="hours">"<xliff:g id="HOURS">%s</xliff:g> 小时"</string>
+	<string name="minute">"1 分钟"</string>
+	<string name="minutes">"<xliff:g id="MINUTES">%s</xliff:g> 分钟"</string>
+	<string name="every_day">"每天"</string>
+	<string name="never">"从不"</string>
+	<string name="done">"完成"</string>
+	<string name="revert">"复原"</string>
+	<string name="wifi_priority_changed">原优先级=<xliff:g id="old_value">%s</xliff:g>,新设定=<xliff:g id="new_value">%s</xliff:g></string>
+	<string name="wifi_hex_password">"十六进制密码"</string>
+	<string name="wifi_network_netmask">网络掩码</string>
+	<string name="confirm_title">确认</string>
+	<string name="proxy_exclusionlist_label_cmcc">代理排除列表</string>
+	<string name="pch_toggle_title">"GPRS 数据优先模式"</string>
+	<string name="pch_data_prefer_summary_off">"数据优先"</string>
+	<string name="pch_call_prefer_summary_on">"电话优先"</string>
+	<string name="pch_warning_message">"数据传输速率将会降低。"</string>
+	<string name="gsm_to_wifi_connect_type_title">蜂窝网至 WLAN 重选</string>
+	<string name="wifi_connect_ap_summary">设置网络连接方式</string>
+	<string name="select_ssid_type_title">不同 SSID 间重选</string>
+	<string name="wifi_signal_found_msg">当前 WLAN 连接信号较弱,是否切换到其他 WLAN 网络?</string>
+	<string name="apn_list_category_title">APN列表</string>
+	<string name="data_conn_category_title">数据连接</string>
+	<string name="wifi_gprs_selector_title">选择网络</string>
+	<string name="data_enabler_title">数据连接</string>
+	<string name="data_enabler_summary">使用移动网络</string>
+	<string name="data_enabler_waiting_message">"请稍候\u2026"</string>
+	<string name="sim_slot">SIM 卡槽</string>
+	<string name="eap_sim_slot_0">SIM 卡槽 1</string>
+	<string name="eap_sim_slot_1">SIM 卡槽 2</string>
+	<string name="eap_sim_aka_airplanemode">请关闭飞行模式才能使用 EAP-SIM/AKA</string>
+	<string name="eap_sim_aka_no_sim_error">您必须插入SIM卡才能使用 EAP-SIM/AKA </string>
+	<string name="eap_sim_aka_no_sim_slot_selected">您必须选择SIM卡槽才能使用 EAP-SIM/AKA</string>
+	<string name="move_app_to_where">"移至"<xliff:g id="location">%s</xliff:g></string>
+	<string name="wifi_tether_auto_disable_title">保持WLAN热点开启</string>
+	<string name="gemini_3g_disable_warning_case0">"这张SIM卡必须要先开通漫游，这将产生大量漫游费！确定要开通漫游并选择这张卡吗？"</string>
+	<string name="gemini_3g_disable_warning_case1">"这张SIM卡上的3G服务不可用，将会使上网变慢。可以在 设置 &gt; 无线和网络 &gt; 移动网络 下更改3G服务。确定要选择这张卡吗？"</string>
+	<string name="gemini_3g_disable_warning_case2">"这张SIM卡上的3G服务不可用，将会使上网变慢。可以在 设置 &gt; SIM卡管理 下更改3G服务。确定要选择这张卡吗？"</string>
+	<string name="gemini_3g_disable_warning_case3">"这张SIM卡必须要先开通漫游，这将产生大量漫游费！而且这张SIM卡上的3G服务不可用，将会使上网变慢。可以在 设置 &gt; 无线和网络 &gt; 移动网络 下更改3G服务。确定要开通漫游并选择这张卡吗？"</string>
+	<string name="gemini_3g_disable_warning_case4">"这张SIM卡必须要先开通漫游，这将产生大量漫游费！而且这张SIM卡上的3G服务不可用，将会使上网变慢。可以在 设置 &gt; SIM卡管理 下更改3G服务。确定要开通漫游并选择这张卡吗？"</string>
+	<string name="sd_mount_usbstorage" product="default">"装载 USB 存储设备"</string>
+	<string name="sd_insert_usb_summary" product="default">"插入要装载的 USB 存储设备"</string>
+	<string name="sd_eject_usbstorage" product="default">"卸载 USB 存储设备"</string>
+	<string name="sd_eject_usbstorage_summary" product="default">"需要先卸载 USB 存储设备，然后才能将其安全移除"</string>
+	<string name="error_connecting">"无法连接到网络"</string>
+	<string name="tethered_ipv6_title">个人热点设置</string>
+	<string name="tethered_ipv4v6">(IPv6 可用)</string>
+	<string name="tethered_ipv6">(仅 IPv6 可用)</string>
+	<string name="tethered_ipv4">(IPv6 不可用)</string>
+	<string name="tethering_apn_settings_title">APN 设置</string>
+	<string name="tethering_apn_settings_summary">设置网络共享 APN</string>
+	<string msgid="6045820877942801599" name="vibrate_title">"振动"</string>
+	<string msgid="6047518536574673606" name="sound_category_feedback_title">"系统"</string>
+	<string name="usb_ums_title">"USB 存储设备"</string>
+	<string name="usb_ums_summary">"XP系统推荐。将手机作为U盘进行文件复制。"</string>
+	<string name="usb_bicr_title">内置光盘</string>
+	<string name="usb_bicr_summary"> 做为虚拟光盘，包含一些常用软件。</string>
+	<string name="dlg_error_unmount_usb_text" product="default">"无法卸载 USB 存储设备，请稍后重试。"</string>
+	<string name="unmount_usb_inform_text" product="default">"系统将会卸载 USB 存储设备。"</string>
+	<string name="dlg_confirm_unmount_usb_title" product="default">"要卸载 USB 存储设备吗？"</string>
+	<string name="dlg_confirm_unmount_usb_text" product="default">"如果卸载该 USB 存储设备，您当前使用的某些应用程序会停止运行，并且在您重新装载该设备前可能都无法使用。"</string>
+	<string name="dlg_mount_external_sd_title" product="default">是否安装 SD 卡?</string>
+	<string name="dlg_mount_external_sd_summary" product="default">若安装 SD 卡，您正在使用的部分应用程序将会被停止。</string>
+	<string name="usb_connect_as_cdrom_category">"以CD-ROM连接"</string>
+	<string name="wifi_tether_setting_title">基本设置</string>
+	<string name="wifi_tether_wps_connect_summary">选择 WPS 模式</string>
+	<string name="wifi_tether_wps_pin_error">PIN码无效</string>
+	<string name="wifi_tethering_title">WLAN 热点</string>
+	<string name="wifi_ap_wps_mode_title">WPS 模式</string>
+	<string name="wifi_ap_wps_pin_title">从对等设备输入 PIN 码</string>
+	<string name="wifi_ap_reset_OOB_title">重置网络名称, 加密方式及密码 (WPS 参数恢复恢复出厂设置)</string>
+	<string name="wifi_ap_reset_OOB">重置 OOB</string>
+	<string name="wifi_ap_max_connection_title">最大连接数</string>
+	<string name="wifi_ap_connected_title">已连接用户</string>
+	<string name="wifi_ap_blocked_title">已封锁用户</string>
+	<string name="wifi_ap_client_block_title">"阻止"</string>
+	<string name="wifi_ap_client_unblock_title">取消封锁</string>
+	<string name="wifi_ap_client_mac_label">MAC 地址:</string>
+	<string name="wifi_ap_client_ip_label">IP 地址:</string>
+	<string name="usb_sharing_title">USB 互连网</string>
+	<string name="usb_sharing_summary">通过 USB 线共享 Windows PC 网络</string>
+	<string name="usb_sharing_info_title">网络</string>
+	<string name="usb_sharing_info_step_1">"1. 打开 Windows PC 网络."</string>
+	<string name="usb_sharing_info_step_2">"2. 在想要分享的网络上点击右键, 选择属性."</string>
+	<string name="usb_sharing_info_step_3">"3. 点击高级选项, 选择 \"允许其他网络用户共享此计算机的 Internet 来连接\" (如果出现家庭网络选项, 请选择新增的USB网络连接)"."</string>
+	<string name="wifi_ap_bandwidth_title">频宽使用</string>
+	<string name="wifi_ap_bandwidth_enable">启用频宽限制</string>
+	<string name="wifi_ap_bandwidth_chart_title">实时速度</string>
+	<string name="wifi_ap_bandwidth_chart_summary">速度会因为手机或电脑的不同而有所差异.</string>
+	<string name="wifi_ap_title">统计数据</string>
+	<string name="wifi_ap_time_duration">使用时间: <xliff:g id="time">%1$s</xliff:g></string>
+	<string name="wifi_ap_total_data">已使用数据:<xliff:g id="time">%1$s</xliff:g></string>
+	<string name="cpu_dtm_title">CPU省电模式</string>
+	<string name="cpu_dtm_summary">限制 CPU 最大性能以节省电量并降低温度。</string>
+	<string name="wifi_advanced_ipv4_address_title">IPv4 地址</string>
+	<string name="wifi_advanced_ipv6_address_title">IPv6 地址</string>
+	<string name="wifi_ipv4_address">IPv4 地址</string>
+	<string name="wifi_ipv6_address">IPv6 地址</string>
+	<string name="wifi_tether_wps_connect_title">WPS 连接</string>
+	<string name="wifi_ap_wps_dialog_title">WPS 连接</string>
+	<string name="wifi_ap_client_details_title">说明</string>
+	<string name="wifi_wps_fail_error">WPS 连接失败， 请稍候再试。</string>
+	<string name="international_roaming_summary_title" translatable="false">国际漫游设置</string>
+	<string name="usb_tether_type_title">USB 共享网络类型</string>
+	<string name="security_not_set">您没有设置安全性</string>
+	<string name="lockdown_vpn_already_connected">始终开启的 VPN 已启动。</string>
+	<string name="wifi_ap_no_connected">0 个已连接用户</string>
+	<string name="wifi_ap_no_blocked">0 个已封锁用户</string>
+	<string name="data_usage_more_settings">更多设置</string>
+	<string name="wfd_change_resolution_menu_title">更改分辨率</string>
+	<string name="wifi_hotspot_suspend_optimizations">WLAN 热点优化</string>
+	<string name="wifi_hotspot_suspend_optimizations_summary">开启 WLAN 热点时尽可能节约电池用量</string>
+	<string name="mouse_primary_button_title">切换主要和次要按钮</string>
+	<string name="mouse_primary_button_dialog_title">切换主按钮</string>
+	<string name="double_click_title">双击速度</string>
+	<string name="test_area">测试区域：</string>
+	<string name="double_click_tip">双击这里</string>
+	<string name="clear_motion_summary">视频流畅增强工具</string>
+	<string name="hotknot_explained_description">允许设备屏幕在接触其他设备时交换数据</string>
+	<string name="passpoint_append_summary">(通过Passpoint)</string>
+	<string name="passpoint_summary">自动连接至启用passpoint的WLAN 接入点</string>
+	<string name="passpoint_config_eap_method">"EAP方法"</string>
+	<string name="passpoint_supported">支持</string>
+	<string name="passpoint_certificate">认证</string>
+	<string name="passpoint_config_credential_type">证书类型</string>
+	<string name="passpoint_username_pw">用户名/密码</string>
+	<string name="audio_profile_bes_loudness_title">BesLoudness</string>
+	<string name="audio_profile_bes_loudness_summary">喇叭音量助推器</string>
+	<string name="voice_ui_title">"语音控制"</string>
+	<string name="unlock_set_unlock_mode_voice_weak">语音解锁</string>
+	<string name="drm_settings_title">"重置DRM"</string>
+	<string name="drm_settings_summary">"删除所有DRM许可"</string>
+	<string name="drm_reset_dialog_msg">"此操作会删除您手机上所有DRM许可，是否继续?"</string>
+	<string name="drm_reset_toast_msg">"已成功删除DRM许可。"</string>
+	<string name="display_personalize">个性化</string>
+	<string name="display_default">"显示"</string>
+	<string name="clear_motion_summary">视频流畅增强工具</string>
+	<string name="lock_screen_notifications_title">锁定屏幕通知</string>
+	<string name="lock_screen_notifications_summary">在锁定屏幕上显示通知</string>
+	<string name="lock_screen_style_title">锁定屏幕风格</string>
+	<string name="current_suffix">"(当前)"</string>
+	<string name="lockscreen_style_set">"设置"</string>
+	<string name="lockscreen_style_default_desc">"无需解锁进入应用"</string>
+	<string name="mtk_thememanager_title">"主题"</string>
+	<string name="default_name">"默认"</string>
+	<string name="custom_theme_name">我的主题 [%1$s]</string>
+	<string name="loading">"正在载入..."</string>
+	<string name="usb_charge_title">只充电</string>
+	<string name="usb_charge_summary">将停用其他一切USB功能，加速USB充电，并降低电量消耗</string>
+	<string name="mtp_transfer_unmount_error_text">SD 卡正在传输文件，无法卸载</string>
+	<string name="mtp_transfer_erase_error_text">SD 卡正在传输文件，无法格式化</string>
+	<string name="display_settings_scences_title">场景</string>
+	<string name="wifi_tether_auto_channel_text">自动</string>
+	<string name="battery_percent">电量百分比</string>
+	<string name="vibrate_on_ring_title">Vibrate and ring</string>
+	<string name="AGPS_NOTIFY_ONLY">位置通知请求</string>
+	<string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">位置请求(默认为同意)</string>
+	<string name="AGPS_NOTIFY_DENY_NO_ANSWER">位置请求(默认为拒绝)</string>
+	<string name="AGPS_NOTIFY_PRIVACY">位置请求(隐私)</string>
+	<string name="NI_Request_ID">请求者</string>
+	<string name="NI_Request_ClientName">定位应用名称</string>
+	<string name="agps_str_notify">消息通报</string>
+	<string name="agps_str_verify">消息确认</string>
+	<string name="agps_str_allow">同意</string>
+	<string name="agps_str_deny">拒绝</string>
+	<string name="agps_OK">确认</string>
+	<string name="AGPS_DEFAULT_STRING">A-GPS 默认字串</string>
+	<string name="gemini_data_connection_progress_message">"请稍候…"</string>
+	<string name="akp_installer_settings_title">APK 安装器</string>
+	<string name="akp_installer_settings_summary">从手机存储和 SD 卡中安装 APK</string>
+	<string name="select_memory">默认存储器</string>
+	<string name="usb_ums_title">"USB 存储设备"</string>
+	<string name="launch_error">不能启动应用程序</string>
+	<string name="dlg_confirm_unmount_usb_title" product="default">"要卸载 USB 存储设备吗？"</string>
+	<string name="dlg_confirm_unmount_usb_text" product="default">"如果卸载该 USB 存储设备，您当前使用的某些应用程序会停止运行，并且在您重新装载该设备前可能都无法使用。"</string>
+	<string name="dlg_error_unmount_usb_text" product="default">"无法卸载 USB 存储设备，请稍后重试。"</string>
+	<string name="unmount_usb_inform_text" product="default">"系统将会卸载 USB 存储设备。"</string>
+	<string name="sd_eject_usbstorage" product="default">"卸载 USB 存储设备"</string>
+	<string name="sd_eject_usbstorage_summary" product="default">"需要先卸载 USB 存储设备，然后才能将其安全移除"</string>
+	<string name="sd_mount_usbstorage" product="default">"装载 USB 存储设备"</string>
+	<string name="sd_insert_usb_summary" product="default">"插入要装载的 USB 存储设备"</string>
+	<string name="launch_error">不能启动应用程序</string>
+	<string name="launch_main_label">启动应用程序</string>
+	<string name="launch_main">启动应用程序的主要活动</string>
+	<string name="launch_activitie">启动</string>
+	<string name="move_app_to_where">"移至"<xliff:g id="location">%s</xliff:g></string>
+	<string name="sim_remain">(剩余次数:<xliff:g id="remains">%d</xliff:g>)</string>
+	<string name="sim_enter_pin_hints">"(﻿请输入4-8数字)"</string>
+	<string name="ims_toggle_summary">提供IP多媒体子系统业务</string>
+	<string name="sim_status_title">SIM 卡状态</string>
+	<!-- end,merge from mtk_strings.xml -->
+
+	<!-- begin,merge from lenovo_strings.xml -->
+	<string name="i_know_it">我知道了</string>
+	<string name="audio_profile_settings_title_lap">情景模式</string>
+	<string msgid="7950932054266694403" name="accessibility_toggle_script_injection_preference_title">"增强网页辅助功能"</string>
+	<string msgid="7706858873495386310" name="accessibility_script_injection_security_warning_summary">"您要允许应用安装来自 Google 的脚本，以便于您浏览这些应用的网页内容吗？"</string>
+	<string msgid="2201503285877102870" name="accessibility_script_injection_button_allow">"允许"</string>
+	<string msgid="5697152768523270885" name="accessibility_script_injection_button_disallow">"不允许"</string>
+	<string name="colorLight_settings">灯效设置</string>
+	<string name="color_light">灯效</string>
+	<string name="color_light_demo">灯效演示</string>
+	<string name="color_light_call">来电</string>
+	<string name="color_light_missed_call">未接来电</string>
+	<string name="color_light_unread_mms">未读短信</string>
+	<string name="color_light_battery">低电量</string>
+	<string name="showing_color_light">正在进行灯效演示</string>
+	<string name="stop_color_light">停止</string>
+	<string name="color_light_hasopen">已打开</string>
+	<string name="color_light_hasclose">已关闭</string>
+	<string name="color_light_other_summary">微信、QQ、微博</string>
+	<string name="color_light_other">其它未读通知</string>
+	<string name="startup_shutdown_time_errmsg">开关机间隔需大于10分钟，请重置。</string>
+	<string name="timing_startup_head_text">开机</string>
+	<string name="timing_shutdown_head_text">关机</string>
+	<string name="startup_time">开机时间</string>
+	<string name="shutdown_time">关机时间</string>
+	<string name="system_time_am">上午</string>
+	<string name="system_time_pm">下午</string>
+	<string name="startup_time_enabled">定时开机</string>
+	<string name="shutdown_time_enabled">定时关机</string>
+	<string name="data_connect_settings_title">数据连接</string>
+	<string name="sim_not_available">SIM卡不可用</string>
+	<string name="never_timeout">从不待机</string>
+	<string name="simple_settings">新手指南</string>
+	<string name="version_info">"版本信息"</string>
+	<string name="ota_title">系统更新</string>
+	<string name="products_version">产品型号</string>
+	<string name="hardware_version">硬件版本号</string>
+	<string name="software_version">软件版本号</string>
+	<string name="framework_version">Android版本号</string>
+	<string name="os_version">系统版本号</string>
+	<string name="internal_version">版本号</string>
+	<string name="backup_data_section_title">备份数据</string>
+	<string name="backup_data_to_sdcard_title">备份到SD卡</string>
+	<string name="backup_data_to_sdcard_summary">将手机上的数据备份到SD卡</string>
+	<string name="recovery_data_section_title">恢复数据</string>
+	<string name="recovery_data_title">从SD卡恢复</string>
+	<string name="recovery_data_summary">选择恢复已备份到SD卡中的数据</string>
+	<string name="reset_backup_befor_reset_title">重置前备份数据</string>
+	<string name="reset_backup_befor_reset_summary">在重置前，先备份联系人等重要数据</string>
+	<string name="reset_skip_backup_title">跳过备份</string>
+	<string name="reset_skip_backup_summary">已经完成备份或者不需要备份的请选此项</string>
+	<string name="whatis_lenovoid_title">"联想通行证是什么？"</string>
+	<string name="whatis_lenovoid_summary">"用您的手机作为联想通行证帐号，成为联想的一员。"</string>
+	<string name="what_lenovoid_cando_title">"联想通行证能做什么？"</string>
+	<string name="whatis_lenovoid_cando_summary">"畅行无阻进入联想各种应用、云端业务、优质服务。一证在手，畅通无阻。"</string>
+	<string msgid="2909697418179419990" name="lock_title" product="tablet">"保护您的平板电脑"</string>
+	<string msgid="4059246467204273930" name="lock_title" product="default">"手机安全设置"</string>
+	<string msgid="8616353869251700776" name="lock_intro_message" product="tablet">"创建个人屏幕解锁图案可防止他人未经许可使用您的平板电脑。在下一屏幕上用手指以任意顺序连接至少四个点。"\n\n"准备好开始了吗？请触摸“下一步”。"</string>
+	<string msgid="8393155371327584659" name="lock_intro_message" product="default">"创建个人屏幕解锁图案可防止他人未经许可使用您的手机。在下一屏幕上滑动手指以任意顺序连接至少四个点。"\n\n"准备好开始了吗？请触摸“下一步”。"</string>
+	<string name="teos_settings">屏幕效果</string>
+	<string name="teos_settings_title">屏幕效果</string>
+	<string name="display_effect_of_screen_saturation_title">饱和度</string>
+	<string name="display_effect_of_screen_contrast_title">对比</string>
+	<string name="display_effect_of_screen_hue_title">色温</string>
+	<string name="display_effect_of_screen_sharpen_title">锐化</string>
+	<string name="display_effect_of_screen_apply">应用</string>
+	<string name="display_effect_of_screen_cancel">取消</string>
+	<string name="display_effect_of_screen_dialog_ok">确定</string>
+	<string name="display_effect_of_screen_reset">一键重置</string>
+	<string name="display_effect_of_screen_dialog_title">色调选择需要重新点亮屏幕后生效!</string>
+	<string name="display_effect_of_screen_toast_title">"屏幕效果"的设置未被应用！</string>
+	<string name="display_effect_of_screen_saturation_item0">柔和</string>
+	<string name="display_effect_of_screen_saturation_item1">标准</string>
+	<string name="display_effect_of_screen_saturation_item2">鲜艳</string>
+	<string name="display_effect_of_screen_contrast_item0">冷色</string>
+	<string name="display_effect_of_screen_contrast_item1">标准</string>
+	<string name="display_effect_of_screen_contrast_item2">暖色</string>
+	<string name="display_effect_of_screen_sharpen_item0">标准</string>
+	<string name="display_effect_of_screen_sharpen_item1">锐化</string>
+	<string name="display_effect_of_screen_warm">暖色</string>
+	<string name="display_effect_of_screen_default">标准</string>
+	<string name="display_effect_of_screen_cool">冷色</string>
+	<string name="display_effect_of_screen_soft">柔和</string>
+	<string name="display_effect_of_screen_default">标准</string>
+	<string name="display_effect_of_screen_bright">鲜艳</string>
+	<string name="quicksettings">"开机设置"</string>
+	<string name="exit">退出</string>
+	<string name="mannual">进入教程</string>
+	<string name="quicksettings_title">开机设置设置</string>
+	<string name="quicksettings_summary">"更多设置，可在“系统设置”进行"</string>
+	<string name="show_frame_count_x_coordinate">X 调整</string>
+	<string name="show_frame_count_y_coordinate">Y 调整</string>
+	<string name="show_frame_count_size">尺寸</string>
+	<string name="show_frame_count_bit">比特</string>
+	<string name="show_frame_count_cancel_button_text">取消</string>
+	<string name="show_frame_count_ok_button_text">确定</string>
+	<string name="show_screen_frame_count">显示屏幕数量</string>
+	<string name="savepower_white_title">"白名单"</string>
+	<string name="savepower_black_title">"黑名单"</string>
+	<string name="savepower_all_title">"全部"</string>
+	<string name="save_power_title">"系统唤醒控制"</string>
+	<string name="save_power_summary">"选择允许唤醒系统的应用程序"</string>
+	<string name="save_power_count">"共有 <xliff:g id="NUMBER">%d</xliff:g> 个应用允许唤醒系统"</string>
+	<string name="save_power_wait_title">"请等待"</string>
+	<string name="save_power_wait_message">"应用读取中"</string>
+	<string name="lenovo_exp_title">"同意参加联想体验计划"</string>
+	<string name="lenovo_exp_content">"同意参加联想体验计划"</string>
+	<string name="userguide_title">"开机向导"</string>
+	<string name="usergudie_button_text">"进入开机设置"</string>
+	<string name="A_gps_summary">GPS可以通过网络连接获取辅助数据加速定位过程</string>
+	<string name="theme_settings_title">"主题中心"</string>
+	<string name="volume_title">"音量"</string>
+	<string name="incoming_call_ringer_title">"来电铃声"</string>
+	<string name="incoming_mms_ringer_title">"信息铃声"</string>
+	<string name="sound_settings_title">"音量"</string>
+	<string name="show_frame_count_title">Enter into Beginner\'s tutorial</string>
+	<string msgid="447577515813970287" name="track_frame_time_summary">"计算 adb shell dumpsys gfxinfo 中的呈现时间"</string>
+	<string name="show_frame_count_summary">Show frame count when it is enable.</string>
+	<string msgid="7448835465859512430" name="enable_traces_title">"启用跟踪"</string>
+	<string msgid="5026490474669452929" name="enable_traces_dialog_title">"选择要启用的跟踪"</string>
+	<string msgid="1867562808503494163" name="enable_traces_summary_none">"当前未启用任何跟踪"</string>
+	<string msgid="8978230237777454269" name="enable_traces_summary_num">"当前已启用 <xliff:g id="NUM">%1$d</xliff:g> 项跟踪"</string>
+	<string msgid="3950139649125158247" name="enable_traces_summary_all">"当前已启用所有跟踪"</string>
+	<string name="playertutorial_title">玩家教程</string>
+	<string name="safety_information_content">升级手机系统请通过联想官方售后服务网点或联想手机自带系统升级功能。若采用其他方式升级系统，可能会导致设备发生故障或丢失数据，及导致系统安全能力被破坏，触发安全风险。</string>
+	<string name="safety_information">安全警示</string>
+	<string name="keyboard_lights_title">"按键灯"</string>
+	<string name="summary_keyboard_lights">"智能控制"</string>
+	<string name="unlock_proximity_ctrl">防止误触模式</string>
+	<string name="unlock_proximity_ctrl_summary">利用距离感应器，防止手机在口袋中挤压或织物滑动引起的误操作问题</string>
+	<string name="other_wallpaper">其他壁纸</string>
+	<string name="status_esn_number">"ESN"</string>
+	<string name="desktop_wallpaper">桌面壁纸</string>
+	<string name="lock_wallpaper">锁屏壁纸</string>
+	<string name="weather_live_wallpaper">天气动态壁纸</string>
+	<string name="lenovoID_registered_title">"同意注册联想通行证"</string>
+	<string name="backup_data_recovery_section_title">数据备份与恢复</string>
+	<string name="backup_recovery_data_title">备份或恢复我的数据</string>
+	<string name="backup_recovery_data_summary">备份或恢复用户手机上的数据</string>
+	<string name="backup_recovery_dialog_message">要停止备份或恢复用户手机上的数据吗？</string>
+	<string name="unlock_set_unlock_speechnormal_title">"语音快捷解锁"</string>
+	<string name="unlock_set_unlock_speechpwd_title">"使用语音密码和图案进行保护"</string>
+	<string name="personal_hotspot">"个人热点"</string>
+	<string name="wlan_share">"WLAN 分享"</string>
+	<string msgid="8344735489639482340" name="settings_label_launcher">"系统设置"</string>
+	<string name="common_setings_title">"常用"</string>
+	<string name="character_setings_title">"特色"</string>
+	<string name="all_setings_title">"系统"</string>
+	<string msgid="7624804397748427621" name="accessibility_script_injection_allowed">"允许"</string>
+	<string msgid="8639525487720429182" name="accessibility_script_injection_disallowed">"不允许"</string>
+	<string msgid="5421628151509995404" name="accessibility_service_security_warning_title">"要使用<xliff:g id="SERVICE">%1$s</xliff:g>吗？"</string>
+	<string msgid="8558441850832543571" name="accessibility_service_security_warning_summary" product="tablet">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g>会收集您键入的所有文字信息（密码除外），其中包括信用卡号等个人数据。它还会收集关于您与平板电脑互动情况的数据。"</string>
+	<string msgid="2869015914319424723" name="accessibility_service_security_warning_summary" product="default">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g>会收集您键入的所有文字信息（密码除外），其中包括信用卡号等个人数据。它还会收集关于您与手机互动情况的数据。"</string>
+	<string msgid="3393956845814484859" name="accessibility_service_disable_warning_title">"要停用<xliff:g id="SERVICE">%1$s</xliff:g>吗？"</string>
+	<string msgid="625013894287895398" name="accessibility_service_disable_warning_summary">"触摸“确定”会停用<xliff:g id="SERVICE">%1$s</xliff:g>。"</string>
+	<string name="backup_data">"重置前备份数据"</string>
+	<string name="backup_data_description">"在重置手机前，先备份联系人等重要数据，以便重新开机后,使\"备份恢复\"进行恢复"</string>
+	<string msgid="7345931695292850058" name="show_password_summary"/>
+	<string name="unlock_set_unlock_speech_title">语音解锁</string>
+	<string msgid="6247838798859425408" name="user_you_section">"您"</string>
+	<string name="wifi_setting_summary">当进入使用过的AP范围且有GPRS流量时，绑定该位置</string>
+	<string msgid="5521163114237004821" name="show_dev_countdown">"只需执行 <xliff:g id="STEP_COUNT">%1$d</xliff:g> 步操作即可进入开发者模式。"</string>
+	<string name="monotype_preference_title">字体样式</string>
+	<string name="font_settings_title">"字体"</string>
+	<string name="roaming_settings_title">国际漫游设置</string>
+	<string name="data_usage_enable_mobile_statistics">数据统计</string>
+	<string name="data_usage_enable_mobile_statistics_dialog">启用此功能，在有较高速率网络系统(如 LTE) 时会较为耗电</string>
+	<string name="apn_call_number">"PPP 拨叫号码"</string>
+	<string name="roaming_time_settings_category">国际漫游时间设置</string>
+	<string name="roaming_time_settings_zone">时区推荐</string>
+	<string name="roaming_time_settings_time_display">时间显示方案</string>
+	<string msgid="1136884304711318251" name="show_hw_overdraw">"显示 GPU 过度绘制"</string>
+	<string msgid="4295714000923082647" name="show_hw_overdraw_summary">"从最优到最差：蓝、绿、淡红、红"</string>
+	<string name="china_telcom_push_title">中国电信翼推送</string>
+	<string name="china_telcom_push_summary">中国电信免费推送服务</string>
+	<string name="location_improve_allow">通过WiFi或移动网络，iZat可改善定位服务</string>
+	<string name="subscription_01_title">卡1</string>
+	<string name="subscription_02_title">卡2</string>
+	<string name="data_usage_menu_restrict_systembgdata">"允许系统后台数据"</string>
+	<string name="data_usage_disable_mobile_statistics_dialog">要停用数据统计吗？</string>
+	<string name="data_usage_tab_slot1">"卡槽1"</string>
+	<string name="data_usage_tab_slot2">"卡槽2"</string>
+	<string name="playersTutorial_stoped">玩家教程已经被停用.</string>
+	<string name="location_consent_dialog_message">允许位置服务收集匿名地点数据。系统可能会将部分数据存储在您的设备上。即使您的设备未运行任何应用，该服务也会收集此类数据。</string>
+	<string name="devices_info_products_version">"型号: Lenovo K910"</string>
+	<string name="devices_info_firmwareVersion">"Android版本: <xliff:g>%1$s</xliff:g>"</string>
+	<string name="devices_info_buildNumber">"版本号: <xliff:g>%1$s</xliff:g>"</string>
+	<string name="devices_info_cpu">"处理器: 四核2.2GHz"</string>
+	<string name="devices_info_runMemory">"运行内存: 2.0GB</string>
+	<string name="devices_info_screen">"屏幕：1080*1920   5.5寸"</string>
+	<string name="devices_info_camera">"摄像头：前置500万   后置1300万"</string>
+	<string name="devices_info_memory">"机身存储：<xliff:g>%1$s</xliff:g>(可用)"</string>
+	<string name="location_consent_dialog_title">同意记录地点数据</string>
+	<string name="screensaver_timeout_zero_summary">"永不"</string>
+	<string name="fuse_backup_data_to_cloud_title">备份到云端</string>
+	<string name="fuse_backup_data_to_cloud_summary">将手机上的数据备份到云端</string>
+	<string name="fuse_recovery_data_from_cloud_title">从云端恢复</string>
+	<string name="fuse_recovery_data_from_cloud_summary">选择恢复已备份到云端的数据</string>
+	<string name="fuse_master_clear_desc_erase_storage">"\n\n重置手机会清除<b>内部存储卡</b>中的音乐，照片和其他用户数据等<b>所有数据</b>，请务必在重置前备份数据。"</string>
+	<string name="fuse_backup_data_description">"在重置手机前，请先备份联系人，相片，短信，应用等重要数据，以便重新开机后,使用\"备份恢复\"进行恢复"</string>
+	<string name="select_subscription">选择SIM卡</string>
+	<string name="airplane_open_confirm">"飞行模式"</string>
+	<string name="airplane_open_confirm_message">将会开启飞行模式</string>
+	<string name="preference_status_open">开启</string>
+	<string name="preference_status_close">关闭</string>
+	<string name="header_category_personalcustom_k7">"个性化"</string>
+	<string name="settings_header_ringtone_k7">"铃声设置"</string>
+	<string name="auto_time_on">"使用网络提供时间"</string>
+	<string name="auto_time_off">"关闭"</string>
+	<string name="bluetooth_security_confirm">"蓝牙权限请求"</string>
+	<string name="bluetooth_ask_enablement_ext">"应用 <xliff:g>%1$s</xliff:g> 想要打开蓝牙。"</string>
+	<string name="bluetooth_ask_establish_connection">"某个应用想与 <xliff:g>%1$s</xliff:g> 进行蓝牙通信。"</string>
+	<string name="bluetooth_ask_establish_connection_ext">"应用 <xliff:g>%1$s</xliff:g> 想与 <xliff:g>%2$s</xliff:g> 进行蓝牙通信。"</string>
+	<string name="bluetooth_ask_enablement_and_establish_connection">"某个应用想要打开蓝牙，并与 <xliff:g>%1$s</xliff:g> 进行蓝牙通信。"</string>
+	<string name="bluetooth_ask_enablement_and_establish_connection_ext">"应用 <xliff:g>%1$s</xliff:g> 想要打开蓝牙，并与 <xliff:g>%2$s</xliff:g> 进行蓝牙通信。"</string>
+	<string name="bluetooth_advanced_settings">"蓝牙高级设置"</string>
+	<string name="bluetooth_stop_search_for_devices">停止搜索</string>
+	<string name="bluetooth_profile_ftp">"文件传输"</string>
+	<string name="bluetooth_ftp_profile_summary_use_for">"用于文件传输"</string>
+	<string name="bluetooth_ftp_profile_summary_connected">"已连接到文件传输"</string>
+	<string name="bluetooth_turning_on_failed">蓝牙打开失败</string>
+	<string name="wizard_title">玩家教程</string>
+	<string name="server_lenovo_exp_title">同意参加联想体验计划</string>
+	<string name="server_lenovo_exp_dialogmsg">取消联想体验计划，会导致部分应用无法正常使用，并且降低产品服务及体验。请确认是否取消? </string>
+	<string name="server_lenovo_exp_summery">统计您使用产品的情况用以提升体验和服务。部分应用可能会使用网络产生流量。</string>
+	<string name="lenovo_system_update">"系统升级"</string>
+	<string name="lockdown_vpn_already_connected">始终开启的 VPN 已启动。</string>
+	<string name="vpn_lockdown_savelogin_error">始终开启的 VPN 需要保存帐户登录信息。</string>
+	<string name="vpn_delete_title">删除</string>
+	<string name="vpn_delete">确认是否删除？</string>
+	<string msgid="1369675479310751735" name="location_settings_title">"位置服务"</string>
+	<string name="display_personalize">个性化</string>
+	<string name="ringtone_settings">铃声和音量</string>
+	<string name="schedule_power_on_off_settings_title">"定时开关机"</string>
+	<string name="notification_settings_title">通知中心</string>
+	<string name="gemini_sim_management_title">"SIM 卡管理"</string>
+	<string name="security_settings_title">"安全和锁屏"</string>
+	<string name="exit">退出</string>
+	<string name="wifi_backup">﻿WLAN设置备份</string>
+	<string name="wifi_backup_category_title">WLAN备份</string>
+	<string name="wifi_backup_title">备份WLAN设置数据</string>
+	<!-- Lenovo-sw SW_SysApp_Settings_WLAN chencheng6 add 2014-11-18 begin FRIESIAN-12889 -->
+	<string name="wifi_backup_summary">将WLAN设置数据(如帐号密码等)备份到乐云</string>
+	<string name="wifi_restore_category_title">WLAN还原</string>
+	<string name="wifi_restore_title">还原WLAN设置数据</string>
+	<string name="wifi_restore_summary">从乐云还原WLAN设置数据(如帐号密码等)</string>
+	<!-- Lenovo-sw SW_SysApp_Settings_WLAN chencheng6 add 2014-11-18 end FRIESIAN-12889 -->
+	<string name="wifi_backup_ok">备份成功！</string>
+	<string name="wifi_backup_failed">备份失败。</string>
+	<string name="wifi_restore_ok">还原成功！</string>
+	<string name="wifi_restore_failed">还原失败。</string>
+	<string msgid="4485841401774142908" name="wifi_advanced_titlebar">"高级 WLAN 设置"</string>
+	<string name="wifi_switch_settings_title">WLAN位置绑定</string>
+	<string name="wifi_popup_0">绑定网络并提醒是否连接</string>
+	<string name="wifi_popup_1">绑定网络并自动连接</string>
+	<string name="wifi_popup_2">不绑定网络</string>
+	<string name="show_dialog">不再提醒</string>
+	<string name="wifi_switch_summary">功能介绍：绑定WLAN，之后在该WLAN覆盖范围内，如果检测到手机卡上网，则自动连接该WLAN；反之离开该WLAN覆盖范围则自动关闭WLAN。\n这样可以省电省流量两不误哦！</string>
+	<string name="wifi_display_settings_empty_list_wifi_display_off">"要查看设备，请打开投射屏幕功能。"</string>
+	<string name="privacy_backup_userdata_category_title">备份数据</string>
+	<string name="privacy_backup_userdata_title">备份到SD卡</string>
+	<string name="privacy_backup_userdata_summary">将手机上的数据备份到SD卡</string>
+	<string name="privacy_restore_userdata_category_title">恢复数据</string>
+	<string name="privacy_restore_userdata_title">从SD卡恢复</string>
+	<string name="privacy_restore_userdata_summary">选择恢复已备份到SD卡中的数据</string>
+	<string name="backup_data">"重置前备份数据"</string>
+	<string name="backup_data_description">"在重置手机前，先备份联系人等重要数据，以便重新开机后,使用\"备份和重置\"进行恢复"</string>
+	<string name="privacy_backup_userdata_text">备份应用、信息、联系人等数据到您的SD卡中</string>
+	<string name="privacy_category_title_sd">SD卡</string>
+	<string name="privacy_category_title_cloud">云端</string>
+	<string name="privacy_backup_userdata_title_cloud">备份到云端</string>
+	<string name="privacy_backup_userdata_summary_cloud">将手机上的数据备份到云端</string>
+	<string name="privacy_restore_userdata_title_cloud">从云端恢复</string>
+	<string name="privacy_restore_userdata_summary_cloud">选择恢复已备份到云端的数据</string>
+	<string name="erase_external_storage_fuse">"格式化内置存储卡"</string>
+	<string name="erase_external_storage_description_fuse">"清除内置存储卡中的全部数据，例如音乐或照片"</string>
+	<string name="master_clear_error">乐同步已停用，请启用</string>
+	<string name="button_brightness">按键灯</string>
+	<string name="summary_button_brightness" translatable="false">%1$s</string>
+	<string name="dialog_title_button_brightness">按键灯</string>
+	<string name="title_lcd_invert">LCD 反转颜色</string>
+	<string name="summary_lcd_invert"/>
+	<string name="prevent_misoperation_title">防误触模式</string>
+	<string name="prevent_misoperation_summary">利用距离感应器，防止手机在口袋中由于挤压或织物滑动引起的误操作</string>
+	<string name="smart_rotete_cbox_title">旋转屏幕</string>
+	<string name="smart_rotete_cbox_summary">智能</string>
+	<string name="gesture_rotete_cbox_summary">手势</string>
+	<string name="auto_rotete_cbox_summary">自动</string>
+	<string name="smart_rotate_type">智能旋屏</string>
+	<string name="gesture_rotate_type">手势旋屏</string>
+	<string name="auto_rotate_type">手势旋屏</string>
+	<string name="rotate_type_choose_cancel">取消</string>
+	<string name="light_settings">灯效</string>
+	<string msgid="9165016501623540228" name="master_clear_desc" product="default">"此操作会清除您手机"<b>"内存设备"</b>"中的所有数据，包括："\n\n<li>"您登录的帐户"</li>\n<li>"系统及应用数据和设置"</li>\n<li>"已下载的应用"</li></string>
+	<string msgid="2925465988657380522" name="wifi_display_settings_title">"投射屏幕"</string>
+	<string msgid="4351334843529712571" name="screen_timeout">"屏幕待机"</string>
+	<string name="usb_sharing_title">USB 互连网</string>
+	<string name="usb_sharing_summary">通过 USB 线共享 Windows PC 网络</string>
+	<string name="personal_hotsport_title">个人热点</string>
+	<string name="rcse_settings_title">RCS-e 设定</string>
+	<add-resource name="network_synchronization_enable_confirm" type="string"/>
+	<string name="network_synchronization_enable_confirm">使用 网络时间同步 将产生数据流量, 您确定要打开 网络时间同步 功能吗?</string>
+	<add-resource name="network_synchronization_enable_allow" type="string"/>
+	<string name="network_synchronization_enable_allow">继续</string>
+	<add-resource name="network_synchronization_enable_deny" type="string"/>
+	<string name="network_synchronization_enable_deny">取消</string>
+	<string name="mobile">"数据连接"</string>
+	<string name="gemini_default_sim_never">"关闭"</string>
+	<string name="storage_path0">内置存储卡</string>
+	<string name="storage_path1">外置存储卡</string>
+	<string name="dlg_default_write_disk1_change_msg">"您选择了内置存储卡，安装在外置存储卡上的应用将不可使用，同时将会重启机器以完成操作，确定选择内置存储卡吗？"</string>
+	<string name="dlg_default_write_disk0_change_msg">"您选择了外置存储卡，安装在内置存储卡上的应用将不可使用，同时将会重启机器以完成操作，确定选择外置存储卡吗？"</string>
+	<string name="dlg_default_write_disk_change_msg">默认存储卡发生改变，必须重启机器已适应新的默认存储卡设置!</string>
+	<string name="memory_os_size">系统占用空间</string>
+	<string name="memory_image_usage">图片</string>
+	<string name="memory_video_usage">视频</string>
+	<string name="uninstall_select">"要卸载选择的应用吗?"</string>
+	<string name="stop_select_app">"要停止选择的应用吗?"</string>
+	<string name="stop_all_app">"全部停止"</string>
+	<string name="runningapp_stop_dlg_title">"要停止服务吗？"</string>
+	<string name="runningapp_stop_dlg_text" product="tablet">"如果停止这些服务，您平板电脑上的某些功能也将随之停止工作，并在您将平板电脑关机然后再重新打开后才能使用。"</string>
+	<string name="runningapp_stop_dlg_text" product="default">"如果停止这些服务，您手机上的某些功能也将随之停止工作，并在您将手机关机然后再重新打开后才能使用。"</string>
+	<string msgid="3857507943322777651" name="screensaver_settings_disabled_prompt">"要控制手机在充电休眠状态下的行为，请启用互动屏保。"</string>
+	<string name="move_to_sdcard">移动至默认存储卡</string>
+	<string name="move_to_phone">移动至手机</string>
+	<string name="move_select">"要移动选择的应用吗?其中部分应用不能移动到默认存储卡中。"</string>
+	<string name="move_select_short">"要移动选择的应用吗?"</string>
+	<string name="clear_cache">"一键缓存清理"</string>
+	<string name="clear_cache_msg">"清理完成,共释放<xliff:g>%1$s</xliff:g>内存。"</string>
+	<string name="soft_permission">权限管理</string>
+	<string name="default_soft_setting">默认软件设置</string>
+	<string name="install_local">"软件安装位置"</string>
+	<string name="choose_soft_place">请选择软件安装位置</string>
+	<string name="move_success">移动完成!部分应用不能移动到默认存储卡,<xliff:g>%1$s</xliff:g>个应用移动成功！</string>
+	<string name="move_tomemory_success">移动完成!<xliff:g>%1$s</xliff:g>个应用移动成功！</string>
+	<string name="internal_storage_app">"内部应用存储空间"</string>
+	<string name="service_background_processes_ram">"应用可用：<xliff:g id="MEMORY">%1$s</xliff:g>"</string>
+	<string name="service_foreground_processes_ram">"应用已用：<xliff:g id="MEMORY">%1$s</xliff:g>"</string>
+	<string name="display_smart_standby">智能待机</string>
+	<string name="smart_standby_ctrl_description">亮屏时，如判断眼睛注视屏幕则保持常亮。角度太偏或光线不足时识别率降低</string>
+	<string name="app_privacy_settings">"应用权限管理"</string>
+	<string name="credentials_none">当前不存在凭据</string>
+	<string msgid="7663118199519229502" name="crypt_keeper_desc" product="default">""您可以加密自己的帐户、设置、已下载的应用及其数据、媒体和其他文件。加密手机后，您每次开机时都需要输入数字密码或密码才能解密。取消加密的唯一方法就是恢复出厂设置，但这会清除手机上的所有数据。"\n\n"注意：手机加密后会导致关机时闹钟功能失效。"\n\n"加密过程需要几分钟或更长时间。在开始加密前，手机电池电量需达到80%以上，并且在加密前必须连接电源。如果您中断加密过程，则会丢失部分或全部数据。"</string>
+	<string msgid="5682944380460921880" name="crypt_keeper_final_desc" product="default">"加密操作无法撤消，如果您中断该过程，则会丢失数据。加密过程需要几分钟或更长时间，在此期间，手机会重新启动数次。"</string>
+	<string msgid="6757119179588664966" name="credentials_configure_lock_screen_hint">"您需要先设置锁定屏幕图案、数字或密码才能使用凭据存储。"</string>
+	<string msgid="5965299358485793260" name="vpn_connect_to">"连接到「<xliff:g id="PROFILE">%s</xliff:g>」"</string>
+	<string name="gesture_series_title">黑屏操作</string>
+	<string name="gesture_series_summary">可在黑屏状态下解锁，快捷开启应用</string>
+	<string name="usb_ums_with_external_sd_summary">"XP系统推荐，将外置存储卡作为U盘进行文件复制。设备内置卡不支持U盘模式"</string>
+	<string name="usb_ums_without_external_sd_summary">"检测到无外置存储卡，设备内置卡不支持U盘模式，无法使用此功能"</string>
+	<add-resource name="network_synchronization_enable_confirm" type="string"/>
+	<string name="network_synchronization_enable_confirm">使用网络时间同步将产生数据流量, 您确定要打开网络时间同步功能吗?</string>
+	<add-resource name="gps_time_sync_attention_gps_on" type="string"/>
+	<string name="gps_time_sync_attention_gps_on">使用 GPS 提供时间，必须要等待 GPS 定位成功。GPS 定位最多需要一分钟。\n\n确定要使用 GPS 提供时间吗？</string>
+	<add-resource name="gps_time_sync_attention_gps_off" type="string"/>
+	<string name="gps_time_sync_attention_gps_off">使用 GPS 提供时间，必须要先启用 GPS，并等待 GPS 定位成功。GPS 定位最多需要一分钟。如果 GPS 信号弱，可能会定位失败。\n\n确定现在要启用 GPS 并使用 GPS 提供时间吗？</string>
+	<string name="phone_model_number">"手机型号"</string>
+	<string name="hardware_version">"硬件版本"</string>
+	<string msgid="4058971800557767" name="crypt_keeper_dialog_need_password_title">"没有锁定屏幕数字或密码"</string>
+	<string msgid="4071395977297369642" name="crypt_keeper_dialog_need_password_message">"您需要先设置锁定屏幕数字或密码才能开始加密。"</string>
+	<string msgid="514138079795442371" name="crypt_keeper_encrypt_summary" product="default">"您每次开机时都需要输入数字密码或密码才能解密手机"</string>
+	<string name="preference_status_unknown">未知</string>
+	<string name="hide_recent_settings">下拉查看近期设置</string>
+	<string name="show_recent_settings">收起近期设置</string>
+	<string name="multiwindow_title">"多窗口"</string>
+	<string name="multiwindow_summary">"启动多窗口"</string>
+	<string name="wifi_setup_wizard_skip">跳过此步骤</string>
+	<string name="wifi_setup_wizard_next">下一步</string>
+	<string msgid="4617321473211391236" name="usb_mtp_summary">"连接计算机传输文件，Windows XP及以下系统需安装MediaPlayer10以上版本"</string>
+	<string msgid="7673397474756664929" name="usb_ptp_summary">"连接计算机传输照片"</string>
+	<string name="usbsetting_help_title">帮助</string>
+	<string name="usbsetting_help_content">1，USB存储设备：将手机作为U盘进行文件操作。\n\n
+2，MTP存储设备：将手机作为U盘进行文件操作，同时可在手机端进行文件管理。计算机XP系统及以下需要安装驱动。 \n\n
+3，PTP：使您能够使用相机软件传输照片。计算机XP系统及以下需要安装驱动。 \n\n
+4，USB调试：连接后可在计算机端使用乐助手，91手机助手，豌豆荚等软件管理手机。\n\n
+5，个人热点(USB连接)：打开个人热点，USB连接的设备即可通过您的手机上网。</string>
+	<string name="usbsetting_usbmassstorage_open">打开USB存储设备</string>
+	<string name="usbsetting_usbmassstorage_close">关闭USB存储设备</string>
+	<string name="usbsetting_usbmassstorage_wait">请等待...</string>
+	<string name="tether_title">个人热点</string>
+	<string name="usb_tether">个人热点(USB连接)</string>
+	<string name="auto_popup">下次不再弹出此页（可从通知栏进入）</string>
+	<string name="autopop_warning_title">是否取消自动弹出？</string>
+	<string name="autopop_warning_message">取消自动弹出，则此界面在下次连接电脑时不会自动弹出。可在下拉通知栏再次进入此界面。</string>
+	<string name="storage_phone">内置存储卡</string>
+	<string name="power_settings">省电管理</string>
+	<string name="night_mode">夜间护眼</string>
+	<string name="night_mode_summary">此模式适合夜间浏览手机，极个别的应用可能会存在某个按钮无法点击的情况。</string>
+	<string name="recent_settings_empty">近期没有对系统做设置</string>
+	<string name="recent_settings">近期设置</string>
+	<string name="change_settings_to_recent">切换至近期设置</string>
+	<string name="change_settings_to_all_settings">切换至设置</string>
+	<!-- end,merge from lenovo_strings.xml -->
+
+	<!-- begin,merge from lenovo_strings_qualcomm.xml -->
+	<string name="touch_free_phone_dial">免触拨号</string>
+	<string name="touch_free_phone_answer">免触接听</string>
+	<string name="touch_free_phone_dial_summary">在锁屏/桌面说“打电话给某某”快速拨号</string>
+	<string name="touch_free_phone_answer_summary">在来电时说“接听／挂断”来接听或挂断电话</string>
+	<string name="device_section_title">从手机备份和恢复</string>
+	<string name="backup_data_to_device_title">备份到其它手机</string>
+	<string name="backup_data_to_device_summary">通过茄子快传把手机上的数据迁移到其它手机</string>
+	<string name="recovery_data_from_device_title">从其它手机恢复</string>
+	<string name="recovery_data_from_device_summary">通过茄子快传把其它手机上的数据迁移到本手机</string>
+	<!-- end,merge from lenovo_strings_qualcomm.xml -->
+
+	<!-- begin,merge from common_strings.xml -->
+	<string name="incoming_call_ringer_title1">"来电铃声(卡1)"</string>
+	<string name="incoming_call_ringer_title2">"来电铃声(卡2)"</string>
+	<!-- end,merge from common_strings.xml -->
+
+	<!-- begin,merge from lenovo_phoneinfo.xml -->
+	<string name="phone_info_unset">手机参数未设置</string>
+	<string name="phone_info">手机参数</string>
+	<string name="processor_info">处理器</string>
+	<string name="memory_info">运行内存</string>
+	<string name="screen_info">屏幕</string>
+	<string name="camera_info">摄像头</string>
+	<string name="airbuse_phone_info_cpu">"Qualcomm MSM8612  4*1.2GHz"</string>
+	<string name="airbuse_phone_info_runMemory">"1.0GByte</string>
+	<string name="airbuse_phone_info_screen">"分辨率：qHD960*540， 尺寸：6.0英寸"</string>
+	<string name="airbuse_phone_info_camera">"前置30万像素，后置500万像素"</string>
+	<string name="shellt_phone_info_cpu">"Qualcomm MSM8926  4*1.2GHz"</string>
+	<string name="shellt_phone_info_runMemory">"1.0GByte</string>
+	<string name="shellt_phone_info_screen">"分辨率：720P， 尺寸：6.0英寸"</string>
+	<string name="shellt_phone_info_camera">"800万像素"</string>
+	<string name="k6kk_phone_info_cpu">"骁龙 800 2.2GHz"</string>
+	<string name="k6kk_phone_info_runMemory">"2.0GByte</string>
+	<string name="k6kk_phone_info_screen">"分辨率：1080*1920， 尺寸：5.5英寸"</string>
+	<string name="k6kk_phone_info_camera">"前置500万像素，后置1300万像素"</string>
+	<!-- end,merge from lenovo_phoneinfo.xml -->
+
+	<!-- begin,merge from lenovo_fw_strings.xml -->
+	<string name="global_single_hand_title_v2">单手微屏</string>
+	<string name="close_home_landscape_title">"横屏关闭HOME键"</string>
+	<string name="close_home_landscape_summary">"手机横屏，关闭HOME键功能"</string>
+	<!-- end,merge from lenovo_fw_strings.xml -->
+
+	<!-- begin,merge from character_strings.xml -->
+	<string name="call_ring_pocket_enable_title">"来电口袋模式"</string>
+	<string name="gestural_v2">3D手势</string>
+	<string name="multiwindow_settings">多窗口</string>
+	<string name="multiwindow_settings_summary">启动多窗口</string>
+	<string name="multiwindow_divide_settings">分屏多窗口</string>
+	<string name="multiwindow_divide_settings_summary">可以在手机上形成两个窗口处理任务</string>
+	<string name="multiwindow_smart_settings">智能多窗口</string>
+	<string name="multiwindow_smart_settings_summary">当横屏状态下，全屏观看视频时收到信息，翻转手机自动出现多窗口处理任务。</string>
+	<string name="black_screen_settings_summary_app_selected">解锁到<xliff:g id="app">%s</xliff:g></string>
+	<string name="black_screen_settings_flash_mode">闪光灯</string>
+	<string name="black_screen_settings_flash_mode_auto">自动</string>
+	<string name="black_screen_settings_flash_mode_on">开</string>
+	<string name="black_screen_settings_flash_mode_off">关</string>
+	<string name="black_screen_settings_quick_shots_nums">抢拍张数</string>
+	<string name="black_screen_settings_quick_shots_one">1张</string>
+	<string name="black_screen_settings_quick_shots_three">3张</string>
+	<string name="black_screen_settings_quick_shots_six">6张</string>
+	<string name="black_screen_settings_quick_shots_eight">8张</string>
+	<string name="character_settings_gestural_hand_category">单手和手势</string>
+	<string name="character_settings_shortcuts_category">快捷方式</string>
+	<string name="character_settings_intelligent_category">智能操作</string>
+	<string name="character_settings_call_voice_category">通话和语音</string>
+	<string name="black_screen_settings_shortcut_quick_shots_summary">黑屏时在屏幕画“W”抢拍</string>
+	<string name="character_settings_black_screen_help_message">常规解锁：手指在屏幕底部向左或向右滑动一段距离，即可进行解锁。进入应用：需解锁到相机在屏幕上画“C"即可。此功能会影响待机功耗。</string>
+	<string name="character_settings_swing_lock_screen_help_message">单向轻甩手机，即可屏幕锁定。</string>
+	<string name="character_settings_mercury_keyboard_help_message">拨号键盘、锁屏图案界面，根据手握手机的角度改变比例大小以便单手操作。</string>
+	<string name="character_settings_single_hand_help_message">手指从屏幕上方边缘至下方边缘画“c”形，即可调起单手微屏。</string>
+	<string name="character_settings_side_key_backlight_screen_help_message">按手机音量侧键，进行点亮屏幕。</string>
+	<string name="character_settings_float_button_help_message">通过手指大面积长按屏幕开启面板。也可通过悬浮按钮的方式常驻界面。</string>
+	<string name="character_settings_pocket_mode_help_message">手机放在口袋或皮套模式下，来电时音量自动调整到最大。</string>
+	<string name="character_settings_phone_call_ring_weaken_help_message">来电时，拿起手机来电音量自动减弱。</string>
+	<string name="gestural_gesture">手势控制</string>
+	<string name="gestural_gesture_summary">悬浮向左\\右\\上\\下滑动可以起到用手指触控左\\右\\上\\下划动的效果，该功能不作用于音乐、视频、浏览器等界面</string>
+	<string name="gestural_phone_summary">上下左右滑动接听电话 | 快速靠近手机屏幕挂掉电话。</string>
+	<string name="gestural_broswer_summary">上下滑动控制浏览器页面 | 左右滑动切换不同页面。</string>
+	<string name="character_settings_help_title">了解黑屏操作</string>
+	<string name="character_settings_help_category_title">"帮助"</string>
+	<!-- end,merge from character_strings.xml -->
+
+	<!-- begin,merge from lenovo_strings_transed.xml -->
+	<string name="i_know_it">我知道了</string>
+	<string name="profile_settings">情景模式</string>
+	<string msgid="7950932054266694403" name="accessibility_toggle_script_injection_preference_title">"增强网页辅助功能"</string>
+	<string msgid="7706858873495386310" name="accessibility_script_injection_security_warning_summary">"您要允许应用安装来自 Google 的脚本，以便于您浏览这些应用的网页内容吗？"</string>
+	<string msgid="2201503285877102870" name="accessibility_script_injection_button_allow">"允许"</string>
+	<string msgid="5697152768523270885" name="accessibility_script_injection_button_disallow">"不允许"</string>
+	<string name="colorLight_settings">灯效设置</string>
+	<string name="color_light">灯效</string>
+	<string name="color_light_demo">灯效演示</string>
+	<string name="color_light_call">来电</string>
+	<string name="color_light_missed_call">未接来电</string>
+	<string name="color_light_unread_mms">未读短信</string>
+	<string name="color_light_battery">低电量</string>
+	<string name="showing_color_light">正在进行灯效演示</string>
+	<string name="stop_color_light">停止</string>
+	<string name="color_light_hasopen">已打开</string>
+	<string name="color_light_hasclose">已关闭</string>
+	<string name="color_light_other_summary">微信、QQ、微博</string>
+	<string name="color_light_other">其它未读通知</string>
+	<string name="timing_startup_and_shutdown_settings_title">"定时开关机"</string>
+	<string name="startup_shutdown_time_errmsg">开关机间隔需大于10分钟，请重置。</string>
+	<string name="timing_startup_head_text">开机</string>
+	<string name="timing_shutdown_head_text">关机</string>
+	<string name="startup_time">开机时间</string>
+	<string name="shutdown_time">关机时间</string>
+	<string name="system_time_am">上午</string>
+	<string name="system_time_pm">下午</string>
+	<string name="startup_time_enabled">定时开机</string>
+	<string name="shutdown_time_enabled">定时关机</string>
+	<string name="data_connect_settings_title">数据连接</string>
+	<string name="sim_not_available">SIM卡不可用</string>
+	<string name="never_timeout">从不待机</string>
+	<string name="simple_settings">新手指南</string>
+	<string name="version_info">"版本信息"</string>
+	<string name="ota_title">系统更新</string>
+	<string name="products_version">产品型号</string>
+	<string name="hardware_version">硬件版本号</string>
+	<string name="software_version">软件版本号</string>
+	<string name="framework_version">Android版本号</string>
+	<string name="os_version">系统版本号</string>
+	<string name="internal_version">版本号</string>
+	<string name="backup_data_section_title">备份数据</string>
+	<string name="backup_data_to_sdcard_title">备份到SD卡</string>
+	<string name="backup_data_to_sdcard_summary">将手机上的数据备份到SD卡</string>
+	<string name="recovery_data_section_title">恢复数据</string>
+	<string name="recovery_data_title">从SD卡恢复</string>
+	<string name="recovery_data_summary">选择恢复已备份到SD卡中的数据</string>
+	<string name="reset_backup_befor_reset_title">重置前备份数据</string>
+	<string name="reset_backup_befor_reset_summary">在重置前，先备份联系人等重要数据</string>
+	<string name="reset_skip_backup_title">跳过备份</string>
+	<string name="reset_skip_backup_summary">已经完成备份或者不需要备份的请选此项</string>
+	<string name="whatis_lenovoid_title">"联想通行证是什么？"</string>
+	<string name="whatis_lenovoid_summary">"用您的手机作为联想通行证帐号，成为联想的一员。"</string>
+	<string name="what_lenovoid_cando_title">"联想通行证能做什么？"</string>
+	<string name="whatis_lenovoid_cando_summary">"畅行无阻进入联想各种应用、云端业务、优质服务。一证在手，畅通无阻。"</string>
+	<string msgid="2909697418179419990" name="lock_title" product="tablet">"保护您的平板电脑"</string>
+	<string msgid="4059246467204273930" name="lock_title" product="default">"手机安全设置"</string>
+	<string msgid="8616353869251700776" name="lock_intro_message" product="tablet">"创建个人屏幕解锁图案可防止他人未经许可使用您的平板电脑。在下一屏幕上用手指以任意顺序连接至少四个点。"\n\n"准备好开始了吗？请触摸“下一步”。"</string>
+	<string msgid="8393155371327584659" name="lock_intro_message" product="default">"创建个人屏幕解锁图案可防止他人未经许可使用您的手机。在下一屏幕上滑动手指以任意顺序连接至少四个点。"\n\n"准备好开始了吗？请触摸“下一步”。"</string>
+	<string name="teos_settings">屏幕效果</string>
+	<string name="teos_settings_title">屏幕效果</string>
+	<string name="display_effect_of_screen_saturation_title">饱和度</string>
+	<string name="display_effect_of_screen_contrast_title">对比</string>
+	<string name="display_effect_of_screen_hue_title">色调</string>
+	<string name="display_effect_of_screen_sharpen_title">锐化</string>
+	<string name="display_effect_of_screen_apply">应用</string>
+	<string name="display_effect_of_screen_cancel">取消</string>
+	<string-array name="saturation">
+        <item>柔和</item>
+        <item>标准</item>
+        <item>鲜艳</item>
+    </string-array>
+	<string-array name="contrast">
+        <item> 标准  </item>
+        <item>高对比</item>
+    </string-array>
+	<string-array name="hue">
+        <item>冷色</item>
+        <item>标准</item>
+        <item>暖色</item>
+    </string-array>
+	<string-array name="sharpen">
+        <item>标准</item>
+        <item>锐化</item>
+    </string-array>
+	<string name="display_effect_of_screen_saturation_item0">柔和</string>
+	<string name="display_effect_of_screen_saturation_item1">标准</string>
+	<string name="display_effect_of_screen_saturation_item2">鲜艳</string>
+	<string name="display_effect_of_screen_contrast_item0">冷色</string>
+	<string name="display_effect_of_screen_contrast_item1">标准</string>
+	<string name="display_effect_of_screen_contrast_item2">暖色</string>
+	<string name="display_effect_of_screen_sharpen_item0">标准</string>
+	<string name="display_effect_of_screen_sharpen_item1">锐化</string>
+	<string name="quicksettings">"开机设置"</string>
+	<string name="exit">退出</string>
+	<string name="mannual">进入教程</string>
+	<string name="quicksettings_title">开机设置设置</string>
+	<string name="quicksettings_summary">"更多设置，可在“系统设置”进行"</string>
+	<string name="show_frame_count_x_coordinate">X 调整</string>
+	<string name="show_frame_count_y_coordinate">Y 调整</string>
+	<string name="show_frame_count_size">尺寸</string>
+	<string name="show_frame_count_bit">比特</string>
+	<string name="show_frame_count_cancel_button_text">取消</string>
+	<string name="show_frame_count_ok_button_text">确定</string>
+	<string name="show_screen_frame_count">显示屏幕数量</string>
+	<string name="savepower_white_title">"白名单"</string>
+	<string name="savepower_black_title">"黑名单"</string>
+	<string name="savepower_all_title">"全部"</string>
+	<string name="save_power_title">"系统唤醒控制"</string>
+	<string name="save_power_summary">"选择允许唤醒系统的应用程序"</string>
+	<string name="save_power_count">"共有 <xliff:g id="NUMBER">%d</xliff:g> 个应用允许唤醒系统"</string>
+	<string name="save_power_wait_title">"请等待"</string>
+	<string name="save_power_wait_message">"应用读取中"</string>
+	<string name="lenovo_exp_title">"同意参加联想体验计划"</string>
+	<string name="lenovo_exp_content">"同意参加联想体验计划"</string>
+	<string name="userguide_title">"开机向导"</string>
+	<string name="usergudie_button_text">"进入开机设置"</string>
+	<string name="A_gps_summary">GPS可以通过网络连接获取辅助数据加速定位过程</string>
+	<string name="theme_settings_title">"主题中心"</string>
+	<string name="volume_title">"音量"</string>
+	<string name="incoming_call_ringer_title">"来电铃声"</string>
+	<string name="incoming_mms_ringer_title">"信息铃声"</string>
+	<string name="sound_settings_title">"音量"</string>
+	<string name="show_frame_count_title">Enter into Beginner\'s tutorial</string>
+	<string msgid="447577515813970287" name="track_frame_time_summary">"计算 adb shell dumpsys gfxinfo 中的呈现时间"</string>
+	<string name="show_frame_count_summary">Show frame count when it is enable.</string>
+	<string msgid="7448835465859512430" name="enable_traces_title">"启用跟踪"</string>
+	<string msgid="5026490474669452929" name="enable_traces_dialog_title">"选择要启用的跟踪"</string>
+	<string msgid="1867562808503494163" name="enable_traces_summary_none">"当前未启用任何跟踪"</string>
+	<string msgid="8978230237777454269" name="enable_traces_summary_num">"当前已启用 <xliff:g id="NUM">%1$d</xliff:g> 项跟踪"</string>
+	<string msgid="3950139649125158247" name="enable_traces_summary_all">"当前已启用所有跟踪"</string>
+	<string name="playertutorial_title">玩家教程</string>
+	<string name="safety_information_content">升级手机系统请通过联想官方售后服务网点或联想手机自带系统升级功能。若采用其他方式升级系统，可能会导致设备发生故障或丢失数据，及导致系统安全能力被破坏，触发安全风险。</string>
+	<string name="safety_information">安全警示</string>
+	<string name="keyboard_lights_title">"按键灯"</string>
+	<string name="summary_keyboard_lights">"智能控制"</string>
+	<string name="unlock_proximity_ctrl">防止误触模式</string>
+	<string name="unlock_proximity_ctrl_summary">利用距离感应器，防止手机在口袋中挤压或织物滑动引起的误操作问题</string>
+	<string name="other_wallpaper">其他壁纸</string>
+	<string name="status_esn_number">"ESN"</string>
+	<string name="desktop_wallpaper">桌面壁纸</string>
+	<string name="lock_wallpaper">锁屏壁纸</string>
+	<string name="weather_live_wallpaper">天气动态壁纸</string>
+	<string name="lenovoID_registered_title">"同意注册联想通行证"</string>
+	<string name="backup_data_recovery_section_title">数据备份与恢复</string>
+	<string name="backup_recovery_data_title">备份或恢复我的数据</string>
+	<string name="backup_recovery_data_summary">备份或恢复用户手机上的数据</string>
+	<string name="backup_recovery_dialog_message">要停止备份或恢复用户手机上的数据吗？</string>
+	<string name="unlock_set_unlock_speechnormal_title">"语音快捷解锁"</string>
+	<string name="unlock_set_unlock_speechpwd_title">"使用语音密码和图案进行保护"</string>
+	<string name="personal_hotspot">"个人热点"</string>
+	<string name="wlan_share">"WLAN 分享"</string>
+	<string msgid="7624804397748427621" name="accessibility_script_injection_allowed">"允许"</string>
+	<string msgid="8639525487720429182" name="accessibility_script_injection_disallowed">"不允许"</string>
+	<string msgid="5421628151509995404" name="accessibility_service_security_warning_title">"要使用<xliff:g id="SERVICE">%1$s</xliff:g>吗？"</string>
+	<string msgid="8558441850832543571" name="accessibility_service_security_warning_summary" product="tablet">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g>会收集您键入的所有文字信息（密码除外），其中包括信用卡号等个人数据。它还会收集关于您与平板电脑互动情况的数据。"</string>
+	<string msgid="2869015914319424723" name="accessibility_service_security_warning_summary" product="default">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g>会收集您键入的所有文字信息（密码除外），其中包括信用卡号等个人数据。它还会收集关于您与手机互动情况的数据。"</string>
+	<string msgid="3393956845814484859" name="accessibility_service_disable_warning_title">"要停用<xliff:g id="SERVICE">%1$s</xliff:g>吗？"</string>
+	<string msgid="625013894287895398" name="accessibility_service_disable_warning_summary">"触摸“确定”会停用<xliff:g id="SERVICE">%1$s</xliff:g>。"</string>
+	<string name="backup_data">"重置前备份数据"</string>
+	<string name="backup_data_description">"在重置手机前，先备份联系人等重要数据，以便重新开机后,使用\"备份恢复\"进行恢复"</string>
+	<string msgid="7345931695292850058" name="show_password_summary"/>
+	<string name="unlock_set_unlock_speech_title">语音解锁</string>
+	<string msgid="6247838798859425408" name="user_you_section">"您"</string>
+	<string name="wifi_switch_settings_title">WLAN位置绑定</string>
+	<string name="wifi_setting_summary">当进入使用过的AP范围且有GPRS流量时，绑定该位置</string>
+	<string name="wifi_switch_summary">介绍：自动绑定已保存的WLAN 热点，如果在该热点覆盖范围内系统检测到手机卡上网，则自动连接到该热点；反之如果系统检测到手机离开该热点覆盖范围，则自动关闭手机的WLAN 功能。这样可以省电省流量两不误哦！</string>
+	<string msgid="5521163114237004821" name="show_dev_countdown">"只需执行 <xliff:g id="STEP_COUNT">%1$d</xliff:g> 步操作即可进入开发者模式。"</string>
+	<string name="header_category_personalcustom">"个性化定制"</string>
+	<string name="monotype_preference_title">字体样式</string>
+	<string name="font_settings_title">"字体"</string>
+	<string name="roaming_settings_title">国际漫游设置</string>
+	<string name="sim_settings_title">SIM卡管理</string>
+	<string name="data_usage_enable_mobile_statistics">数据统计</string>
+	<string name="data_usage_enable_mobile_statistics_dialog">启用此功能，在有较高速率网络系统(如 LTE) 时会较为耗电</string>
+	<string name="apn_call_number">"PPP 拨叫号码"</string>
+	<string name="roaming_time_settings_category">国际漫游时间设置</string>
+	<string name="roaming_time_settings_zone">时区推荐</string>
+	<string name="roaming_time_settings_time_display">时间显示方案</string>
+	<string msgid="1136884304711318251" name="show_hw_overdraw">"显示 GPU 过度绘制"</string>
+	<string msgid="4295714000923082647" name="show_hw_overdraw_summary">"从最优到最差：蓝、绿、淡红、红"</string>
+	<string name="china_telcom_push_title">中国电信翼推送</string>
+	<string name="china_telcom_push_summary">中国电信免费推送服务</string>
+	<string name="location_improve_allow">通过WiFi或移动网络，iZat可改善定位服务</string>
+	<string name="subscription_01_title">卡1</string>
+	<string name="subscription_02_title">卡2</string>
+	<string name="data_usage_menu_restrict_systembgdata">"允许系统后台数据"</string>
+	<string name="data_usage_disable_mobile_statistics_dialog">要停用数据统计吗？</string>
+	<string name="data_usage_tab_slot1">"卡槽1"</string>
+	<string name="data_usage_tab_slot2">"卡槽2"</string>
+	<string name="playersTutorial_stoped">玩家教程已经被停用.</string>
+	<string name="location_consent_dialog_message">允许位置服务收集匿名地点数据。系统可能会将部分数据存储在您的设备上。即使您的设备未运行任何应用，该服务也会收集此类数据。</string>
+	<string name="devices_info_products_version">"型号: Lenovo K910"</string>
+	<string name="devices_info_firmwareVersion">"Android版本: <xliff:g>%1$s</xliff:g>"</string>
+	<string name="devices_info_buildNumber">"版本号: <xliff:g>%1$s</xliff:g>"</string>
+	<string name="devices_info_cpu">"处理器: 四核2.2GHz"</string>
+	<string name="devices_info_runMemory">"运行内存: 2.0GB</string>
+	<string name="devices_info_screen">"屏幕：1080*1920   5.5寸"</string>
+	<string name="devices_info_camera">"摄像头：前置500万   后置1300万"</string>
+	<string name="devices_info_memory">"机身存储：<xliff:g>%1$s</xliff:g>(可用)"</string>
+	<string name="location_consent_dialog_title">同意记录地点数据</string>
+	<string name="screensaver_timeout_zero_summary">"永不"</string>
+	<string name="fuse_backup_data_to_cloud_title">备份到云端</string>
+	<string name="fuse_backup_data_to_cloud_summary">将手机上的数据备份到云端</string>
+	<string name="fuse_recovery_data_from_cloud_title">从云端恢复</string>
+	<string name="fuse_recovery_data_from_cloud_summary">选择恢复已备份到云端的数据</string>
+	<string name="fuse_master_clear_desc_erase_storage">"\n\n重置手机会清除<b>内部存储卡</b>中的音乐，照片和其他用户数据等<b>所有数据</b>，请务必在重置前备份数据。"</string>
+	<string name="fuse_backup_data_description">"在重置手机前，请先备份联系人，相片，短信，应用等重要数据，以便重新开机后,使用\"备份恢复\"进行恢复"</string>
+	<string name="select_subscription">选择SIM卡</string>
+	<string name="airplane_open_confirm">"飞行模式"</string>
+	<string name="airplane_open_confirm_message">将会开启飞行模式</string>
+	<string name="preference_status_open">开启</string>
+	<string name="preference_status_close">关闭</string>
+	<string name="preference_status_unknown">未知</string>
+	<string name="header_category_personalcustom_k7">"个性化"</string>
+	<string name="settings_header_ringtone_k7">"铃声设置"</string>
+	<string name="rotate_type_choose_cancel">取消</string>
+	<string name="lenovo_recent_settings">近期设置</string>
+	<string name="schedule_power_on_off_time">"时间"</string>
+	<string name="schedule_power_on_off_repeat">"重复"</string>
+	<string name="schedule_power_on_off_set">设置定时开关机</string>
+	<string name="schedule_power_on_set">"设置定时开机"</string>
+	<string name="schedule_power_off_set">"设置定时关机"</string>
+	<string name="enable_schpwr">"启用"</string>
+	<string name="disable_schpwr">"停用"</string>
+	<string-array name="alarm_set">
+        <item>"已将此定时开机设为 1 分钟内启动。"</item>
+        <item>"已将此定时开机设为 <xliff:g example="2days" id="DAYS">%1$s</xliff:g>后启动。"</item>
+        <item>"已将此定时开机设为 <xliff:g example="2hours" id="HOURS">%2$s</xliff:g>后启动。"</item>
+        <item>"已将此定时开机设为 <xliff:g example="2days" id="DAYS">%1$s</xliff:g><xliff:g example="2hours" id="HOURS">%2$s</xliff:g>后启动。"</item>
+        <item>"已将此定时开机设为 <xliff:g example="2minutes" id="MINUTES">%3$s</xliff:g>后启动。"</item>
+        <item>"已将此定时开机设为 <xliff:g example="2days" id="DAYS">%1$s</xliff:g><xliff:g example="2minutes" id="MINUTES">%3$s</xliff:g>后启动。"</item>
+        <item>"已将此定时开机设为 <xliff:g example="2hours" id="HOURS">%2$s</xliff:g><xliff:g example="2minutes" id="MINUTES">%3$s</xliff:g>后启动。"</item>
+        <item>"已将此定时开机设为 <xliff:g example="2days" id="DAYS">%1$s</xliff:g>, <xliff:g example="2hours" id="HOURS">%2$s</xliff:g><xliff:g example="2minutes" id="MINUTES">%3$s</xliff:g>后启动。"</item>
+        <item>"已将此定时关机设为 1 分钟内启动。"</item>
+        <item>"已将此定时关机设为 <xliff:g example="2days" id="DAYS">%1$s</xliff:g>后启动。"</item>
+        <item>"已将此定时关机设为 <xliff:g example="2hours" id="HOURS">%2$s</xliff:g>后启动。"</item>
+        <item>"已将此定时关机设为 <xliff:g example="2days" id="DAYS">%1$s</xliff:g><xliff:g example="2hours" id="HOURS">%2$s</xliff:g>后启动。"</item>
+        <item>"已将此定时关机设为 <xliff:g example="2minutes" id="MINUTES">%3$s</xliff:g>后启动。"</item>
+        <item>"已将此定时关机设为 <xliff:g example="2days" id="DAYS">%1$s</xliff:g><xliff:g example="2minutes" id="MINUTES">%3$s</xliff:g>后启动。"</item>
+        <item>"已将此定时关机设为 <xliff:g example="2hours" id="HOURS">%2$s</xliff:g><xliff:g example="2minutes" id="MINUTES">%3$s</xliff:g>后启动。"</item>
+        <item>"已将此定时关机设为 <xliff:g example="2days" id="DAYS">%1$s</xliff:g>, <xliff:g example="2hours" id="HOURS">%2$s</xliff:g><xliff:g example="2minutes" id="MINUTES">%3$s</xliff:g>后启动。"</item>
+    </string-array>
+	<string name="day">"1 天"</string>
+	<string name="days">"<xliff:g id="DAYS">%s</xliff:g> 天"</string>
+	<string name="hour">"1 小时"</string>
+	<string name="hours"><xliff:g id="hours">%s</xliff:g> 小时</string>
+	<string name="minute">"1 分钟"</string>
+	<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> 分钟"</string>
+	<string name="every_day">"每天"</string>
+	<string name="never">"永不"</string>
+	<string name="day_concat" translatable="false">", "</string>
+	<string name="done">"完成"</string>
+	<string name="revert">"还原"</string>
+	<string name="schpwr_shutdown_message">"手机将于 <xliff:g id="second">%s</xliff:g> 秒后关机"</string>
+	<string name="schpwr_shutdown_message_second">"手机将于 <xliff:g id="second">%s</xliff:g> 秒后关机"</string>
+	<string name="schpwr_power_on">"开机"</string>
+	<string name="schpwr_power_off">"关机"</string>
+	<string name="schpwr_time_invalid">定时开关机时间必须相差%d分钟以上</string>
+	<string name="touch_free_phone">免触电话</string>
+	<string name="nfc_not_inservice">Nfc服务不支持！</string>
+	<string name="nfc_beam_transmit">Android 传输</string>
+	<string msgid="3695429596604962531" name="wifi_display_summary_on">"打开"</string>
+	<string msgid="2445210133184740611" name="wifi_display_summary_off">"关闭"</string>
+	<string msgid="5318394806146587849" name="wifi_display_summary_disabled">"已停用"</string>
+	<string msgid="5318394806146587849" name="ringtone_and_sound_settings">"铃声和音量"</string>
+	<string name="hide_recent_settings">下拉查看近期设置</string>
+	<string name="show_recent_settings">收起近期设置</string>
+	<string name="multiwindow_title">"多窗口"</string>
+	<string name="multiwindow_summary">"启动多窗口"</string>
+	<!-- end,merge from lenovo_strings_transed.xml -->
+
+	<!-- begin,merge from character_strings_transed.xml -->
+	<string name="header_category_call_message">通话和信息</string>
+	<string name="call_ring_pocket_enable_summary">"在口袋或皮套模式下时来电音量最大"</string>
+	<string name="call_ring_weaken_enable_title">"拿起铃声减弱"</string>
+	<string name="call_ring_weaken_enable_summary">"拿起电话时铃声减弱"</string>
+	<string name="smart_call_answer_settings_title">"智能接听"</string>
+	<string name="smart_call_answer_settings_summary">"来电时将手机靠近耳朵自动接听"</string>
+	<string name="smart_calling_title">智能呼叫</string>
+	<string name="smart_calling_summary">在联系人详情及信息会话界面,拿起电话靠近耳朵即可自动拨打该联系人电话</string>
+	<string name="mercury_keyboard_title">水银键盘</string>
+	<string name="mercury_keyboard_summary">根据手握的角度调整界面比例大小以便单手操作。</string>
+	<string name="header_category_lock_unlock">解锁屏和屏幕</string>
+	<string name="lockscreen_shake_unlock_ctrl">"甩动锁屏"</string>
+	<string name="lockscreen_shake_unlock_ctrl_summary">"单向轻甩手机，即可屏幕锁定"</string>
+	<string name="lockscreen_face_detection_ctrl">人脸解锁</string>
+	<string name="lockscreen_face_detection_ctrl_description">通过摄像头自动检测人脸解锁，光线不足时识别率将变低</string>
+	<string name="lockscreen_knock_on_ctrl">"敲击亮屏"</string>
+	<string name="lockscreen_knock_on_ctrl_summary">双击屏幕点亮手机</string>
+	<string name="overturn_lock_ctrl">"翻转锁屏"</string>
+	<string name="overturn_lock_ctrl_summary">"翻转手机自动锁屏"</string>
+	<string name="smart_standby_ctrl">"智能待机"</string>
+	<string name="smart_standby_ctrl_summary">"亮屏时，如判断眼睛注视屏幕则保持常亮，角度太偏或光线不足时识别率降低"</string>
+	<string name="still_sleep_ctrl">静止休眠</string>
+	<string name="still_sleep_ctrl_summary">将手机放置到水平位置时，自动进入休眠状态</string>
+	<string name="glove_mode">手套模式</string>
+	<string name="glove_mode_summary">支持手套模式下滑动屏幕</string>
+	<string name="smart_rotete_cbox_title">旋转屏幕</string>
+	<string name="smart_rotete_cbox_summary">智能</string>
+	<string name="header_category_shortcut_key">快捷操作</string>
+	<string name="wide_touch_float_button">"空灵触控"</string>
+	<string name="wide_touch_float_button_summary">"通过触控的方式进行快捷操作或应用"</string>
+	<string name="lockscreen_volume_key_lock_unlock_ctrl">"侧键亮屏"</string>
+	<string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"按侧键即可点亮屏幕"</string>
+	<string name="double_click_home_enabled_title">"双击HOME激活语音"</string>
+	<string name="double_click_home_enabled_description">"双击手机（HOME）激活语音服务"</string>
+	<string name="double_click_menu_enabled_title">"长按菜单键激活语音"</string>
+	<string name="double_click_menu_enabled_description">"亮屏情况下，长按菜单键启动乐语音"</string>
+	<string name="double_click_muti_window_title">多窗口</string>
+	<string name="muti_window_summary">一屏上支持同时显示并运行多个任务窗口,点击进入设置</string>
+	<string name="voice_call_way_title">"语音调用方式"</string>
+	<string name="headset_play_mms_enabled_title">"耳机语音播报"</string>
+	<string name="double_click_dock_enabled_title">"双击DOCK键激活语音"</string>
+	<string name="header_category_singlehand_settings">"单手设置"</string>
+	<string name="dtmf_settings_title">"拨号盘"</string>
+	<string name="unlock_settings_title">"解锁"</string>
+	<string name="system_shortcutbar_title">"系统快捷条"</string>
+	<string name="bottom_shortcutbar_title">"底部快捷栏"</string>
+	<string name="header_category_other">"其它"</string>
+	<string name="notificationbar_setings_title">"通知中心"</string>
+	<string name="phone_car_mode_title">"车载模式"</string>
+	<string name="phone_car_mode_summary">"车载模式设置"</string>
+	<string name="profile_edit_weaken_help">来电时，拿起手机来电音量自动减弱。 </string>
+	<string name="mercury_keyboard_help">应用于拨号键盘，键盘会感受重力的影响改变比例大小以方便用户单手操作。</string>
+	<string name="slide_unlock_help">黑屏界面下，手指在屏幕底部从左滑到右一段距离，即可进行解锁。</string>
+	<string name="swing_lock_help">单向轻甩手机，即可屏幕锁定。</string>
+	<string name="side_key_backlight_help">按手机音量侧键，进行点亮屏幕。</string>
+	<string name="category_single_hand">单手</string>
+	<string name="category_gesture">手势</string>
+	<string name="category_smart">智能</string>
+	<string name="long_press_back_finish_title">长按返回键退出程序</string>
+	<string name="long_press_back_finish_summary">长按返回键,退出当前程序</string>
+	<string name="gestural">手势操作</string>
+	<string name="gestural_summary">可以通过手势隔空操作手机</string>
+	<string name="gestural_image">手势控制图片</string>
+	<string name="gestural_image_summary">左右滑动切换图片|上下滑动切换特效</string>
+	<string name="gestural_phone">手势接听</string>
+	<string name="gestural_music">手势控制音乐</string>
+	<string name="gestural_music_summary">左右滑动切换音乐|上下滑动调节音量</string>
+	<string name="gestural_vedio">手势控制视频</string>
+	<string name="gestural_vedio_summary">左右滑动控制视频播放|上下滑动调节音量</string>
+	<string name="gestural_broswer">手势控制浏览器</string>
+	<string name="gestural_ebook">手势控制电子书</string>
+	<string name="gestural_ebook_summary">左右滑动控制电子书翻页</string>
+	<string name="black_screen_settings">黑屏解锁</string>
+	<string name="black_screen_settings_summary">可在黑屏状态下解锁，快捷开启应用</string>
+	<string name="black_screen_settings_normal">正常解锁</string>
+	<string name="black_screen_settings_normal_summary">在屏幕底部从左滑动到右即可解锁</string>
+	<string name="black_screen_settings_camera">解锁到相机</string>
+	<string name="black_screen_settings_camera_summary">在屏幕画“c”</string>
+	<string name="black_screen_settings_broswer">解锁到浏览器</string>
+	<string name="black_screen_settings_broswer_summary">在屏幕画“e”</string>
+	<string name="black_screen_settings_music">解锁到音乐</string>
+	<string name="black_screen_settings_music_summary">在屏幕画“m”</string>
+	<string name="black_screen_settings_vedio">解锁到视频</string>
+	<string name="black_screen_settings_vedio_summary">在屏幕画“v”</string>
+	<string name="black_screen_settings_category_shortcut">黑屏快捷操作</string>
+	<string name="black_screen_settings_shortcut_wakeup_screen">点亮屏幕</string>
+	<string name="black_screen_settings_shortcut_wakeup_screen_summary">黑屏时双击屏幕，亮屏</string>
+	<string name="black_screen_settings_shortcut_quick_shots">极速抢拍</string>
+	<string name="black_screen_settings_select_app">选择你要设定的应用</string>
+	<!-- end,merge from character_strings_transed.xml -->
+<string name="device_info" msgid="3191876744469364173">"设备信息"</string>
+<string name="pocket_mode_title">"来电口袋模式"</string>
+<string name="pocket_mode_summary">"在口袋或皮套模式下时来电音量最大"</string>
+<string name="pocket_mode_help">手机放在口袋或皮套模式下，来电时音量自动调整到最大。</string>
+<string name="ringtone_weaken_title">"拿起铃声减弱"</string>
+<string name="ringtone_weaken_summary">"拿起电话时铃声减弱"</string>
+<string name="ringtone_weaken_help">来电时，拿起手机来电音量自动减弱。 </string>
+<string name="gesture_topspeed_snap_title">极速抢拍</string>
+<string name="gesture_topspeed_snap_summary">黑屏时双击Home键抢拍</string>
+<string name="gesture_light_up_screen_title">双击亮屏/熄屏</string>
+<string name="gesture_light_up_screen_summary">黑屏时快速双击屏幕任意位置亮屏，锁屏时快速双击屏幕任意位置熄屏</string>
+<string name="usb_detail_message">使用计算机管理手机，请通过计算机访问http://sj.lenovo.com，获取联想官方软件。</string>
+<string name="bluetooth_confirm_device_pair">要与以下设备配对：</string>
+<string name="wifi_ap_less">只看优选网络</string>
+<string name="usb_adb_summary">启用调试模式。使用计算机管理手机，推荐使用官方软件。</string>
+<string name="wifi_ap_more">查看所有网络</string>
+<string name="bluetooth_confirm_passkey_show">请确保其显示的配对密钥为：</string>
+<string name="usb_adb_title">USB 调试 (ADB)</string>
+<string name="wifi_wapi_cert_install">安装 WAPI 证书</string>
+<string name="location_agps_pref_apn_title">默认apn</string>
+<string name="location_agps_roaming_help">提示：选择所有网络开启AGPS功能，在手机漫游时可能会流失话费！</string>
+<string name="wifi_wapi_cert_install_button">安装</string>
+<string name="wifi_wapi_cert_create_subdir">请创建一个目录</string>
+<string name="wifi_wapi_cert_mgmt_user_dont_exist">请输入用户证书的名称</string>
+<string name="wifi_wapi_user_cert">用户证书</string>
+<string name="location_agps_apn_summary">选择默认apn类型</string>
+<string name="location_agps_apn_choose_dialog_title">所有Apn类型</string>
+<string name="location_agps_si_mode_dialog_title">AGPS定位方式</string>
+<string name="wifi_wapi_cert_mgmt_subdir_exist">请输入其他存在的路径名称</string>
+<string name="location_agps_pref_reset_type_title">默认启动类型</string>
+<string name="wifi_wapi_as_cert">公钥证书</string>
+<string name="supl_not_set">"&lt;未设置&gt;"</string>
+<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">请输入你想创建的路径名称!</string>
+<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">该用户证书的格式是错误的! 请安装正确的用户证书</string>
+<string name="location_agps_si_mode">AGPS定位模式</string>
+<string name="location_agps_reset_type_summary">选择默认启动类型</string>
+<string name="location_agps_supl_settings">SUPL参数设置</string>
+<string name="wifi_wapi_cert_mgmt_subdir_create_fail">创建路径失败</string>
+<string name="wifi_wapi_cert_mgmt_as_dont_exist">SD卡没有证书，请检查!</string>
+<string name="invalid_network_mode">无效的网络模式</string>
+<string name="location_agps_si_mode_summary">选择偏好的AGPS定位方式</string>
+<string name="location_agps_reset_type">启动类型</string>
+<string name="not_support_choose">卡槽2不支持选择网络模式</string>
+<string name="location_agps_supl_server_addr">服务器地址</string>
+<string name="location_agps_pref_si_title">偏好定位模式</string>
+<string name="location_agps_def_reset_type">炎热</string>
+<string name="wifi_wapi_cert_uninstall">卸载 WAPI 证书</string>
+<string name="location_agps_def_network_mode">本地</string>
+<string name="wifi_wapi_cert_mgmt_as_name_is_empty">请选择正确的证书名！</string>
+<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">该证书的格式是错误的！请安装正确的证书</string>
+<string name="location_agps_apn_type">Apn类型</string>
+<string name="location_agps_register_network_type">注册网络类型</string>
+<string name="wifi_wapi_cert_uninstall_button">卸载</string>
+<string name="location_agps_supl_server_port">服务器端口</string>
+<string name="location_agps_register_network_type_summary">选择是在归属网还是所有网络开启AGPS功能...</string>
+<string name="location_agps_params_settings_title">AGPS参数设置</string>
+<string name="wifi_wapi_cert_mgmt_titlebar">WAPI 证书管理</string>
+<string name="wifi_wapi_cert_cancel_button">取消</string>
+<string name="wifi_wapi_cert_delet_subdir">选择合适的证书</string>
+<string name="wifi_wapi_cert_mgmt_user_name_is_empty">请输入用户证书的名称</string>
+<string name="location_agps_pref_network_title">开启网络</string>
+<string name="location_agps_register_network_type_dialog_title">选择网络</string>
+<string name="smart_standby_enable_title">"智能待机"</string>
+<string name="smart_standby_enable_summary">"亮屏时，如判断眼睛注视屏幕则保持常亮，角度太偏或光线不足时识别率降低"</string>
+<string name="phone_storage_info">手机存储</string>
+<string name="wifi_account_share">@string/wlan_share</string>
+<string name="wifi_status_test">WLAN状态</string>
+<string name="wifi_signal_strong_title">"WLAN 信号增强"</string>
+<string name="wifi_signal_strong_summary">"当连接的信号较弱时，自动进行信号增强，以保证更好的连接。"</string>
+    <string name="do_not_distube">"勿扰模式"</string>
+    <string name="gesture_light_up_off_screen_title">"双击亮屏/熄屏"</string>
+
+    <string name="StorageDialog_title">注意</string>
+    <string name="StorageDialog_summary">检测到您拔出了外置存储卡，系统将会将默认存储位置切换到内置存储卡，此操作需要重启机器，确认是否重启？\n\n重新插放外置存储卡，则无需重启！</string>
+    <string name="StorageDialog_comfirm">确认重启</string>
+</resources>

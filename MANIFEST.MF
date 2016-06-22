@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib\*.jar
+Main-Class: com.trans.tool.TransFileFilter com.trans.tool.TransFileMerge com.trans.tool.TransMiss com.trans.tool.TransReuse com.trans.tool.TransImport com.trans.tool.TransInsert  com.trans.tool.TransRmDupli com.trans.tool.TransSrCytoLatin

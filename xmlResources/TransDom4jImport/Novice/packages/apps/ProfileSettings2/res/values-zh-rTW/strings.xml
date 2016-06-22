@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project Licensed under the 
+	Apache License, Version 2.0 (the "License"); you may not use this file except 
+	in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 
+	Unless required by applicable law or agreed to in writing, software distributed 
+	under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES 
+	OR CONDITIONS OF ANY KIND, either express or implied. See the License for 
+	the specific language governing permissions and limitations under the License. --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+	<string name="yes" msgid="4676390750360727396">"是"</string>
+	<string name="no" msgid="6731231425810196216">"無"</string>
+	<string name="silent_mode_title" msgid="3181479108593217704">"靜音模式"</string>
+	<string name="ringtone_title" msgid="5379026328015343686">"手機鈴聲"</string>
+	<string name="ringtone_summary" msgid="2630023412632683493"/>
+	<string name="all_volume_title" msgid="4296957391257836961">"音量"</string>
+	<string name="musicfx_title" msgid="3415566786340790345">"音樂效果"</string>
+	<string name="ring_volume_title" msgid="7938706566797464165">"鈴聲音量"</string>
+	<string name="vibrate_in_silent_title" msgid="3897968069156767036">"靜音時震動"</string>
+	<string name="vibrate_title" msgid="6045820877942801599">"震動"</string>
+
+	<string name="sound_settings_title" msgid="8735891486683305886">"聲音"</string>
+	<string name="silent_mode_summary" msgid="3309650676072917899">"除媒體和鬧鐘以外，所有聲音均設為靜音"</string>
+	<string name="silent_mode_incl_alarm_summary" msgid="2088830834182228458">"對所有非多媒體聲音進行靜音處理"</string>
+	<string name="ring_volume_summary" msgid="7055497624193116879">"設定來電、簡訊、通知音量"</string>
+	<string name="vibrate_in_silent_summary" msgid="3312600513070076281">"靜音模式下允許震動提醒"</string>
+	<string name="vibrate_summary" msgid="7378130397830790458">"在接到電話和簡訊時發出震動提醒"</string>
+	<string name="notification_sound_title" msgid="312032901303146002">"預設通知"</string>
+	<string name="notification_pulse_title" msgid="1247988024534030629">"有通知時指示燈閃爍"</string>
+	<string name="incoming_call_volume_title" msgid="8073714801365904099">"鈴聲"</string>
+	<string name="notification_volume_title" msgid="2012640760341080408">"通知"</string>
+	<string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"將來電音量用作通知音量"</string>
+	<string name="notification_sound_summary" msgid="2953599929394109819"/>
+	<string name="notification_pulse_summary" msgid="6899220780534617152">"在收到新通知時，跟蹤球指示燈會不斷閃動"</string>
+	<string name="notification_sound_dialog_title" msgid="9052854168612951170">"選擇通知鈴聲"</string>
+	<string name="media_volume_title" msgid="3576565767317118106">"媒體"</string>
+	<string name="media_volume_summary" msgid="5363248930648849974">"設定音樂和視訊的音量"</string>
+	<string name="alarm_volume_title" msgid="2285597478377758706">"鬧鐘"</string>
+	<string name="dtmf_tone_enable_title" msgid="8533399267725365088">"撥號鍵盤觸摸音效"</string>
+	<string name="sound_effects_enable_title" msgid="1171590821131077296">"選擇操作音"</string>
+	<string name="lock_sounds_enable_title" msgid="450098505659399520">"螢幕鎖定提示音"</string>
+	<string name="haptic_feedback_enable_title" msgid="2438293710530828760">"觸感"</string>
+	<string name="audio_record_proc_title" msgid="4271091199976457534">"降噪"</string>
+	<string name="volume_media_description" msgid="7949355934788807863">"音樂、視訊、遊戲和其他媒體"</string>
+	<string name="volume_ring_description" msgid="5936851631698298989">"來電和訊息"</string>
+	<string name="volume_notification_description" msgid="5810902320215328321">"通知"</string>
+	<string name="volume_alarm_description" msgid="8322615148532654841">"鬧鐘"</string>
+	<string name="dtmf_tone_enable_summary_on" msgid="3028201873989887327">"使用撥號鍵盤時播放按鍵音效"</string>
+	<string name="dtmf_tone_enable_summary_off" msgid="7791065951268525678">"使用撥號鍵盤時播放按鍵音效"</string>
+	<string name="sound_effects_enable_summary_on" msgid="6154141289879491329">"進行螢幕選取時播放音效"</string>
+	<string name="sound_effects_enable_summary_off" msgid="3447739581759560125">"進行螢幕選取時播放音效"</string>
+	<string name="lock_sounds_enable_summary_on" msgid="145741024028391473">"鎖定和解鎖螢幕時播放聲音"</string>
+	<string name="lock_sounds_enable_summary_off" msgid="8481243116223542804">"鎖定和解鎖螢幕時播放聲音"</string>
+	<string name="haptic_feedback_enable_summary_on" msgid="1875779656524793053">"按軟鍵以及進行某些 UI 互動時震動"</string>
+	<string name="haptic_feedback_enable_summary_off" msgid="7287885436963105314">"按軟鍵以及進行某些 UI 互動時震動"</string>
+	<string name="audio_record_proc_summary" msgid="8113628457499616498">"在進行通話或錄音時降低背景雜音。"</string>
+
+	<string name="Ringtone_profile_title">鈴聲設定</string>
+	<string name="Ringtone_profile_summary">設定來電鈴聲和訊息提示</string>
+
+
+	<string name="turn_cr_title">"彩鈴設定"</string>
+	<string name="turn_cr_on">"獲取彩鈴服務"</string>
+	<string name="turn_cr_off">"彩鈴設定關"</string>
+	<string name="turn_cr_title_ongoing">"彩鈴設定資訊獲取中"</string>
+	<string name="turn_cr_title_success">"彩鈴設定資訊獲取成功"</string>
+	<string name="turn_cr_title_fail">"彩鈴設定資訊獲取失敗"</string>
+	<string name="turn_cr_sms_fail">"彩鈴設定資訊發送失敗"</string>
+	
+	<!-- Profile Settings -->
+	<string name="profile_select_label">情景模式設定</string>
+	<string name="profile_options_label">情景模式個性化設定</string>
+	<string name="general_profile_title">標準</string>
+	<string name="silence_profile_title">靜音</string>
+	<string name="meeting_profile_title">震動</string>
+	<string name="outdoors_profile_title">戶外</string>
+	<string name="general_profile_summary">標準模式來電鈴聲、提醒方式等設定</string>
+	<string name="meeting_profile_summary">震動模式的觸感設定等</string>
+	<string name="silence_profile_summary">靜音模式的觸感設定等</string>
+	<string name="outdoors_profile_summary">戶外模式來電鈴聲、提醒方式等設定</string>
+	<string name="sum_profile_settings">切換情景模式及情景模式個性化設定</string>
+
+	<string name="set_profile_title">個性化設定</string>
+	<string name="call_ringtone_title">來電鈴聲</string>
+	<string name="call_ringtone_summary">設定來電鈴聲</string>
+	<string name="message_sound_title">訊息鈴聲</string>
+	<string name="message_sound_summary">設定簡訊和多媒體訊息鈴聲</string>
+	<string name="mail_sound_title">郵件鈴聲</string>
+	<string name="mail_sound_summary">設定郵件鈴聲</string>
+	<string name="alarm_alert_title">行事曆鈴聲</string>
+	<string name="alarm_alert_summary">設定行事曆鈴聲</string>
+	<string name="push_sound_title">推送服務鈴聲</string>
+	<string name="push_sound_summary">設定推送服務鈴聲</string>
+	<string name="push_mail_ringtone_switch_title">推送服務及郵件提示音</string>
+	<string name="push_mail_ringtone_switch_summary_on">已開啟鈴聲提醒</string>
+	<string name="push_mail_ringtone_switch_summary_off">已關閉鈴聲提醒</string>
+
+	<string name="startup_sound_title">"開關機鈴聲"</string>
+	<string name="startup_sound_summary_on">"控制開關機時是否播放鈴聲"</string>
+	<string name="startup_sound_summary_off">"控制開關機時是否播放鈴聲"</string>
+
+	<string name="remind_title">提醒方式</string>
+	<string name="remind_summary">設定總體提醒方式</string>
+	<string name="profile_settings">情景模式設定</string>
+	<string name="progress_title">情景模式設定</string>
+	<string name="progress_message">請稍候...</string>
+
+	<!-- Mini -->
+	<string name="volume">音量</string>
+	<string name="ringtone_settings_title">鈴聲設定</string>
+	<string name="feedback_title">操作回饋</string>
+	<string name="threeg_call_sound_title">來電鈴聲</string>
+	<string name="threeg_message_sound_title">訊息鈴聲</string>
+	<string name="twog_call_sound_title">來電鈴聲</string>
+	<string name="twog_message_sound_title">訊息鈴聲</string>
+	<string name="threeg_unable">SIM 卡 1 不可用</string>
+	<string name="twog_unable">SIM 卡 2 不可用</string>
+  
+    <string name="convention">常規</string>
+    <string name="cate_call_ringtone">來電</string>
+    <string name="cate_message_ringtone">訊息</string>
+
+    <string name="audio_profile_rename">重新命名</string>
+    <string name="audio_profile_enable">"啟用"</string>
+    <string name="audio_profile_delete">"Delete 鍵"</string>
+    <string name="audio_profile_message_delete">將刪除設定檔 
+        <xliff:g id="profile">%s</xliff:g> 
+    </string>
+    <string name="profile_category_checked_title">情景模式</string>
+    <string name="audio_profile_error">錯誤</string>
+    <string name="audio_profile_message_reset">所有情景模式設定將重設為預設值</string>
+    <string name="audio_profile_add">新增</string>
+    <string name="message">信息</string>
+    <string name="audio_profile_message_name_error">所輸入的名稱已存在</string>
+    <string name="audio_profile_message_rename">請輸入新設定檔名稱</string>
+    <string name="profile_category_custom_title">使用者定義的設定檔</string>
+    <string name="audio_profile_reset">"重設"</string>
+    <string name="audio_profile_message_name_length_wrong">名稱至少必須包含一個字元</string>
+    <string name="set_default_phone_ringtone">"設置默認的來電鈴聲"</string>
+    <string name="set_default_message_ringtone">設置默認的訊息鈴聲</string>
+    <string name="sim_message_one">訊息鈴聲</string>
+    <string name="sim_call_one">鈴聲 (SIM 1)</string>
+    <string name="sim_call_two">鈴聲 (SIM 2)</string>
+    <string name="sim_message_sim_one">訊息鈴聲 (SIM 1)</string>
+    <string name="set_default_notification_ringtone">設定預設通知鈴聲</string>
+    <string name="volume_alarm_mute">"將鬧鐘靜音"</string>
+    <string name="sim_call">鈴聲</string>
+    <string name="audio_profile_message_overflow">您只能新增 4 個自訂設定檔</string>
+    <string name="volume_notification_mute">"將通知靜音"</string>
+    <string name="volume_ring_mute">"將鈴聲和通知靜音"</string>
+    <string name="ringtone_and_sound_settings">"鈴聲和音效"</string>
+    <string name="volume_media_mute">"將音樂和其他媒體靜音"</string>
+    <string name="sim_message_sim_two">訊息鈴聲 (SIM 2)</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Ενίσχυση σήματος WLAN"</string>
+<string name="dlg_msg">"Ανιχνεύτηκε πολύ αδύναμο σήμα WLAN. Έχει ενεργοποιηθεί αυτόματα η ενίσχυση σήματος WLAN για καλύτερη σύνδεση δικτύου. Μπορείτε επίσης να διαμορφώσετε τις ρυθμίσεις λειτουργίας στις Ρυθμίσεις Συστήματος - WLAN." </string>
+<string name="dlg_ok">"OK"</string>
+<string name="dlg_no">"όχι"</string>
+</resources>

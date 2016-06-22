@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="no">"Ниједан"</string>
+    <string name="ringtone_title">"Звук звона"</string>
+    <string name="ringtone_summary">"Апликација није пронађена"</string>
+    <string name="all_volume_title">"Јачина звука"</string>
+    <string name="musicfx_title">"Музички ефекти"</string>
+    <string name="ring_volume_title">"Јачине звука"</string>
+    <string name="vibrate_title">"Вибрација"</string>
+    <string name="sound_settings_title">"Звук"</string>
+    <string name="notification_sound_title">"Подразумевано обавештење"</string>
+    <string name="incoming_call_volume_title">"Звукови звона"</string>
+    <string name="notification_volume_title">"Обавештење"</string>
+    <string name="notification_sound_summary">"Апликација није пронађена"</string>
+    <string name="media_volume_title">"Медији"</string>
+    <string name="alarm_volume_title">"Сат"</string>
+    <string name="sound_effects_enable_title">"Звуци при додиру"</string>
+    <string name="lock_sounds_enable_title">"Звук закључавања екрана"</string>
+    <string name="haptic_feedback_enable_title">"Вибрирај при додиру"</string>
+    <string name="volume_ring_description">"Јачина мелодије звона"</string>
+    <string name="volume_notification_description">"Обавештење"</string>
+    <string name="volume_alarm_description">"Сат"</string>
+    <string name="profile_select_label">"Звук"</string>
+    <string name="general_profile_title">"Опште"</string>
+    <string name="silence_profile_title">"Нечујно"</string>
+    <string name="meeting_profile_title">"Вибрација звона"</string>
+    <string name="profile_settings">"Звук"</string>
+    <string name="progress_title">"Подешавања профила"</string>
+    <string name="volume">"Јачина звука"</string>
+    <string name="ringtone_settings_title">"Долазни позиви"</string>
+    <string name="feedback_title">"Систем"</string>
+    <string name="threeg_call_sound_title">"Звук звона"</string>
+    <string name="twog_call_sound_title">"Звук звона"</string>
+    <string name="convention">"Опште"</string>
+    <string name="cate_call_ringtone">"Долазни позиви"</string>
+    <string name="cate_message_ringtone">"Размена порука"</string>
+    <string name="message">"Размена порука"</string>
+    <string name="audio_profile_add">"Додај"</string>
+    <string name="audio_profile_reset">"Поново постави"</string>
+    <string name="audio_profile_rename">"Преименовање"</string>
+    <string name="audio_profile_error">"Грешка"</string>
+    <string name="audio_profile_delete">"Избриши"</string>
+    <string name="audio_profile_enable">"Омогући"</string>
+    <string name="volume_media_mute">"Искључи музику и друге медије"</string>
+    <string name="volume_ring_mute">"Искључи звук мелодије звона и обавештења"</string>
+    <string name="volume_notification_mute">"Искључи звук обавештења"</string>
+    <string name="volume_alarm_mute">"Искључи звук аларма"</string>
+    <string name="dtmf_tone_enable_title" msgid="827601042915852989">"Тонови при додиру нумеричке тастатуре"</string>
+    <string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"Користи јачину звука долазног позива за обавештења"</string>
+    <string name="notification_sound_dialog_title" msgid="3805140135741385667">"Подразумевани звук обавештења"</string>
+    <string name="yes">"Да"</string>
+    <string name="media_volume_summary" msgid="5363248930648849974">"Подешавање јачине звука за музику и видео снимке"</string>
+    <string name="vibrate_in_silent_title" msgid="3897968069156767036">"Вибрација у нечујном режиму"</string>
+    <string name="volume_media_description" msgid="7949355934788807863">"Музика, видео, игре и други медији"</string>
+    <string name="notification_pulse_title" msgid="1247988024534030629">"Пулсирајуће обавештење"</string>
+    <string name="audio_record_proc_title" msgid="4271091199976457534">"Умањивање шума"</string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="silent_mode_outdoor">Extérieur</string>
+<string name="capital_on">MARCHE</string>
+<string name="volume_icon_description_bluetooth" msgid="6538894177255964340">"Volume Bluetooth"</string>
+<string name="not_support_too_long_string">Recherche de chaînes trop longues non prise en charge</string>
+<string name="component">widget du système</string>
+<string name="volume_icon_description_notification" msgid="7044986546477282274">"Volume des notifications"</string>
+<string name="dlg_use_ipo_confirm">Démarrage rapide au prochain démarrage</string>
+<string name="prevent_misoperation_message">Don\'t cover the top of the screen</string>
+<string name="volume_alarm" msgid="1985191616042689100">"Volume"</string>
+<string name="reboot_confirm_title">Redémarrer</string>
+<string name="ext_storage_external_notification_title">Préparation du stockage externe</string>
+<string name="captive_portal_dialog_message">Le réseau sans fil actuel requiert d\'autres informations de connexion pour accéder à Internet. Veuillez vous connecter. </string>
+<string name="usb_notification_title">Réglages de connexion USB</string>
+<string name="prevent_misoperation_quit_hint">Force quit: press \"Back\" + \"Volume Up\" at the same time</string>
+<string name="long_back_exit_info">quitter</string>
+<string name="global_actions_toggle_open_airplane_mode_confirm">Activer Mode avion?</string>
+<string name="keyguard_password_waring_dlg_remind">Veuillez entrer la valeur \"Lenovo\", puis cliquez sur \"Ok\" pour saisir le mot de passe.</string>
+<string name="storage_external_usb">Stockage USB externe</string>
+<string name="reboot_dialog_msg">"Appuyez sur la touche d\'alimentation pendant <xliff:g id="DELAY">^1</xliff:g> secondes pour éteindre votre téléphone mobile, et pendant encore 2 secondes pour le redémarrer."</string>
+<string name="default_string">Défaut</string>
+<string name="turn_off_data">H. tens.</string>
+<string name="captive_portal_dialog_button">Connexion</string>
+<string name="storage_phone">Stockage USB</string>
+<string name="next_time_no_warning">Ne plus afficher ce message</string>
+<string name="silent_mode_silent">"Muet"</string>
+<string name="silent_mode_vibrate">Vibreur</string>
+<string name="author">Auteur Lenovo</string>
+<string name="msg_shutdown_habit_guess">You have recently shutoff your device at this time three consecutive times. Do you want to configure regular on-off settings? Click cancel to power off now.</string>
+<string name="keyguard_password_waring_dlg_title">Mot de passe incorrect</string>
+<string name="volume_icon_description_media" msgid="4217311719665194215">"Volume"</string>
+<string name="app_name">Classique</string>
+<string name="keyguard_password_attempts_warning">"Vous avez effectué <xliff:g id="NUMBER_0">%d</xliff:g> tentatives de déverrouillage du téléphone erronées.。 Si vous ne parvenez toujours pas à le déverrouiller après <xliff:g id="NUMBER_1">%d</xliff:g> autres tentatives, les paramètres par défaut de votre téléphone seront restaurés et toutes les données utilisateur seront perdues".</string>
+<string name="capital_off">ARRÊT</string>
+<string name="captive_portal_dialog_title">Invite de connexion WLAN</string>
+<string name="storage_usb">Stockage USB</string>
+<string name="usb_notification_content">Sélectionner le mode de montage usb et de débogage adb.</string>
+<string name="prevent_misoperation_title">Pocket-dialing prevention mode</string>
+<string name="reboot_confirm_msg">Votre téléphone mobile redémarre</string>
+<string name="turn_on_data">Ouvrir</string>
+<string name="global_action_reboot">Redémarrer</string>
+<string name="silent_mode_normal">Général</string>
+<string name="kg_forgot_password_button_text">Mot de passe oublié</string>
+<string name="ext_storage_internal_notification_title">Préparation du stockage interne</string>
+<string name="turn_on_mobile_data_warning">Votre téléphone peut générer un trafic de données si la connexion de données est activée.  Cette opération peut vous être facturée par votre opérateur.  Voulez-vous vraiment l\'activer ? </string>
+<string name="storage_sd_card">Stockage SD</string>
+<string name="description">Thème par défaut de Lenovo </string>
+<string name="keyguard_password_dlg_input_err">Mot de passe incorrect. Veuillez réessayer</string>
+<string name="volume_icon_description_ringer" msgid="3326003847006162496">"Volume de la sonnerie"</string>
+<string name="dlg_ipo_confirm_warning">En mode de démarrage rapide, le système n\'est pas complètement éteint, veuillez ne pas retirer la carte SIM ou la carte mémoire en ce mode, cela peut endommager la carte.</string>
+<string name="volume_matv">TV mobile</string>
+<string name="volume_icon_description_incall" msgid="8890073218154543397">"Volume d'appel"</string>
+<string name="powerOnWarning_boot_msg">Regular power on time (%1$s) activated</string>
+<string name="powerOnWarning_alarm_msg">Shutdown alarm will start at %1$s</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Bluetooth est désactivé lorsque vous activez l\'affichage sans fil. Voulez-vous continuer ?</string>
+</resources>

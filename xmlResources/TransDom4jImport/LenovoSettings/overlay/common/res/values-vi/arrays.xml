@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="wifi_security"> 
+        <item>"Mở"</item>  
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080p (30 hình/giây)</item>
+        <item>720p (60 hình/giây)</item>
+        <item>720p (30 hình/giây)</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>Chứng chỉ WAPI</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720p (60 hình/giây)</item>
+        <item>720p (30 hình/giây)</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Tự động</item>
+        <item>WEP ASCII</item>
+        <item>WEP thập lục phân</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Chứng chỉ WAPI</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(không chỉ định)</item>
+        <item>Khe cắm SIM 1</item>
+        <item>Khe cắm SIM 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>Chuột phải</item>
+        <item>Chuột trái</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Luôn luôn</item>
+        <item>Tắt khi rảnh trong 5 phút</item>
+        <item>Tắt khi rảnh trong 10 phút</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        <item>Bật bình thường</item>
+        <item>Trong 3 giây</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Thuê bao 1</item>
+        <item>Thuê bao 2</item>
+        <item>Nhắc nhở</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Màn hình xoay thông minh（xoay như mắt bạn）</item>
+        <item>Tự động xoay màn hình</item>
+        <item>Đã đóng</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 &amp; IPv6</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+    	
+    	
+    	
+    <item>Sử dụng thời gian do mạng cung cấp</item>
+        <item>Sử dụng thời gian do GPS cung cấp</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        
+        
+        
+        
+    <item>Bật</item>
+        <item>Trong 3 giây</item>
+        <item>Điều khiển thông minh</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        
+        
+        
+    <item>Xoay bằng cử chỉ</item>
+        <item>Tự động xoay</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="softspacename">
+        
+        
+        
+    <item>Đề xuất hệ thống</item>
+        <item>Cài đặt trên điện thoại</item>
+        <item>Cài đặt trên thẻ nhớ mặc định</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        
+        
+        
+        
+    <item>"Luôn luôn"</item>
+        <item>"Chỉ khi đang sạc pin"</item>
+        <item>"Không bao giờ (tăng lưu lượng dữ liệu)"</item>
+        <item>"Nghỉ thông minh (bật/tắt truyền dữ liệu dựa trên lưu lượng)"</item>
+    </string-array>
+</resources>

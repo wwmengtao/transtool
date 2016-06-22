@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project Licensed under the 
+	Apache License, Version 2.0 (the "License"); you may not use this file except 
+	in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 
+	Unless required by applicable law or agreed to in writing, software distributed 
+	under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES 
+	OR CONDITIONS OF ANY KIND, either express or implied. See the License for 
+	the specific language governing permissions and limitations under the License. --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+	<string name="yes" msgid="4676390750360727396">"نعم"</string>
+	<string name="no">"لاشئ"</string>
+	<string name="silent_mode_title" msgid="3181479108593217704">"الوضع الصامت"</string>
+	<string name="ringtone_title" msgid="5379026328015343686">"نغمة الرنين"</string>
+	<string name="ringtone_summary">لا يوجد حساب </string>
+	<string name="all_volume_title" msgid="4296957391257836961">"مستوى الصوت"</string>
+	<string name="musicfx_title" msgid="3415566786340790345">"تأثيرات الصوت"</string>
+	<string name="ring_volume_title">مستويات الصوت</string>
+	<string name="vibrate_in_silent_title" msgid="3897968069156767036">"اهتزاز في الوضع الصامت"</string>
+	<string name="vibrate_title" msgid="6045820877942801599">"اهتزاز"</string>
+
+	<string name="sound_settings_title" msgid="8735891486683305886">"الصوت"</string>
+	<string name="silent_mode_summary" msgid="3309650676072917899">"الوضع الصامت باستثناء الوسائط والتنبيهات"</string>
+	<string name="silent_mode_incl_alarm_summary" msgid="2088830834182228458">"الوضع الصامت لجميع الأصوات بخلاف الوسائط المتعددة"</string>
+	<string name="ring_volume_summary">"تعيين مستوى صوت نغمة الرنين والرسائل والإخطارات"</string>
+	<string name="vibrate_in_silent_summary" msgid="3312600513070076281">"السماح بالاهتزاز أثناء الوضع الصامت"</string>
+	<string name="vibrate_summary">"اهتزاز الجهارلتلقي المكالامات الواردو الرسائل"</string>
+	<string name="notification_sound_title" msgid="312032901303146002">"الإعلام الافتراضي"</string>
+	<string name="notification_pulse_title" msgid="1247988024534030629">"ومضات ضوء المؤشر للإعلام"</string>
+	<string name="incoming_call_volume_title">"نغمات الرنين"</string>
+	<string name="notification_volume_title" msgid="2012640760341080408">"الإعلام"</string>
+	<string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"استخدام مستوى صوت المكالمات الواردة للإعلامات"</string>
+	<string name="notification_sound_summary">لا يوجد حساب </string>
+	<string name="notification_pulse_summary" msgid="6899220780534617152">"يومض ضوء مؤشر كرة التتبع عند استلام إعلامات جديدة"</string>
+	<string name="notification_sound_dialog_title" msgid="9052854168612951170">"تحديد نغمة رنين الإعلامات"</string>
+	<string name="media_volume_title" msgid="3576565767317118106">"الوسائط"</string>
+	<string name="media_volume_summary" msgid="5363248930648849974">"تعيين مستوى صوت الموسيقى والفيديو"</string>
+	<string name="alarm_volume_title" msgid="2285597478377758706">"التنبيه"</string>
+	<string name="dtmf_tone_enable_title">نغمات لوحة الاتصال</string>
+	<string name="sound_effects_enable_title">أصوات اللمس</string>
+	<string name="lock_sounds_enable_title" msgid="450098505659399520">"صوت قفل الشاشة"</string>
+	<string name="haptic_feedback_enable_title" msgid="2438293710530828760">"الاهتزاز عند اللمس"</string>
+	<string name="audio_record_proc_title" msgid="4271091199976457534">"تقليل الضوضاء"</string>
+	<string name="volume_media_description" msgid="7949355934788807863">"الموسيقى والفيديو والألعاب والوسائط الأخرى"</string>
+	<string name="volume_ring_description">الرنين والرسائل</string>
+	<string name="volume_notification_description" msgid="5810902320215328321">"الإعلام"</string>
+	<string name="volume_alarm_description" msgid="8322615148532654841">"التنبيه"</string>
+	<string name="dtmf_tone_enable_summary_on">تشغيل نغمات عند استخدام لوحة الاتصال</string>
+	<string name="dtmf_tone_enable_summary_off">تشغيل نغمات عند استخدام لوحة الاتصال</string>
+	<string name="sound_effects_enable_summary_on">تشغيل الصوت عند تحديد عنصر على الشاشة</string>
+	<string name="sound_effects_enable_summary_off">تشغيل الصوت عند تحديد عنصر على الشاشة</string>
+	<string name="lock_sounds_enable_summary_on" msgid="145741024028391473">"تشغيل صوت عند قفل الشاشة وإلغاء قفلها"</string>
+	<string name="lock_sounds_enable_summary_off" msgid="8481243116223542804">"تشغيل صوت عند قفل الشاشة وإلغاء قفلها"</string>
+	<string name="haptic_feedback_enable_summary_on" msgid="1875779656524793053">"اهتزاز عند الضغط على مفتاح مرن والتبديل بين واجهات مستخدم معينة"</string>
+	<string name="haptic_feedback_enable_summary_off" msgid="7287885436963105314">"اهتزاز عند الضغط على مفتاح مرن والتبديل بين واجهات مستخدم معينة"</string>
+	<string name="audio_record_proc_summary" msgid="8113628457499616498">"تقليل ضوضاء الخلفية عند التحدث أو التسجيل"</string>
+
+	<string name="Ringtone_profile_title">إعدادات نغمة الرنين</string>
+	<string name="Ringtone_profile_summary">تعيين نغمة الرنين للمكالمات الواردة وتنبيهات الرسائل</string>
+
+
+	<string name="turn_cr_title">"إعدادات دائرة الألوان"</string>
+	<string name="turn_cr_on">"استرداد خدمة دائرة الألوان"</string>
+	<string name="turn_cr_off">"إيقاف إعداد دائرة الألوان"</string>
+	<string name="turn_cr_title_ongoing">"استرداد رسالة إعداد دائرة الألوان"</string>
+	<string name="turn_cr_title_success">"تم استرداد رسالة إعداد دائرة الألوان بنجاح"</string>
+	<string name="turn_cr_title_fail">"فشل استرداد رسالة إعداد دائرة الألوان"</string>
+	<string name="turn_cr_sms_fail">"فشل إرسال رسالة إعداد دائرة الألوان"</string>
+	
+	<!-- Profile Settings -->
+	<string name="profile_select_label">إعدادات ملف التعريف</string>
+	<string name="profile_options_label">إعدادات ملف التعريف المخصصة</string>
+	<string name="general_profile_title">عام</string>
+	<string name="silence_profile_title">صامت</string>
+	<string name="meeting_profile_title">اهتزاز</string>
+	<string name="outdoors_profile_title">في الخارج</string>
+	<string name="general_profile_summary">نوع الرنين و نغمة الرنين...الخ. إعداد وضع عام</string>
+	<string name="meeting_profile_summary">إعداد الاسترجاع اللمسي في وضع الاهتزاز</string>
+	<string name="silence_profile_summary">إعداد الاسترجاع اللمسي في وضع صامت</string>
+	<string name="outdoors_profile_summary">نوع الرنين و نغمة الرنين...الخ. إعداد وضع "في الخارج"</string>
+	<string name="sum_profile_settings">التبديل بين إعدادات ملف التعريف وإعدادات ملف التعريف المخصصة</string>
+
+	<string name="set_profile_title">الإعدادات المخصصة</string>
+	<string name="call_ringtone_title">نغمة رنين المكالمات الواردة</string>
+	<string name="call_ringtone_summary">تعيين نغمة رنين المكالمات الواردة</string>
+	<string name="message_sound_title">نغمة رنين الرسائل</string>
+	<string name="message_sound_summary">تعيين نغمة رنين الرسائل ورسائل MMS والإعلامات</string>
+	<string name="mail_sound_title">نغمة رنين البريد الوارد</string>
+	<string name="mail_sound_summary">تعيين نغمة رنين البريد الوارد</string>
+	<string name="alarm_alert_title">نغمة رنين الجدولة</string>
+	<string name="alarm_alert_summary">تعيين نغمة رنين الجدولة</string>
+	<string name="push_sound_title">نغمة رنين خدمة الرسائل</string>
+	<string name="push_sound_summary">تعيين نغمة رنين خدمة اشتراكات الرسائل</string>
+	<string name="push_mail_ringtone_switch_title">خدمة اشتراكات الرسائل وتنبيه البريد</string>
+	<string name="push_mail_ringtone_switch_summary_on">تم تنشيط التنبيه بنغمة رنين</string>
+	<string name="push_mail_ringtone_switch_summary_off">تم إيقاف التنبيه بنغمة رنين</string>
+
+	<string name="startup_sound_title">Lenovoنغمة رنين</string>
+	<string name="startup_sound_summary_on">التحكم في تشغيل الصوت عند بدء أو إيقاف التشغيل</string>
+	<string name="startup_sound_summary_off">التحكم في تشغيل الصوت عند بدء أو إيقاف التشغيل</string>
+
+	<string name="remind_title">وضع التذكير</string>
+	<string name="remind_summary">تعيين وضع التذكير العام</string>
+	<string name="profile_settings">إعدادات الملف</string>
+	<string name="progress_title">إعدادات الملف</string>
+	<string name="progress_message">الرجاء الانتظار...</string>
+
+	<!-- Mini -->
+	<string name="volume">"مستوى الصوت"</string>
+	<string name="ringtone_settings_title">المكالمات الواردة</string>
+	<string name="feedback_title" msgid="1480844520622721141">"النظام"</string>
+	<string name="threeg_call_sound_title">نغمة الرنين</string>
+	<string name="threeg_message_sound_title">نغمة رنين الرسائل</string>
+	<string name="twog_call_sound_title">نغمة الرنين</string>
+	<string name="twog_message_sound_title">نغمة رنين الرسائل</string>
+	<string name="threeg_unable">بطاقة SIM 1 غير متوفرة</string>
+	<string name="twog_unable">بطاقة SIM 2 غير متوفرة</string>
+  
+    <string name="convention" msgid="1488759370067953996">"إعدادات عامة"</string>
+    <string name="cate_call_ringtone">المكالمات الواردة</string>
+    <string name="cate_message_ringtone">الرسائل</string>
+    
+     <string name="pocket_mode_title">وضع الجيب</string>
+     <string name="pocket_mode_summary">يتم تقليل مستوى صوت نغمة الرنين تلقائيًا عند التقاط الهاتف</string>
+
+    <string name="set_default_phone_ringtone">"تعيين نغمة المكالمات الافتراضية"</string>
+    <string name="set_default_message_ringtone">تعيين نغمة الرسائل الافتراضية</string>
+    <string name="message">الرسائل</string>
+    <string name="sim_message_one">نغمة رنين الرسائل</string>
+    <string name="sim_call_one">نغمة الرنين (بطاقة SIM 1)</string>
+    <string name="sim_call_two">نغمة الرنين (بطاقة SIM 2)</string>
+    <string name="audio_profile_rename">إعادة تسمية</string>
+    <string name="audio_profile_enable">تشغيل</string>
+    <string name="audio_profile_delete">"حذف"</string>
+    <string name="audio_profile_message_delete">سيتم حذف ملف التعريف 
+        <xliff:g id="profile">%s</xliff:g> 
+    </string>
+    <string name="profile_category_checked_title">إعدادات الأنماط</string>
+    <string name="audio_profile_error">خطأ</string>
+    <string name="audio_profile_message_reset">سيتم إعادة تعيين جميع ملفات تعريف الصوت إلى الضبط الافتراضي</string>
+    <string name="audio_profile_add">إضافة</string>
+    <string name="audio_profile_message_rename">رجاءً أدخل اسم ملف التعريف الجديد</string>
+    <string name="audio_profile_message_name_error">الاسم الذي تم إدخاله موجود بالفعل</string>
+    <string name="profile_category_custom_title">ملفات تعريف المستخدم مسبقة التحديد</string>
+    <string name="audio_profile_reset">"إعادة تعيين"</string>
+    <string name="audio_profile_message_name_length_wrong">يجب أن يحتوي الاسم على حرف واحد على الأقل</string>
+    <string name="sim_message_sim_one">نغمة رنين الرسائل (بطاقة SIM 1)</string>
+    <string name="set_default_notification_ringtone">تعيين نغمة رنين الإعلامات الافتراضية</string>
+    <string name="volume_alarm_mute">"كتم صوت التنبيهات"</string>
+    <string name="sim_call">نغمة الرنين</string>
+    <string name="audio_profile_message_overflow">يُسمح لك بإضافة 4 ملفات تعريف مخصصة فقط</string>
+    <string name="volume_notification_mute">"كتم صوت الإعلامات"</string>
+    <string name="volume_ring_mute">"كتم صوت نغمة الرنين والإعلامات"</string>
+    <string name="ringtone_and_sound_settings">"نغمة الرنين والصوت"</string>
+    <string name="volume_media_mute">"كتم صوت الموسيقى والوسائط الأخرى"</string>
+    <string name="sim_message_sim_two">نغمة رنين الرسائل (بطاقة SIM 2)</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"نمایش بدون سیم"</string>
+    <string name="miracast_app_name">"نمایش بدون سیم"</string>
+    <string name="main_connect_switch_title">"برقراری ارتباط با دستگاه"</string>
+    <string name="item_device_mode_audio_only_title">صوتی</string>
+    <string name="item_device_mode_video_only_title">فيلم</string>
+    <string name="item_device_mode_meeting_title">جلسه</string>
+    <string name="item_device_mode_connect_title">اتصال</string>
+    <string name="item_device_mode_disconnect_title">"قطع اتصال"</string>
+    <string name="item_device_mode_rename_title">تغيير نام</string>
+    <string name="item_device_mode_forget_title">فراموش کردن</string>
+    <string name="activity_settings_title">"تنظیمات"</string>
+    <string name="preference_settings_update_title">"درباره"</string>
+    <string name="preference_settings_tutor_title">آموزشی</string>
+    <string name="dlg_confirm_disconnect_message">قطع اتصال؟</string>
+    <string name="dlg_rename_title">"تغییر نام دستگاه"</string>
+    <string name="activity_meeting_mode_title">حالت جلسه</string>
+    <string name="dlg_loading_reconnect_message">جابه‌جایی حالت، در حال اتصال مجدد ...</string>
+    <string name="dlg_select_resolution_title">وضوح تصویر را انتخاب کنید</string>
+    <string name="tutor_message_audioonly">اگر خروجی صوتی توسط قفل سخت‌افزاری پشتیبانی شده باشد، شما می‌توانید حالت فقط صدا را برای تجربه موسیقی بی‌سیم امتحان کنید.</string>
+    <string name="dlg_confirm_switch_av_message">برای جابه‌جایی حالت اتصال کنونی باید ابتدا قطع شود.\nآیا می‌خواهید جابه‌جایی حالا انجام شود؟</string>
+    <string name="welcome_version">نسخه <xliff:g id="version">%1s</xliff:g></string>
+    <string name="dlg_confirm_switch_audio_message">حالت صوتی فقط صدا را از طریق قفل سخت‌افزاری به اشتراک می‌گذارد. قبل از رفتن به حالت صوتی، تأیید کنید که توسط قفل سخت‌افزاری شما پشتیبانی می‌شود، در غیر این صورت اتصال موفق نخواهد بود. \nبرای جابه‌جایی بین حالت‌ها اتصال کنونی باید قطع شود. \nادامه می‌دهید؟</string>
+    <string name="preference_settings_meeting_mode_title">حالت جلسه</string>
+    <string name="dlg_loading_scan_device_message">در جستجوی دستگاه‌ها ...</string>
+    <string name="toast_connecting">در حال اتصال، لطفاً بعداً دوباره امتحان کنید</string>
+    <string name="tutor_message_3">به Miracast وارد شوید، سپس دکمه فعال شدن را روی روشن ببرید. نام دستگاه‌های موجود برای اتصال در لیست دستگاه‌های موجود ظاهر می‌شود</string>
+    <string name="tutor_message_4">اگر با موفقیت متصل شدید، می‌توانید صفحه خود را با دستگاهی دیگر به اشتراک بگذارید.</string>
+    <string name="tutor_message_1">قفل سخت‌افزاری AllShare Cast را به یک دستگاه HDMI با استفاده از کابل HDMI A-TO-A متصل کنید.</string>
+    <string name="dlg_confirm_switch_video_message">حالت ویدیو فقط محتوای صفحه را از طریق فقط قفل سخت‌افزاری به اشتراک می‌گذارد. \nبرای جابه‌جایی بین حالت‌ها اتصال کنونی باید قطع شود. \nادامه می‌دهید؟</string>
+    <string name="tutor_message_2">هنگامی که نشانگر قرمز شروع به چشمک زدن می‌کند، دکمه بازنشانی را کلیک کنید. صبر کنید که نشانگر آبی شود. در هنگام اتصال مجدد نیازی به کلیک دوباره بر روی آن نیست.</string>
+    <string name="tutor_message_videoonly">اگر می‌خواهید با یک قفل سخت‌افزاری با رابط کاربری DVI یا VGA متصل شوید، حالت تنها ویدیو توصیه می‌شود.</string>
+    <string name="toast_already_connected">در حال حاضر دستگاه دیگری متصل است، لطفاً ابتدا اتصال آن را قطع کنید</string>
+    <string name="dlg_loading_enable_wifi_message">در حال فعال‌سازی wlan ...</string>
+    <string name="toast_not_paired">عملیات فقط برای دستگاه‌های متصل شده در دسترس است</string>
+    <string name="dlg_confirm_forget_message">این دستگاه از لیست دستگاه‌های متصل شده حذف شود؟</string>
+    <string name="toast_device_not_available">نمی‌تواند متصل شود، دستگاه در دسترس نیست</string>
+    <string name="dlg_confirm_meeting_mode_message">تماس‌ها در حالت جلسه محدود می‌شوند و پیامک‌ها به طور خودکار در پیش‌زمینه نشان داده می‌شوند. حالت جلسه فعال شود؟</string>
+    <string name="preference_settings_resolution_title">وضوح تصویر</string>
+</resources>

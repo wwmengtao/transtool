@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"Display Sem Fios"</string>
+    <string name="miracast_app_name">"Display Sem Fios"</string>
+    <string name="main_connect_switch_title">Ligar a dispositivo</string>
+    <string name="item_device_mode_audio_only_title">Áudio</string>
+    <string name="item_device_mode_video_only_title">Vídeo</string>
+    <string name="item_device_mode_meeting_title">Reunião</string>
+    <string name="item_device_mode_connect_title">Conectar</string>
+    <string name="item_device_mode_disconnect_title">"Desligar"</string>
+    <string name="item_device_mode_rename_title">Renomear</string>
+    <string name="item_device_mode_forget_title">Esquecer</string>
+    <string name="activity_settings_title">"Definições"</string>
+    <string name="preference_settings_update_title">"Acerca de"</string>
+    <string name="preference_settings_tutor_title">Tutorial</string>
+    <string name="dlg_confirm_disconnect_message">Desligar?</string>
+    <string name="dlg_rename_title">"Mudar o nome do aparelho"</string>
+    <string name="activity_meeting_mode_title">Modo de reunião</string>
+    <string name="dlg_loading_reconnect_message">Alterar modo, a ligar novamente...</string>
+    <string name="dlg_select_resolution_title">Selecionar resolução</string>
+    <string name="tutor_message_audioonly">Se a saída de áudio for suportada pelo dongle, pode tentar o modo Apenas áudio para desfrutar de música sem fios.</string>
+    <string name="dlg_confirm_switch_av_message">A ligação atual tem de ser desligada primeiro para mudar o modo.\nDeseja mudar agora?</string>
+    <string name="welcome_version">Versão <xliff:g id="version">%1s</xliff:g></string>
+    <string name="dlg_confirm_switch_audio_message">O modo de áudio irá partilhar áudio apenas através do dongle. Antes de mudar para o modo de áudio, confirme que é suportado pelo seu dongle, caso contrário, a ligação não será bem-sucedida. \nA ligação atual tem de ser desligada para mudar os modos. \nContinuar?</string>
+    <string name="preference_settings_meeting_mode_title">Modo de reunião</string>
+    <string name="dlg_loading_scan_device_message">A procurar dispositivos...</string>
+    <string name="toast_connecting">A ligar; tente novamente mais tarde</string>
+    <string name="tutor_message_3">Entre em Miracast e mude o botão Ativar para Ligado. Os nomes dos dispositivos disponíveis para ligação vão aparecer na lista de dispositivos disponíveis</string>
+    <string name="tutor_message_4">Se for ligado com êxito, pode partilhar o seu ecrã com outro dispositivo.</string>
+    <string name="tutor_message_1">Ligue o dongle AllShare Cast a um dispositivo HDMI utilizando o cabo HDMI A-para-A.</string>
+    <string name="dlg_confirm_switch_video_message">O modo de vídeo irá partilhar o conteúdo do ecrã apenas através do dongle. \nA ligação atual tem de ser desligada para mudar os modos. \nContinuar?</string>
+    <string name="tutor_message_2">Quando o indicador vermelho começa a piscar, clique no botão de reposição. Espere que o indicador fique azul. Não é necessário clicar novamente quando voltar a ligar.</string>
+    <string name="tutor_message_videoonly">Se quiser ligar a um dongle com a interface DVI ou VGA, recomenda-se a utilização do modo Apenas Vídeo.</string>
+    <string name="toast_already_connected">Outro dispositivo já está ligado; desligue-o primeiro</string>
+    <string name="dlg_loading_enable_wifi_message">A ativar WLAN...</string>
+    <string name="toast_not_paired">A operação só está disponível para dispositivos ligados</string>
+    <string name="dlg_confirm_forget_message">Remover este dispositivo da lista de dispositivos ligados?</string>
+    <string name="toast_device_not_available">Não é possível ligar; dispositivo indisponível</string>
+    <string name="dlg_confirm_meeting_mode_message">As chamadas são restringidas no modo de reunião e as SMS são exibidas automaticamente em primeiro plano. Ativar modo de reunião?</string>
+    <string name="preference_settings_resolution_title">Resolução</string>
+</resources>

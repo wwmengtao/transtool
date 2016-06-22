@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">Общи настройки на синхронизация</string>
+    <string name="sync_interval_settings">Настройки на интервал на синхронизация</string>
+    <string name="try_sso_again">Опитайте отново единна регистрация</string>
+    <string name="for_syncing">За синхронизиране</string>
+</resources>

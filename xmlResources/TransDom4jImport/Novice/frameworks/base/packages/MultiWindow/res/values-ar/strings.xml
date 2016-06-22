@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<string name="close">إغلاق</string>
+<string name="add">إضافة</string>
+<string name="app_browser_title">Multi-WindowApp</string>
+<string name="app_name">نافذة الوسائط المتعدده</string>
+    <string name="cancle">"إلغاء"</string>
+    <string name="open">"فتح"</string>
+    <string name="confirm">"تأكيد"</string>
+    <string name="menu_settings">"الإعدادات"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="authorization_message">هل ستفتح هذا التطبيق بنوافذ متعددة؟</string>
+    <string name="tips">اسحب لإنشاء نوافذ متعددة</string>
+    <string name="authorization_notication">إعلام التخويل</string>
+</resources>

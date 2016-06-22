@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Бежични екран"</string>
+    <string name="miracast_app_name">"Бежични екран"</string>
+    <string name="main_connect_switch_title">"Повежите са уређајем"</string>
+    <string name="item_device_mode_audio_only_title">"Аудио"</string>
+    <string name="item_device_mode_video_only_title">"Видео"</string>
+    <string name="item_device_mode_meeting_title">Састанак</string>
+    <string name="item_device_mode_connect_title">"Повежи"</string>
+    <string name="item_device_mode_disconnect_title">"Прекини везу"</string>
+    <string name="item_device_mode_rename_title">"Преименовање"</string>
+    <string name="item_device_mode_forget_title">"Заборави"</string>
+    <string name="activity_settings_title">"Подешавања"</string>
+    <string name="preference_settings_update_title">"Основни подаци"</string>
+    <string name="preference_settings_tutor_title">"Водич"</string>
+    <string name="dlg_confirm_disconnect_message">"Желите ли да прекинете везу?"</string>
+    <string name="dlg_rename_title">"Преименуј уређај"</string>
+</resources>

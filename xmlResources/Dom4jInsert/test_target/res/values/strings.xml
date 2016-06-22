@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pl1" product="phone">
+        <item quantity="one">target_1</item>
+	<item quantity="two">target_2</item>
+        <item quantity="other">target_o</item>
+    </plurals>    
+<plurals name="pl1">
+        <item quantity="one">target_1</item>
+        <item quantity="other">target_o</item>
+    </plurals>
+    <plurals name="p22" product="phone">
+        <item quantity="one">src_1</item>
+        <item quantity="other">src_2</item>
+    </plurals>        
+<string-array name="array1" translatable="false">
+        <!-- The blank item means to use whatever the locale calls for. -->
+        <item/>
+        <item>src1</item>
+        <item>src2</item>
+        <item>src3</item>
+    </string-array>
+	<string-array name="array2" translatable="true">
+        <!-- The blank item means to use whatever the locale calls for. -->
+
+        <item>target1</item>
+        <item>target2</item>
+        <item>target3</item>
+    </string-array>
+<string name="STR1" product="nosdcard">src_1_n</string>
+<string name="STR1" product="default">src_1_d</string>	
+
+<string name="STR2">src_2</string>
+<string name="STR3" product="default">src_3_d</string>
+<string name="STR4" product="tablet">target_4_t</string>
+<string name="STR4" product="phone">src_4_p</string>
+<string name="STR30" product="default">src_3_d</string>
+<string name="STR31" product="default">src_3_d</string>
+<string name="STR32" product="default">src_3_d</string>
+<string-array name="array2" translatable="true">
+        <!-- The blank item means to use whatever the locale calls for. -->
+        <item/>
+        <item>src1</item>
+        <item>src2</item>
+        <item>src3</item>
+    </string-array>
+<plurals name="pl1" product="phone">
+        <item quantity="one">src_1</item>
+        <item quantity="other">src_o</item>
+    </plurals>
+</resources>

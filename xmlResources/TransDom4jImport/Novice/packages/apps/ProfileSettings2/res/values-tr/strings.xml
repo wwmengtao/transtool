@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="volume">"Ses"</string>
+<string name="profile_category_custom_title">Kullanıcı tanımlı profiller</string>
+<string name="audio_profile_delete">"Sil"</string>
+<string name="silence_profile_title">"Sessiz"</string>
+<string name="progress_title">Profili düzenle</string>
+<string name="meeting_profile_title">Toplantı</string>
+<string name="message">"İleti"</string>
+<string name="profile_settings">Profili düzenle</string>
+<string name="audio_profile_message_delete">Profil 
+        <xliff:g id="profile">%s</xliff:g> silinecek
+    </string>
+<string name="audio_profile_error">Hata</string>
+<string name="audio_profile_reset">"Sıfırla"</string>
+<string name="cate_message_ringtone">"İleti"</string>
+<string name="audio_profile_message_name_length_wrong">Ad en az bir karakter içermelidir</string>
+<string name="audio_profile_rename">Yeniden adlandır</string>
+<string name="cate_call_ringtone">Gelen aramalar</string>
+<string name="audio_profile_message_name_error">Girilen ad zaten vardı</string>
+<string name="no">"Yok"</string>
+<string name="twog_call_sound_title">Zil Sesi</string>
+<string name="general_profile_title">Genel</string>
+<string name="threeg_call_sound_title">Zil Sesi</string>
+<string name="audio_profile_message_reset">Tüm ses profili ayarları varsayılan değerlere sıfırlanacak</string>
+<string name="profile_select_label">"Ses"</string>
+<string name="audio_profile_enable">"Etkinleştir"</string>
+<string name="convention">"Normal"</string>
+<string name="audio_profile_add">Ekle</string>
+<string name="outdoors_profile_title">Açık Hava</string>
+<string name="audio_profile_message_rename">Lütfen yeni profil adını girin</string>
+    <string name="ringtone_settings_title">Gelen aramalar</string>
+    <string name="haptic_feedback_enable_title">Dokunduğumda titreşim</string>
+    <string name="sound_effects_enable_title">Dokunma sesleri</string>
+    <string name="ring_volume_title">Ses düzeyleri</string>
+    <string name="feedback_title">"Sistem"</string>
+    <string name="volume_ring_description">"Zil sesi düzeyi"</string>
+
+    <string name="ringtone_summary">Hata</string>
+    <string name="ring_volume_summary">"Aramalar, mesajlar ve bildirim uyarıları için sesi ayarlayın"</string>
+    <string name="incoming_call_volume_title">"Zil sesleri"</string>
+    <string name="notification_sound_summary">Hata</string>
+    <string name="media_volume_title">"Ortam"</string>
+    <string name="general_profile_summary">Sistem tonlarını, titreşimi, arama ve mesaj uyarı tonlarını değiştirin</string>
+    <string name="meeting_profile_summary">Dokunma geribildirim ayarlarını aç/kapat</string>
+    <string name="silence_profile_summary">Dokunma geribildirim ayarlarını aç/kapat</string>
+    <string name="outdoors_profile_summary">Sistem tonlarını, titreşimi, arama ve mesaj uyarı tonlarını değiştirin</string>
+    <string name="message_sound_title">Mesaj Uyarı Tonu</string>
+    <string name="startup_sound_title">Lenovo Tonu</string>
+    <string name="startup_sound_summary_on">Açılıp kapanma sırasında Lenovo tonunu etkinleştir</string>
+    <string name="startup_sound_summary_off">Açılıp kapanma sırasında Lenovo tonunu etkinleştir</string>
+    <string name="sim_message_one">Mesaj zil sesi</string>
+    <string name="set_default_phone_ringtone">"Varsayılan arama uyarı tonunu ayarlayın"</string>
+    <string name="set_default_message_ringtone">Varsayılan mesaj uyarı tonunu ayarlayın</string>
+    <string name="profile_category_checked_title">Profil ayarları</string>
+    <string name="sim_message_sim_one">Mesaj Uyarı Sesi (Sim 1)</string>
+    <string name="sim_call">Zil sesi</string>
+    <string name="sim_call_one">Arama Uyarı Sesi (Sim 1)</string>
+    <string name="sim_call_two">Arama Uyarı Sesi (Sim 2)</string>
+    <string name="sim_message_sim_two">Mesaj Uyarı Sesi (Sim 2)</string>
+    <string name="turn_cr_title_success">"Polifonik zil sesi ayar mesajı başarılı bir şekilde elde edildi"</string>
+    <string name="volume_alarm_mute">"Uyarıların sesini kıs"</string>
+    <string name="set_profile_title">Kişiselleştirme ayarları</string>
+    <string name="push_mail_ringtone_switch_title">Push hizmeti ve eposta uyarı sesi</string>
+    <string name="mail_sound_summary">E-posta uyarı sesi ayarla</string>
+    <string name="turn_cr_title_ongoing">"Polifonik zil sesi ayar mesajı alınıyor"</string>
+    <string msgid="1247988024534030629" name="notification_pulse_title">"Bildirim geldiğinde gösterge ışığı yanıp söner"</string>
+    <string msgid="145741024028391473" name="lock_sounds_enable_summary_on">"Ekran kilidini açıp kapatırken sesli uyarı ver"</string>
+    <string msgid="1073644356290338921" name="checkbox_notification_same_as_incoming_call">"Gelen çağrı sesini bildirim sesi olarak al"</string>
+    <string msgid="2088830834182228458" name="silent_mode_incl_alarm_summary">"Multimedya dışındaki tüm sesleri kıs"</string>
+    <string msgid="312032901303146002" name="notification_sound_title">"Sistem Bildirimi"</string>
+    <string msgid="6045820877942801599" name="vibrate_title">Titreşim</string>
+    <string name="threeg_message_sound_title">Mesaj uyarı tonu</string>
+    <string name="sound_effects_enable_summary_on">Ekran seçimi yaparken sesli uyarı ver</string>
+    <string name="call_ringtone_summary">Aramalar için zil sesi ayarla</string>
+    <string name="turn_cr_sms_fail">"Polifonik zil sesi ayar mesajı gönderilemedi"</string>
+    <string name="push_mail_ringtone_switch_summary_on">Zil sesi anımsatıcı açıldı</string>
+    <string msgid="5379026328015343686" name="ringtone_title">"Zil sesi"</string>
+    <string name="alarm_alert_summary">Program uyarı sesi ayarla</string>
+    <string name="volume_media_mute">"Müzik ve diğer medyanın sesini kıs"</string>
+    <string name="set_default_notification_ringtone">Varsayılan Bildirim Zil Sesini Ayarla</string>
+    <string name="twog_unable">SIM kart2\'ye erişilemiyor</string>
+    <string name="audio_profile_message_overflow">Yalnızca 4 özel profil ekleme izniniz var</string>
+    <string name="ringtone_and_sound_settings">"Zil Sesi ve Ses"</string>
+    <string msgid="3897968069156767036" name="vibrate_in_silent_title">"Sessizken titre"</string>
+    <string name="threeg_unable">SIM kart1\'e erişilemiyor</string>
+    <string name="remind_summary">Genel anımsatıcıları ayarla</string>
+    <string msgid="7287885436963105314" name="haptic_feedback_enable_summary_off">"Sanal tuşlara basıldığında ve belirli UI etkileşimlerinde titret"</string>
+    <string name="push_sound_title">Push hizmeti uyarı sesi</string>
+    <string name="turn_cr_off">"Polifonik zil sesi KAPALI olarak ayarlandı"</string>
+    <string msgid="5810902320215328321" name="volume_notification_description">"Bildirim"</string>
+    <string msgid="1875779656524793053" name="haptic_feedback_enable_summary_on">"Sanal tuşlara basıldığında ve belirli UI etkileşimlerinde titret"</string>
+    <string name="push_sound_summary">Push hizmeti uyarı sesi ayarla</string>
+    <string msgid="3181479108593217704" name="silent_mode_title">"Sessiz mod"</string>
+    <string msgid="7378130397830790458" name="vibrate_summary">"Gelen aramalar ve mesajlar için cihaz titresin"</string>
+    <string name="dtmf_tone_enable_summary_on">Arayıcıyı kullanırken ses çal</string>
+    <string name="message_sound_summary">MMS ve SMS için zil sesi ayarla</string>
+    <string msgid="4296957391257836961" name="all_volume_title">"Ses Düzeyi"</string>
+    <string name="profile_options_label">Profil kişiselleştirme ayarları</string>
+    <string msgid="8322615148532654841" name="volume_alarm_description">"Saat"</string>
+    <string name="twog_message_sound_title">Mesaj uyarı tonu</string>
+    <string name="volume_ring_mute">"Zil sesi ve bildirimleri sessizleştir"</string>
+    <string msgid="5363248930648849974" name="media_volume_summary">"Müzik ve video ses düzeyini ayarla"</string>
+    <string msgid="4676390750360727396" name="yes">"Evet"</string>
+    <string name="alarm_alert_title">Programlama uyarı tonu</string>
+    <string msgid="7949355934788807863" name="volume_media_description">"Müzik, video, oyun ve diğer medya"</string>
+    <string msgid="3309650676072917899" name="silent_mode_summary">"Medya ve saat sesleri hariç tüm sesler kısıldı"</string>
+    <string msgid="2285597478377758706" name="alarm_volume_title">"Saat"</string>
+    <string name="progress_message">Lütfen bekleyin...</string>
+    <string name="remind_title">Anımsatıcı yöntemi</string>
+    <string msgid="6899220780534617152" name="notification_pulse_summary">"Yeni bildirim alındığında, izleme topu gösterge ışığı sürekli yanıp söner"</string>
+    <string name="turn_cr_title_fail">"Polifonik zil sesi ayar mesajı alınamadı"</string>
+    <string msgid="8735891486683305886" name="sound_settings_title">"Ses"</string>
+    <string name="volume_notification_mute">"Bildirimleri sessizleştir"</string>
+    <string name="sound_effects_enable_summary_off">Ekran seçimi yaparken sesli uyarı ver</string>
+    <string name="dtmf_tone_enable_summary_off">Arayıcıyı kullanırken ses çal</string>
+    <string msgid="8481243116223542804" name="lock_sounds_enable_summary_off">"Ekran kilidini açıp kapatırken sesli uyarı ver"</string>
+    <string name="dtmf_tone_enable_title">Arayıcı Tonları</string>
+    <string msgid="8113628457499616498" name="audio_record_proc_summary">"Arama veya ses kaydı sırasında arkaplan gürültüsünü azalt"</string>
+    <string msgid="2012640760341080408" name="notification_volume_title">"Bildirim"</string>
+    <string msgid="3312600513070076281" name="vibrate_in_silent_summary">"Sessiz modda titreşim geribildirimine izin ver"</string>
+    <string msgid="4271091199976457534" name="audio_record_proc_title">"Gürültü azaltma"</string>
+    <string name="turn_cr_on">"Polifonik zil sesi hizmeti al"</string>
+    <string msgid="9052854168612951170" name="notification_sound_dialog_title">"Zil sesinden seç"</string>
+    <string name="Ringtone_profile_title">Zil sesi ayarı</string>
+    <string msgid="3415566786340790345" name="musicfx_title">"Müzik efektleri"</string>
+    <string name="call_ringtone_title">Gelen arama Zil sesi</string>
+    <string name="sum_profile_settings">Profil ayarları ve profil kişiselleştirme ayarları arasında geçiş yap</string>
+    <string msgid="450098505659399520" name="lock_sounds_enable_title">"Ekran kilidi sesi"</string>
+    <string name="push_mail_ringtone_switch_summary_off">Zil sesi anımsatıcı kapatıldı</string>
+    <string name="mail_sound_title">E-posta uyarı sesi</string>
+    <string name="Ringtone_profile_summary">Zil sesi ve mesaj uyarısını ayarla</string>
+    <string name="turn_cr_title">"Polifonik zil sesi"</string>
+</resources>

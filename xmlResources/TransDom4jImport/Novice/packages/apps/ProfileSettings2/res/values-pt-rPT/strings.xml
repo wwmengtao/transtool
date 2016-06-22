@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+
+    <string name="no">"Nenhum"</string>
+    <string name="ringtone_title">Toque</string>
+    <string name="ringtone_summary">Habilidade:</string>
+    <string name="all_volume_title">"Volume"</string>
+    <string name="musicfx_title">Efeitos de música</string>
+    <string name="ring_volume_title">Volumes</string>
+    <string name="vibrate_title">Vibrar</string>
+    <string name="sound_settings_title">"Som"</string>
+    <string name="ring_volume_summary">"Definir volume para tons de alerta de chamada, mensagens e notificações"</string>
+    <string name="notification_sound_title">Notificação predefinida</string>
+    <string name="incoming_call_volume_title">"Toques"</string>
+    <string name="notification_volume_title">Notificação</string>
+    <string name="notification_sound_summary">Habilidade:</string>
+    <string name="media_volume_title">"Mídia"</string>
+    <string name="alarm_volume_title">"Relógio"</string>
+    <string name="sound_effects_enable_title">Sons de toque</string>
+    <string name="lock_sounds_enable_title">Som de bloqueio do ecrã</string>
+    <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
+    <string name="volume_ring_description">Tons de Alerta de Chamada e Mensagem</string>
+    <string name="volume_notification_description">Notificação</string>
+    <string name="volume_alarm_description">"Relógio"</string>
+    <string name="haptic_feedback_enable_summary_on">Vibrar ao pressionar teclas virtuais e em determinadas interações com a interface do usuário</string>
+    <string name="haptic_feedback_enable_summary_off">Vibrar ao pressionar teclas virtuais e em determinadas interações com a interface do usuário</string>
+    <string name="profile_select_label">Perfis de áudio</string>
+    <string name="general_profile_title">Geral</string>
+    <string name="silence_profile_title">Silencioso</string>
+    <string name="meeting_profile_title">Reunião</string>
+    <string name="outdoors_profile_title">Ar livre</string>
+    <string name="general_profile_summary">Alterar o tipo de tom de toque, chamada e mensagem, notificações, etc.</string>
+    <string name="meeting_profile_summary">Ativar/desativar configurações de feedback háptico</string>
+    <string name="silence_profile_summary">Ativar/desativar configurações de feedback háptico</string>
+    <string name="outdoors_profile_summary">Alterar o tipo de tom de toque, chamada e mensagem, notificações, etc.</string>
+    <string name="call_ringtone_title">"Toque de chamada recebida"</string>
+    <string name="message_sound_title">Tom de Alerta de Mensagem</string>
+    <string name="startup_sound_title">Tom da Lenovo</string>
+    <string name="startup_sound_summary_on">Ativar o tom da Lenovo ao ligar/desligar</string>
+    <string name="startup_sound_summary_off">Ativar o tom da Lenovo ao ligar/desligar</string>
+    <string name="profile_settings">Perfis de áudio</string>
+    <string name="progress_title">Configurações de perfil</string>
+    <string name="volume">"Volume"</string>
+    <string name="ringtone_settings_title">Chamadas recebidas</string>
+    <string name="feedback_title">"Sistema"</string>
+    <string name="threeg_call_sound_title">Toque</string>
+    <string name="twog_call_sound_title">Toque</string>
+    <string name="convention">Geral</string>
+    <string name="cate_call_ringtone">Chamadas recebidas</string>
+    <string name="cate_message_ringtone">Mensagem</string>
+    <string name="sim_call">"Tom de Alerta de Chamada"</string>
+    <string name="sim_message_one">Tom de Alerta de Mensagem</string>
+    <string name="set_default_phone_ringtone">"Definir seu toque de chamadas padrão"</string>
+    <string name="set_default_message_ringtone">Definir seu toque de mensagens padrão</string>
+    <string name="message">Mensagem</string>
+    <string name="audio_profile_add">Adicionar</string>
+    <string name="audio_profile_reset">"Repor"</string>
+    <string name="audio_profile_rename">Renomear</string>
+    <string name="audio_profile_message_rename">Favor digitar o novo perfil do usuário</string>
+    <string name="profile_category_custom_title">Perfis definidos pelo usuário</string>
+    <string name="profile_category_checked_title">Configurações de perfil</string>
+    <string name="audio_profile_message_name_error">A informação do nome já existe</string>
+    <string name="audio_profile_message_name_length_wrong">O nome deve conter ao menos um caracter</string>
+    <string name="audio_profile_error">Erro</string>
+    <string name="audio_profile_message_reset">Todas as configurações de perfil de áudio serão reiniciados ao padrão</string>
+    <string name="audio_profile_delete">"Delete"</string>
+    <string name="audio_profile_message_delete">Perfil 
+        <xliff:g id="profile">%s</xliff:g> será excluído
+    </string>
+    <string name="audio_profile_enable">Ativar</string>
+    <string name="volume_media_mute">"Desativar som de música e outros elementos multimédia"</string>
+    <string name="volume_ring_mute">"Desativar som de toque e outras notificações"</string>
+    <string name="volume_notification_mute">"Desativar som de notificações"</string>
+    <string name="volume_alarm_mute">"Desativar som de alarmes"</string>
+    <string name="dtmf_tone_enable_title" msgid="827601042915852989">"Sons dos toques no teclado"</string>
+    <string name="audio_profile_message_overflow">Agora você tem permissão para adicionar 6 perfis personalizados</string>
+    <string name="vibrate_summary">Vibração para chamadas e notificações</string>
+    <string name="vibrate_in_silent_summary">Permitir vibração no modo silencioso</string>
+    <string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"Utilizar volume de chamadas recebidas para notificações"</string>
+    <string name="notification_sound_dialog_title" msgid="3805140135741385667">"Som de notificação predefinido"</string>
+    <string name="media_volume_summary" msgid="5363248930648849974">"Definir volume para música e vídeos"</string>
+    <string name="yes">"Sim"</string>
+    <string name="vibrate_in_silent_title" msgid="3897968069156767036">"Vibrar quando estiver em silêncio"</string>
+    <string name="volume_media_description" msgid="7949355934788807863">"Música, vídeo, jogos e outros dados multimédia"</string>
+    <string name="notification_pulse_title" msgid="1247988024534030629">"Sinalizar luz de notificação"</string>
+    <string name="audio_record_proc_title" msgid="4271091199976457534">"Cancelamento de ruídos"</string>
+    <string name="set_default_notification_ringtone">Definir o tom de alerta predefinido do sistema</string>
+    <string name="turn_cr_title_success">"Mensagem de configuração do toque polifónico recebida com sucesso"</string>
+    <string name="sim_message_sim_one">Tom de alerta de mensagem (SIM 1)</string>
+    <string name="profile_options_label">Definições de personalização do perfil</string>
+    <string name="set_profile_title">Definições de personalização</string>
+    <string name="twog_message_sound_title">Alerta sonoro de mensagem</string>
+    <string name="push_mail_ringtone_switch_title">Som do serviço push e alerta de correio eletrónico</string>
+    <string name="alarm_alert_title">Programar alerta sonoro</string>
+    <string name="mail_sound_summary">Configurar o alerta sonoro de correio eletrónico</string>
+    <string name="sim_message_sim_two">Tom de alerta de mensagem (SIM 2)</string>
+    <string name="turn_cr_title_ongoing">"A receber a mensagem de configuração de toque polifónico"</string>
+    <string msgid="3309650676072917899" name="silent_mode_summary">"Desativar todos os sons à exceção dos conteúdos multimédia e do relógio"</string>
+    <string msgid="145741024028391473" name="lock_sounds_enable_summary_on">"Reproduzir som ao bloquear e desbloquear o ecrã"</string>
+    <string name="progress_message">Aguarde…</string>
+    <string name="remind_title">Método de lembrete</string>
+    <string msgid="2088830834182228458" name="silent_mode_incl_alarm_summary">"Desativar todos os sons não multimédia"</string>
+    <string msgid="6899220780534617152" name="notification_pulse_summary">"Ao receber uma nova notificação, o indicador do trackball pisca continuamente"</string>
+    <string name="turn_cr_title_fail">"Falha na receção da mensagem de configuração do toque polifónico"</string>
+    <string name="threeg_message_sound_title">Alerta sonoro de mensagem</string>
+    <string name="sound_effects_enable_summary_on">Reproduzir som ao selecionar no ecrã</string>
+    <string name="sound_effects_enable_summary_off">Reproduzir som ao selecionar no ecrã</string>
+    <string name="call_ringtone_summary">Definir toque para chamadas</string>
+    <string name="dtmf_tone_enable_summary_off">Reproduzir som ao utilizar a marcação</string>
+    <string name="turn_cr_sms_fail">"Falha no envio da mensagem de configuração de toque polifónico"</string>
+    <string name="push_mail_ringtone_switch_summary_on">O lembrete de toque está ativado</string>
+    <string name="alarm_alert_summary">Configurar a programação do alerta sonoro</string>
+    <string msgid="8481243116223542804" name="lock_sounds_enable_summary_off">"Reproduzir som ao bloquear e desbloquear o ecrã"</string>
+    <string msgid="8113628457499616498" name="audio_record_proc_summary">"Reduzir o ruído de fundo durante uma chamada ou uma gravação"</string>
+    <string name="twog_unable">Cartão SIM2 indisponível</string>
+    <string msgid="5318394806146587849" name="ringtone_and_sound_settings">"Toque e volumes"</string>
+    <string name="sim_call_one">Tom de alerta de chamada (SIM 1)</string>
+    <string name="sim_call_two">Tom de alerta de chamada (SIM 2)</string>
+    <string name="remind_summary">Configurar lembretes gerais</string>
+    <string name="threeg_unable">Cartão SIM1 indisponível</string>
+    <string name="push_sound_title">Alerta sonoro do serviço push</string>
+    <string name="turn_cr_on">"Obter serviço de toques polifónicos"</string>
+    <string name="turn_cr_off">"Toque polifónico desativado"</string>
+    <string name="push_sound_summary">Configurar alerta sonoro do serviço push</string>
+    <string msgid="3181479108593217704" name="silent_mode_title">"Modo silencioso"</string>
+    <string name="Ringtone_profile_title">Configuração do toque</string>
+    <string name="sum_profile_settings">Mudar definições do perfil e definições de personalização de perfil</string>
+    <string name="mail_sound_title">"Alerta sonoro de correio eletrónico"</string>
+    <string name="push_mail_ringtone_switch_summary_off">O lembrete por toque está desativado</string>
+    <string name="message_sound_summary">Definir toque para MMS e SMS</string>
+    <string name="dtmf_tone_enable_summary_on">Reproduzir som ao utilizar a marcação</string>
+    <string name="turn_cr_title">"Toque polifónico"</string>
+    <string name="Ringtone_profile_summary">Configurar toque e alerta de mensagem</string>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="wifi_security"> 
+        <item>لا شيء</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>تلقائي</item>
+        <item>WEP ASCII</item>
+        <item>WEP سداسي عشري</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720p ‏(60 إطارًا في الثانية)</item>
+        <item>720p ‏(30 إطارًا في الثانية)</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(غير محدد)</item>
+        <item>فتحة Sim رقم 1</item>
+        <item>فتحة Sim رقم 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 وIPv6</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>ماوس لمستخدمي اليد اليمنى</item>
+        <item>ماوس لمستخدمي اليد اليسرى</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>دائمًا</item>
+        <item>إيقاف التشغيل عند الخمول لمدة 5 دقائق</item>
+        <item>إيقاف التشغيل عند الخمول لمدة 10 دقائق</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>شهادة WAPI</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080p ‏(30 إطارًا في الثانية)</item>
+        <item>720p ‏(60 إطارًا في الثانية)</item>
+        <item>720p ‏(30 إطارًا في الثانية)</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>شهادة WAPI</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        <item>تشغيل عادي</item>
+        <item>لمدة 3 ثوان</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>الاشتراك 1</item>
+        <item>الاشتراك 2</item>
+        <item>مطالبة</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>تدوير الشاشة الذكي（تدوير الشاشة حسب حركة العين）</item>
+        <item>تدوير تلقائي للشاشة</item>
+        <item>مغلق</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+    	
+    	
+    	
+    <item>استخدام الوقت المتوفر من الشبكة</item>
+        <item>استخدام الوقت المتوفر من GPS</item>
+        <item>إيقاف</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        
+        
+        
+        
+    <item>تشغيل</item>
+        <item>لمدة 3 ثوان</item>
+        <item>التحكم الذكي</item>
+        <item>إيقاف</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        
+        
+        
+    <item>التدوير بالإيماءات</item>
+        <item>التدوير التلقائي</item>
+        <item>إيقاف</item>
+    </string-array>
+    <string-array name="softspacename">
+        
+        
+        
+    <item>توصيات النظام</item>
+        <item>التثبيت على الهاتف</item>
+        <item>التثبيت على بطاقة الذاكرة الافتراضية</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        
+        
+        
+        
+    <item>"دائمًا"</item>
+        <item>"عند الشحن فقط"</item>
+        <item>"أبدًا (زيادة استخدام البيانات)"</item>
+        <item>"وضع السكون الذكي (تشغيل/إيقاف تشغيل نقل البيانات بحسب نسبة الاستخدام)"</item>
+    </string-array>
+</resources>

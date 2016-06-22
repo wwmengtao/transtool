@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"Nastavitve"</string>
+    <string name="user_setup_button_setup_later">"Ne zdaj"</string>
+    <string name="user_set_lock_button">"Nastavi zaklepanje"</string>
+    <string name="done_button">"Končano"</string>
+    <string name="user_restrictions_controlled_by">"Nadzira aplikacija <xliff:g id="APP">%1$s</xliff:g>"</string>
+    <string name="help_label">"pomoč"</string>
+    <string name="user_normal_mode">Odprto območje</string>
+    <string name="user_privacy_mgt_summary">Preprečuje aplikacijam dostop do stikov, sporočil in dnevnika klicev.</string>
+    <string name="user_config_apps_for_seuser">Konfiguracija aplikacij v trenutnem območju</string>
+    <string name="user_auto_start_user">Odpri ob zagonu</string>
+    <string name="user_guide_desc_1">Varno območje vam omogoča konfiguracijo aplikacij, računov, ozadij in gesel zaklepanja zaslona, ki se razlikujejo od tistih v trenutnem območju. Tapnite ikono \"Varno območje\" v vrstici stanja za hiter preklop med območji.</string>
+    <string name="user_bgapp_mgt_summary">Prepreči aplikacijam samodejni zagon in končaj delovanje v ozadju.</string>
+    <string name="user_guide_desc_2">Pritisnite in pridržite ikono \"Varno območje\" v vrstici stanja za vstop v vmesnik za nastavite za trenutno območje. Nastavite lahko aplikacijo, ki o želite namestiti v trenutno območje.</string>
+    <string name="user_guide_desc_3">V odprtem območju bodo v vrstici stanja prikazana tudi vsa obvestila aplikacije iz varnega območja. Poleg obvestila se pojavi rdeča pika, ki obvestilo razlikuje od obvestil v trenutnem območju. Preklopi območja za ogled obvestil.</string>
+    <string name="user_remove_secure_user_msg">Vsi podatki aplikacij, fotografije in datoteke v varnem območju bodo izbrisane. Želite izbrisati?</string>
+    <string name="user_need_lockscreen_for_seuser_msg">Za zaščito aplikacij in podatkov v varnem območju morate nastaviti zaklepanje zaslona.</string>
+    <string name="user_guide_desc_4">Podatki aplikacij in dokumentov obeh območjih so povsem ločeni. Vsebino notranjega pomnilnika odprtega območja si lahko ogledate v mapi OpenUserData v varnem območju, obratno pa ni mogoče. Dnevniki klicev, sporočil in stiki so v skupni rabi obeh območij, kar omogoča normalno delovanje klicev in sporočil v obeh območjih.</string>
+    <string name="user_share_data_summary">Skupna raba stikov, besedilnih sporočil, dnevnikov klicev in drugih podatkov med obema območjema bo stopila v veljavo po ponovnem zagonu</string>
+    <string name="user_share_data">Skupna raba podatkov</string>
+    <string name="user_uninstall_app_msg">Ali želite odstraniti to aplikacijo iz trenutnega območja?</string>
+    <string name="user_security_mode">Varno območje</string>
+    <string name="user_auto_start_user_summary">Samodejno zaženi varno območje v ozadju ob zagonu</string>
+    <string name="user_guide_title_2">Nastavi trenutno območje </string>
+    <string name="user_setup_seuser_msg">Varno območje vklopljeno. Želite nastaviti zdaj?</string>
+    <string name="user_guide_title_3">Obvestila med območji</string>
+    <string name="user_remove_secure_user">Izbriši varno območje</string>
+    <string name="user_guide_title_1">Uvod v varno območje</string>
+    <string name="user_bgapp_mgt">Omeji izvajanje aplikacij v ozadju</string>
+    <string name="user_add_seuser_msg">Želite vklopiti varno območje?</string>
+    <string name="user_guide_title_4">Ločevanje in skupna raba podatkov </string>
+    <string name="user_privacy_mgt_msg">Aplikacijam preprečuje dostop do stikov, sporočil in dnevnika klicev.</string>
+    <string name="user_privacy_mgt">Nadzor zasebnega dostopa</string>
+    <string name="user_remove_secure_user_reboot_msg">Vsi podatki aplikacij, fotografije in datoteke v varnem območju bodo izbrisane. Sistem se samodejno ponovno zažene in uporabi spremembe. Želite izbrisati?</string>
+    <string name="user_float_switch_button_summary">Prikaži plavajoči gumb na zaslonu za pomoč pri preklapljanju med območjema</string>
+    <string name="user_bgapp_mgt_msg">Prepreči aplikacijam samodejni zagon in končaj delovanje v ozadju. Ne velja za aplikacije, ki morajo delovati v ozadju, na primer e-pošta in WhatsApp.</string>
+    <string name="user_float_switch_button">Plavajoči gumb</string>
+    <string name="user_uninstall_app_for_all_user_msg">Aplikacija ni nameščen v drugih območjih in bo popolnoma izbrisana iz vašega telefona. Želite odstraniti?</string>
+</resources>

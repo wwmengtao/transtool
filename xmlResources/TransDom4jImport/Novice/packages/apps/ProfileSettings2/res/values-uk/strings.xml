@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project Licensed under the 
+	Apache License, Version 2.0 (the "License"); you may not use this file except 
+	in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 
+	Unless required by applicable law or agreed to in writing, software distributed 
+	under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES 
+	OR CONDITIONS OF ANY KIND, either express or implied. See the License for 
+	the specific language governing permissions and limitations under the License. --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+	<string name="yes" msgid="4676390750360727396">"Так"</string>
+	<string name="no">"Немає"</string>
+	<string name="silent_mode_title" msgid="3181479108593217704">"Без звуку"</string>
+	<string name="ringtone_title" msgid="5379026328015343686">"Мелодія дзвінка"</string>
+	<string name="ringtone_summary">Поточний</string>
+	<string name="all_volume_title" msgid="4296957391257836961">"Гучність"</string>
+	<string name="musicfx_title" msgid="3415566786340790345">"Звукові ефекти"</string>
+	<string name="ring_volume_title">Рівні гучності</string>
+	<string name="vibrate_in_silent_title" msgid="3897968069156767036">"Вібрація в режимі \"Без звуку\""</string>
+	<string name="vibrate_title" msgid="6045820877942801599">"Вібрація"</string>
+
+	<string name="sound_settings_title" msgid="8735891486683305886">"Звук"</string>
+	<string name="silent_mode_summary" msgid="3309650676072917899">"Режим \"Без звуку\", крім мультимедіа та оповіщень"</string>
+	<string name="silent_mode_incl_alarm_summary" msgid="2088830834182228458">"Режим \"Без звуку\" для всіх звуків крім мультимедіа"</string>
+	<string name="ring_volume_summary">"Налаштувати гучність мелодії для вхідних викликів, повідомлень і сповіщень"</string>
+	<string name="vibrate_in_silent_summary" msgid="3312600513070076281">"Дозволити вібрацію в режимі \"Без звуку\""</string>
+	<string name="vibrate_summary">"Вібрувати при вхідних викликах та отриманні повідомлень"</string>
+	<string name="notification_sound_title" msgid="312032901303146002">"Сповіщення за замовчуванням"</string>
+	<string name="notification_pulse_title" msgid="1247988024534030629">"Блимання індикатора у разі надходження сповіщення"</string>
+	<string name="incoming_call_volume_title" msgid="8073714801365904099">Мелодії</string>
+	<string name="notification_volume_title" msgid="2012640760341080408">"Сповіщення"</string>
+	<string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"Гучність сигналу сповіщення така сама, що й для мелодії дзвінка"</string>
+	<string name="notification_sound_summary">Поточний</string>
+	<string name="notification_pulse_summary" msgid="6899220780534617152">"Блимання індикатора шарового маніпулятора у разі надходження сповіщення"</string>
+	<string name="notification_sound_dialog_title" msgid="9052854168612951170">"Вибрати мелодію дзвінка для сповіщень"</string>
+	<string name="media_volume_title" msgid="3576565767317118106">"Мультимедіа"</string>
+	<string name="media_volume_summary" msgid="5363248930648849974">"Задати гучність музики та відео"</string>
+	<string name="alarm_volume_title" msgid="2285597478377758706">"Оповіщення"</string>
+	<string name="dtmf_tone_enable_title">Звук клавіатури</string>
+	<string name="sound_effects_enable_title">Звук під час дотику</string>
+	<string name="lock_sounds_enable_title">"Звук блокування екрану"</string>
+	<string name="haptic_feedback_enable_title" msgid="2438293710530828760">"Вібрація під час дотику"</string>
+	<string name="audio_record_proc_title" msgid="4271091199976457534">"Зменшення шуму"</string>
+	<string name="volume_media_description" msgid="7949355934788807863">"Музика, відео, ігри та інший мультимедійний вміст"</string>
+	<string name="volume_ring_description">Мелодія виклику та повідомлень</string>
+	<string name="volume_notification_description" msgid="5810902320215328321">"Сповіщення"</string>
+	<string name="volume_alarm_description" msgid="8322615148532654841">"Оповіщення"</string>
+	<string name="dtmf_tone_enable_summary_on">Увімкнути відтворення звуку при наборі на клавіатурі</string>
+	<string name="dtmf_tone_enable_summary_off">Увімкнути відтворення звуку при наборі на клавіатурі</string>
+	<string name="sound_effects_enable_summary_on">Відтворювати звук під час натискання на клавіші та при взаємодії з інтерфейсом</string>
+	<string name="sound_effects_enable_summary_off">Відтворювати звук під час натискання на клавіші та при взаємодії з інтерфейсом</string>
+	<string name="lock_sounds_enable_summary_on">"Відтворювати звук при блокуванні та розблокуванні екрану"</string>
+	<string name="lock_sounds_enable_summary_off">"Відтворювати звук при блокуванні та розблокуванні екрану"</string>
+	<string name="haptic_feedback_enable_summary_on">"Вібрувати при натисканні на клавіші та при взаємодії з інтерфейсом"</string>
+	<string name="haptic_feedback_enable_summary_off">"Вібрувати при натисканні на клавіші та при взаємодії з інтерфейсом"</string>
+	<string name="audio_record_proc_summary" msgid="8113628457499616498">"Зменшувати фоновий шум під час розмови або запису" "</string>
+
+	<string name="Ringtone_profile_title">Параметри мелодії дзвінка</string>
+	<string name="Ringtone_profile_summary">Встановити мелодію дзвінка для вхідних викликів та оповіщень про повідомлення</string>
+
+
+	<string name="turn_cr_title">"Параметри послуги Coloring ring"</string>
+	<string name="turn_cr_on">"Скористатися послугою Coloring ring"</string>
+	<string name="turn_cr_off">"Вимкнути послугу Coloring ring"</string>
+	<string name="turn_cr_title_ongoing">"Отримання сервісного повідомлення послуги Coloring ring"</string>
+	<string name="turn_cr_title_success">"Сервісне повідомлення послуги Coloring ring успішно отримано"</string>
+	<string name="turn_cr_title_fail">"Не вдалося отримати сервісне повідомлення послуги Coloring ring"</string>
+	<string name="turn_cr_sms_fail">"Не вдалося надіслати сервісне повідомлення послуги Coloring ring"</string>
+	
+	<!-- Profile Settings -->
+	<string name="profile_select_label">Профілі</string>
+	<string name="profile_options_label">Особисті параметри профілю</string>
+	<string name="general_profile_title">Звичайний</string>
+	<string name="silence_profile_title">Без звуку</string>
+	<string name="meeting_profile_title">Вібро</string>
+	<string name="outdoors_profile_title">На вулиці</string>
+	<string name="general_profile_summary">Налаштувати мелодію для вхідних викликів, повідомлень та інші параметри</string>
+	<string name="meeting_profile_summary">Налаштування вібрації при дотику</string>
+	<string name="silence_profile_summary">Налаштування вібрації при дотику</string>
+	<string name="outdoors_profile_summary">Налаштувати мелодію для вхідних викликів, повідомлень та інші параметри</string>
+	<string name="sum_profile_settings">Змінити профіль та особисті параметри профілю</string>
+
+	<string name="set_profile_title">Особисті параметри</string>
+	<string name="call_ringtone_title">Мелодія дзвінка для вхідних викликів</string>
+	<string name="call_ringtone_summary">Установити мелодію дзвінка для вхідних викликів</string>
+	<string name="message_sound_title">Мелодія для повідомлень</string>
+	<string name="message_sound_summary">Установити мелодію дзвінка для повідомлень, MMS і сповіщень</string>
+	<string name="mail_sound_title">Мелодія дзвінка для вхідної пошти</string>
+	<string name="mail_sound_summary">Установити мелодію дзвінка для вхідної пошти</string>
+	<string name="alarm_alert_title">Мелодія дзвінка для розкладу</string>
+	<string name="alarm_alert_summary">Установити мелодію дзвінка для розкладу</string>
+	<string name="push_sound_title">Мелодія дзвінка для push-повідомлень</string>
+	<string name="push_sound_summary">Установити мелодію дзвінка для push-повідомлень</string>
+	<string name="push_mail_ringtone_switch_title">Оповіщення про надходження push-повідомлень та пошти</string>
+	<string name="push_mail_ringtone_switch_summary_on">Оповіщення програванням мелодії активовано</string>
+	<string name="push_mail_ringtone_switch_summary_off">Оповіщення програванням мелодії вимкнено</string>
+
+	<string name="startup_sound_title">Мелодія при увімкнені та вимкнені</string>
+	<string name="startup_sound_summary_on">Відтворювати мелодію при увімкнені та вимкнені телефону</string>
+	<string name="startup_sound_summary_off">Відтворювати мелодію при увімкнені та вимкнені телефону</string>
+
+	<string name="remind_title">Режим нагадування</string>
+	<string name="remind_summary">Увімкнути загальні нагадування</string>
+	<string name="profile_settings">"Налаштування профілю"</string>
+	<string name="progress_title">"Налаштування профілю"</string>
+	<string name="progress_message">Зачекайте...</string>
+
+	<!-- Mini -->
+	<string name="volume">"Гучність"</string>
+	<string name="ringtone_settings_title">Вхідні виклики</string>
+	<string name="feedback_title" msgid="1480844520622721141">"Система"</string>
+	<string name="threeg_call_sound_title">"Мелодія"</string>
+	<string name="threeg_message_sound_title">Мелодія дзвінка для повідомлень</string>
+	<string name="twog_call_sound_title">"Мелодія"</string>
+	<string name="twog_message_sound_title">Мелодія дзвінка для повідомлень</string>
+	<string name="threeg_unable">SIM-карта 1 відсутня</string>
+	<string name="twog_unable">SIM-карта 2 відсутня</string>
+  
+    <string name="convention" msgid="1488759370067953996">"Загальні"</string>
+    <string name="cate_call_ringtone">"Вхідні виклики"</string>
+    <string name="cate_message_ringtone">Повідомлення</string>
+    
+     <string name="pocket_mode_title">Кишеньковий режим</string>
+     <string name="pocket_mode_summary">Якщо підняти телефон, дзвінок звучатиме тихіше</string>
+
+    <string name="set_default_phone_ringtone">"Встановити мелодію дзвінка для вхідних викликів"</string>
+    <string name="set_default_message_ringtone">Встановити мелодію для вхідних повідомлень та сповіщень</string>
+    <string name="message">Повідомлення</string>
+    <string name="sim_message_one">Мелодія дзвінка для повідомлень</string>
+    <string name="sim_call_one">Мелодія дзвінка (картка 1)</string>
+    <string name="sim_call_two">Мелодія дзвінка (картка 2)</string>
+    <string name="audio_profile_add">"Додати"</string>
+    <string name="audio_profile_rename">"Перейменувати"</string>
+    <string name="audio_profile_enable">"Увімкнути"</string>
+    <string name="audio_profile_delete">"Delete"</string>
+    <string name="audio_profile_message_delete">Профіль <xliff:g id="profile">%s</xliff:g> буде видалено</string>
+    <string name="audio_profile_message_name_error">Введене Ім\'я вже існує</string>
+    <string name="audio_profile_message_rename">Введіть ім\'я профілю</string>
+    <string name="audio_profile_error">"Помилка"</string>
+    <string name="profile_category_custom_title">Користувацькі профілі</string>
+    <string name="audio_profile_message_reset">Всі параметри аудіо профілю будуть скинуті змінені на типові</string>
+    <string name="audio_profile_reset">"Віднов."</string>
+    <string name="audio_profile_message_name_length_wrong">Ім\'я повинно містити хоча б один символ</string>
+    <string name="profile_category_checked_title">Параметри профілю</string>
+    <string name="sim_message_sim_one">Мелодія дзвінка для повідомлень (картка 1)</string>
+    <string name="set_default_notification_ringtone">Установити звуковий сигнал за замовчуванням</string>
+    <string name="volume_alarm_mute">"Вимкнути звук для будильників"</string>
+    <string name="sim_call">Мелодія дзвінка</string>
+    <string name="audio_profile_message_overflow">Можна додати тільки 4 користувацьких профілі</string>
+    <string name="volume_notification_mute">"Вимкнути звук для сповіщень"</string>
+    <string name="volume_ring_mute">"Вимкнути звуковий сигнал і сповіщення"</string>
+    <string name="ringtone_and_sound_settings">"Мелодія і звук"</string>
+    <string name="volume_media_mute">"Вимкнути звук для музики та іншого мультимедійного вмісту"</string>
+    <string name="sim_message_sim_two">Мелодія дзвінка для повідомлень (картка 2)</string>
+</resources>

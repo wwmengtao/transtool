@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="silent_mode_outdoor">กลางแจ้ง</string>
+<string name="capital_on">เปิด</string>
+<string name="volume_icon_description_bluetooth" msgid="6538894177255964340">"ระดับบลูทูธ"</string>
+<string name="not_support_too_long_string">ไม่สนับสนุนการค้นหาข้อความที่ยาวมาก</string>
+<string name="component">วิดเจ็ตของระบบ</string>
+<string name="volume_icon_description_notification" msgid="7044986546477282274">"ระดับเสียงของการแจ้งเตือน"</string>
+<string name="dlg_use_ipo_confirm">บูตเครื่องด่วนในการบูตครั้งถัดไป</string>
+<string name="prevent_misoperation_message">ไม่ครอบคลุมส่วนบนของหน้าจอ</string>
+<string name="volume_alarm" msgid="1985191616042689100">"ระดับเสียงปลุก"</string>
+<string name="reboot_confirm_title">รีสตาร์ท</string>
+<string name="ext_storage_external_notification_title">กำลังเตรียมที่เก็บข้อมูลภายนอก</string>
+<string name="captive_portal_dialog_message">เครือข่ายไร้สายที่เชื่อมต่ออยู่ในขณะนี้ต้องการข้อมูลการเข้าสู่ระบบเพื่อเข้าใช้อินเทอร์เน็ต โปรดเข้าสู่ระบบ </string>
+<string name="usb_notification_title">การตั้งค่าการเชื่อมต่อ USB</string>
+<string name="prevent_misoperation_quit_hint">บังคับปิด: กด \"กลับ\" + \"เพิ่มระดับเสียง\" พร้อมกัน</string>
+<string name="long_back_exit_info">ออก</string>
+<string name="global_actions_toggle_open_airplane_mode_confirm">เปิดโหมดการบิน?</string>
+<string name="keyguard_password_waring_dlg_remind">โปรดป้อน lenovo และคลิก "ตกลง" เพื่อป้อนรหัสผ่านต่อ</string>
+<string name="storage_external_usb">ที่เก็บข้อมูล USB ภายนอก</string>
+<string name="reboot_dialog_msg">"กดปุ่มเปิด/ปิดค้างไว้ <xliff:g id="DELAY">^1</xliff:g> วินาที โทรศัพท์มือถือของคุณจะปิด กดปุ่มเปิด/ปิดค้างไว้อีก 2 วินาที โทรศัพท์มือถือของคุณจะรีสตาร์ท"</string>
+<string name="default_string">ค่าเริ่มต้น</string>
+<string name="turn_off_data">ปิด</string>
+<string name="captive_portal_dialog_button">เข้าสู่ระบบ</string>
+<string name="storage_phone">อุปกรณ์จัดเก็บข้อมูล USB</string>
+<string name="next_time_no_warning">ไม่ต้องแสดงข้อความนี้อีก</string>
+<string name="silent_mode_silent">"ปิดเสียง"</string>
+<string name="silent_mode_vibrate">สั่น</string>
+<string name="author">ผู้เขียน Lenovo</string>
+<string name="msg_shutdown_habit_guess">คุณปิดอุปกรณ์เมื่อเร็วๆ นี้ นับถึงตอนนี้สามครั้งติดต่อกันแล้ว คุณต้องการกำหนดการตั้งค่าเปิด-ปิดแบบปกติหรือไม่ คลิก ยกเลิก เพื่อปิดเครื่องเดี๋ยวนี้</string>
+<string name="keyguard_password_waring_dlg_title">รหัสผ่านไม่ถูกต้อง</string>
+<string name="volume_icon_description_media" msgid="4217311719665194215">"ระดับเสียงของสื่อ"</string>
+<string name="app_name">คลาสสิก</string>
+<string name="keyguard_password_attempts_warning">"คุณได้พยายามปลดล็อคโทรศัพท์อย่างไม่ถูกต้องเป็นจำนวน <xliff:g id="NUMBER_0">%d</xliff:g> ครั้ง หากปลดล็อคไม่สำเร็จอีก <xliff:g id="NUMBER_1">%d</xliff:g> ครั้ง แท็บเล็ตจะถูกรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานและข้อมูลผู้ใช้ทั้งหมดจะหายไป</string>
+<string name="capital_off">ปิด</string>
+<string name="captive_portal_dialog_title">การแจ้งถามเข้าสู่ระบบ WLAN</string>
+<string name="storage_usb">อุปกรณ์จัดเก็บข้อมูล USB</string>
+<string name="usb_notification_content">เลือกโหมดเมาต์ usb และ adb ดีบัก</string>
+<string name="prevent_misoperation_title">โหมดป้องกันโทรออกเมื่ออยู่ในกระเป๋า</string>
+<string name="reboot_confirm_msg">โทรศัพท์มือถือของคุณจะรีสตาร์ท</string>
+<string name="turn_on_data">เปิด</string>
+<string name="global_action_reboot">รีสตาร์ท</string>
+<string name="silent_mode_normal">ทั่วไป</string>
+<string name="kg_forgot_password_button_text">ลืมรหัสผ่าน</string>
+<string name="ext_storage_internal_notification_title">กำลังเตรียมที่เก็บข้อมูลภายใน</string>
+<string name="turn_on_mobile_data_warning">โทรศัพท์ของคุณอาจสร้างการรับส่งข้อมูลบางอย่างหากการเชื่อมต่อข้อมูลเปิดอยู่  จะถูกเรียกเก็บโดยผู้ให้บริการ  คุณแน่ใจหรือไม่ว่าต้องการเปิด </string>
+<string name="storage_sd_card">ที่เก็บข้อมูล SD</string>
+<string name="description">ธีมเริ่มต้นของ Lenovo </string>
+<string name="keyguard_password_dlg_input_err">รหัสผ่านไม่ถูกต้อง โปรดลองใหม่อีกครั้ง</string>
+<string name="volume_icon_description_ringer" msgid="3326003847006162496">"ระดับเสียงเรียกเข้า"</string>
+<string name="dlg_ipo_confirm_warning">ในโหมดบูตอย่างเร็ว ระบบจะไม่ปิดเครื่องอย่างสมบูรณ์ โปรดอย่าเสียบ SIM การ์ดหรือการ์ดหน่วยความจำในสถานะนี้ ซึ่งอาจทำให้การ์ดเสียหายได้</string>
+<string name="volume_matv">TV มือถือ</string>
+<string name="volume_icon_description_incall" msgid="8890073218154543397">"ปริมาณการโทร"</string>
+<string name="powerOnWarning_boot_msg">เวลาเปิดเครื่องแบบปกติ (%1$s) เปิดใช้งานแล้ว</string>
+<string name="powerOnWarning_alarm_msg">การปลุกแบบปิดเครื่องจะเริ่มเวลา %1$s</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Bluetooth จะปิดเมื่อเปิดใช้งานการแสดงผลแบบไร้สาย คุณต้องการดำเนินการต่อหรือไม่</string>
+</resources>

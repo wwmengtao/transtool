@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="wifi_security"> 
+        <item>"Buka"</item> 
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080p (30 bingkai/det)</item>
+        <item>720p (60 bingkai/det)</item>
+        <item>720p (30 bingkai/det)</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>Sertifikat WAPI</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720p (60 bingkai/det)</item>
+        <item>720p (30 bingkai/det)</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Otomatis</item>
+        <item>WEP ASCII</item>
+        <item>WEP heksadesimal</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Sertifikat WAPI</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(tidak disebutkan)</item>
+        <item>Slot Sim 1</item>
+        <item>Slot Sim 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>Mouse tangan kanan</item>
+        <item>Mouse tangan kiri</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Selalu</item>
+        <item>Matikan ketika tidak ada aktivitas selama 5 mnt</item>
+        <item>Matikan ketika tidak ada aktivitas selama 10 mnt</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        <item>Biasanya aktif</item>
+        <item>Selama 3 detik</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Langganan 1</item>
+        <item>Langganan 2</item>
+        <item>Perintah</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Layar Rotasi Pintar（putar layar seperti mata Anda）</item>
+        <item>Putar layar otomatis</item>
+        <item>Ditutup</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 &amp; IPv6</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+    	
+    	
+    	
+    <item>Gunakan waktu yang disediakan oleh jaringan</item>
+        <item>Gunakan waktu yang disediakan oleh GPS</item>
+        <item>Nonaktif</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        
+        
+        
+        
+    <item>Aktif</item>
+        <item>Selama 3 detik</item>
+        <item>Kontrol Pintar</item>
+        <item>Nonaktif</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        
+        
+        
+    <item>Gerakan putar</item>
+        <item>Putar otomatis</item>
+        <item>Nonaktif</item>
+    </string-array>
+    <string-array name="softspacename">
+        
+        
+        
+    <item>Rekomendasi sistem</item>
+        <item>Instal di ponsel</item>
+        <item>Instal di kartu memori default</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        
+        
+        
+        
+    <item>"Selalu"</item>
+        <item>"Hanya saat pengisian"</item>
+        <item>"Tidak pernah (meningkatkan penggunaan data)"</item>
+        <item>"Tidur Pintar (transfer data diaktifkan/nonaktifkan berdasarkan lalu lintas)"</item>
+    </string-array>
+</resources>

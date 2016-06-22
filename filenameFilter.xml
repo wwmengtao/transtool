@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<filename>
+<mergeDir>
+D:\WorkMaterial\CAJ\Java_Android\Applications\translatetool_UTF8\xmlResources\Settings
+</mergeDir>
+<!--files could be merged into strings.xml-->
+<strings.xml>
+<file>facebook_strings.xml</file>
+<file>mtstrings.xml</file>
+<file>strings1.xml</file>
+</strings.xml>
+<!--files could be merged into arrays.xml-->
+<arrays.xml>
+<file>arrays1.xml</file>
+<file>arrays2.xml</file>
+<file>arrays3.xml</file>
+</arrays.xml>
+</filename>

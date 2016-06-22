@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="wifi_security"> 
+        <item>"Ouvrir"</item>  
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        <item>1080p (30 images/s)</item>
+        <item>720p (60 images/s)</item>
+        <item>720p (30 images/s)</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>Certificat WAPI</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        <item>720p (60 images/s)</item>
+        <item>﻿720p (30 images/s)</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Automatique</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadécimal</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Certificat WAPI</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(non spécifié)</item>
+        <item>Emplacement SIM 1</item>
+        <item>Emplacement SIM 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        <item>Souris pour droitier</item>
+        <item>Souris pour gaucher</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Toujours</item>
+        <item>Déconnexion après 5 min d\'inactivité</item>
+        <item>Déconnexion après 10 min d\'inactivité</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        <item>Normalement sur</item>
+        <item>Pendant 3 secondes</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Abonnement 1</item>
+        <item>Abonnement 2</item>
+        <item>Invite</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Rotation d\'écran intelligente（faites pivoter l\'écran suivant vos yeux）</item>
+        <item>Faire pivoter automatiquement l\'écran</item>
+        <item>Fermé</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 &amp; IPv6</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+    	
+    	
+    	
+    <item>Utiliser l\'heure du réseau</item>
+        <item>Utiliser l\'heure du GPS</item>
+        <item>Désactivé</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        
+        
+        
+        
+    <item>Activé</item>
+        <item>Pendant 3 secondes</item>
+        <item>Contrôle intelligent</item>
+        <item>Désactivé</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        
+        
+        
+    <item>Rotation manuelle</item>
+        <item>Rotation automatique</item>
+        <item>Désactivé</item>
+    </string-array>
+    <string-array name="softspacename">
+        
+        
+        
+    <item>Recommandations système</item>
+        <item>Installation sur le téléphone</item>
+        <item>Installation sur la carte mémoire par défaut</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        
+        
+        
+        
+    <item>"Toujours"</item>
+        <item>"Uniquement pendant le chargement"</item>
+        <item>"Jamais (augmente le trafic de données)"</item>
+        <item>"Veille intelligente (transfert des données activé/désactivé selon le trafic)"</item>
+    </string-array>
+</resources>

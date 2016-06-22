@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="silent_mode_outdoor">În aer liber</string>
+<string name="capital_on">"ACTIVAT"</string>
+<string name="not_support_too_long_string">Segm. prea lung: căutare neacceptată</string>
+<string name="component">widget sistem</string>
+<string name="volume_icon_description_notification">Notificare</string>
+<string name="dlg_use_ipo_confirm">Boot rapid la următorul boot</string>
+<string name="prevent_misoperation_message">Nu acoperiţi partea superioară a ecranului</string>
+<string name="volume_alarm">Alarmă</string>
+<string name="reboot_confirm_title">"Reporniţi"</string>
+<string name="ext_storage_external_notification_title">Se pregăteşte spaţiul de stocare extern</string>
+<string name="captive_portal_dialog_message">Este necesară conectarea pentru reţeaua WLAN curentă înainte de a accesa Internetul; mai întâi conectaţi-vă</string>
+<string name="usb_notification_title">Setări conexiune USB</string>
+<string name="prevent_misoperation_quit_hint">Închidere forţată: apăsaţi tasta \"Înapoi\" + \"Creştere volum\"</string>
+<string name="long_back_exit_info">ieşire</string>
+<string name="global_actions_toggle_open_airplane_mode_confirm">Activaţi modul avion?</string>
+<string name="keyguard_password_waring_dlg_remind">Accesaţi lenovo şi faceţi clic pe OK pentru a continua.</string>
+<string name="storage_external_usb">Dispozitiv de stocare USB externă</string>
+<string name="reboot_dialog_msg">"Apăsaţi tasta de pornire timp de <xliff:g id="DELAY">^1</xliff:g> secunde şi telefonul celular se va opri; apăsaţi tasta de pornire timp de încă 2 secunde şi telefonul celular va reporni."</string>
+<string name="default_string">"Prestabilit"</string>
+<string name="turn_off_data">Dezactivare</string>
+<string name="captive_portal_dialog_button">Conectare</string>
+<string name="storage_phone">Spaţiu de stocare încorporat</string>
+<string name="next_time_no_warning">Nu mă avertiza data viitoare.</string>
+<string name="silent_mode_silent">"Silenţios"</string>
+<string name="silent_mode_vibrate">Vibraţie</string>
+<string name="author">Autor Lenovo</string>
+<string name="msg_shutdown_habit_guess">"Aţi închis dispozitivul de trei ori în acest interval recent. 
+Doriţi să accesaţi setările de pornire-oprire programată?"</string>
+<string name="keyguard_password_waring_dlg_title">Parolă greşită</string>
+<string name="volume_icon_description_media">Suport fizic</string>
+<string name="app_name">Clasic</string>
+<string name="keyguard_password_attempts_warning">Încercarea de a debloca telefonul a eşuat de <xliff:g id="number">%d</xliff:g> ori.
+       După încă <xliff:g id="number">%d</xliff:g> încercări nereuşite,
+       telefonul se va reseta la setările implicite din fabrică, iar datele utilizatorului se vor pierde.</string>
+<string name="capital_off">"DEZACTIVAT"</string>
+<string name="captive_portal_dialog_title">Se conectează la reţeaua WLAN</string>
+<string name="storage_usb">"Dsipozitiv de stocare USB"</string>
+<string name="usb_notification_content">Selectaţi modul de ataşare USB şi depanarea ADB.</string>
+<string name="prevent_misoperation_title">Mod de prevenire a funcţionării greşite</string>
+<string name="reboot_confirm_msg">Telefonul celular va reporni</string>
+<string name="turn_on_data">Activare</string>
+<string name="global_action_reboot">"Reporniţi"</string>
+<string name="silent_mode_normal">Ștergere</string>
+<string name="kg_forgot_password_button_text">Aţi uitat parola</string>
+<string name="ext_storage_internal_notification_title">Se pregăteşte spaţiul de stocare intern</string>
+<string name="turn_on_mobile_data_warning">Activaţi conexiunea de date, telefonul mobil va utiliza unele date GPRS. \nTaxele specifice sunt stabilite de operatori. Sigur doriţi să deschideţi?</string>
+<string name="storage_sd_card">Spaţiu de stocare extern</string>
+<string name="description">Temă implicită Lenovo </string>
+<string name="keyguard_password_dlg_input_err">Erori de intrare, reîncercaţi</string>
+<string name="volume_icon_description_ringer">Ton de apel şi mesaj</string>
+<string name="dlg_ipo_confirm_warning">Când sunteţi în acest mod, reţineţi că dispozitivul nu este complet oprit. Nu introduceţi şi nu scoateţi cartela SIM şi cardul de memorie pentru a evita deteriorarea acestora. Pentru a introduce sau a scoate cartela SIM şi cardul de memorie în mod corespunzător, debifaţi acest mod.</string>
+<string name="volume_matv">Televiziune mobilă</string>
+<string name="volume_icon_description_incall">Apelare</string>
+<string name="powerOnWarning_boot_msg">Următoarea pornire: %1$s</string>
+<string name="powerOnWarning_alarm_msg">Următoarea alarmă: %1$s</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Bluetooth se va dezactiva la pornirea afişajului wireless. Continuaţi?</string>
+</resources>

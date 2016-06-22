@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Tutorial_import</string>
+    <string name="searchresult" product="PSD">@string/IMPORT</string>   
+    <string name="searchLabel">IMPORT</string>
+    <string name="searchHint" product="lenovo">IMPORT</string>
+    <string name="searchnoresult">IMPORT</string>
+    <string name="nolenovowizard">IMPORTsd</string>
+	<string-array name="array1" product="lenovo">
+	
+	<item>T1</item>
+	<!--new-->
+	<item>IMPORT</item>
+	<item>IMPORT</item>
+	</string-array>
+	<string-array name="array2" product="lenovo">
+	
+	<item>T1</item>
+	<!--new-->
+	<item>IMPORT</item>	
+	</string-array>
+<plurals name="app_deny_unit_count">
+        <item quantity="other"><xliff:g id="app_count">%1$d</xliff:g>款应用, <xliff:g id="deny_count">%2$d</xliff:g>款已禁止</item>
+
+        <item quantity="one"><xliff:g id="app_count">%1$d</xliff:g>款应用1_IMPORT, <xliff:g id="deny_count">%2$d</xliff:g>款已禁止</item>
+    </plurals>
+	<string-array name="array4" product="lenovo">
+	
+	<item>T1</item>
+	<!--new-->
+	<item>IMPORT</item>	
+	</string-array>  
+<skip/>
+<dimen>abs</dimen>	
+</resources>

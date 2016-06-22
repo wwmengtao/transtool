@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">إعدادات المزامنة العامة</string>
+    <string name="sync_interval_settings">إعدادات فترة المزامنة</string>
+    <string name="try_sso_again">محاولة تسجيل الدخول الموحّد مرة أخرى</string>
+    <string name="for_syncing">للمزامنة</string>
+</resources>

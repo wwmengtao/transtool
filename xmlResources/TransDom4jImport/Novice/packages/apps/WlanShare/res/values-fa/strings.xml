@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+    <string name="dlg_ok">"تأیید"</string>
+    <string name="dlg_cancel">"لغو"</string>
+    <string name="help_label">"راهنما"</string>
+    <string name="wifi_p2p_menu_rename">"تغییر نام دستگاه"</string>
+    <string name="wifi_p2p_disconnect_title">قطع اتصال؟</string>
+    <string name="wifi_p2p_cancel_connect_title">"دعوتنامه لغو شود؟"</string>
+    <string name="wifi_p2p_remembered_groups">"گروه‌های به خاطر سپرده شده"</string>
+    <string name="wifi_p2p_delete_group_message">"این گروه فراموش شود؟"</string>
+    <string name="lock_settings_picker_title" msgid="1095755849152582712">"قفل صفحهٔ نمایش را انتخاب کنید"</string>
+    <string name="wifi_p2p_failed_rename_message" msgid="2562182284946936380">"تغییر نام دستگاه انجام نشد."</string>
+    <string name="wifi_p2p_menu_search" msgid="3436429984738771974">"جستجوی دستگاه‌ها"</string>
+    <string name="wifi_p2p_peer_devices" msgid="299526878463303432">"دستگاه‌های مشابه"</string>
+    <string name="wifi_p2p_cancel_connect_message" msgid="7477756213423749402">"آیا می‌خواهید دعوت برای ارتباط با <xliff:g id="PEER_NAME">%1$s</xliff:g> را لغو کنید؟"</string>
+    <string name="wifi_p2p_failed_connect_message" msgid="8921447388048243547">"متصل نشد."</string>
+    <string name="wifi_p2p_disconnect_multiple_message" msgid="3283805371034883105">"اگر اتصال شما قطع شود، اتصال شما با <xliff:g id="PEER_NAME">%1$s</xliff:g> و سایر دستگاه‌های <xliff:g id="PEER_COUNT">%2$s</xliff:g> به پایان خواهد رسید."</string>
+    <string name="wifi_p2p_disconnect_message" msgid="8227342771610125771">"اگر اتصال شما قطع شود، اتصال شما با <xliff:g id="PEER_NAME">%1$s</xliff:g> به پایان خواهد رسید."</string>
+    <string name="wifi_p2p_menu_searching" msgid="2396704492143633876">"در حال جستجو…"</string>
+    <string name="dlg_open_wifi_message">برای امکان اشتراک گذاری \u202fWLAN ، باید \u202fWLAN فعال شود.آیا مایلید \u202fWLAN را فعال کنید؟</string>
+    <string name="socketchannel_busy">در حال کار. لطفاً بعداً دوباره امتحان کنید!</string>
+    <string name="sending_file_notification">اشتراک‌گذاری WLAN: در حال ارسال مدرک</string>
+    <string name="dlg_received_file_fail_notification_message">مدرک دریافت نشد. لطفاً دوباره امتحان کنید.</string>
+    <string name="received_file_fail_dialog">مدرک دریافت نشد!</string>
+    <string name="wifi_p2p_no_content_message">محتوایی وجود ندارد</string>
+    <string name="toast_no_send_files">لطفاً یک یا چند مدرک را قبل از اتصال برای اشتراک‌گذاری انتخاب کنید!</string>
+    <string name="dlg_close_bt_then_send_file">لطفاً بلوتوث را قبل از ارسال مدرک ببندید!</string>
+    <string name="dlg_received_file_confirm_notification_message">آیا واقعاً مایلید که انتقال مدرک فعلی را لغو کنید؟</string>
+    <string name="dlg_request_if_send_file">
+	       آیا می‌خواهید مدرک را بفرستید: <xliff:g id="id_2">%2$s</xliff:g> به <xliff:g id="id_1">%1$s</xliff:g>؟
+    </string>
+    <string name="dlg_request_if_receive_file">پذیرفتن </string>
+    <string name="dlg_go_to_file_browser_message">لطفاً مدرک را در فایل‌های مدیریت مدرک/اشتراک‌گذاری Wlan بررسی کنید!</string>
+    <string name="connect_info_one2one">فقط اتصال یک به یک را پشتیبانی می‌کند. لطفاً قبل از امتحان دوباره همه اتصال‌های دیگر را ببندید.</string>
+    <string name="dlg_airplane_open_message">لطفاً از حالت هواپیما خارج شوید، سپس از اشتراک‌گذاری Wlan استفاده کنید!</string>
+    <string name="dlg_sent_file_fail_notification_message">مدرک ارسال نشد. لطفاً دوباره ارسال کنید.</string>
+    <string name="received_file_result_notification">"اشتراک‌گذاری WLAN: مدرک را دریافت کرد"</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> موفق بود، <xliff:g id="unsuccessful_number">%2$s</xliff:g> انجام نشد.
+    </string>
+    <string name="dlg_open_wifi_message_tel">شما نمی‌توانید در حالت هواپیما از اشتراک WLAN استفاده کنید.</string>
+    <string name="receiving_file_notification">اشتراک‌گذاری WLAN: در حال دریافت مدرک</string>
+    <string name="sent_file_fail_dialog">مدرک ارسال نشد!</string>
+    <string name="dlg_sdcard_not_mounted_message">دستگاه ذخیره موجود نیست. لطفاً قبل از امتحان دستگاه حافظه USB را ببندید.</string>
+    <string name="open_file_fail_dialog">این نوع فایل نمی‌تواند باز شود، لطفاً نرم‌افزار مورد نیاز برای این کار را نصب کنید!</string>
+    <string name="sent_file_dialog">مدرک با موفقیت ارسال شد (مدرک ذخیره شده تحت: WlanShare در تلفن همراه دریافت کننده):</string>
+    <string name="dlg_received_file_success_notification_message">مدرک با موفقیت دریافت شد. لطفاً برای مشاهده فشار دهید.</string>
+    <string name="received_file_dialog">مدرک با موفقیت دریافت شد (ذخیره شده تحت:/WlanShare):</string>
+    <string name="sent_file_result_notification">"اشتراک‌گذاری WLAN: مدرک ارسال شده"</string>
+    <string name="dlg_sent_file_confirm_notification_message">آیا واقعاً مایلید که انتقال مدرک فعلی را لغو کنید؟</string>
+    <string name="dlg_sent_file_success_notification_message">مدرک با موفقیت ارسال شد. لطفاً روی تلفن همراه دریافت کننده مشاهده کنید.</string>
+<string name="app_name">"اشتراک‌گذاری WLAN"</string>
+</resources>

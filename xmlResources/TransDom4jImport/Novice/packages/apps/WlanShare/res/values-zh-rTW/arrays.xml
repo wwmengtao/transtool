@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"已連線"</item>
+    <item msgid="3189211552661432651">"已邀請"</item>
+    <item msgid="3206450250360237549">"失敗"</item>
+    <item msgid="7785896708926971207">"可用"</item>
+    <item msgid="2330782789550628803">"超出範圍"</item>
+  </string-array>
+</resources>

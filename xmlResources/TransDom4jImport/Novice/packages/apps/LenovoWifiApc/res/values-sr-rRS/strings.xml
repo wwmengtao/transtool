@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="dlg_ok">"Potvrdi"</string>
+    <string name="dlg_msg">"Detektovan je veoma slab WLAN signal. Automatski je aktivirano pojačavanje WLAN signala kako bi se omogućio bolji kvalitet veze. Postavke ove funkcije možete konfigurisati u meniju Sistemske postavke - WLAN."</string>
+    <string name="dlg_no">"ne"</string>
+</resources>

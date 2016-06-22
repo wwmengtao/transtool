@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+<basedir>
+E:\Workmaterial\localrepo\translatetool_UTF8\xmlResources\TransDom4jMiss
+</basedir>
+<deletedir>
+</deletedir>
+<referdir>
+</referdir>
+<outdir>
+D:\WorkMaterial\localrepo\LenovoPower\miss
+</outdir>
+<baselocale></baselocale>
+<locales>ro</locales><!--<locales>ar,bg,cs,el,es-rUS,fa,fr,hr,hu,in,ms,pt-rPT,ro,ru,sk,sl,sr-rRS,th,tr,uk,vi,zh-rTW,zh-rHK</locales>-->
+<exclude-path>LenovoThemePackage </exclude-path>
+<exclude-path>  	services </exclude-path>
+<exclude-path>InCallUI</exclude-path>
+</config>

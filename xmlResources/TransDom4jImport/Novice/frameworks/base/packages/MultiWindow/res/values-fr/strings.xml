@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="close">Fermer</string>
+<string name="add">ajouter</string>
+<string name="cancle">"Annuler"</string>
+<string name="open">"Ouvrir"</string>
+<string name="confirm">"Confirmer"</string>
+<string name="menu_settings">"Paramètres"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Fenêtres multiples</string>
+    <string name="authorization_message">Voulez-vous ouvrir cette application dans des fenêtres multiples ?</string>
+    <string name="tips">Faites glisser votre doigt pour créer plusieurs fenêtres</string>
+    <string name="app_browser_title">Application fenêtres multiples</string>
+    <string name="authorization_notication">Notification d\'autorisation</string>
+</resources>

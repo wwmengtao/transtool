@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2010 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+  <string-array name="tips">
+    <item msgid="4457112202911142877">"Veja todas as suas aplicações.\n Toque no ícone Iniciador. @drawable/all_apps"</item>
+    <item msgid="8842580895829057430">"Arrastar aplicações para o ecrã principal.\n No iniciador, toque sem soltar numa aplicação até que vibre."</item>
+    <item msgid="8903218961940756528">"Reorganize o ecrã principal.\n Mantenha premido um item e quando este vibrar, arraste-o para onde quiser."</item>
+    <item msgid="3123213860439458492">"Remova os itens.\n Mantenha premido um item e quando este vibrar, arraste-o para o ícone Lixo. @drawable/trash"</item>
+    <item msgid="1000948398885889319">"Vários ecrãs principais.\n Deslize para a esquerda ou para a direita para mudar. Arraste os itens para outros ecrãs."</item>
+    <item msgid="424487960942281801">"Já não precisa deste widget?\n Mantenha-o premido e quando vibrar, arraste-o para o ícone Lixo."</item>
+  </string-array>
+    <string-array name="tips2">
+        
+        
+        
+        
+        
+        
+        
+        
+    <item>A página inicial é um jardim
+        \nToque continuamente numa zona vazia
+        \nPara faze crescer novos ícones</item>
+        <item>O telefone não é à prova de água
+        \nNão mergulhe em água
+        \nou em outros líquidos</item>
+        <item>Quer mais ecrãs iniciais?
+        \nDeslize para a esquerda/direita para encontrá-los
+        \n(É tão simples quanto isso)</item>
+        <item>Pequenos pontos no ecrã inicial
+        \nO que será que fazem?
+        \nToque continuamente para descobrir.</item>
+        <item>Ícones da barra de estado
+        \nPara descobrir os segredos
+        \npuxe a persiana</item>
+        <item>Existe um truque para
+        \nArrastar itens entre ecrãs iniciais
+        \npausar nas extremidades</item>
+        <item>Toque em Market para aplicações
+        \nComo uma caixa de bombons
+        \ncada uma é uma surpresa</item>
+        <item>Ah, e a propósito:
+        \nCeci n’est pas une trombone
+        \nSou um Android</item>
+    </string-array>
+</resources>

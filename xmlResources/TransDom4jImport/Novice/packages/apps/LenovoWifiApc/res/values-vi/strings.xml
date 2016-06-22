@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Tăng cường tín hiệu WLAN"</string>
+<string name="dlg_msg">"Đã phát hiện tín hiệu WLAN rất yếu. Đã tự động bật Tăng cường tín hiệu WLAN để có kết nối mạng tốt hơn. Bạn cũng có thể cấu hình cài đặt chức năng trong Cài đặt hệ thống - WLAN." </string>
+<string name="dlg_ok">"OK"</string>
+<string name="dlg_no">"không"</string>
+</resources>

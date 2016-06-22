@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpaper_instructions">Ayarla</string>
+
+    <string name="crop_wallpaper">Duvar kağıdını kırp</string>
+    <string name="wallpaper_load_fail">Görüntü duvar kağıdı olarak yüklenemedi</string>
+</resources>

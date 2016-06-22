@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  
+  <string-array name="silent_mode_entries">
+    <item msgid="783505504936446770">"Закрыть"</item>
+    <item msgid="4804571292609523335">"Вибрация"</item>
+    <item msgid="595707141547423573">"Отключить звук"</item>
+  </string-array>
+ 
+</resources>

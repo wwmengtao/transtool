@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="tutor_message_1">Подключите AllShare Cast приемник к HDMI порту телевизора или другого проецирующего устройства с помощью HDMI кабеля.</string>
+<string name="tutor_message_2">Когда на приемнике загорится красный индикатор - нажмите кнопку «Сброс» и дождитесь, когда индикатор станет голубым. При следующем соединении устройства синхронизируются автоматически</string>
+<string name="tutor_message_3">Включите поиск устройств в разделе «Беспроводной экран» на мобильном устройстве. В списке найденных устройств появится имя приемника.</string>
+<string name="tutor_message_4">В случае успешного соединения, на экране телевизора или другого проецирующего устройства отобразится экран вашего мобильного устройства.</string>
+<string name="activity_settings_title">Настройки</string>
+<string name="preference_settings_update_title">О программе</string>
+<string name="preference_settings_tutor_title">Справка</string>
+<string name="main_connect_switch_title">Соединение с устройством</string>
+<string name="item_device_mode_rename_title">Переименовать</string>
+ <string name="item_device_mode_forget_title">Удалить</string>
+<string name="item_device_mode_connect_title">Соединение</string>
+<string name="toast_not_paired">Эта операция доступна только для сопряженных устройств</string>
+<string name="dlg_rename_title">Переименование</string>
+
+    <string name="app_name">"Удаленный экран"</string>
+    <string name="miracast_app_name">"Удаленный экран"</string>
+    <string name="welcome_version">Версия <xliff:g id="version">%1s</xliff:g></string>
+    <string name="item_device_mode_audio_only_title">Аудио</string>
+    <string name="item_device_mode_video_only_title">Видео</string>
+    <string name="item_device_mode_meeting_title">Совещание</string>
+    <string name="item_device_mode_disconnect_title">"Разъединить"</string>
+    <string name="preference_settings_resolution_title">Разрешение</string>
+    <string name="dlg_confirm_switch_av_message">Для того чтобы переключить режим, необходимо сначала разорвать текущее подключение.\nПереключить режим?</string>
+    <string name="dlg_loading_scan_device_message">Сканирование устройств...</string>
+    <string name="dlg_loading_enable_wifi_message">Включение WLAN...</string>
+    <string name="dlg_loading_reconnect_message">Переключение режима, повторное подключение ...</string>
+    <string name="toast_connecting">Подключение, повторите попытку позже</string>
+    <string name="toast_already_connected">Уже подключено другое устройство, сначала отключите его</string>
+    <string name="toast_device_not_available">Не удается выполнить подключение, устройство недоступно</string>
+    <string name="tutor_message_audioonly">Если защитный ключ поддерживает аудиовыход, вы можете использовать режим "Только аудио" для прослушивания музыки без проводов.</string>
+    <string name="tutor_message_videoonly">При необходимости подключения защитного ключа с помощью интерфейса DVI или VGA рекомендуется использовать режим "Только видео".</string>
+<string name="dlg_confirm_forget_message">Удалить устройство из списка?</string>
+    <string name="activity_meeting_mode_title">Режим собрания</string>
+    <string name="dlg_select_resolution_title">Выбрать разрешение</string>
+    <string name="dlg_confirm_switch_video_message">В режиме видео содержимое экрана демонстрируется только при помощи заглушки (dongle). \nЧтобы переключить режим, необходимо отключить текущее соединение. \nПродолжить?</string>
+    <string name="dlg_confirm_disconnect_message">Отключить?</string>
+    <string name="dlg_confirm_switch_audio_message">В режиме аудио общий доступ к аудио предоставляется только при помощи заглушки (dongle). Перед переходом в режим аудио убедитесь, что он поддерживается вашей заглушкой (dongle). В противном случае соединение выполнено не будет. \nЧтобы переключить режим, необходимо отключить текущее соединение. \nПродолжить?</string>
+    <string name="preference_settings_meeting_mode_title">Режим собрания</string>
+    <string name="dlg_confirm_meeting_mode_message">Звонки ограничены в режиме собрания. SMS-сообщения автоматически отображаются в фоновом режиме. Включить режим собрания?</string>
+</resources>

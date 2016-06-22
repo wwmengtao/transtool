@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="wifi_sleep_policy_entries_smart">
+        <!-- Always keep WLAN on when screen turns off. -->
+        <item>"Vždy"</item>
+        <!-- Keep WLAN on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        <item>"Iba počas napájania"</item>
+        <!-- Do not keep WLAN on when screen turns off. -->
+        <item>"Nikdy (zvyšuje používanie dát)"</item>
+        <!-- Smart go to sleep. -->
+        <item>Smart (automatické zapnutie pri prenose údajov)</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <!-- to avoid translate again for string "None". -->
+        <item>@string/landscape_launcher_none</item>
+        <!-- Do not translate. -->
+        <item>SPN</item>
+        <!-- Do not translate. -->
+        <item>IMSI</item>
+        <!-- Do not translate. -->
+        <item>GID</item>
+        <!-- Do not translate. -->
+        <item>PNN</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>@string/wifi_security_none</item>
+        
+        
+        
+        
+    <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        
+        
+    <item>Bežne zap.</item>
+        <item>Na 3 sekundy</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        
+        
+        
+    <item>Auto</item>
+        <item>WEP ASCII</item>
+        <item>WEP hex</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        
+        
+    <item>720p (60 snímok/s)</item>
+        <item>720p (30 snímok/s)</item>
+    </string-array>
+    <string-array name="sim_slot">
+
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+    <item>(neuvedené)</item>
+        <item>Slot SIM 1</item>
+        <item>Slot SIM 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+    <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        
+        
+    <item>IPv4</item>
+        <item>IPv4 a IPv6</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        
+        
+        
+    <item>Predplatený program 1</item>
+        <item>Predplatený program 2</item>
+        <item>Výzva</item>
+    </string-array>
+    <string-array name="wpa_security">
+
+        <!-- The WLAN network does not have any security. -->
+        <item>@string/wifi_security_none</item>
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+    <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        
+        
+    <item>Myš pre pravákov</item>
+        <item>Myš pre ľavákov</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+
+        <!-- Always keep WLAN on when screen turns off. -->
+        
+        <!-- Keep WLAN on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        
+        <!-- Do not keep WLAN on when screen turns off. -->
+        
+    <item>Vždy</item>
+        <item>Vypnúť pri nečinnosti 5 min</item>
+        <item>Vypnúť pri nečinnosti 10 min</item>
+    </string-array>
+    <string-array name="wapi_security">
+
+        <!-- The WLAN network does not have any security. -->
+        <item>@string/wifi_security_none</item>
+        <!-- Do not translate. -->
+        
+        
+    <item>WAPI PSK</item>
+        <item>Certifikát WAPI</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        
+        
+        
+    <item>1080p (30 snímok/s)</item>
+        <item>720p (60 snímok/s)</item>
+        <item>720p (30 snímok/s)</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>@string/wifi_security_none</item>
+        
+        
+        
+        
+        
+        
+    <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Certifikát WAPI</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Použiť čas získaný zo siete</item>
+        <item>Použiť čas získaný zo systému GPS</item>
+        <item>Vyp.</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        <item>Otvoriť</item>
+        <item>Na 3 sekundy</item>
+        <item>Automaticky</item>
+        <item>Zatvoriť</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Inteligentné otáčanie obrazovky (otáča sa podľa vašich očí)</item>
+        <item>Automatické otáčanie obrazovky</item>
+        <item>Zatvorené</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        <item>Otočenie gestom</item>
+        <item>Automatické otočenie</item>
+        <item>Vyp.</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Systémové odporúčania</item>
+        <item>Inštalovať do telefónu</item>
+        <item>Inštalovať na predvolenú pamäťovú kartu</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">Lingkungan Umum</string>
+<string name="user_auto_start_user_summary">Otomatis jalankan Lingkungan Aman di latar belakang saat booting</string>
+<string name="user_setup_seuser_msg">Lingkungan Aman aktif. Masuk sekarang dan selesaikan penyiapan?</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"Dikontrol oleh <xliff:g id="APP">%1$s</xliff:g>"</string>
+<string name="user_config_apps_for_seuser">Setel aplikasi yang perlu Anda instal di lingkungan saat ini</string>
+<string name="user_add_seuser_msg">Lingkungan Aman belum aktif. Aktifkan sekarang?</string>
+<string name="user_auto_start_user">Mulai Lingkungan Aman saat booting</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"Tidak sekarang"</string>
+<string name="user_need_lockscreen_for_seuser_msg">Anda perlu menetapkan kunci layar untuk melindungi aplikasi dan data Anda dalam mode aman.</string>
+<string name="user_share_data_summary">Berbagi kontak, pesan teks, log panggilan, dan data lain dalam dua lingkungan, akan berlaku setelah boot ulang</string>
+<string name="app_name" msgid="1626402585530130914">"Pengaturan"</string>
+<string name="done_button" msgid="1991471253042622230">"Selesai"</string>
+<string name="user_share_data">Pembagian Data</string>
+<string name="user_float_switch_button_summary">Tampilkan tombol melayang pada layar untuk memfasilitasi peralihan antara lingkungan</string>
+<string name="user_security_mode">Lingkungan Aman</string>
+<string name="user_float_switch_button">Tombol Melayang</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"Setel kunci"</string>
+    <string name="user_guide_title_2">Konfigurasikan Mode Saat Ini </string>
+    <string name="user_guide_title_3">Pemberitahuan Lintas-Mode</string>
+    <string name="user_guide_title_1">Pengantar untuk Mode Aman</string>
+    <string name="user_guide_title_4">Isolasi dan Pembagian Data </string>
+    <string name="user_guide_desc_1">Mode aman memungkinkan Anda mengonfigurasi aplikasi, akun, wallpaper, dan kata sandi kunci layar yang berbeda dengan yang digunakan pada mode saat ini. Ketuk ikon \"Mode Aman\" pada bilah status untuk dengan cepat berpindah mode.</string>
+    <string name="user_guide_desc_2">Tekan dan tahan ikon \"Mode Aman\" pada bilah status untuk masuk ke antarmuka penyiapan untuk mode saat ini. Anda dapat mengonfigurasi aplikasi yang perlu Anda instal dalam mode saat ini.</string>
+    <string name="user_guide_desc_3">Pada mode normal, setiap pemberitahuan dari aplikasi dalam mode aman juga akan ditampilkan dalam bilah status. Titik merah akan muncul pada ikon pemberitahuan untuk membedakannya dari pemberitahuan dalam mode saat ini. Pindah mode untuk melihat pemberitahuan.</string>
+    <string name="user_guide_desc_4">Data aplikasi dan dokumen pada kedua mode disimpan secara terpisah sepenuhnya. Isi kartu SD mode normal dapat dilihat di direktori OpenUserData kartu SD mode aman, tetapi tidak sebaliknya. Log panggilan, log pesan, dan kontak dibagikan di antara kedua mode ini untuk memastikan fungsi panggilan dan pesan beroperasi normal pada kedua mode.</string>
+    <string name="user_remove_secure_user">Hapus lingkungan aman</string>
+    <string name="user_privacy_mgt_summary">Batasi aplikasi dari mengakses kontak, pesan, dan log panggilan.</string>
+    <string name="user_remove_secure_user_reboot_msg">Semua data aplikasi, foto, dan file dalam lingkungan aman akan dihapus. Sistem akan otomatis dihidupkan ulang untuk menerapkan perubahan. Hapus?</string>
+    <string name="user_bgapp_mgt">Batasi aplikasi latar belakang</string>
+    <string name="user_privacy_mgt">Kontrol akses privasi</string>
+    <string name="user_privacy_mgt_msg">Blokir aplikasi dari mengakses kontak, pesan, dan log panggilan.</string>
+    <string name="user_bgapp_mgt_summary">Blokir aplikasi dari otomatis memulai dan mengakhiri proses latar belakangnya.</string>
+    <string name="user_remove_secure_user_msg">Semua data aplikasi, foto, dan file dalam lingkungan aman akan dihapus. Hapus?</string>
+    <string name="user_bgapp_mgt_msg">Blokir aplikasi dari otomatis memulai dan mengakhiri proses layar belakangnya. Jangan terapkan ke aplikasi yang perlu berjalan di latar belakang, seperti email dan WhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">Aplikasi tidak terinstal di lingkungan lain dan akan sepenuhnya dihapus dari ponsel Anda setelah penghapusan instalasi. Hapus instalasi?</string>
+<string name="help_label">"bantuan"</string>
+    <string name="user_uninstall_app_msg">Ingin menghapus instalasi aplikasi ini dalam lingkungan saat ini?</string>
+</resources>

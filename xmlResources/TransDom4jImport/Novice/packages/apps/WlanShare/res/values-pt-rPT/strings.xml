@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+    <string name="dlg_ok">"Confirmar"</string>
+    <string name="dlg_cancel">"Cancelar"</string>
+    <string name="help_label">"Ajuda"</string>
+    <string name="wifi_p2p_menu_rename">"Mudar o nome do aparelho"</string>
+    <string name="wifi_p2p_disconnect_title">Desligar?</string>
+    <string name="wifi_p2p_cancel_connect_title">"Cancelar convite?"</string>
+    <string name="wifi_p2p_remembered_groups">"Grupos memorizados"</string>
+    <string name="wifi_p2p_delete_group_message">"Esquecer este grupo?"</string>
+    <string name="lock_settings_picker_title" msgid="1095755849152582712">"Selec. bloq. do ecrã"</string>
+    <string name="wifi_p2p_failed_rename_message" msgid="2562182284946936380">"Falha ao renomear o dispositivo."</string>
+    <string name="wifi_p2p_menu_search" msgid="3436429984738771974">"Pesquisar aparelhos"</string>
+    <string name="wifi_p2p_peer_devices" msgid="299526878463303432">"Aparelhos P2P"</string>
+    <string name="wifi_p2p_cancel_connect_message" msgid="7477756213423749402">"Pretende cancelar o convite para se ligar a <xliff:g id="PEER_NAME">%1$s</xliff:g>?"</string>
+    <string name="wifi_p2p_failed_connect_message" msgid="8921447388048243547">"Não foi possível ligar."</string>
+    <string name="wifi_p2p_disconnect_multiple_message" msgid="3283805371034883105">"Se desligar, a ligação com <xliff:g id="PEER_NAME">%1$s</xliff:g> e <xliff:g id="PEER_COUNT">%2$s</xliff:g> outros aparelhos será terminada."</string>
+    <string name="wifi_p2p_disconnect_message" msgid="8227342771610125771">"Se desligar, a ligação com <xliff:g id="PEER_NAME">%1$s</xliff:g> será terminada."</string>
+    <string name="wifi_p2p_menu_searching" msgid="2396704492143633876">"A pesquisar..."</string>
+    <string name="dlg_open_wifi_message">A WLAN tem de ser ativada para permitir a partilha de WLAN, pretende ativar a WLAN?</string>
+    <string name="socketchannel_busy">A trabalhar. Tente de novo mais tarde!</string>
+    <string name="sending_file_notification">Partilha de WLAN: A enviar documento</string>
+    <string name="dlg_received_file_fail_notification_message">Documento não recebido. Tente novamente.</string>
+    <string name="received_file_fail_dialog">Documento não recebido!</string>
+    <string name="wifi_p2p_no_content_message">Sem conteúdo</string>
+    <string name="toast_no_send_files">Selecione um ou mais documentos para partilhar antes de ligar!</string>
+    <string name="dlg_close_bt_then_send_file">Feche o Bluetooth antes de enviar o documento!</string>
+    <string name="dlg_received_file_confirm_notification_message">"Tem a certeza de que pretende cancelar o envio do documento atual?</string>
+    <string name="dlg_request_if_send_file">
+	       Pretende enviar o documento: <xliff:g id="id_2">%2$s</xliff:g> para <xliff:g id="id_1">%1$s</xliff:g>?
+    </string>
+    <string name="dlg_request_if_receive_file">Aceitar </string>
+    <string name="dlg_go_to_file_browser_message">Verifique o documento nos ficheiros de Document Manager/WlanShare!</string>
+    <string name="connect_info_one2one">Suporta a ligação um-para-um apenas. Feche todas as outras ligações antes de tentar novamente.</string>
+    <string name="dlg_airplane_open_message">Saia do modo de avião e, em seguida, utilize a partilha de WLAN!</string>
+    <string name="dlg_sent_file_fail_notification_message">Documento não enviado. Reenvie.</string>
+    <string name="received_file_result_notification">"Partilha de WLAN: Documento recebido"</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> bem-sucedido, <xliff:g id="unsuccessful_number">%2$s</xliff:g> falhou.
+    </string>
+    <string name="dlg_open_wifi_message_tel">Não pode utilizar a partilha de WLAN no modo de avião.</string>
+    <string name="receiving_file_notification">Partilha de WLAN: A receber documento</string>
+    <string name="sent_file_fail_dialog">Documento não enviado!</string>
+    <string name="dlg_sdcard_not_mounted_message">Dispositivo de armazenamento indisponível. Feche o dispositivo de armazenamento USB antes de tentar.</string>
+    <string name="open_file_fail_dialog">Impossível abrir este tipo de ficheiro, instale o software necessário!</string>
+    <string name="sent_file_dialog">Documento enviado com êxito (documento guardado em: /WlanShare no telemóvel do destinatário):</string>
+    <string name="dlg_received_file_success_notification_message">Documento recebido com êxito. Prima para ver.</string>
+    <string name="received_file_dialog">Documento recebido com êxito (guardado em: /WlanShare):</string>
+    <string name="sent_file_result_notification">"Partilha de WLAN: Documento enviado"</string>
+    <string name="dlg_sent_file_confirm_notification_message">"Tem a certeza de que pretende cancelar o envio do documento atual?</string>
+    <string name="dlg_sent_file_success_notification_message">Documento enviado com êxito. Ver no telemóvel do destinatário.</string>
+    <string name="app_name">"Partilha de WLAN"</string>
+
+  <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Associado"</item>
+    <item msgid="3189211552661432651">"Convidado"</item>
+    <item msgid="3206450250360237549">"Sem êxito"</item>
+    <item msgid="7785896708926971207">"Disponível"</item>
+    <item msgid="2330782789550628803">"Fora do intervalo"</item>
+  </string-array>
+</resources>

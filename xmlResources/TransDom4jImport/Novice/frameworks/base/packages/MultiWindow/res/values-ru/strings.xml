@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<string name="close">Закрыть</string>
+<string name="add">Добавить</string>
+<string name="app_browser_title">Мультиокна</string>
+<string name="app_name">Мультиокна</string>
+    <string name="cancle">"Отмена"</string>
+    <string name="open">Нет</string>
+    <string name="exit">Выход</string>
+    <string name="confirm">"OK"</string>
+    <string name="menu_settings">"Настройки"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="authorization_message">Добавить это приложение в список мультиокон?</string>
+    <string name="tips">Перетащите для создания множества окон</string>
+    <string name="authorization_notication">Запрос</string>
+</resources>

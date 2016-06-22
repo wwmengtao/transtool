@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<string name="close">"Закрити"</string>
+<string name="add">"Додати"</string>
+<string name="app_browser_title">Multi-WindowApp</string>
+<string name="app_name">Multi-Window</string>
+    <string name="cancle">"Скасувати"</string>
+    <string name="open">"Відкр."</string>
+    <string name="confirm">"Підтверд."</string>
+    <string name="menu_settings">"Налаштування"</string>
+    <string name="hello_world">Привіт усім!</string>
+    <string name="authorization_message">Бажаєте відкрити цю програму в кількох вікнах?</string>
+    <string name="tips">Перетягніть, щоб відкрити кілька вікон</string>
+    <string name="authorization_notication">Сповіщення про автентифікацію</string>
+</resources>

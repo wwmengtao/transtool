@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Безжичен дисплей"</string>
+    <string name="miracast_app_name">"Безжичен дисплей"</string>
+    <string name="welcome_version">Версия <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"Свързване с устройство"</string>
+    <string name="item_device_mode_audio_only_title">"Аудио"</string>
+    <string name="item_device_mode_video_only_title">"Видео"</string>
+    <string name="item_device_mode_meeting_title">среща </string>
+    <string name="item_device_mode_connect_title">"Свързване"</string>
+    <string name="item_device_mode_disconnect_title">"Изключване"</string>
+    <string name="item_device_mode_rename_title">"Преименуване"</string>
+    <string name="item_device_mode_forget_title">"Забравяне"</string>
+    <string name="activity_settings_title">"Настройки"</string>
+    <string name="preference_settings_resolution_title">Резолюция</string>
+    <string name="preference_settings_update_title">"Информация"</string>
+    <string name="dlg_confirm_switch_av_message">Текущата връзка трябва първо да се прекъсне, за да превключите режима.\nИскате ли да превключите сега?</string>
+    <string name="dlg_loading_scan_device_message">Сканиране за устройства ...</string>
+    <string name="dlg_loading_enable_wifi_message">Активиране на WLAN...</string>
+    <string name="dlg_loading_reconnect_message">Превключване на режима, повторно свързване ...</string>
+    <string name="toast_connecting">Свързване, моля опитайте отново по-късно</string>
+    <string name="toast_already_connected">Вече е свързано друго устройство, моля, първо прекъснете връзката</string>
+    <string name="toast_device_not_available">Свързването е невъзможно, устройството не е достъпно</string>
+    <string name="tutor_message_1">Свържете донгъла AllShare Cast към HDMI устройство с помощта на HDMI кабел.</string>
+    <string name="tutor_message_2">Когато червеният индикатор започне да мига, натиснете бутона за нулиране. Изчакайте индикаторът да стане син. Не е необходимо на натискате, за да се свържете отново.</string>
+    <string name="tutor_message_4">При успешно свързване можете да споделяте екрана си с друго устройство.</string>
+    <string name="tutor_message_audioonly">Ако донгълът поддържа аудио изход, можете да опитате режим Само аудио, за да опитате безжично слушане на музика.</string>
+    <string name="tutor_message_videoonly">Ако искате да свържете донгъла с DVI или VGA интерфейс, се препоръчва Само видео.</string>
+    <string name="activity_meeting_mode_title">Режим на събрание</string>
+    <string name="tutor_message_3">Влезте в Miracast, след което превключете бутона за активиране на Вкл. Тогава имената на устройствата, които са налични за свързване, ще се появят в списъка от налични устройства</string>
+    <string name="dlg_select_resolution_title">Избор на разделителна способност</string>
+    <string name="dlg_confirm_switch_video_message">Режим видео споделя екранно съдържание само през донгъл. \nТекущата връзка трябва да бъде прекъсната, за да се превключат режимите. \nПродължаване?</string>
+    <string name="dlg_rename_title">Преименуване на устройството</string>
+    <string name="dlg_confirm_disconnect_message">Прекъсване?</string>
+    <string name="toast_not_paired">Действието е възможно само за свързани устройства</string>
+    <string name="dlg_confirm_switch_audio_message">Режим аудио споделя аудио само през донгъл. Преди да превключите към режим аудио, потвърдете, че той се поддържа от вашия донгъл, в противен случай свързването няма да бъде успешно. \nТекущата връзка трябва да бъде прекъсната, за да се превключат режимите. \nПродължаване?</string>
+    <string name="dlg_confirm_forget_message">Премахване на устройството от списъка със свързани устройства?</string>
+    <string name="preference_settings_meeting_mode_title">Режим на събрание</string>
+    <string name="preference_settings_tutor_title">Наръчник</string>
+    <string name="dlg_confirm_meeting_mode_message">Повикванията са ограничени в режим на събрание и SMS-ите се показват автоматично на преден план. Активиране на режим на събрание?</string>
+</resources>

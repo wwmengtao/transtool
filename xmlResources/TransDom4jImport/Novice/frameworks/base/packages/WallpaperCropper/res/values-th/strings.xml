@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="crop_wallpaper">"ครอบตัดวอลล์เปเปอร์"</string>
+<string name="wallpaper_load_fail">โหลดภาพให้เป็นภาพพื้นหลังไม่ได้</string>
+<string name="wallpaper_instructions">"ตั้งค่าวอลเปเปอร์"</string>
+</resources>

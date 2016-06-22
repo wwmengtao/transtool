@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">同步设置</string>
+    <string name="sync_interval_settings">同步频率设置</string>
+    <string name="try_sso_again">登录</string>
+    <string name="for_syncing">更多同步功能</string>
+</resources>

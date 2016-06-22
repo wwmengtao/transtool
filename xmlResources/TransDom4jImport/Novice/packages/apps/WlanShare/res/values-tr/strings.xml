@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_cancel">"İptal"</string>
+<string name="wifi_p2p_delete_group_message">"Bu grup unutulsun mu?"</string>
+<string name="dlg_ok">"Onayla"</string>
+<string name="wifi_p2p_menu_rename">"Cihazı yeniden adlandır"</string>
+<string name="wifi_p2p_remembered_groups">"Hatırlanan gruplar"</string>
+<string name="help_label">"Yardım"</string>
+<string name="wifi_p2p_disconnect_title">Bağlantıyı kes?</string>
+<string name="wifi_p2p_cancel_connect_title">"Davetiye iptal edilsin mi?"</string>
+    <string name="lock_settings_picker_title">"Ekran kilidini seçin"</string>
+    <string name="wifi_p2p_failed_rename_message">"Cihaz yeniden adlandırılamadı."</string>
+    <string name="wifi_p2p_menu_search">"Cihaz ara"</string>
+    <string name="wifi_p2p_peer_devices">"Cihazları eşle"</string>
+    <string name="wifi_p2p_cancel_connect_message">"<xliff:g id="PEER_NAME">%1$s</xliff:g> cihazına bağlanma davetiyesini iptal etmek istiyor musunuz?"</string>
+    <string name="wifi_p2p_failed_connect_message">"Bağlantı kurulamadı."</string>
+    <string name="wifi_p2p_disconnect_multiple_message">"Bağlantıyı keserseniz,  <xliff:g id="PEER_NAME">%1$s</xliff:g> ve diğer <xliff:g id="PEER_COUNT">%2$s</xliff:g> cihazla bağlantınız sonlandırılır."</string>
+    <string name="wifi_p2p_disconnect_message">"Bağlantıyı keserseniz,  <xliff:g id="PEER_NAME">%1$s</xliff:g> ile olan bağlantınız sonlandırılır."</string>
+    <string name="wifi_p2p_menu_searching">"Aranıyor…"</string>
+    <string name="dlg_open_wifi_message">WLAN paylaşımının etkinleştirilmesi için WLAN etkinleştirilmelidir, WLAN\'ı etkinleştirmek istiyor musunuz?</string>
+    <string name="socketchannel_busy">Çalışıyor. Lütfen daha sonra tekrar deneyin!</string>
+    <string name="sending_file_notification">WLAN paylaşımı: Belge gönderiliyor</string>
+    <string name="received_file_fail_dialog">Belge alınamadı!</string>
+    <string name="dlg_received_file_fail_notification_message">Belge alınamadı. Lütfen tekrar deneyin.</string>
+    <string name="toast_no_send_files">Bağlanmadan önce paylaşılmak üzere lütfen bir ya da daha fazla belge seçin!</string>
+    <string name="dlg_close_bt_then_send_file">Lütfen belge göndermeden önce Bluetooth\'u kapatın!</string>
+    <string name="app_name">"WLAN paylaşımı"</string>
+    <string name="dlg_received_file_confirm_notification_message">Mevcut belge aktarımını iptal etmek istediğinizden emin misiniz?</string>
+    <string name="dlg_request_if_send_file">
+	       Şu kişiye belge göndermek istiyor musunuz: <xliff:g id="id_2">%2$s</xliff:g> <xliff:g id="id_1">%1$s</xliff:g>?
+    </string>
+    <string name="dlg_request_if_receive_file">Kabul et </string>
+    <string name="dlg_go_to_file_browser_message">Lütfen Belge Yöneticisi/Wlan Paylaşımı dosyaları altında belgeyi kontrol edin!</string>
+    <string name="connect_info_one2one">Yalnızca birebir bağlantıyı desteklemektedir. Yeniden denemeden önce lütfen diğer tüm bağlantıları kapatın.</string>
+    <string name="dlg_airplane_open_message">Lütfen uçak modundan çıkın ve Wlan Paylaşımını kullanın!</string>
+    <string name="dlg_sent_file_fail_notification_message">Belge gönderilmedi. Lütfen yeniden gönderin.</string>
+    <string name="received_file_result_notification">"WLAN paylaşımı: Alınan belge"</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> başarılı, <xliff:g id="unsuccessful_number">%2$s</xliff:g> başarısız.
+    </string>
+    <string name="dlg_open_wifi_message_tel">WLAN paylaşımı özelliğini Uçak modunda kullanamazsınız.</string>
+    <string name="receiving_file_notification">WLAN paylaşımı: Belge alınıyor</string>
+    <string name="sent_file_fail_dialog">Belge gönderilmedi!</string>
+    <string name="dlg_sdcard_not_mounted_message">Depolama cihazı uygun değil. Denemeden önce lütfen USB depolama cihazını kapatın.</string>
+    <string name="open_file_fail_dialog">Bu dosya türü açılamıyor, lütfen gerekli yazılımı yükleyin!</string>
+    <string name="sent_file_dialog">Belge başarılı bir şekilde gönderildi (belge şu konuma kaydedildi: /WlanShare alıcının cep telefonunda):</string>
+    <string name="dlg_received_file_success_notification_message">Belge başarıyla alındı. Görmek için lütfen basın.</string>
+    <string name="received_file_dialog">Belge başarıyla alındı (/WlanShare konumuna kaydedildi):</string>
+    <string name="sent_file_result_notification">"WLAN paylaşımı: Gönderilen belge"</string>
+    <string name="dlg_sent_file_confirm_notification_message">Mevcut belge aktarımını iptal etmek istediğinizden emin misiniz?</string>
+    <string name="dlg_sent_file_success_notification_message">Belge başarıyla gönderildi. Lütfen alıcının cep telefonunda görüntüleyin.</string>
+  <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Bağlı"</item>
+    <item msgid="3189211552661432651">"Davet edildi"</item>
+    <item msgid="3206450250360237549">"Başarısız"</item>
+    <item msgid="7785896708926971207">"Müsait"</item>
+    <item msgid="2330782789550628803">"Kapsama alanı dışında"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">İçerik Yok</string>
+</resources>

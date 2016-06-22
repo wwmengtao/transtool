@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string-array name="tethered_ipv6_entries">
+        <item>IPv4</item>
+        <item>IPv4 та IPv6</item>
+    </string-array>
+<string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Завжди</item>
+        <item>Вимикати за відсутності дій протягом 5 хв.</item>
+        <item>Вимикати за відсутності дій протягом 10 хв.</item>
+    </string-array>
+<string-array name="wifi_security">
+        <!-- The WLAN network does not have any security. -->
+        <item>@string/wifi_security_none</item>
+        <!-- Do not translate. -->
+        <item>@string/wifi_security_wep</item>
+        <!-- Do not translate. -->
+        <item>@string/wifi_security_psk_generic</item>
+        <!-- Do not translate. -->
+        <item>@string/wifi_security_eap</item>
+    </string-array>
+<string-array name="wpa_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+<string-array name="wifi_WEP_security_type">
+        <item>Авто</item>
+        <item>WEP ASCII</item>
+        <item>Шістнадцятковий WEP</item>
+    </string-array>
+<string-array name="wfd_720p_resolution_entry">
+        <item>720p (60 кадр./с)</item>
+        <item>720p (30 кадр./с)</item>
+    </string-array>
+<string-array name="sim_slot">
+        <item>(не задано)</item>
+        <item>Гніздо SIM-картки 1</item>
+        <item>Гніздо SIM-картки 2</item>
+    </string-array>
+<string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+<string-array name="wpa_security">
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+<string-array name="mouse_primary_button_titles">
+        <item>Мишка д. правої руки</item>
+        <item>Мишка д. лівої руки</item>
+    </string-array>
+<string-array name="ext_mvno_type_entries">
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>PNN</item>
+    </string-array>
+<string-array name="wfd_1080p_resolution_entry">
+        <item>1080p (30 кадр./с)</item>
+        <item>720p (60 кадр./с)</item>
+        <item>720p (30 кадр./с)</item>
+    </string-array>
+<string-array name="wapi_security">
+        <item>WAPI PSK</item>
+        <item>Сертифікат WAPI</item>
+    </string-array>
+<string-array name="wifi_security_wfa">
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Сертифікат WAPI</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        <item>Увімкнено</item>
+        <item>3 секунди</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Підписка 1</item>
+        <item>Підписка 2</item>
+        <item>Повідомлення</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Поворот екрану відповідно до вашого положення</item>
+        <item>Поворот екрану відповідно до положення пристрою</item>
+        <item>Вимкнено</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+    	
+    	
+    	
+    <item>Використовувати час, наданий мережею</item>
+        <item>Використовувати час, наданий GPS</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        
+        
+        
+        
+    <item>Увімкнена</item>
+        <item>3 секунди</item>
+        <item>Автоматична</item>
+        <item>Вимкнена</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        
+        
+        
+    <item>Повертання жестом</item>
+        <item>Автоповорот</item>
+        <item>Вимк.</item>
+    </string-array>
+    <string-array name="softspacename">
+        
+        
+        
+    <item>Рекомендації щодо системи</item>
+        <item>Установити на телефон</item>
+        <item>Установити на карту пам\'яті за замовчуванням</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        
+        
+        
+        
+    <item>"Завжди"</item>
+        <item>"Лише під час заряджання"</item>
+        <item>"Ніколи (підвищує об\'єм передачі даних)"</item>
+        <item>"Розумний сон (увімкнення/вимкнення передачі даних у залежності від об\'єму)"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">Általános környezet</string>
+<string name="user_auto_start_user_summary">Biztonságos környezet automatikus indítása a háttérben a rendszerindításkor</string>
+<string name="user_setup_seuser_msg">Biztonságos környezet bekapcsolva. Belép most és befejezi a beállítást?</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"A(z) <xliff:g id="APP">%1$s</xliff:g> irányítja"</string>
+<string name="user_config_apps_for_seuser">Állítsa be a jelenlegi környezetben telepítendő alkalmazást</string>
+<string name="user_add_seuser_msg">Biztonságos környezet még nincs bekapcsolva. Bekapcsolja most?</string>
+<string name="user_auto_start_user">Biztonságos környezet indítása rendszerindításkor</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"Most nem"</string>
+<string name="user_need_lockscreen_for_seuser_msg">Az alkalmazásai és adatai biztonságos módban való védelméhez be kell állítania a képernyőzárat.</string>
+<string name="user_share_data_summary">Partnerek, szöveges üzenetek, hívásnaplók és egyéb adatok megosztása a két környezetben a rendszerindítás után valósul meg</string>
+<string name="app_name" msgid="1626402585530130914">"Beállítások"</string>
+<string name="done_button" msgid="1991471253042622230">"Kész"</string>
+<string name="user_share_data">Adatmegosztás</string>
+<string name="user_float_switch_button_summary">A lebegő gomb képernyőn való megjelenítésével lehetővé teheti a környezetek közötti váltást</string>
+<string name="user_security_mode">Biztonságos környezet</string>
+<string name="user_float_switch_button">Lebegő gomb</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"Képernyőzár beállítása"</string>
+    <string name="user_guide_title_2">Jelenlegi mód konfigurálása </string>
+    <string name="user_guide_title_3">Módokon átnyúló értesítések</string>
+    <string name="user_guide_title_1">A biztonságos mód bemutatása</string>
+    <string name="user_guide_title_4">Adatelkülönítés és -megosztás </string>
+    <string name="user_guide_desc_1">A biztonságos mód segítségével az alkalmazásokat, fiókokat, háttérképeket és képernyőzár jelszókat az aktuális módban találhatóktól eltérően konfigurálhatja. Érintse meg az állapotsoron a \"Biztonságos mód\" ikont a módok közötti gyors váltáshoz.</string>
+    <string name="user_guide_desc_2">Tartsa nyomva az állapotsoron a \"Biztonságos mód\" ikont az aktuális mód beállítási felületére való belépéshez. Konfigurálhatja az alkalmazást, amelyet az aktuális módban telepíteni kell.</string>
+    <string name="user_guide_desc_3">Normál módban az állapotsoron megjelennek a biztonsági módban működő alkalmazásoktól származó értesítések is. Az értesítési ikonon piros pont különbözteti meg őket az aktuális mód értesítéseitől. Módok közötti váltás az értesítések megtekintéséhez.</string>
+    <string name="user_guide_desc_4">A két mód alkalmazási adatait és dokumentumait teljesen külön kezeli a rendszer. A normál módú SD-kártya tartalma megtekinthető a biztonságos módú SD-kártya OpenUserData (nyílt felhasználói adatok) könyvtárában, de fordítva nem. A hívási és üzenetküldési funkciók mindkét módban való normál működésének biztosítása érdekében a hívásnapló, az üzenetnapló és a partneradatok meg vannak osztva a két mód között.</string>
+    <string name="user_remove_secure_user">Biztonságos környezet törlése</string>
+    <string name="user_privacy_mgt_summary">Az alkalmazások névjegyekhez, üzenetekhez és hívásnaplóhoz való hozzáférésének korlátozása.</string>
+    <string name="user_remove_secure_user_reboot_msg">A biztonságos környezetben található összes alkalmazási adat, fénykép és fájl törlődik. A módosítások alkalmazásához a rendszer automatikusan újraindul. Törli?</string>
+    <string name="user_bgapp_mgt">Háttéralkalmazások korlátozása</string>
+    <string name="user_privacy_mgt">Az adatvédelem hozzáférés-vezérlése</string>
+    <string name="user_privacy_mgt_msg">Az alkalmazások névjegyekhez, üzenetekhez és hívásnaplóhoz való hozzáférésének letiltása.</string>
+    <string name="user_bgapp_mgt_summary">Az alkalmazások háttérfolyamatai automatikus indításának és befejezésének letiltása.</string>
+    <string name="user_remove_secure_user_msg">A biztonságos környezetben található összes alkalmazási adat, fénykép és fájl törlődik. Törli?</string>
+    <string name="user_bgapp_mgt_msg">Az alkalmazás háttérfolyamatai automatikus indításának és befejezésének letiltása. Ne alkalmazza olyan alkalmazásokhoz, amelyeknek a háttérben kell futniuk, mint például az e-mail vagy a WhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">Az alkalmazás nincs más környezetekben telepítve, és az eltávolítás után teljesen törlődik a telefonjáról. Eltávolítja?</string>
+<string name="help_label">"súgó"</string>
+    <string name="user_uninstall_app_msg">Szeretné az aktuális környezet alatt eltávolítani az alkalmazást?</string>
+</resources>

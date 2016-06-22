@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar" sourcepath="D:/WorkMaterial/CAJ/Java_Android/Classification/读写xml文件/Dom4j解析XML/dom4j-1.6.1/src">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jaxen-1.1-beta-6.jar"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

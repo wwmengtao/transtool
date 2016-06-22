@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Подешавања"</string>
+    <string name="user_setup_button_setup_later">"Не сада"</string>
+    <string name="user_set_lock_button">"Подеси закључавање"</string>
+    <string name="done_button">"Готово"</string>
+    <string name="user_restrictions_controlled_by">"Контролише <xliff:g id="APP">%1$s</xliff:g>"</string>
+    <string name="help_label">"помоћ"</string>
+</resources>

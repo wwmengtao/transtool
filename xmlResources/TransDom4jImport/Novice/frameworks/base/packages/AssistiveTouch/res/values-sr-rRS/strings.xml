@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="normal_mode">Otvorena zona</string>
+<string name="security_mode">Bezbedna zona</string>
+</resources>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="other_wallpaper">Wallpaper Lain</string>
+<string name="show_dev_countdown">Anda kini tinggal beberapa langkah lagi untuk menjadi pengembang.</string>
+<string name="os_version">Nomor versi sistem</string>
+<string name="show_frame_count_title">Masuk ke Tutorial pemula</string>
+<string name="select_subscription">Pilih Langganan</string>
+<string name="usergudie_button_text">"Buka pengaturan boot"</string>
+<string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Semua data pengguna</xliff:g> (termasuk musik, foto, dan data pengguna lainnya) di <xliff:g>Memori Internal</xliff:g> akan dihapus. Cadangkan data Anda sebelum mereset ponsel."</string>
+<string name="authdlg_message">\'%1$s\' meminta izin untuk menyambung ke %2$s.</string>
+<string name="whatis_lenovoid_cando_summary"> "akses bebas ke asosiasi untuk berbagai aplikasi, layanan awan, dan layanan. Satu kartu di tangan, tidak diblokir. "</string>
+<string name="userguide_title">"Panduan Boot"</string>
+<string name="enable_traces_title" msgid="7448835465859512430">"Aktifkan jejak"</string>
+<string name="color_light_hasclose">Sudah tertutup</string>
+<string name="backup_recovery_dialog_message">Berhenti mencadangkan atau memulihkan data aplikasi?</string>
+<string name="never_timeout">Tidak pernah siaga</string>
+<string name="playertutorial_title">Tutorial Pengguna</string>
+<string name="startup_time">Daya aktif pada</string>
+<string name="keyboard_lights_title">Lampu keyboard</string>
+<string name="show_frame_count_size">Ukuran</string>
+<string name="accessibility_script_injection_allowed" msgid="7624804397748427621">"Diizinkan"</string>
+<string name="teos_settings">Efek layar</string>
+<string name="timing_shutdown_head_text">nonaktif</string>
+<string name="display_effect_of_screen_saturation_title">Saturasi</string>
+<string name="lock_title" product="default">Mengamankan ponsel Anda</string>
+<string name="lock_wallpaper">Kunci Wallpaper</string>
+<string name="devices_info_memory">"Memori：<xliff:g>%1$s</xliff:g>(bebas)  4 GB(total)"</string>
+<string name="roaming_time_settings_time_display">Program tampilan waktu</string>
+<string name="weather_live_wallpaper">Wallpaper Animasi Cuaca</string>
+<string name="enable_traces_summary_all" msgid="3950139649125158247">"Semua jejak saat ini diaktifkan"</string>
+<string name="data_usage_menu_restrict_systembgdata">"Izinkan data latar belakang sistem"</string>
+<string name="recovery_data_section_title">Pemulihan data</string>
+<string name="version_info">Info Versi</string>
+<string name="desktop_wallpaper">Wallpaper Desktop</string>
+<string name="data_usage_enable_mobile_statistics_dialog">Dengan mengaktifkan fitur ini, penggunaan daya akan tinggi pada jaringan biaya data tinggi seperti LTE...</string>
+<string name="reset_skip_backup_title">Lewati cadangan</string>
+<string name="data_connect_settings_title">Data</string>
+<string name="fuse_backup_data_to_cloud_title">Cadangkan data ke awan</string>
+<string name="ota_title">Pembaruan sistem</string>
+<string name="theme_settings_title">"Tema"</string>
+<string name="roaming_time_settings_category">Pengaturan roaming internasional</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> dapat mengumpulkan semua teks yang Anda ketik, kecuali sandi. Pengumpulan ini mencakup data pribadi seperti nomor kartu kredit. Layanan ini juga dapat mengumpulkan data tentang interaksi Anda dengan tablet."</string>
+<string name="enable_traces_dialog_title" msgid="5026490474669452929">"Pilih jejak yang diaktifkan"</string>
+<string name="authdlg_service_pbap">ponsel ini akan men-download kontak</string>
+<string name="display_effect_of_screen_sharpen_item1">Pertajam</string>
+<string name="backup_data_description">"Cadangkan Kontak dan data penting lainnya sebelum mengatur ulang ponsel"</string>
+<string name="all_setings_title">"Sistem"</string>
+<string name="hardware_version">Versi perangkat keras</string>
+<string name="color_light_unread_mms">Mms belum dibaca</string>
+<string-array name="contrast"> 
+         
+         
+    <item>Default</item>
+        <item>Tinggi</item>
+    </string-array>
+<string name="enable_traces_summary_none" msgid="1867562808503494163">"Tidak ada jejak yang saat ini diaktifkan"</string>
+<string name="china_telcom_push_summary">Layanan dorong gratis China Telecom</string>
+<string name="products_version">No. Model</string>
+<string name="color_light_missed_call">Panggilan hilang</string>
+<string name="stop_color_light">hentikan</string>
+<string name="data_usage_enable_mobile_statistics">Statistik data</string>
+<string name="startup_time_enabled">Jadwal daya aktif</string>
+<string name="what_lenovoid_cando_title"> "Izin masuk asosiasi, apa yang dapat saya lakukan? "</string>
+<string name="save_power_wait_title">"Harap tunggu..."</string>
+<string name="savepower_black_title">"Daftar Hitam"</string>
+<string name="framework_version">Nomor versi Android</string>
+<string name="fuse_backup_data_to_cloud_summary">Cadangkan data ponsel ke awan</string>
+<string name="display_effect_of_screen_apply">Terapkan</string>
+<string name="lock_intro_message" product="tablet">"Lindungi tablet Anda dari penggunaan yang tidak sah dengan membuat pola pembuka kunci layar pribadi. Geser jari Anda untuk menghubungkan titik-titik secara acak di layar berikutnya. Anda perlu menghubungkan setidaknya empat titik. "\n\n"Siap memulai? Sentuh Berikutnya."</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"Gunakan <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="monotype_preference_title">Gaya font</string>
+<string name="shutdown_time_enabled">Jadwal daya nonaktif</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> dapat mengumpulkan semua teks yang Anda ketik, kecuali sandi. Pengumpulan ini mencakup data pribadi seperti nomor kartu kredit. Layanan ini juga dapat mengumpulkan data tentang interaksi Anda dengan ponsel."</string>
+<string name="wifi_switch_summary">"Pendahuluan: Catat jaringan WLAN yang tersambung, dan bila nanti Anda menggunakan layanan data GPRS 3G/2G dalam area jangkauannya, Anda akan diingatkan untuk menyambung ke jaringan WLAN ini atau sistem akan menyambung ke jaringan ini secara otomatis."</string>
+<string name="screensaver_timeout_zero_summary">"Tidak pernah"</string>
+<string name="airplane_open_confirm">"Mode pesawat"</string>
+<string name="incoming_mms_ringer_title">"Nada dering olahpesan"</string>
+<string name="software_version">Nomor versi peranti lunak</string>
+<string name="display_effect_of_screen_sharpen_title">Ketajaman</string>
+<string name="devices_info_camera">"Kamera ：Depan 5juta  Belakang 13juta"</string>
+<string-array name="hue"> 
+         
+         
+         
+    <item>Dingin</item>
+        <item>Default</item>
+        <item>Hangat</item>
+    </string-array>
+<string name="playersTutorial_stoped">Aplikasi PlayersTutorial telah dihentikan.</string>
+<string name="lenovo_exp_title">Setuju untuk berpartisipasi dalam Program Lenovo Experience</string>
+<string name="authdlg_service_ftp">ponsel ini akan mentransfer file</string>
+<string name="display_effect_of_screen_cancel">Batal</string>
+<string name="recovery_data_summary">Ketuk untuk masuk ke cadangan data kartu SD</string>
+<string name="wlan_share">"Berbagi WLAN"</string>
+<string-array name="sharpen"> 
+         
+         
+    <item>Default</item>
+        <item>Pertajam</item>
+    </string-array>
+<string name="devices_info_screen">"Screen: 1080*720   5.0-inch"</string>
+<string name="track_frame_time_summary" msgid="447577515813970287">"Ukur waktu penguraian di adb shell dumpsys gfxinfo"</string>
+<string name="font_settings_title">"Pengaturan font"</string>
+<string name="exit">keluar</string>
+<string name="data_usage_disable_mobile_statistics_dialog">Dengan menonaktifkan fitur ini, pengumpulan statistik penggunaan data akan dimatikan.</string>
+<string name="wifi_switch_settings_title">Pengaitan lokasi WLAN</string>
+<string name="unlock_proximity_ctrl">Hindari Salah Sentuh Tombol Daya</string>
+<string name="authorizaion_failed_error">Otorisasi gagal. Tidak dapat menyambung ke perangkat remote.</string>
+<string name="teos_settings_title">Efek layar</string>
+<string name="accessibility_toggle_script_injection_preference_title" msgid="7950932054266694403">"Tingkatkan aksesibilitas web"</string>
+<string name="backup_data_section_title">Cadangan data</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"<xliff:g id="NUM">%1$d</xliff:g> jejak saat ini diaktifkan"</string>
+<string name="show_frame_count_summary">Tampilkan hitungan frame jika diaktifkan.</string>
+<string name="accessibility_script_injection_disallowed" msgid="8639525487720429182">"Tidak diizinkan"</string>
+<string name="authdlg_auto_reply">Jangan tanya lagi</string>
+<string name="reset_backup_befor_reset_title">Cadangkan data sebelum reset</string>
+<string name="location_consent_dialog_title">Izin lokasi</string>
+<string name="airplane_open_confirm_message">"Apakah akan mengizinkan membuka mode pesawat?"</string>
+<string name="color_light">Cahaya warna</string>
+<string name="devices_info_runMemory">"RAM: 2,0GB</string>
+<string name="show_frame_count_x_coordinate">Koordinat X</string>
+<string name="reset_backup_befor_reset_summary">Cadangkan data yang penting, mis. kontak, sebelum reset</string>
+<string name="authdlg_service_map">ponsel ini akan mengakses pesan</string>
+<string name="quicksettings">"pengaturan cepat"</string>
+<string name="personal_hotspot">"Hotspot Pribadi"</string>
+<string name="color_light_demo">Demo cahaya warna</string>
+<string name="authdlg_service_spp">port serial Bluetooth pada ponsel ini</string>
+<string name="savepower_white_title">"Daftar Putih"</string>
+<string name="sim_settings_title">Setelan Kartu Ganda</string>
+<string name="save_power_summary">"Pilih aplikasi untuk  penyelerasan waktu wake-up sistem"</string>
+<string name="lenovoID_registered_title">"Setuju menggunakan nomor ponsel sebagai akun Lenovo ID (sandi Lenovo)"</string>
+<string name="mannual">Masuk ke Tutorial pemula</string>
+<string name="save_power_title">"Penyelerasan Waktu Wake-up Sistem </string>
+<string name="authdlg_service_default">ponsel ini</string>
+<string name="header_category_personalcustom_k7">"Dipersonalisasi"</string>
+<string name="show_frame_count_y_coordinate">Koordinat Y</string>
+<string name="china_telcom_push_title">Dorong Yi China Telecom</string>
+<string name="roaming_time_settings_zone">Zona waktu yang disarankan</string>
+<string name="data_usage_tab_slot2">SIM 2</string>
+<string name="data_usage_tab_slot1">SIM 1</string>
+<string name="devices_info_buildNumber">"No. Build: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="show_frame_count_ok_button_text">"OK"</string>
+<string name="location_improve_allow">Layanan lokasi yang ditingkatkan melalui WLAN dan/atau jaringan seluler</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"Hentikan <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="authdlg_title">Permintaan Otorisasi Bluetooth</string>
+<string name="display_effect_of_screen_hue_title">Rona warna</string>
+<string name="lock_intro_message" product="default">Melindungi ponsel Anda dari penggunaan yang tidak sah dengan cara membuat pola pembuka penguncian layar pribadi. Geserkan jari Anda untuk menghubungkan setidaknya empat titik dalam sembarang urutan pada layar berikutnya.
+        \n\nSiap untuk mulai? Sentuh Berikutnya.
+    </string>
+<string name="whatis_lenovoid_summary"> "gunakan ponsel Anda sebagai akun masuk Lenovo, menjadi anggota Asosiasi. "</string>
+<string name="lenovo_exp_content">"Hanya mendukung CN"</string>
+<string name="simple_settings">Panduan pemula</string>
+<string name="A_gps_summary"> gunakan data bantuan untuk mempercepat waktu penetapan lokasi dengan GPS</string>
+<string name="safety_information_content">Upgrade sistem telepon lewat layanan pasca-penjualan resmi via Lenovo atau Fungsi upgrade sistem seluler Lenovo (OTA). Menggunakan cara lain untuk meng-upgrade sistem dapat mengakibatkan kegagalan peralatan atau hilangnya data, dan menimbulkan rusaknya kemampuan pengamanan sistem, sehingga memicu risiko keamanan. Untuk masalah yang ditimbulkan oleh penggunaan cara lain, Lenovo tidak menanggung kewajiban pemeliharaan.</string>
+<string name="color_light_other_summary">Weixin, QQ, Weibo</string>
+<string name="incoming_call_ringer_title">"Nada dering panggilan"</string>
+<string name="roaming_settings_title">Pengaturan Roaming</string>
+<string name="profile_settings">Pengaturan mode profil</string>
+<string name="unlock_set_unlock_speechpwd_title">"Gunakan Sandi suara dan Pola untuk melindungi"</string>
+<string name="display_effect_of_screen_contrast_title">Kontras</string>
+<string name="startup_shutdown_time_errmsg">Rentang waktu antara daya aktif dan nonaktif harus lebih lama dari 10 menit, harap atur lagi.</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"Apakah Anda ingin apl memasang skrip dari Google yang membuat konten webnya lebih mudah diakses?"</string>
+<string name="accessibility_script_injection_button_disallow" msgid="5697152768523270885">"Jangan izinkan"</string>
+<string name="data_summary">Penggunaan data dan kontrol APP</string>
+<string name="savepower_all_title">"Semua"</string>
+<string name="character_setings_title">"Fitur"</string>
+<string name="backup_recovery_data_summary">Data aplikasi cadangan atau pemulihan pada ponsel</string>
+<string name="showing_color_light">Lampu indikator warna </string>
+<string name="reset_skip_backup_summary">Pilih opsi ini untuk item yang telah dicadangkan atau tidak perlu dicadangkan</string>
+<string name="header_category_personalcustom">Personalisasikan</string>
+<string name="save_power_wait_message">"Memuat apl"</string>
+<string name="quicksettings_title">Penyiapan cepat</string>
+<string name="summary_keyboard_lights">KontrolPintar</string>
+<string name="authdlg_service_dun">layanan jaringan dial-up pada ponsel ini</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"Menyentuh Oke akan menghentikan <xliff:g id="SERVICE">%1$s</xliff:g>."</string>
+<string name="recovery_data_title">Pulihkan data dari cadangan kartu SD </string>
+<string name="unlock_set_unlock_speechnormal_title">"Suara membuka penguncian cepat"</string>
+<string name="backup_recovery_data_title">Data aplikasi cadangan atau pemulihan</string>
+<string name="show_screen_frame_count">Tampilkan hitungan frame layar</string>
+<string name="timing_startup_head_text">aktif</string>
+<string name="wifi_setting_summary">Saat memasukkan lokasi aplikasi yang terhubung dan memiliki data GPRS，tahan lokasi</string>
+<string name="save_power_count">"Total ada <xliff:g id="NUMBER">%d</xliff:g> aplikasi yang diselaraskan"</string>
+<string name="shutdown_time">Daya nonaktif pada</string>
+<string name="bluetooth_remote_device">perangkat Bluetooth</string>
+<string name="fuse_backup_data_description">"Cadangkan Kontak, Foto, Pesan, Aplikasi, dan data penting lainnya sebelum mereset ponsel Anda"</string>
+<string name="backup_data_to_sdcard_title">Cadangkan data ke kartu SD</string>
+<string name="authdlg_service_decline">"Tolak"</string>
+<string name="backup_data_recovery_section_title">Cadangan data dan pemulihan</string>
+<string name="settings_header_ringtone_k7">"Pengaturan Nada Dering"</string>
+<string name="fuse_recovery_data_from_cloud_summary">Ketuk untuk masuk ke cadangan data awan</string>
+<string name="i_know_it">Saya sudah tahu</string>
+<string name="accessibility_script_injection_button_allow" msgid="2201503285877102870">"Izinkan"</string>
+<string name="quicksettings_summary">Selamat menggunakan ponsel Lenovo, silakan mulai dengan penyiapan cepat! Anda dapat\n mengatur ponsel secara terpisah di "Penyiapan sistem".</string>
+<string name="backup_data">"Cadangkan data sebelum mengatur ulang ponsel"</string>
+<string name="sim_not_available">Kartu SIM tidak tersedia</string>
+<string name="preference_status_open">"Buka"</string>
+<string-array name="saturation"> 
+         
+         
+         
+    <item>Lembut</item>
+        <item>Default</item>
+        <item>Terang</item>
+    </string-array>
+<string name="color_light_battery">Baterai</string>
+<string name="lock_title" product="tablet">"Mengamankan ponsel Anda"</string>
+<string name="unlock_set_unlock_speech_title">Pengaktifan dengan Suara</string>
+<string name="user_you_section" msgid="6247838798859425408">"Anda"</string>
+<string name="internal_version">Nomor versi internal</string>
+<string name="backup_data_to_sdcard_summary">Cadangkan data ponsel ke kartu SD</string>
+<string name="fuse_recovery_data_from_cloud_title">Pulihkan data dari awan</string>
+<string name="safety_information">informasi keamanan</string>
+<string name="authdlg_service_opp">ponsel ini</string>
+<string name="whatis_lenovoid_title"> "Apakah izin masuk asosiasi? "</string>
+<string name="color_light_hasopen">Sudah terbuka</string>
+<string name="preference_status_close">Tutup</string>
+<string name="apn_call_number">Nomor telepon PPP</string>
+<string name="sound_settings_title">"Suara"</string>
+<string name="color_light_other">"Lainnya"</string>
+<string name="authdlg_service_accept">Beri otorisasi</string>
+<string name="display_effect_of_screen_contrast_item0">Dingin</string>
+<string name="common_setings_title">"umum"</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="unlock_proximity_ctrl_summary">saat ponsel di dalam saku, nonaktifkan layar secara otomatis sewaktu tombol daya disentuh tanpa disengaja.</string>
+<string name="display_effect_of_screen_contrast_item2">Hangat</string>
+<string name="timing_startup_and_shutdown_settings_title">Jadwalkan pengaktifan/penonaktifan</string>
+<string name="devices_info_firmwareVersion">"Versi Android: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="show_hw_overdraw_summary" msgid="4295714000923082647">"Terbaik-terburuk: biru, hijau, merah terang, merah"</string>
+<string name="display_effect_of_screen_saturation_item0">Lembut</string>
+<string name="show_frame_count_cancel_button_text">"Batal"</string>
+<string name="location_consent_dialog_message">Izinkan layanan lokasi untuk mengumpulkan data lokasi anonim. Beberapa data mungkin tersimpan di perangkat Anda. Pengumpulan dapat terjadi bahkan saat tidak ada aplikasi yang berjalan.</string>
+<string name="color_light_call">"Telepon"</string>
+<string name="display_effect_of_screen_saturation_item2">Terang</string>
+    <string name="subscription_02_title">SIM 2</string>
+    <string name="operator_name_china_mobile">"China Mobile"</string>
+    <string name="operator_name_china_telcom">"China Telcom"</string>
+    <string name="devices_info_cpu">"CPU：fore-core 2.2GHz"</string>
+    <string name="location_network_service">Qualcomm iZat</string>
+    <string name="show_password_summary">Tak ada akun </string>
+    <string name="display_effect_of_screen_sharpen_item0">"Bawaan"</string>
+    <string name="action_settings">"Setelan"</string>
+    <string name="devices_info_products_version">"Model: Lenovo K910"</string>
+    <string name="subscription_01_title">SIM 1</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="volume_title">"Volume"</string>
+    <string name="hello_world">Halo dunia!</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="operator_name_china_unicom">"China Unicom"</string>
+    <string name="apprateinfo">Penggunaan data</string>
+    <string name="display_effect_of_screen_contrast_item1">"Bawaan"</string>
+    <string name="display_effect_of_screen_saturation_item1">"Bawaan"</string>
+    <string name="app_name">com.datasummary.LeoDataSummary</string>
+    <string name="uid">uid</string>
+    <string name="current_month">Bulan ini =</string>
+    <string name="info">Sebagaimana diukur oleh ponsel Anda. Penghitungan penggunaan data operator Anda bisa berbeda.</string>
+    <string name="appname">nama apl</string>
+    <string name="disable">nonaktifkan</string>
+    <string name="today">hari ini</string>
+    <string name="appcontrol">Firewall Jaringan</string>
+</resources>

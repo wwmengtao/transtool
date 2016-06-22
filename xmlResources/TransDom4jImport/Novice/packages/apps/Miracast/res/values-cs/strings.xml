@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Bezdrátový displej"</string>
+    <string name="miracast_app_name">"Bezdrátový displej"</string>
+    <string name="welcome_version">Verze <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"Připojení k zařízení"</string>
+    <string name="item_device_mode_audio_only_title">Zvuk</string>
+    <string name="item_device_mode_video_only_title">Video</string>
+    <string name="item_device_mode_meeting_title">setkání </string>
+    <string name="item_device_mode_connect_title">Připojit</string>
+    <string name="item_device_mode_disconnect_title">"Odpojit"</string>
+    <string name="item_device_mode_rename_title">Přejmenovat</string>
+    <string name="item_device_mode_forget_title">Zapomenout</string>
+    <string name="activity_settings_title">"Nastavení"</string>
+    <string name="preference_settings_resolution_title">Rozlišení</string>
+    <string name="preference_settings_update_title">"O kontaktu"</string>
+    <string name="dlg_confirm_switch_av_message">Chcete-li přepnout režim, je nejprve nutné odpojit aktuální připojení.\nChcete jej nyní přepnout?</string>
+    <string name="dlg_loading_scan_device_message">Vyhledávání zařízení...</string>
+    <string name="dlg_loading_enable_wifi_message">Povolování sítě WLAN...</string>
+    <string name="dlg_loading_reconnect_message">Režim přepínání, opakované připojování...</string>
+    <string name="toast_connecting">Probíhá připojování, zkuste to znovu později</string>
+    <string name="toast_already_connected">Již je připojeno jiné zařízení, nejprve je odpojte</string>
+    <string name="toast_device_not_available">Nelze připojit, zařízení není dostupné</string>
+    <string name="tutor_message_1">Připojte hardwarový klíč AllShare Cast k zařízení HDMI pomocí kabelu HDMI A–A.</string>
+    <string name="tutor_message_2">Jakmile začne blikat červená kontrolka, klepněte na tlačítko Resetovat. Počkejte, dokud kontrolka nezmodrá. Při opětovném připojování není třeba na ni klepnout znovu.</string>
+    <string name="tutor_message_4">Bude-li připojení úspěšné, můžete sdílet svou obrazovku s jiným zařízením.</string>
+    <string name="tutor_message_audioonly">Pokud hardwarový klíč podporuje audio výstup, můžete zkusit režim Pouze audio a vyzkoušet bezdrátovou hudbu.</string>
+    <string name="tutor_message_videoonly">Chcete-li připojit hardwarový klíč pomocí rozhraní DVI nebo VGA, doporučuje se režim Pouze video.</string>
+    <string name="activity_meeting_mode_title">Režim setkání</string>
+    <string name="tutor_message_3">Spusťte aplikaci Miracast a přepněte tlačítko Povolit na hodnotu Zapnuto. V seznamu dostupných zařízení se zobrazí názvy zařízení, která je možné připojit</string>
+    <string name="dlg_select_resolution_title">Vybrat rozlišení</string>
+    <string name="dlg_confirm_switch_video_message">Režim videa bude sdílet obsah na obrazovce pouze prostřednictvím dongle. \nChcete-li přepínat mezi režimy, aktuální připojení je nutné odpojit. \nPokračovat?</string>
+    <string name="dlg_rename_title">Přejmenovat zařízení</string>
+    <string name="dlg_confirm_disconnect_message">Odpojit?</string>
+    <string name="toast_not_paired">Dostupné pouze u připojených zařízení</string>
+    <string name="dlg_confirm_switch_audio_message">Režim zvuku bude sdílet zvuk pouze prostřednictvím dongle. Než se přepnete do režimu zvuku, ověřte, zda je podporován vaším dongle. V opačném případě se připojení nezdaří. \nChcete-li přepínat mezi režimy, aktuální připojení je nutné odpojit. \nPokračovat?</string>
+    <string name="dlg_confirm_forget_message">Odebrat zařízení ze seznamu připojených zařízení?</string>
+    <string name="preference_settings_meeting_mode_title">Režim setkání</string>
+    <string name="preference_settings_tutor_title">Průvodce</string>
+    <string name="dlg_confirm_meeting_mode_message">Hovory jsou v režimu setkání omezené a zprávy SMS se automaticky zobrazují v popředí. Povolit režim setkání?</string>
+</resources>

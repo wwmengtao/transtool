@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="miracast_app_name">无线同屏</string>
+    <string name="welcome_version">V<xliff:g id="version">%1s</xliff:g> 版本</string>
+
+    <string name="main_connect_switch_title">连接设备</string>
+
+    <string name="item_device_mode_audio_only_title">音频</string>
+    <string name="item_device_mode_video_only_title">视频</string>
+    <string name="item_device_mode_meeting_title">会议</string>
+    <string name="item_device_mode_connect_title">连接</string>
+    <string name="item_device_mode_disconnect_title">断开</string>
+    <string name="item_device_mode_rename_title">重命名</string>
+    <string name="item_device_mode_forget_title">删除</string>
+
+    <string name="activity_settings_title">设置</string>
+    <string name="activity_meeting_mode_title">会议模式</string>
+
+    <string name="preference_settings_resolution_title">分辨率</string>
+    <string name="preference_settings_meeting_mode_title">会议模式</string>
+    <string name="preference_settings_update_title">关于</string>
+    <string name="preference_settings_tutor_title">教程</string>
+
+    <string name="dlg_select_resolution_title">选择分辨率</string>
+    <string name="dlg_select_resolution_item_720p">720p</string>
+    <string name="dlg_select_resolution_item_1080p">1080p</string>
+
+    <string name="dlg_confirm_forget_message">是否要将设备从已连接列表中移除?</string>
+    <string name="dlg_confirm_disconnect_message">是否要断开连接?</string>
+    <string name="dlg_confirm_meeting_mode_message">会议模式会禁止电话，短信等主动在前台显示，是否要打开会议模式?</string>
+    <string name="dlg_confirm_switch_av_message">切换模式必须首先断开当前连接。\n是否继续？</string>
+    <string name="dlg_confirm_switch_video_message">视频模式只会通过 dongle 共享屏幕内容。\n切换模式必须首先断开当前连接。\n是否继续？</string>
+    <string name="dlg_confirm_switch_audio_message">音频模式只会通过 dongle 共享音频。切换音频模式前请确认您的 dongle 支持音频模式，否则无法连接成功。\n切换模式必须首先断开当前连接。\n是否继续？</string>
+
+    <string name="dlg_loading_scan_device_message">搜索设备 ...</string>
+    <string name="dlg_loading_enable_wifi_message">正在打开 wlan ...</string>
+    <string name="dlg_loading_reconnect_message">切换模式，正在重连 ...</string>
+    <string name="dlg_rename_title">设备重命名</string>
+
+    <string name="toast_connecting">正在连接，请稍候重试</string>
+    <string name="toast_already_connected">已连接至其他设备，请先断开连接</string>
+    <string name="toast_device_not_available">无法连接，设备不可用</string>
+    <string name="toast_not_paired">只有已连接设备可进行此操作</string>
+
+    <string name="tutor_message_1">使用 HDMI A-TO-A 电缆将 AllShare Cast dongle 连接至 HDMI 设备</string>
+    <string name="tutor_message_2">当红色指示灯开始闪烁时，轻敲重置。指示灯将变蓝。重新连接时您将无需轻敲重置</string>
+    <string name="tutor_message_3">进入无线同屏应用启用您设备上的 Screen Mirroring。AllShare Cast dongle 的名称会显示在该应用的可连接列表中</string>
+    <string name="tutor_message_4">连接后，您可将设备的屏幕与另一设备共享</string>
+    <string name="tutor_message_audioonly">如果 dongle 支持音频输出，可选择 Audio Only 模式连接，体验无线音乐</string>
+    <string name="tutor_message_videoonly">如果要连接至一个支持 VGA 接口或者 DVI 接口的 dongle，建议使用 Video Only 模式连接</string>
+
+    <string name="app_name">"无线显示"</string>
+</resources>

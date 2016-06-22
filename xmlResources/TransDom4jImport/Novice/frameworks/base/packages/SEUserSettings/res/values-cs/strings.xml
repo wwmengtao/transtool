@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">Obecné prostředí</string>
+<string name="user_auto_start_user_summary">Automaticky na pozadí při spuštění zapnout bezpečné prostředí</string>
+<string name="user_setup_seuser_msg">Bezpečné prostředí je zapnuté. Chcete vstoupit a dokončit nastavení?</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"Řízeno aplikací <xliff:g id="APP">%1$s</xliff:g>"</string>
+<string name="user_config_apps_for_seuser">Vyberte aplikaci, kterou chcete naistalovat do aktuálního prostředí</string>
+<string name="user_add_seuser_msg">Bezpečné prostředí zatím není zapnuto. Chcete jej nyní zapnout?</string>
+<string name="user_auto_start_user">Zapnout při spuštění bezpečné prostředí</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"Nyní ne"</string>
+<string name="user_need_lockscreen_for_seuser_msg">Aby byly vaše aplikace a data chráněny, uzamkněte obrazovku.</string>
+<string name="user_share_data_summary">Sdílení kontaktů, textových zpráv a záznamů volání v rámci obou prostředí se projeví až po restartování</string>
+<string name="app_name" msgid="1626402585530130914">"Nastavení"</string>
+<string name="done_button" msgid="1991471253042622230">"Hotovo"</string>
+<string name="user_share_data">Sdílení dat</string>
+<string name="user_float_switch_button_summary">V zájmu snazšího přepínání prostředí mějte na obrazovce plovoucí tlačítko</string>
+<string name="user_security_mode">Bezpečné prostředí</string>
+<string name="user_float_switch_button">Plovoucí tlačítko</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"Nastavit zámek"</string>
+    <string name="user_guide_title_2">Konfigurace aktuálního režimu </string>
+    <string name="user_guide_title_3">Upozornění křížového režimu</string>
+    <string name="user_guide_title_1">Úvod k režimu zabezpečení</string>
+    <string name="user_guide_title_4">Izolace a sdílení dat </string>
+    <string name="user_guide_desc_1">Režim zabezpečení umožňuje konfigurovat aplikace, účty, tapety a hesla pro uzamčení obrazovky, která se liší od těch používaných v aktuálním režimu. Po klepnutí na ikonu „Režim zabezpečení“ na stavovém panelu rychle přepínáte mezi režimy.</string>
+    <string name="user_guide_desc_2">Stisknutím a přidržením ikony „Režim zabezpečení“ na stavovém panelu přejdete do rozhraní nastavení aktuálního režimu. Nakonfigurujte aplikaci, kterou chcete nainstalovat v aktuálním režimu.</string>
+    <string name="user_guide_desc_3">V normálním režimu se veškerá upozornění z aplikací v režimu zabezpečení budou zobrazovat na stavovém panelu. Na ikoně upozornění se objeví červená tečka, která slouží pro odlišení od upozornění v aktuálním stavu. Přepněte režimy a zobrazte upozornění.</string>
+    <string name="user_guide_desc_4">Data a dokumenty aplikace v těchto dvou režimech zůstávají zcela oddělené. Obsah karty SD v normálním režimu lze zobrazit v adresáři OpenUserData na kartě SD s režimem zabezpečení, ne však obráceně. Protokol volání, protokol zpráv a kontakty se mezi oběma režimy sdílejí, aby se zajistil normální provoz funkcí volání a zpráv v obou režimech.</string>
+    <string name="user_remove_secure_user">Odstranit bezpečné prostředí</string>
+    <string name="user_privacy_mgt_summary">Omezit přístup aplikacím ke kontaktům, zprávám a protokolu volání.</string>
+    <string name="user_remove_secure_user_reboot_msg">Veškerá data aplikací, fotografie a soubory v bezpečném prostředí budou vymazány. Systém se automaticky restartuje a použije změny. Odstranit?</string>
+    <string name="user_bgapp_mgt">Omezit aplikace na pozadí</string>
+    <string name="user_privacy_mgt">Kontrola přístupu k soukromým údajům</string>
+    <string name="user_privacy_mgt_msg">Blokovat přístup aplikací ke kontaktům, zprávám a protokolu volání.</string>
+    <string name="user_bgapp_mgt_summary">Blokovat automatické spouštění aplikací a ukončit jejich procesy na pozadí.</string>
+    <string name="user_remove_secure_user_msg">Veškerá data aplikací, fotografie a soubory v bezpečném prostředí budou vymazány. Odstranit?</string>
+    <string name="user_bgapp_mgt_msg">Blokovat automatické spouštění aplikace a ukončit její procesy na pozadí. Nepoužívat na aplikace, které musejí být spuštěny na pozadí, jako je například e-mail a aplikace WhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">Aplikace není nainstalována v jiných prostředích a po odinstalování bude z telefonu zcela odstraněna. Odinstalovat?</string>
+<string name="help_label">"nápověda"</string>
+    <string name="user_uninstall_app_msg">Chcete odinstalovat tuto aplikaci v aktuálním prostředí?</string>
+</resources>

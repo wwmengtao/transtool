@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="menu_settings">"Nastavenia"</string>
+    <string name="hello_world">Ahoj, svet!</string>
+    <string name="open">"Otvoriť"</string>
+    <string name="exit">Ukončiť</string>
+    <string name="add">"Pridať"</string>
+    <string name="close">"Zavrieť"</string>
+    <string name="confirm">"Potvrdiť"</string>
+    <string name="cancle">"Zrušiť"</string>
+    <string name="authorization_message">Chcete túto aplikáciu otvoriť pomocou funkcie viacnásobného okna?</string>
+    <string name="tips">Potiahnutím vytvoriť viacnásobné okná</string>
+    <string name="app_browser_title">Aplikácia Multi-Window (Viacnásobné okno)</string>
+    <string name="authorization_notication">Oznámenie o potvrdení</string>
+</resources>

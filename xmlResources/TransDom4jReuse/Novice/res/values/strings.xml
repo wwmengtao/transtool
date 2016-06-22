@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Tutorial</string>
+        
+    <string name="searchresult" product="default">search result</string>   
+    <string name="searchLabel">search</string>
+    <string name="searchHint" translatable="false">please input</string>
+    <string name="searchnoresult">no result</string>
+    <string name="nolenovowizard" translatable="false">can not find NoviceTutorial in system</string>
+    <string-array name="array1">
+	<item> T1</item>
+	<!--new-->
+	<item>T2	</item>
+	</string-array>
+	
+<string-array name="array2">
+	<item>@string/c1</item>
+	<!--new-->
+	<item>@string/c2</item>
+	<item>@string/c3</item>	
+	</string-array>
+	
+<string-array name="array3">
+	<item>@string/c31</item>
+	<!--new-->
+	<item>@string/c32</item>
+	<item>@string/c33</item>	
+	</string-array>
+<string-array name="array4">
+	<item>@string/c41</item>
+	<!--new-->
+	<item>string/c42_src</item>
+	<item>@string/c43</item>	
+	</string-array>		
+    <!-- file.xml -->
+<!-- Do not translate. Used as the value for a setting. -->
+
+    <string name="default_date_format">Do not translate!</string>	
+    <string name="lessons">Quick start</string>
+    <string name="functionkeyscontent">"Function keys"</string>
+    <string name="mainscreen">Main screen</string>
+    <string name="notificationbar">Notification</string>
+    <string name="lessons12">@string/qc</string>
+
+    <!-- Do not translate. -->
+    <string name="debug_intent_sender_label">src</string>	
+	<integer name="asd">src</integer>
+	<!-- Privacy Screen,setting option name under Privacy Personal data -->
+    <string name="drm_settings_title">src</string>
+	 <string name="drm_settings_title">DRM reset</string>
+	 
+	 <string name ="sdfsdf"/>
+	 <string name ="sdfsdf">""</string>
+	 <string name ="sdfsdfs">"src"</string>	
+	 <plurals name="app_deny_unit_count">
+        <item quantity="other"><xliff:g id="app_count">%1$d</xliff:g>款应用, <xliff:g id="deny_count">%2$d</xliff:g>款已禁止</item>
+        <item quantity="one"><xliff:g id="app_count">%1$d</xliff:g>款应用1, <xliff:g id="deny_count">%2$d</xliff:g>款已禁止</item>		
+    </plurals>
+<plurals name="app_deny">
+        <item quantity="one"><xliff:g id="app_count">%1$d</xliff:g>款应用1, <xliff:g id="deny_count">%2$d</xliff:g>款已禁止</item>
+        <item quantity="other"><xliff:g id="app_count">%1$d</xliff:g>款应用o, <xliff:g id="deny_count">%2$d</xliff:g>款已禁止</item>
+    </plurals>	
+	<integer name="asd">asdf</integer>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xlmns="ss">
+    <string name="app_name">Tutorial</string>
+        
+    <string name="searchresult" product="lenovo">search result</string>   
+    <string name="searchLabel">search</string>
+    <string name="searchHint">please input</string>
+    <string name="searchnoresult">no result</string>
+    <string name="nolenovowizard">can not find NoviceTutorial in system</string>
+	<string-array name="array1" product="lenovo">
+	
+	<item>T1</item>
+	<!--new-->
+	<item>T2</item>
+	</string-array>
+</resources>

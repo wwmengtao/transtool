@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="silent_mode_outdoor">Luar</string>
+<string name="capital_on">HIDUP</string>
+<string name="volume_icon_description_bluetooth" msgid="6538894177255964340">"Kelantangan Bluetooth"</string>
+<string name="not_support_too_long_string">Tidak menyokong untuk mencari rentetan terlalu panjang</string>
+<string name="volume_icon_description_notification" msgid="7044986546477282274">"Kelantangan pemberitahuan"</string>
+<string name="dlg_use_ipo_confirm">But pantas pada pengebutan seterusnya</string>
+<string name="prevent_misoperation_message">Jangan tutup bahagian atas skrin</string>
+<string name="volume_alarm" msgid="1985191616042689100">"Kelantangan penggera"</string>
+<string name="reboot_confirm_title">Mula semula</string>
+<string name="ext_storage_external_notification_title">Menyediakan Storan Luaran</string>
+<string name="captive_portal_dialog_message">Rangkaian wayarles yang sedang bersambung sekarang memerlukan maklumat log masuk lain untuk mengakses Internet. Sila log masuk. </string>
+<string name="usb_notification_title">Tetapan Sambungan USB</string>
+<string name="prevent_misoperation_quit_hint">Paksa berhenti: tekan \"Back\" + \"Volume Up\" pada masa yang sama</string>
+<string name="long_back_exit_info">keluar</string>
+<string name="global_actions_toggle_open_airplane_mode_confirm">Buka mod pesawat?</string>
+<string name="keyguard_password_waring_dlg_remind">Sila masukkan lenovo dan klik “Ok” untuk memasukkan kata laluan.</string>
+<string name="storage_external_usb">Storan USB luaran</string>
+<string name="reboot_dialog_msg">"Tekan kekunci kuasa selama <xliff:g id="DELAY">^1</xliff:g> saat dan telefon sel anda akan dimatikan; tekan kekunci kuasa selama 2 saat lagi dan telefon sel anda akan dihidupkan semula."</string>
+<string name="default_string">Lalai</string>
+<string name="turn_off_data">Mati</string>
+<string name="captive_portal_dialog_button">Log masuk</string>
+<string name="storage_phone">Storan USB</string>
+<string name="next_time_no_warning">Jangan tunjukkan mesej ini lagi</string>
+<string name="silent_mode_silent">Senyap</string>
+<string name="silent_mode_vibrate">Getaran</string>
+<string name="author">Pengarang Lenovo</string>
+<string name="msg_shutdown_habit_guess">Baru-baru ini, anda telah mematikan peranti anda buat masa ini tiga kali secara berturut-turut. Anda ingin mengkonfigurasi seting hidup-mati tetap? Klik batalkan untuk mematikan kuasa sekarang.</string>
+<string name="keyguard_password_waring_dlg_title">Kata laluan salah</string>
+<string name="volume_icon_description_media" msgid="4217311719665194215">"Kelantangan media"</string>
+<string name="app_name">Klasikal</string>
+<string name="keyguard_password_attempts_warning">"Anda telah membuat  <xliff:g id="NUMBER_0">%d</xliff:g> percubaan yang tidak betul untuk membuka kunci telefon ini. Jika anda masih tidak berjaya selepas mencuba <xliff:g id="NUMBER_1">%d</xliff:g> kali lagi, telefon anda akan disetkan kepada nilai lalai kilang dan semua data pengguna akan hilang."</string>
+<string name="capital_off">MATI</string>
+<string name="captive_portal_dialog_title">Gesaan log masuk WLAN</string>
+<string name="storage_usb">Storan USB</string>
+<string name="usb_notification_content">Pilih mod lekap usb dan nyahpepijat adb.</string>
+<string name="prevent_misoperation_title">Mod pencegahan dailan poket</string>
+<string name="reboot_confirm_msg">Telefon sel anda akan dimulakan semula</string>
+<string name="turn_on_data">Buka</string>
+<string name="global_action_reboot">Mula semula</string>
+<string name="silent_mode_normal">Umum</string>
+<string name="kg_forgot_password_button_text">Terlupa Kata Laluan</string>
+<string name="ext_storage_internal_notification_title">Menyediakan Storan Dalaman</string>
+<string name="turn_on_mobile_data_warning">Telefon anda mungkin akan menjanakan trafik data tertentu sekiranya sambungan data terbuka.  Akan dikenakan bayaran oleh operator.  Anda pasti anda hendak membukanya? </string>
+<string name="storage_sd_card">Storan SD</string>
+<string name="description">Tema lalai Lenovo </string>
+<string name="keyguard_password_dlg_input_err">Kata laluan salah. Sila cuba lagi</string>
+<string name="volume_icon_description_ringer" msgid="3326003847006162496">"Kelantangan nada dering"</string>
+<string name="dlg_ipo_confirm_warning">Dalam mod but pantas, sistem tidak dimatikan sepenuhnya, jangan masukkan kad SIM atau kad memori dalam keadaan ini yang boleh merosakkan kad itu.</string>
+<string name="volume_matv">TV Mudah Alih</string>
+<string name="volume_icon_description_incall" msgid="8890073218154543397">"Kelantangan panggilan"</string>
+<string name="powerOnWarning_boot_msg">Kuasa tetap pada masanya (%1$s) diaktifkan</string>
+<string name="powerOnWarning_alarm_msg">Matikan penggera akan bermula pada %1$s</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Bluetooth akan dimatikan apabila anda menghidupkan paparan wayarles. Adakah anda ingin teruskan?</string>
+</resources>

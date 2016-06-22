@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">การตั้งค่าการซิงค์ทั่วไป</string>
+    <string name="sync_interval_settings">การตั้งค่าช่วงการซิงค์</string>
+    <string name="try_sso_again">ลองลงชื่อเข้าใช้คนเดียวอีกครั้ง</string>
+    <string name="for_syncing">สำหรับการซิงค์</string>
+</resources>

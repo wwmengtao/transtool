@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="menu_settings">"Definições"</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="open">"Abrir"</string>
+    <string name="exit">Exit</string>
+    <string name="add">Adicionar</string>
+    <string name="close">Fechar</string>
+    <string name="confirm">"Confirmar"</string>
+    <string name="cancle">"Cancelar"</string>
+    <string name="authorization_message">Pretende abrir esta aplicação com o MultiWindow?</string>
+    <string name="tips">Arraste para criar multi-janelas</string>
+    <string name="app_browser_title">Aplicação MultiWindow</string>
+    <string name="authorization_notication">Notificação de autorização</string>
+</resources>

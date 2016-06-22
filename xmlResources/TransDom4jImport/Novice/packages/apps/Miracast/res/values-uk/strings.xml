@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Бездротове відображення"</string>
+    <string name="miracast_app_name">"Бездротове відображення"</string>
+    <string name="welcome_version">Версія <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"Під’єднатися до пристрою"</string>
+    <string name="item_device_mode_audio_only_title">"Звук"</string>
+    <string name="item_device_mode_video_only_title">"Відео"</string>
+    <string name="item_device_mode_meeting_title">Нарада</string>
+    <string name="item_device_mode_connect_title">"Під’єднатися"</string>
+    <string name="item_device_mode_disconnect_title">"Від’єднати"</string>
+    <string name="item_device_mode_rename_title">"Перейменувати"</string>
+    <string name="item_device_mode_forget_title">"Видалити"</string>
+    <string name="activity_settings_title">"Налаштування"</string>
+    <string name="preference_settings_resolution_title">Розв’язання</string>
+    <string name="preference_settings_update_title">"Про контакт"</string>
+    <string name="dlg_confirm_switch_av_message">Для змінення режиму необхідно спочатку розірвати поточне з\'єднання.\nЗмінити зараз?</string>
+    <string name="dlg_loading_scan_device_message">Сканування пристроїв…</string>
+    <string name="dlg_loading_enable_wifi_message">Увімкнення WLAN…</string>
+    <string name="dlg_loading_reconnect_message">Режим перемикання, повторне встановлення з\'єднання...</string>
+    <string name="toast_connecting">Встановлення з\'єднання, спробуйте пізніше!</string>
+    <string name="toast_already_connected">Вже встановлено з\'єднання з іншим пристроєм, спочатку розірвіть з\'єднання</string>
+    <string name="toast_device_not_available">Неможливо встановити з\'єднання, пристрій недоступний</string>
+    <string name="tutor_message_1">Під\'єднайте електронний ключ AllShare Cast до пристрою HDMI за допомогою кабелю HDMI A-A.</string>
+    <string name="tutor_message_2">Коли почне блимати червоний індикатор, натисніть кнопку скидання. Зачекайте, доки індикатор стане синім. Додаткові натискання під час повторного встановлення з\'єднання не потрібні.</string>
+    <string name="tutor_message_4">У випадку успішного встановлення з\'єднання можна переглядати вміст екрана за допомогою іншого пристрою.</string>
+    <string name="tutor_message_audioonly">Якщо для виведення аудіо використовується електронний ключ, можна спробувати скористатись режимом \"Лише аудіо\" для бездротового прослуховування музики.</string>
+    <string name="tutor_message_videoonly">Якщо потрібно встановити з\'єднання з електронним ключем, що має інтерфейс DVI або VGA, рекомендується використовувати режим \"Лише відео\".</string>
+    <string name="activity_meeting_mode_title">Режим наради</string>
+    <string name="tutor_message_3">Увійдіть у Miracast і встан. кнопку активації в полож. ввімк. Назви пристроїв, із якими можна встановити з\'єднання, з\'являться у списку доступних пристроїв</string>
+    <string name="dlg_select_resolution_title">Виберіть розд. здат.</string>
+    <string name="dlg_confirm_switch_video_message">У реж. відео дост. до вмісту екр. надається лише за доп. ключа dongle. \nДля зміни режимів необхідно розірвати поточне з\'єднання. \nПродовжити?</string>
+    <string name="dlg_rename_title">Перейменувати пристрій</string>
+    <string name="dlg_confirm_disconnect_message">Розірвати з\'єднання?</string>
+    <string name="toast_not_paired">Опер. доступ. лише для пристр., з якими є зв\'язок</string>
+    <string name="dlg_confirm_switch_audio_message">У реж. аудіо дост. до аудіо надається лише за доп. ключа dongle. Перед переходом у реж. аудіо переконайтеся, що він підтримується ключем dongle; інакше з\'єдн. встан. не буде. \nДля зміни режимів необхідно розірвати поточне з\'єднання. \nПродовжити?</string>
+    <string name="dlg_confirm_forget_message">Видалити цей пристр. зі спис. під\'єдн. пристроїв?</string>
+    <string name="preference_settings_meeting_mode_title">Режим наради</string>
+    <string name="preference_settings_tutor_title">Посібник</string>
+    <string name="dlg_confirm_meeting_mode_message">У режимі наради виклики заборонені, а SMS автоматично відображаються у фоні. Увімк. режим наради?</string>
+</resources>

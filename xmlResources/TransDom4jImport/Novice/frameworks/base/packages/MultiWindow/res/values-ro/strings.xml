@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="close">Închidere</string>
+<string name="add">adăugare</string>
+<string name="cancle">"Anulaţi"</string>
+<string name="open">"Deschideţi"</string>
+<string name="confirm">"Confirmaţi"</string>
+<string name="menu_settings">"Setări"</string>
+<string name="hello_world">Bună oameni buni!</string>
+    <string name="app_name">Fer.mult.</string>
+    <string name="authorization_message">Veţi deschide această aplicaţie cu Fer.mult.?</string>
+    <string name="tips">Trageţi pentru a crea ferestre multiple</string>
+    <string name="app_browser_title">Aplicaţia Fer.mult.</string>
+    <string name="authorization_notication">Notificare de autorizare</string>
+</resources>

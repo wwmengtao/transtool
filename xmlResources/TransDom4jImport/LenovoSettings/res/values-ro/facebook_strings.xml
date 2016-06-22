@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+    <string name="general_sync_settings">Setări generale sincroniz.</string>
+    <string name="sync_interval_settings">Setări interval de sincroniz.</string>
+    <string name="try_sso_again">Încercaţi din nou înregistrarea unică</string>
+    <string name="for_syncing">Pentru sincronizare</string>
+</resources>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+	<string name="yes" msgid="4676390750360727396">"Ya"</string>
+	<string name="no" msgid="6731231425810196216">"Tidak ada"</string>
+	<string name="silent_mode_title" msgid="3181479108593217704">"Mode suara nonaktif"</string>
+	<string name="ringtone_title" msgid="5379026328015343686">"Nada dering"</string>
+	<string name="ringtone_summary" msgid="2630023412632683493"/>
+	<string name="all_volume_title" msgid="4296957391257836961">"Volume"</string>
+	<string name="musicfx_title" msgid="3415566786340790345">"Efek musik"</string>
+	<string name="ring_volume_title">Volume</string>
+	<string name="vibrate_in_silent_title" msgid="3897968069156767036">"Getar bila suara dinonaktifkan"</string>
+	<string name="vibrate_title" msgid="6045820877942801599">"Getar"</string>
+
+	<string name="sound_settings_title" msgid="8735891486683305886">"Suara"</string>
+	<string name="silent_mode_summary" msgid="3309650676072917899">"Semua suara dinonaktifkan kecuali media dan jam"</string>
+	<string name="silent_mode_incl_alarm_summary" msgid="2088830834182228458">"Nonaktifkan semua suara non-multimedia"</string>
+	<string name="ring_volume_summary">"Tetapkan volume nada dering, pesan, dan pemberitahuan"</string>
+	<string name="vibrate_in_silent_summary" msgid="3312600513070076281">"Aktifkan umpan balik getar dalam mode suara nonaktif"</string>
+	<string name="vibrate_summary" msgid="7378130397830790458">"Aktifkan umpan balik getar bila panggilan atau pemberitahuan diterima"</string>
+	<string name="notification_sound_title" msgid="312032901303146002">"Pemberitahuan default"</string>
+	<string name="notification_pulse_title" msgid="1247988024534030629">"Lampu indikator berkedip bila ada pemberitahuan"</string>
+	<string name="incoming_call_volume_title" msgid="8073714801365904099">"Nada dering"</string>
+	<string name="notification_volume_title" msgid="2012640760341080408">"Pemberitahuan"</string>
+	<string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"Gunakan volume panggilan masuk sebagai volume pemberitahuan"</string>
+	<string name="notification_sound_summary" msgid="2953599929394109819"/>
+	<string name="notification_pulse_summary" msgid="6899220780534617152">"Bila pemberitahuan baru diterima, lampu indikator bola gulir terus berkedip"</string>
+	<string name="notification_sound_dialog_title" msgid="9052854168612951170">"Pilih nada dering pemberitahuan"</string>
+	<string name="media_volume_title" msgid="3576565767317118106">"Media"</string>
+	<string name="media_volume_summary" msgid="5363248930648849974">"Atur volume musik dan video"</string>
+	<string name="alarm_volume_title" msgid="2285597478377758706">"Jam"</string>
+	<string name="dtmf_tone_enable_title">Nada sentuh tombol layar</string>
+	<string name="sound_effects_enable_title">Suara sentuh</string>
+	<string name="lock_sounds_enable_title" msgid="450098505659399520">"Nada penguncian layar"</string>
+	<string name="haptic_feedback_enable_title" msgid="2438293710530828760">"Bergetar saat disentuh"</string>
+	<string name="audio_record_proc_title" msgid="4271091199976457534">"Pengurangan noise"</string>
+	<string name="volume_media_description" msgid="7949355934788807863">"Musik, video, game, dan media lain"</string>
+	<string name="volume_ring_description">Nada dering dan Pesan</string>
+	<string name="volume_notification_description" msgid="5810902320215328321">"Pesan dan pemberitahuan"</string>
+	<string name="volume_alarm_description" msgid="8322615148532654841">"Jam"</string>
+	<string name="dtmf_tone_enable_summary_on">Putar nada saat menggunakan bidang sentuh</string>
+	<string name="dtmf_tone_enable_summary_off">Putar nada saat menggunakan bidang sentuh</string>
+	<string name="sound_effects_enable_summary_on">Putar suara saat melakukan pemilihan di layar</string>
+	<string name="sound_effects_enable_summary_off">Putar suara saat melakukan pemilihan di layar</string>
+	<string name="lock_sounds_enable_summary_on" msgid="145741024028391473">"Putar suara saat mengunci dan membuka kunci layar"</string>
+	<string name="lock_sounds_enable_summary_off" msgid="8481243116223542804">"Putar suara saat mengunci dan membuka kunci layar"</string>
+	<string name="haptic_feedback_enable_summary_on" msgid="1875779656524793053">"Getar saat menekan tombol layar dan melakukan interaksi UI tertentu"</string>
+	<string name="haptic_feedback_enable_summary_off" msgid="7287885436963105314">"Getar saat menekan tombol layar dan melakukan interaksi UI tertentu"</string>
+	<string name="audio_record_proc_summary" msgid="8113628457499616498">"Mengurangi noise latar belakang saat panggilan atau rekaman berlangsung"</string>
+
+	<string name="Ringtone_profile_title">Pengaturan nada dering</string>
+	<string name="Ringtone_profile_summary">Atur nada dering dan tanda pesan</string>
+
+
+	<string name="turn_cr_title">"Nada dering polifonik"</string>
+	<string name="turn_cr_on">"Dapatkan layanan nada dering polifonik"</string>
+	<string name="turn_cr_off">"Nada dering polifonik diatur ke Tidak Aktif"</string>
+	<string name="turn_cr_title_ongoing">"Mendapatkan pesan pengaturan nada dering polifonik sekarang"</string>
+	<string name="turn_cr_title_success">"Pesan pengaturan nada dering polifonik berhasil didapatkan"</string>
+	<string name="turn_cr_title_fail">"Pesan pengaturan nada dering polifonik gagal didapatkan"</string>
+	<string name="turn_cr_sms_fail">"Pesan pengaturan nada dering polifonik gagal dikirim"</string>
+	
+	<!-- Profile Settings -->
+	<string name="profile_select_label">Pengaturan mode profil</string>
+	<string name="profile_options_label">Pengaturan personalisasi mode profil</string>
+	<string name="general_profile_title">Umum</string>
+	<string name="silence_profile_title">Diam</string>
+	<string name="meeting_profile_title">Getar</string>
+	<string name="outdoors_profile_title">Luar ruangan</string>
+	<string name="general_profile_summary">Pengaturan jenis dering, nada dering, dll. pada profil Umum</string>
+	<string name="meeting_profile_summary">Pengaturan gaung non-verbal pada profil Getar</string>
+	<string name="silence_profile_summary">Pengaturan gaung non-verbal pada profil Diam</string>
+	<string name="outdoors_profile_summary">Pengaturan jenis dering, nada dering, dll. pada profil Luar ruangan</string>
+	<string name="sum_profile_settings">Mengalihkan mode profil dan pengaturan personalisasi mode profil</string>
+
+	<string name="set_profile_title">Pengaturan personalisasi</string>
+	<string name="call_ringtone_title">Nada dering</string>
+	<string name="call_ringtone_summary">Atur nada dering</string>
+	<string name="message_sound_title">Suara tanda pesan</string>
+	<string name="message_sound_summary">Atur suara tanda MMS dan SMS</string>
+	<string name="mail_sound_title">Suara tanda email</string>
+	<string name="mail_sound_summary">Atur suara tanda email</string>
+	<string name="alarm_alert_title">Suara tanda jadwal</string>
+	<string name="alarm_alert_summary">Atur suara tanda jadwal</string>
+	<string name="push_sound_title">Suara tanda layanan push</string>
+	<string name="push_sound_summary">Atur suara tanda layanan push</string>
+	<string name="push_mail_ringtone_switch_title">Suara tanda layanan push dan email</string>
+	<string name="push_mail_ringtone_switch_summary_on">Pengingat nada dering dibuka</string>
+	<string name="push_mail_ringtone_switch_summary_off">Pengingat nada dering ditutup</string>
+
+	<string name="startup_sound_title">Aktifkan pemutaran audio</string>
+	<string name="startup_sound_summary_on">Kontrol apakah akan memutar audio pengaktifan/penonaktifan</string>
+	<string name="startup_sound_summary_off">Kontrol apakah akan memutar audio pengaktifan/penonaktifan</string>
+
+	<string name="remind_title">Metode pengingat</string>
+	<string name="remind_summary">Atur semua pengingat</string>
+	<string name="profile_settings">Pengaturan mode profil</string>
+	<string name="progress_title">Pengaturan mode profil</string>
+	<string name="progress_message">Tunggu…</string>
+
+	<!-- Mini -->
+	<string name="volume">Volume</string>
+	<string name="ringtone_settings_title">Panggilan masuk</string>
+	<string name="feedback_title" msgid="1480844520622721141">"Sistem"</string>
+	<string name="threeg_call_sound_title">Nada dering</string>
+	<string name="threeg_message_sound_title">Suara tanda pesan</string>
+	<string name="twog_call_sound_title">Nada dering</string>
+	<string name="twog_message_sound_title">Suara tanda pesan</string>
+	<string name="threeg_unable">Kartu SIM1 tidak tersedia</string>
+	<string name="twog_unable">Kartu SIM2 tidak tersedia</string>
+  
+    <string name="convention" msgid="1488759370067953996">"Produk"</string>
+    <string name="cate_call_ringtone">Panggilan masuk</string>
+    <string name="cate_message_ringtone">Olahpesan</string>
+
+    <string name="set_default_phone_ringtone">"Tetapkan nada dering panggilan default"</string>
+    <string name="set_default_message_ringtone">Tetapkan nada dering olahpesan default</string>
+    <string name="message">Olahpesan</string>
+    <string name="sim_message_one">Nada dering pesan</string>
+    <string name="sim_call_one">Nada dering (SIM 1)</string>
+    <string name="sim_call_two">Nada dering (SIM 2)</string>
+    <string name="audio_profile_add">Tambah</string>
+    <string name="audio_profile_rename">Ganti nama</string>
+    <string name="audio_profile_enable">Aktifkan</string>
+    <string name="audio_profile_delete">"Hapus"</string>
+    <string name="audio_profile_message_delete">Profil 
+        <xliff:g id="profile">%s</xliff:g> akan dihapus
+    </string>
+    <string name="audio_profile_message_name_error">Nama yang dimasukkan sudah ada</string>
+    <string name="audio_profile_message_rename">Masukkan nama profil baru</string>
+    <string name="audio_profile_error">Kesalahan</string>
+    <string name="profile_category_custom_title">Profil yang ditentukan pengguna</string>
+    <string name="audio_profile_message_reset">Semua pengaturan profil audio akan diatur ulang ke default</string>
+    <string name="audio_profile_reset">"Setel ulang"</string>
+    <string name="audio_profile_message_name_length_wrong">Nama harus berisi minimal satu karakter</string>
+    <string name="profile_category_checked_title">Pengaturan profil</string>
+    <string name="sim_message_sim_one">Nada dering pesan (SIM 1)</string>
+    <string name="set_default_notification_ringtone">Setel Nada Dering Notifikasi Default</string>
+    <string name="volume_alarm_mute">"Bungkam alarm"</string>
+    <string name="sim_call">Nada dering</string>
+    <string name="audio_profile_message_overflow">Anda hanya diizinkan untuk menambah 4 profil kustom</string>
+    <string name="volume_notification_mute">"Bungkam notifikasi"</string>
+    <string name="volume_ring_mute">"Bungkam nada dering &amp; notifikasi"</string>
+    <string name="ringtone_and_sound_settings">"Nada Dering Dan Suara"</string>
+    <string name="volume_media_mute">"Bungkam musik &amp; media lainnya"</string>
+    <string name="sim_message_sim_two">Nada dering pesan (SIM 2)</string>
+</resources>

@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+
+
+
+
+
+    <string name="global_action_silence">"Isključi zvuk"</string>
+    <string name="global_action_meeting">"Vibracija zvona"</string>
+    <string name="poweron_emergencycallonly">"Samo hitni pozivi"</string>
+    <string name="reboot">"Ponovo pokreni"</string>
+    <string name="power_off">"Isključi"</string>
+    <string name="global_action_restart">"Ponovo pokreni"</string>
+    <string name="usb_ums_title">"USB memorija"</string>
+    <string name="screen_timeout_CU">"Spavaj"</string>
+    <string name="landscape_launcher_none">"Ništa"</string>
+    <string name="hdmi_toggler">"HDMI"</string>
+    <string name="hdmi_settings_summary">Kliknite za konfiguraciju HDMI-ja</string>
+    <string name="hdmi_audio_toggler">"Audio"</string>
+    <string name="hdmi_video_toggler">"Video"</string>
+    <string name="hdmi_auto">"AUTOM."</string>
+    <string name="wapi_user_certificate">"Korisnički sertifikat"</string>
+    <string name="wifi_tether_auto_channel_text">"Automatski"</string>
+    <string name="wifi_channel">Željeni kanal</string>
+    <string name="wifi_channel_width">Širina kanala</string>
+    <string name="audio_profile_error">"Greška"</string>
+    <string name="wifi_tethering_title">WLAN pristupna tačka</string>
+    <string name="wifi_ap_connected_title">Povezani korisnici</string>
+    <string name="wifi_ap_client_block_title">"Blokiraj"</string>
+    <string name="wifi_ap_client_unblock_title">Odblokiraj</string>
+    <string name="wifi_ap_client_details_title">"Detalji"</string>
+    <string name="data_usage_more_settings">Dodatne postavke</string>
+    <string name="unlock_set_unlock_mode_voice_weak">Otključavanje glasom</string>
+    <string name="passpoint_config_eap_method">"EAP metod"</string>
+    <string name="display_default">"Prikaz"</string>
+    <string name="screen_timeout_CU">"Spavaj"</string>
+    <string name="landscape_launcher_none">"Ništa"</string>
+    <string name="hdmi_toggler">"HDMI"</string>
+    <string name="hdmi_settings_summary">Kliknite za konfiguraciju HDMI-ja</string>
+    <string name="hdmi_audio_toggler">"Audio"</string>
+    <string name="hdmi_video_toggler">"Video"</string>
+    <string name="hdmi_auto">"AUTOM."</string>
+    <string name="mtk_thememanager_title">"Tema"</string>
+    <string name="default_name">"Podrazumevano"</string>
+    <string name="loading">"Učitavanje..."</string>
+    <string name="agps_str_notify">"Obaveštenje"</string>
+    <string name="agps_OK">"Potvrdi"</string>
+    <string name="gemini_data_connection_progress_message">"Sačekajte"</string>
+    <string name="usb_ums_title">"USB memorija"</string>
+    <string name="dlg_confirm_unmount_usb_title" product="default">"Želite li da izvadite SD karticu?"</string>
+    <string name="dlg_confirm_unmount_usb_text" product="default">"Ukoliko izvadite SD karticu, neke aplikacije koje koristite će se zaustaviti i možda neće biti dostupne sve dok ponovo ne stavite SD karticu."</string>
+    <string name="dlg_error_unmount_usb_title" product="default">"Aplikacija nije pronađena"</string>
+    <string name="dlg_error_unmount_usb_text" product="default">"Nije moguće isključiti SD karticu. Pokušajte ponovo kasnije."</string>
+    <string name="unmount_usb_inform_text" product="default">"SD kartica će biti isključena."</string>
+    <string name="sd_eject_usbstorage" product="default">"Isključi USB memoriju"</string>
+    <string name="sd_eject_usbstorage_summary" product="default">"Isklj. interne USB memorije"</string>
+    <string name="sd_mount_usbstorage" product="default">"Priključite USB memoriju"</string>
+    <string name="sd_insert_usb_summary" product="default">"Umetnite USB za priključivanje"</string>
+    <string name="move_app_to_where">"Premesti u "<xliff:g id="location">%s</xliff:g></string>
+    <string name="audio_profile_settings_title_lap">"Zvuk"</string>
+    <string name="accessibility_toggle_script_injection_preference_title">"Poboljšaj veb pristupačnost"</string>
+    <string name="accessibility_script_injection_button_allow">"Dozvoli"</string>
+    <string name="accessibility_script_injection_button_disallow">"Ne dozvoli"</string>
+    <string name="timing_shutdown_head_text">"Isključi"</string>
+    <string name="data_connect_settings_title">Veza za prenos podataka</string>
+    <string name="ota_title">Nadogr. firmvera</string>
+    <string name="backup_data_section_title">Rezervna kopija podataka</string>
+    <string name="lock_title" product="tablet">"Obezbeđivanje telefona"</string>
+    <string name="display_effect_of_screen_saturation_title">"Zasićenje"</string>
+    <string name="display_effect_of_screen_contrast_title">"Kontrast"</string>
+    <string name="display_effect_of_screen_sharpen_title">"Oštrina"</string>
+    <string name="display_effect_of_screen_apply">"Primeni"</string>
+    <string name="display_effect_of_screen_cancel">"Otkaži"</string>
+    <string name="display_effect_of_screen_reset">"Ponovo postavi"</string>
+    <string name="display_effect_of_screen_dialog_ok">"Potvrdi"</string>
+    <string name="display_effect_of_screen_saturation_item1">"Podrazumevano"</string>
+    <string name="display_effect_of_screen_contrast_item1">"Podrazumevano"</string>
+    <string name="display_effect_of_screen_sharpen_item0">"Podrazumevano"</string>
+    <string name="display_effect_of_screen_sharpen_item1">"Izoštri"</string>
+    <string name="display_effect_of_screen_default">"Podrazumevano"</string>
+    <string name="display_effect_of_screen_default">"Podrazumevano"</string>
+    <string name="exit">Izađi</string>
+    <string name="show_frame_count_size">"Veličina"</string>
+    <string name="show_frame_count_cancel_button_text">"Otkaži"</string>
+    <string name="show_frame_count_ok_button_text">"Potvrdi"</string>
+    <string name="savepower_all_title">"Sve"</string>
+    <string name="save_power_wait_title">"Sačekajte"</string>
+    <string name="authdlg_service_decline">"Odbij"</string>
+    <string name="volume_title">"Jačina zvuka"</string>
+    <string name="sound_settings_title">"Jačina zvuka"</string>
+    <string name="track_frame_time_summary">"Meri vreme prikazivanja u adb shell dumpsys gfxinfo"</string>
+    <string name="enable_traces_title">"Omogući tragove"</string>
+    <string name="enable_traces_dialog_title">"Izaberi omogućene tragove"</string>
+    <string name="enable_traces_summary_none">"Trenutno nema omogućenih tragova"</string>
+    <string name="enable_traces_summary_all">"Svi tragovi su trenutno omogućeni"</string>
+    <string name="personal_hotspot">"Povezivanje i prist. tačka"</string>
+    <string name="character_setings_title">"Osobe"</string>
+    <string name="all_setings_title">"Sistem"</string>
+    <string name="accessibility_script_injection_allowed">"Dozvoljeno"</string>
+    <string name="accessibility_script_injection_disallowed">"Nije dozvoljeno"</string>
+    <string name="accessibility_service_disable_warning_title">"Zaustavi"</string>
+    <string name="backup_data">Rez. podaci</string>
+    <string name="show_password_summary">"Aplikacija nije pronađena"</string>
+    <string name="unlock_set_unlock_speech_title">Otključavanje glasom</string>
+    <string name="user_you_section">"Vi"</string>
+    <string name="show_hw_overdraw_summary">"Od najboljeg ka najgorem: plavo, zeleno, svetlocrveno, crveno"</string>
+    <string name="screensaver_timeout_zero_summary">"Nikad"</string>
+    <string name="preference_status_open">"Otvori"</string>
+    <string name="preference_status_close">"Zatvori"</string>
+    <string name="auto_time_off">"Onemogućeno"</string>
+    <string name="bluetooth_security_confirm">"Zahtev za Bluetooth dozvolu"</string>
+    <string name="bluetooth_advanced_settings">"Napredna podešavanja"</string>
+    <string name="bluetooth_profile_ftp">"Prenos datoteke"</string>
+    <string name="bluetooth_ftp_profile_summary_use_for">"Korišćenje za prenos datoteka"</string>
+    <string name="vpn_delete_title">"Izbriši"</string>
+    <string name="location_settings_title" msgid="1369675479310751735">"Lokacija"</string>
+    <string name="schedule_power_on_off_settings_title">Zakaži uključivanje i isključivanje</string>
+    <string name="security_settings_title">"Bezbednost i zaključavanje ekrana"</string>
+    <string name="lenovo_system_update">Nadogr. firmvera</string>
+    <string name="server_lenovo_exp_ok">"Potvrdi"</string>
+    <string name="server_lenovo_exp_cancel">"Otkaži"</string>
+    <string name="privacy_restore_userdata_category_title">Vrati podatke</string>
+    <string name="backup_data">Rez. podaci</string>
+    <string name="privacy_category_title_sd">"Interna memorija"</string>
+    <string name="erase_external_storage_fuse">"Formatiranje ugrađene memorijske kartice"</string>
+    <string name="erase_external_storage_description_fuse">Brisanje svih podataka sa umetnute memorijske kartice, npr. muzike ili slika</string>
+    <string name="summary_lcd_invert">"Aplikacija nije pronađena"</string>
+    <string name="auto_rotete_cbox_summary">"Automatski"</string>
+    <string name="auto_rotate_type">"Automatsko rotiranje ekrana"</string>
+    <string name="rotate_type_choose_cancel">"Otkaži"</string>
+    <string name="master_clear_desc" product="default" msgid="9165016501623540228">"Ovim brišete sve podatke iz "<b>"interne memorije"</b>" telefona, uključujući:\n\n"<li>"Google nalog"</li>\n<li>"Podatke i podešavanja sistema i aplikacija"</li>\n<li>"Preuzete aplikacije"</li></string>
+    <string name="screensaver_settings_disabled_prompt">"Da biste kontrolisali šta se dešava kada je telefon na baznoj stanici i/ili u stanju spavanja, uključite Sanjarenje."</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">"Da biste videli uređaje, uključite bežični ekran."</string>
+    <string name="screensaver_settings_disabled_prompt">"Da biste kontrolisali šta se dešava kada je telefon na baznoj stanici i/ili u stanju spavanja, uključite Sanjarenje."</string>
+    <string name="wifi_quick_toggle_title">"WLAN"</string>
+    <string name="wifi_quick_toggle_summary" msgid="2696547080481267642">"Uključivanje WLAN-ja"</string>
+    <string name="wifi_settings">"WLAN"</string>
+    <string name="wifi_settings_category">"WLAN podešavanja"</string>
+    <string name="wifi_settings_title">"WLAN"</string>
+    <string name="wifi_setup_wizard_title">"Izbor WLAN mreže"</string>
+    <string name="wifi_starting" msgid="6732377932749942954">"Uključivanje WLAN-ja..."</string>
+    <string name="wifi_stopping" msgid="8952524572499500804">"Isključivanje WLAN-ja..."</string>
+    <string name="wifi_poor_network_detection_summary">"Ne koristi WLAN mrežu ako nema dobru internet vezu"</string>
+    <string name="wifi_scan_always_available_summary">"Dozvolite Google-ovoj usluzi lociranja i drugim aplikacijama da skeniraju mreže, čak i kada je WLAN isključen"</string>
+    <string name="wifi_scan_notify_text_location_on">"Da bi, između ostalog, poboljšale tačnost lokacije, Google i druge aplikacije mogu da skeniraju obližnje mreže, čak i kada je WLAN isključen. Ako ne želite da se to dešava, idite na Napredno &gt; Skeniranje je uvek dostupno."</string>
+    <string name="wifi_scan_notify_text_location_off">"Aplikacije mogu da skeniraju obližnje mreže, čak i kada je WLAN isključen. Ako ne želite da se to dešava, idite na Napredno &gt; Skeniranje je uvek dostupno."</string>
+    <string name="wifi_setting_sleep_policy_title" msgid="5149574280392680092">"Ne isključuj WLAN tokom spavanja"</string>
+    <string name="wifi_suspend_optimizations">"WLAN optimizacija"</string>
+    <string name="wifi_suspend_optimizations_summary">"Smanji korišćenje baterije kada je WLAN uključen"</string>
+    <string name="wifi_access_points">"WLAN mreže"</string>
+    <string name="wifi_menu_p2p">"WLAN Direct"</string>
+    <string name="wifi_empty_list_wifi_off">"Da biste videli dostupne mreže, uključite WLAN."</string>
+    <string name="wifi_empty_list_wifi_on">"Traženje WLAN mreža..."</string>
+    <string name="wifi_empty_list_user_restricted">"Nemate dozvolu da menjate WLAN mrežu."</string>
+    <string name="wifi_required_info_text" msgid="4080969509965288881">"Da biste dovršili podešavanje, tablet mora da ima pristup WLAN-ju. Nakon podešavanja možete da prelazite sa mobilne mreže na WLAN i obrnuto."</string>
+    <string name="wifi_wps_setup_title" msgid="8207552222481570175">"WLAN zaštićeno podešavanje"</string>
+    <string name="wifi_wps_onstart_pbc">"Pritisnite dugme Zaštićeno podešavanje WLAN-ja na ruteru. Možda se zove „WPS“ ili sadrži ovaj simbol:"</string>
+    <string name="wifi_wps_onstart_pin">"Unesite PIN <xliff:g id="NUMBER">%1$s</xliff:g> sa WLAN rutera. Podešavanje će biti dovršeno za najviše dva minuta."</string>
+    <string name="wifi_wps_connected" msgid="7153432445748931183">"Uspostavljena je veza sa WLAN mrežom <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+    <string name="wifi_scan_always_turnon_message">"Zbog poboljšanja preciznosti lokacije i u druge svrhe, <xliff:g id="APP_NAME">%1$s</xliff:g> želi da uključi skeniranje mreže čak i kada je WLAN isključen.\n\nŽelite li da dozvolite ovo za sve aplikacije koje žele da skeniraju?"</string>
+    <string name="wifi_connect_failed_message" product="tablet">"Tablet nije mogao da se poveže sa ovom WLAN mrežom."</string>
+    <string name="wifi_advanced_titlebar" msgid="4485841401774142908">"Napredna WLAN podešavanja"</string>
+    <string name="wifi_setting_frequency_band_title" msgid="3655327399028584656">"WLAN opseg frekvencija"</string>
+    <string name="wifi_p2p_settings_title">"WLAN Direct"</string>
+    <string name="wifi_tether_checkbox_text">"Prenosni WLAN hotspot"</string>
+    <string name="wifi_tether_failed_subtext">"Greška prenosnog WLAN hotspota"</string>
+    <string name="wifi_tether_configure_ap_text">"Podesi WLAN hotspot"</string>
+    <string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> prenosni WLAN hotspot"</string>
+    <string name="status_wifi_mac_address">"WLAN MAC adresa"</string>
+    <string name="location_mode_battery_saving_description">"Koristite WLAN i mobilne mreže za određivanje lokacije"</string>
+    <string name="location_network_based" msgid="9134175479520582215">"Lokac. na osnovu WLAN i mob. mreže"</string>
+    <string name="location_neighborhood_level_wifi">"Lokacija se određuje pomoću WLAN-ja"</string>
+    <string name="wifi_on_time" msgid="3208518458663637035">"WLAN na vreme"</string>
+    <string name="bluetooth_on_time" msgid="3056108148042308690">"WLAN na vreme"</string>
+    <string name="usage_type_data_wifi_send">"WLAN podaci su poslati"</string>
+    <string name="usage_type_data_wifi_recv">"WLAN podaci su primljeni"</string>
+    <string name="battery_action_wifi">"WLAN podešavanja"</string>
+    <string name="gadget_toggle_wifi">"Ažuriranje WLAN podešavanja"</string>
+    <string name="gadget_state_template">"<xliff:g id="ID_1">%1$s</xliff:g> – <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+    <string name="gadget_wifi">"WLAN"</string>
+    <string name="backup_data_summary" msgid="708773323451655666">"Pravljenje rezervnih kopija podataka o aplikacijama, WLAN lozinki i drugih podešavanja na Google serverima"</string>
+    <string name="wifi_setup_title" msgid="2970260757780025029">"Podešavanje WLAN-ja"</string>
+    <string name="wifi_setup_title_editing_network">"Povezivanje sa WLAN mrežom <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+    <string name="wifi_setup_title_connecting_network">"Povezivanje sa WLAN mrežom <xliff:g id="NETWORK_NAME">%s</xliff:g>..."</string>
+    <string name="wifi_setup_title_connected_network">"Uspostavljena je veza sa WLAN mrežom <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+    <string name="wifi_setup_eap_not_supported" msgid="1955087534276570962">"Ne možete da konfigurišete EAP WLAN vezu tokom podešavanja. To možete da uradite nakon podešavanja u odeljku Podešavanja &gt; Bežična veza i mreže."</string>
+    <string name="wifi_setup_description_connected" msgid="736032046548460779">"Dodirnite "<b>"Dalje"</b>" da biste nastavili sa podešavanjem.\n\nDodirnite "<b>"Nazad"</b>" da biste se povezali sa drugom WLAN mrežom."</string>
+    <string name="data_usage_menu_show_wifi" msgid="5056401102877964564">"Prikaži potrošnju za WLAN"</string>
+    <string name="data_usage_restrict_background" msgid="8447934953579275363">"Ako ograničite pozadinske podatke za mobilne uređaje, neke aplikacije i usluge neće funkcionisati ako niste povezani sa WLAN mrežom."</string>
+    <string name="data_usage_restrict_background_multiuser" product="tablet" msgid="7132639594296036143">"Ako ograničite pozadinske podatke za mobilne uređaje, neke aplikacije i usluge neće funkcionisati ako niste povezani sa WLAN mrežom.\n\nOvo podešavanje utiče na sve korisnike ovog tableta."</string>
+    <string name="data_usage_metered_body" msgid="4959032833706695848">"Izaberite WLAN mreže koje su mobilni hotspotovi. Aplikacije neće moći da koriste ove mreže kada su u pozadini. Aplikacije će vas možda i upozoriti pre korišćenja ovih mreža za velika preuzimanja."</string>
+    <string name="data_usage_metered_wifi">"WLAN mreže"</string>
+    <string name="data_usage_metered_wifi_disabled">"Da biste izabrali mobilne hotspotove, uključite WLAN."</string>
+    <string name="restriction_wifi_config_title">"WLAN i mobilni uređaji"</string>
+    <string name="restriction_wifi_config_summary">"Dozvolite izmenu WLAN podešavanja i podešavanja za mobilne uređaje"</string>
+    <string name="personal_hotsport_title">Pristupna tačka</string>
+    <string name="network_synchronization_enable_allow">"Nastavi"</string>
+    <string name="network_synchronization_enable_deny">"Otkaži"</string>
+    <string name="mobile">Veza za prenos podataka</string>
+    <string name="gemini_default_sim_never">"Isključeno"</string>
+    <string name="storage_path1">"SD kartica"</string>
+    <string name="memory_image_usage">"Slike"</string>
+    <string name="memory_video_usage">"Video snimci"</string>
+    <string name="credentials_configure_lock_screen_hint">"Treba da podesite PIN ili lozinku za zaključavanje ekrana da biste mogli da koristite skladište akreditiva."</string>
+    <string name="crypt_keeper_dialog_need_password_title">"Nema PIN-a ili lozinke za zaključavanje ekrana"</string>
+    <string name="crypt_keeper_dialog_need_password_message">"Potrebno je da podesite PIN ili lozinku za zaključavanje ekrana da biste mogli da započnete šifrovanje."</string>
+    <string name="preference_status_unknown">"Nepoznato"</string>
+    <string name="wifi_setup_wizard_skip">"Preskoči"</string>
+    <string name="wifi_setup_wizard_next">"Next"</string>
+    <string name="wifi_menu_wps_pin">"Unos WPS PIN-a"</string>
+    <string name="usb_mtp_summary">"Omogućava vam da prenosite medijske datoteke u Windows-u, odnosno pomoću aplikacije Android File Transfer na Mač računarima (pogledajte www.android.com/filetransfer)"</string>
+    <string name="usb_ptp_summary">"Omogućava vam da prenosite fotografije pomoću softvera za kameru i da prenosite datoteke na računare koji ne podržavaju MTP"</string>
+    <string name="usbsetting_help_title">"Pomoć"</string>
+    <string name="tether_title">"Povezivanje i prist. tačka"</string>
+    <string name="device_section_title">"Telefon"</string>
+    <string name="screen_info">"Ekran"</string>
+    <string name="camera_info">"Kamera"</string>
+    <string name="black_screen_settings_flash_mode">"Blic"</string>
+    <string name="black_screen_settings_flash_mode_auto">"Automatski"</string>
+    <string name="black_screen_settings_flash_mode_on">"Uključeno"</string>
+    <string name="black_screen_settings_flash_mode_off">"Isključeno"</string>
+    <string name="character_settings_help_category_title">"Pomoć"</string>
+    <string name="i_know_it">"Potvrdi"</string>
+    <string name="profile_settings">"Zvuk"</string>
+    <string name="accessibility_toggle_script_injection_preference_title">"Poboljšaj veb pristupačnost"</string>
+    <string name="accessibility_script_injection_security_warning_summary">"Da li želite da aplikacije instaliraju skripte iz Google-a pomoću kojih će njihov veb sadržaj postati pristupačniji?"</string>
+    <string name="accessibility_script_injection_button_allow">"Dozvoli"</string>
+    <string name="accessibility_script_injection_button_disallow">"Ne dozvoli"</string>
+    <string name="color_light_call">"Pozovi"</string>
+    <string name="color_light_battery">"Baterija"</string>
+    <string name="color_light_hasopen">"Uključeno"</string>
+    <string name="color_light_hasclose">"Isključeno"</string>
+    <string name="color_light_other_summary">Ostali</string>
+    <string name="color_light_other">"Drugi"</string>
+    <string name="timing_startup_and_shutdown_settings_title">Zakaži uključivanje i isključivanje</string>
+    <string name="timing_startup_head_text">"Uključeno"</string>
+    <string name="timing_shutdown_head_text">"Isključeno"</string>
+    <string name="data_connect_settings_title">Veza za prenos podataka</string>
+    <string name="ota_title">Status apdejta</string>
+    <string name="backup_data_section_title">Rezervna kopija podataka</string>
+    <string name="lock_title" product="tablet">"Obezbeđivanje telefona"</string>
+    <string name="display_effect_of_screen_saturation_title">"Zasićenje"</string>
+    <string name="display_effect_of_screen_contrast_title">"Kontrast"</string>
+    <string name="display_effect_of_screen_hue_title">"Nijansa"</string>
+    <string name="display_effect_of_screen_sharpen_title">"Oštrina"</string>
+    <string name="display_effect_of_screen_apply">"Primeni"</string>
+    <string name="display_effect_of_screen_cancel">"Otkaži"</string>
+    <string name="display_effect_of_screen_saturation_item1">"Podrazumevano"</string>
+    <string name="display_effect_of_screen_contrast_item1">"Podrazumevano"</string>
+    <string name="display_effect_of_screen_sharpen_item0">"Podrazumevano"</string>
+    <string name="display_effect_of_screen_sharpen_item1">"Izoštri"</string>
+    <string name="exit">Izađi</string>
+    <string name="show_frame_count_size">"Veličina"</string>
+    <string name="show_frame_count_cancel_button_text">"Otkaži"</string>
+    <string name="show_frame_count_ok_button_text">"Potvrdi"</string>
+    <string name="savepower_all_title">"Sve"</string>
+    <string name="save_power_wait_title">"Sačekajte"</string>
+    <string name="theme_settings_title">"Tema"</string>
+    <string name="volume_title">"Jačina zvuka"</string>
+    <string name="sound_settings_title">"Jačine zvuka"</string>
+    <string name="track_frame_time_summary">"Meri vreme prikazivanja u adb shell dumpsys gfxinfo"</string>
+    <string name="enable_traces_title">"Omogući tragove"</string>
+    <string name="enable_traces_dialog_title">"Izaberi omogućene tragove"</string>
+    <string name="enable_traces_summary_none">"Trenutno nema omogućenih tragova"</string>
+    <string name="enable_traces_summary_num">"Trenutno su omogućeni tragovi (<xliff:g id="NUM">%1$d</xliff:g>)"</string>
+    <string name="enable_traces_summary_all">"Svi tragovi su trenutno omogućeni"</string>
+    <string name="safety_information">"Bezbednosne informacije"</string>
+    <string name="personal_hotspot">"Povezivanje i prist. tačka"</string>
+    <string name="all_setings_title">"Sistem"</string>
+    <string name="accessibility_script_injection_allowed">"Dozvoljeno"</string>
+    <string name="accessibility_script_injection_disallowed">"Nije dozvoljeno"</string>
+    <string name="accessibility_service_security_warning_title">"Želite li da koristite uslugu <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+    <string name="accessibility_service_disable_warning_title">"Želite li da onemogućite uslugu <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+    <string name="accessibility_service_disable_warning_summary">"Ako dodirnete Potvrdi, onemogućićete uslugu <xliff:g id="SERVICE">%1$s</xliff:g>."</string>
+    <string name="backup_data">Rez. podaci</string>
+    <string name="show_password_summary">"Aplikacija nije pronađena"</string>
+    <string name="unlock_set_unlock_speech_title">Otključavanje glasom</string>
+    <string name="user_you_section">"Vi"</string>
+    <string name="show_hw_overdraw">"Prikaži prekoračenje GPU-a"</string>
+    <string name="show_hw_overdraw_summary">"Od najboljeg ka najgorem: plavo, zeleno, svetlocrveno, crveno"</string>
+    <string name="screensaver_timeout_zero_summary">"Nikad"</string>
+    <string name="airplane_open_confirm">"Režim rada u avionu"</string>
+    <string name="preference_status_open">"Uključeno"</string>
+    <string name="preference_status_close">"Isključeno"</string>
+    <string name="preference_status_unknown">"Nepoznato"</string>
+    <string name="rotate_type_choose_cancel">"Otkaži"</string>
+    <string name="schedule_power_on_off_time">"Vreme"</string>
+    <string name="schedule_power_on_off_repeat">"Ponovi"</string>
+    <string name="schedule_power_on_off_set">Podesi zakazano uključivanje i isključivanje</string>
+    <string name="schedule_power_on_set">Podesi zakazano uključivanje </string>
+    <string name="schedule_power_off_set">Podesi zakazano isključivanje</string>
+    <string name="enable_schpwr">"Omogući"</string>
+    <string name="disable_schpwr">"Onemogući"</string>
+    <string name="day">"1 dan"</string>
+    <string name="days">"dana"</string>
+    <string name="hour">"1 sat"</string>
+    <string name="hours">"sata"</string>
+    <string name="minute">"1 minut"</string>
+    <string name="minutes">"min"</string>
+    <string name="every_day">"Svakog dana"</string>
+    <string name="never">"Nikad"</string>
+    <string name="done">"Gotovo"</string>
+    <string name="revert">"Vrati"</string>
+    <string name="schpwr_power_on">"uključeno"</string>
+    <string name="schpwr_power_off">"isključeno"</string>
+    <string name="wifi_display_summary_on">"Omogući 4x MSAA u OpenGL ES 2.0 aplikacijama"</string>
+    <string name="wifi_display_summary_off">"Zatvori"</string>
+    <string name="wifi_display_summary_disabled">"Onemogući"</string>
+    <string name="unlock_settings_title">"Otključaj"</string>
+    <string name="header_category_other">"Drugi"</string>
+    <string name="display_effect_buttom_text_cancel">"Otkaži"</string>
+    <string name="display_effect_type_hue_default">"Normalan"</string>
+    <string name="display_effect_type_contrast_sharp">Oštro</string>
+    <string name="display_effect_type_saturation">"Zasićenje"</string>
+    <string name="display_effect_type_contrast_soft">"Pastelno"</string>
+    <string name="display_effect_type_saturation_default">"Normalan"</string>
+    <string name="display_effect_buttom_text_apply">"Primeni"</string>
+    <string name="display_effect_type_contrast_default">"Normalan"</string>
+    <string name="display_effect_type_contrast">"Kontrast"</string>
+    <string name="display_effect_mode_custom_title">"Prilagođeno"</string>
+    <string name="display_effect_type_saturation_soft">"Pastelno"</string>
+    <string name="device_info">"Informacije o uređaju"</string>
+    <string name="wifi_wapi_cert_install_button">"Instaliraj"</string>
+    <string name="supl_not_set">"&lt;Nije podešeno&gt;"</string>
+    <string name="location_agps_supl_server_addr">"Adresa servera"</string>
+    <string name="wifi_wapi_cert_uninstall_button">"Deinstaliraj"</string>
+    <string name="wifi_wapi_cert_cancel_button">"Otkaži"</string>
+    <string name="wizard_title">"Vodič"</string>
+    <string name="server_lenovo_exp_dlg_title">"Ako nastavite, dajete aplikaciji dozvolu da presreće sav mrežni saobraćaj. "<b>"NEMOJTE da prihvatate ovo osim ukoliko nemate poverenja u aplikaciju."</b>" U suprotnom, rizikujete da vam podatke ugrozi zlonamerni softver."</string>
+    <string name="data_usage_restrict_background_multiuser" product="default" msgid="2642864376010074543">"Ako ograničite pozadinske podatke za mobilne uređaje, neke aplikacije i usluge neće funkcionisati ako niste povezani sa WLAN mrežom.\n\nOvo podešavanje utiče na sve korisnike ovog telefona."</string>
+    <string name="wifi_connect_failed_message" product="default" msgid="2185803140161396572">"Telefon nije mogao da se poveže sa ovom WLAN mrežom."</string>
+    <string name="crypt_keeper_final_desc" product="default" msgid="5682944380460921880">"Operacija šifrovanja je neopoziva i ukoliko je prekinete, izgubićete podatke. Šifrovanje traje jedan sat ili duže i u tom periodu telefon će se ponovo pokrenuti nekoliko puta."</string>
+    <string name="location_mode_high_accuracy_description" msgid="6418936349431602808">"Koristite GPS, WLAN i mobilne mreže za određivanje lokacije"</string>
+    <string name="crypt_keeper_desc" product="default" msgid="7663118199519229502">"Možete da šifrujete naloge, podešavanja, preuzete aplikacije i njihove podatke, medije i druge datoteke. Kada budete šifrovali telefon, potrebno je da unesete numerički PIN ili lozinku da biste ga dešifrovali svaki put kada ga uključite. Ne možete da dešifrujete telefon osim ako ga ne vratite na fabričke podatke, čime ćete izbrisati sve podatke.\n\nŠifrovanje traje sat vremena ili duže. Potrebno je da počnete sa napunjenom baterijom i da ne isključujete telefon dok se šifrovanje ne dovrši. Ako prekinete proces šifrovanja, izgubićete sve podatke ili deo njih."</string>
+    <string name="crypt_keeper_encrypt_summary" product="default" msgid="514138079795442371">"Zahteva numerički PIN ili lozinku za dešifrovanje telefona svaki put kada ga uključite"</string>
+    <string name="schpwr_shutdown_message_second">"Vaš uređaj će biti isključen za <xliff:g id="seconds">%s</xliff:g> sekunde(i)"</string>
+    <string name="schpwr_shutdown_message">"Vaš uređaj će biti isključen za <xliff:g id="seconds">%s</xliff:g> sekunde(i)"</string>
+    <string name="notification_settings_title">Centar za obaveštenja</string>
+    <string-array name="alarm_set">
+        <item>Ovo uključivanje je podešeno za manje od 1 minut.</item>
+        <item>Ovo uključivanje je podešeno za <xliff:g id="DAYS" example="2days">%1$s</xliff:g>.</item>
+        <item>Ovo uključivanje je podešeno za <xliff:g id="HOURS" example="2hours">%2$s</xliff:g>.</item>
+        <item>Ovo uključivanje je podešeno za <xliff:g id="DAYS" example="2days">%1$s</xliff:g> i <xliff:g id="HOURS" example="2hours">%2$s</xliff:g>.</item>
+        <item>Ovo uključivanje je podešeno za <xliff:g id="MINUTES" example="2minutes">%3$s</xliff:g>.</item>
+        <item>Ovo uključivanje je podešeno za <xliff:g id="DAYS" example="2days">%1$s</xliff:g> i <xliff:g id="MINUTES" example="2minutes">%3$s</xliff:g>.</item>
+        <item>Ovo uključivanje je podešeno za <xliff:g id="HOURS" example="2hours">%2$s</xliff:g> i <xliff:g id="MINUTES" example="2minutes">%3$s</xliff:g>.</item>
+        <item>Ovo uključivanje je podešeno za <xliff:g id="DAYS" example="2days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2hours">%2$s</xliff:g> i <xliff:g id="MINUTES" example="2minutes">%3$s</xliff:g>.</item>
+        <item>Ovo isključivanje je podešeno za manje od 1 minut.</item>
+        <item>Ovo isključivanje je podešeno za <xliff:g id="DAYS" example="2days">%1$s</xliff:g>.</item>
+        <item>Ovo isključivanje je podešeno za <xliff:g id="HOURS" example="2hours">%2$s</xliff:g>.</item>
+        <item>Ovo isključivanje je podešeno za <xliff:g id="DAYS" example="2days">%1$s</xliff:g> i <xliff:g id="HOURS" example="2hours">%2$s</xliff:g>.</item>
+        <item>Ovo isključivanje je podešeno za <xliff:g id="MINUTES" example="2minutes">%3$s</xliff:g>.</item>
+        <item>Ovo isključivanje je podešeno za <xliff:g id="DAYS" example="2days">%1$s</xliff:g> i <xliff:g id="MINUTES" example="2minutes">%3$s</xliff:g>.</item>
+        <item>Ovo isključivanje je podešeno za <xliff:g id="HOURS" example="2hours">%2$s</xliff:g> i <xliff:g id="MINUTES" example="2minutes">%3$s</xliff:g>.</item>
+        <item>Ovo isključivanje je podešeno za <xliff:g id="DAYS" example="2days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2hours">%2$s</xliff:g> i <xliff:g id="MINUTES" example="2minutes">%3$s</xliff:g>.</item>
+    </string-array>
+    <string name="bluetooth_ftp_profile_summary_connected">"Uspostavljena je veza za prenos podataka"</string>
+    <string name="eap_sim_aka_airplanemode">Isključite Režim rada u avionu da biste koristili EAP-SIM/AKA</string>
+    <string name="wifi_ap_bandwidth_chart_title">Brzina prenosa podataka u realnom vremenu</string>
+    <string name="profile_edit_weaken_help">Jačina zvona se smanjuje kada se telefon podigne.</string>
+    <string name="smart_calling_title">Pametno pozivanje</string>
+    <string name="AGPS_NOTIFY_ONLY">Obaveštenje o zahtevu za lokacijom</string>
+    <string name="agps_str_deny">ODBIJ</string>
+    <string name="usb_ums_without_external_sd_summary">"Nije detektovana spoljna memorijska kartica, a ugrađena memorijska kartica ne podržava režim U diska, pa se ne može koristiti"</string>
+    <string name="select_subscription">Izaberite pretplatu</string>
+    <string name="wifi_backup_category_title">Rezervna kopija WLAN mreža</string>
+    <string name="usergudie_button_text">"Otvaranje postavki pokretanja sistema"</string>
+    <string name="double_click_tip">Dvaput kliknite ovde</string>
+    <string name="authdlg_message">\'%1$s\' traži dozvolu za povezivanje sa %2$s.</string>
+    <string name="lockdown_vpn_already_connected">Za ovu vezu već je omogućena postavka stalno uključene VPN mreže.</string>
+    <string name="usb_connect_as_cdrom_category">"Poveži kao CD-ROM"</string>
+    <string name="wifi_ap_max_connection_title">Maksimalan broj veza</string>
+    <string name="launch_main">Pokretanje aplikacije prema glavnoj aktivnosti</string>
+    <string name="usbsetting_help_content">1. USB uređaj za skladištenje: Omogućava prebacivanje datoteka sa računara na SD karticu ili unutrašnju memoriju Android uređaja i obrnuto. \n\n
+2. MTP: Omogućava istovremeno upravljanje datotekama sa telefona i računara.
+Napomena: Preporučuje se korišćenje operativnog sistema Windows 7 ili novijeg. Ako koristite XP, prvo instalirajte upravljačke programe. \n\n
+3. PTP: Omogućava prebacivanje fotografija na računar bez podrške za MTP.
+Napomena: Preporučuje se korišćenje operativnog sistema Windows 7 ili novijeg. Ako koristite XP, prvo instalirajte upravljačke programe. \n\n
+4. USB otklanjanje grešaka: Omogućava kopiranje podataka sa računara na uređaj i obrnuto, instaliranje aplikacija na uređaju bez obaveštenja i čitanje datoteka evidencije. Ova funkcija je namenjena samo za korišćenje od strane razvojnih programera. \n\n
+5. Deljenje Interneta preko USB veze Omogućava deljenje veze sa Internetom preko 3G mreže sa računarom. Prenos podataka se može naplaćivati.</string>
+    <string name="test_area">OBLAST ZA TESTIRANJE:</string>
+    <string name="wfd_change_resolution_menu_title">Menjanje rezolucije</string>
+    <string name="whatis_lenovoid_cando_summary"> "neograničen pristup vezama ka raznim aplikacijama, uslugama u oblaku i drugim uslugama. Jedna kartica omogućava pristupanje svim uslugama. "</string>
+    <string name="wifi_ap_reset_OOB_title">Resetovanje SSID-a mreže, bezbednosti i lozinke na podrazumevanu vrednost (fabrička konfiguracija za WPS )</string>
+    <string name="try_swing_lock_result_longer">Preslabo ste protresli. Pokušajte ponovo</string>
+    <string name="bluetooth_ask_enablement_ext">Aplikacija <xliff:g>%1$s</xliff:g> želi da uključi Bluetooth.</string>
+    <string name="wifi_ap_reset_OOB">Vrati na fabričke vrednosti</string>
+    <string name="privacy_restore_userdata_summary">Izaberite rezervnu kopiju podataka iz unutrašnje memorije</string>
+    <string name="side_key_backlight_title">Pozadinsko osvetljenje tastera za jačinu zvuka</string>
+    <string name="backup_recovery_dialog_message">Želite li da prekinete pravljenje rezervne kopije ili vraćanje podataka aplikacije？</string>
+    <string name="gesture_rotete_cbox_summary">Pokret</string>
+    <string name="multiwindow_title">Prikaz više prozora</string>
+    <string name="k6kk_phone_info_runMemory">"2,0 GB"</string>
+    <string name="ringtone_settings">Melodije zvona i jačina zvuka</string>
+    <string name="drm_reset_toast_msg">Licence su uspešno izbrisane.</string>
+    <string name="network_synchronization_enable_confirm">Za mrežnu sinhronizaciju potrebna je bežična mreža za prenos podataka kako bi se preuzeli pomoćni podaci i izbeglo dodatno tarifiranje. Želite li zaista da uključite mrežnu sinhronizaciju?</string>
+    <string name="wifi_ap_less">Izaberi mreže sa dobrim signalom</string>
+    <string name="usb_charge_title">Samo punjenje</string>
+    <string name="lockscreen_shake_unlock_ctrl_summary">"Ako protresete uređaj, ekran će se zaključati | Pomoć"</string>
+    <string name="playertutorial_title">Korisničko uputstvo</string>
+    <string name="teos_settings">Balans boja na ekranu</string>
+    <string name="sim_slot">Ležište za SIM karticu</string>
+    <string name="dtmf_settings_title">"Numerička tastatura"</string>
+    <string name="usb_sharing_summary">Deljenje Interneta sa Windows računara preko USB kabla</string>
+    <string name="lock_wallpaper">Pozadina na zaključanom ekranu</string>
+    <string name="subs_settings">SIMS status</string>
+    <string name="weather_live_wallpaper">Pozadina sa vremenskim prilikama uživo</string>
+    <string name="battery_percent">Procenat napunjenosti baterije</string>
+    <string name="data_usage_menu_restrict_systembgdata">"Dozvoli prenos sistemskih podataka u pozadini"</string>
+    <string name="server_lenovo_exp_dialogmsg">Ako otkažete plan Lenovo Experience neke aplikacije neće raditi i nivo podrške će biti smanjen. Želite li zaista da otkažete? </string>
+    <string name="tethered_ipv4v6">(dostupna je IPv6 adresa)</string>
+    <string name="autopop_warning_title">Želite li da se više ne prikazuje?</string>
+    <string name="lockscreen_style_set">"Podešavanje zaključanog ekrana"</string>
+    <string name="wifi_backup_failed">Pravljenje rezervne kopije nije uspelo.</string>
+    <string name="devices_info_cpu">"Procesor：četvorojezgarni od 2,2 GHz"</string>
+    <string name="desktop_wallpaper">Pozadina ekrana</string>
+    <string name="version_info">Informacije o verziji</string>
+    <string name="phone_info_unset">Informacije o telefonu nisu podešene</string>
+    <string name="eap_sim_slot_0">Ležište za SIM karticu 1</string>
+    <string name="MobileNetwork_SIM2_Active">Aktivna je kartica SIM2</string>
+    <string name="eap_sim_slot_1">Ležište za SIM karticu 2</string>
+    <string name="smart_standby_ctrl_description">Ekran će se uključiti kada pogledate u njega</string>
+    <string name="display_effect_category_title_commom_mode">Zajednički režim</string>
+    <string name="wifi_restore_ok">Vraćanje je uspelo!</string>
+    <string name="smart_call_answer_settings_title">"Pametno javljanje na poziv"</string>
+    <string name="wide_touch_float_button">WideTouch</string>
+    <string name="passpoint_certificate">Certifikat</string>
+    <string name="airbuse_phone_info_cpu">"Qualcomm MSM8612  4*1,2 GHz"</string>
+    <string name="reset_skip_backup_title">Preskoči pravljenje rezervne kopije</string>
+    <string name="fuse_backup_data_to_cloud_title">Napravi rezervnu kopiju podataka u oblaku</string>
+    <string name="roaming_time_settings_category">Postavke rominga</string>
+    <string name="double_click_menu_enabled_description">"Pritisnite i zadržite (taster MENI) da biste aktivirali glasovne usluge"</string>
+    <string name="accessibility_service_security_warning_summary" product="tablet">
+            <xliff:g id="accessibility_service_name">%1$s</xliff:g> može da
+            prikuplja sav tekst koji unesete, osim lozinki. U to spadaju lični podaci, kao što su brojevi kreditnih
+            kartica. Takođe, može da sakuplja podatke o vašem korišćenju tableta.</string>
+    <string name="authdlg_service_pbap">preuzmite kontakte na ovaj telefon</string>
+    <string name="wifi_security_wapi_certificate">WAPI certifikat</string>
+    <string name="launch_activitie">Pokreni</string>
+    <string name="backup_data_description">"Napravite rezervnu kopiju kontakata i drugih važnih podataka pre resetovanja telefona"</string>
+    <string name="smart_call_answer_summary">Automatsko javljanje na dolazni poziv kada se uređaj podigne do uha</string>
+    <string name="hdmi_settings">Postavke HDMI veze</string>
+    <string name="header_category_shortcut_key">TASTERSKA PREČICA</string>
+    <string name="try_swing_lock_result_harder">Preslabo ste protresli. Pokušajte ponovo</string>
+    <string name="usb_ums_with_external_sd_summary">"Preporučuje se XP. Da biste kopirali datoteke, upotrebite spoljnu, ali ne ugrađenu, memorijsku karticu kao U disk. "</string>
+    <string name="multi_sim_settings_summary">Postavke multiSIM usluge za glas, podatke i SMS</string>
+    <string name="voice_title">Glas/USSD/MMI</string>
+    <string name="choose_soft_place">Izaberite lokaciju za instalaciju softvera</string>
+    <string name="wifi_advanced_ipv6_address_title">IPv6 adresa</string>
+    <string name="products_version">Broj modela</string>
+    <string name="call_ring_pocket_enable_summary">"Pojačaj zvono kada je telefon u džepu ili futroli"</string>
+    <string name="select_memory">Podrazumevani disk za upisivanje</string>
+    <string name="data_usage_enable_mobile_statistics">Statistika o prenosu podataka</string>
+    <string name="startup_time_enabled">Zakazano uključivanje</string>
+    <string name="double_click_home_enabled_description">"Dvaput pritisnite (taster POČETNA) da biste aktivirali glasovne usluge"</string>
+    <string name="light_settings">LED lampica za obaveštenja</string>
+    <string name="multi_sim_settings_title">Postavke multiSIM usluge</string>
+    <string name="security_not_set">Bezbednost nije podešena</string>
+    <string name="fuse_backup_data_to_cloud_summary">Napravi rezervnu kopiju podataka sa telefona u oblaku</string>
+    <string name="framework_version">Verzija operativnog sistema Android</string>
+    <string name="usb_tether_type_title">Tip deljenja Interneta preko USB veze</string>
+    <string name="profile_edit_pocket_help">"Pojačaj zvono kada je telefon u džepu ili futroli"</string>
+    <string name="monotype_preference_title">Stil fonta</string>
+    <string name="pch_call_prefer_summary_on">Režim prioriteta poziva</string>
+    <string name="AGPS_NOTIFY_PRIVACY"> Zahtev za lokacijom (privatnost)</string>
+    <string name="try_it">Pokušaj da koristiš</string>
+    <string name="gemini_sim_management_title">Upravljanje SIM karticom</string>
+    <string name="display_effect_mode_custom_summary">Ručno podešavanje vrednosti svakog parametra.</string>
+    <string name="wifi_hotspot_suspend_optimizations">Optimizacija WLAN hotspota</string>
+    <string name="call_ring_weaken_enable_title">"Smanjivanje jačine zvona kada se telefon podigne"</string>
+    <string name="mercury_keyboard_title">Srebrna tastatura</string>
+    <string name="wifi_ipv4_address">IPv4 adresa</string>
+    <string name="wifi_no_cert_for_wapi">Nije pronađen certifikat za pristupnu tačku na koju se trenutno povezujete</string>
+    <string name="custom_theme_name">Nova [%1$s]</string>
+    <string name="wifi_switch_summary">WLAN mreže sa kojima se telefon već povezivao biće prepoznate i telefon će se automatski povezati na dostupne mreže u dometu da bi se smanjio saobraćaj preko mreže za prenos podataka.</string>
+    <string name="still_sleep_ctrl">Režim mirovanja ako se ne pomera</string>
+    <string name="passpoint_config_credential_type">Tip akreditiva</string>
+    <string name="smart_roll_title">Pametno okretanje</string>
+    <string name="display_effect_type_hue">Ton</string>
+    <string name="smart_standby_ctrl">"Pametni režim mirovanja"</string>
+    <string name="display_effect_mode_default_title">Podrazumevani režim</string>
+    <string name="tethered_ipv6_title">Postavke hotspota i deljenja Interneta</string>
+    <string name="devices_info_camera">"Kamera ：prednja: 5 miliona,  zadnja: 13 miliona"</string>
+    <string name="playersTutorial_stoped">Uputstvo je prekinuto</string>
+    <string name="lenovo_exp_title">Želim da učestvujem u programu Lenovo Experience</string>
+    <string name="tvout_settings">TV izlaz</string>
+    <string name="display_effect_type_hue_warm">Tople boje</string>
+    <string name="set_sms_error">Greška u podešavanju SMS pretplate. Pretplata nije aktivna.</string>
+    <string name="lockscreen_face_detection_ctrl_description">Postavite lice ispred ekrana da biste prevlačenjem otključali ekran</string>
+    <string name="smart_standby_ctrl_summary">"Ekran će se uključiti kada gledate u telefon"</string>
+    <string name="devices_info_screen">"Ekran: 1080*1920   5,5 inča"</string>
+    <string name="shellt_phone_info_screen">"Rezolucija: 720P, veličina: 6,0 inča"</string>
+    <string name="passpoint_supported">Podržano</string>
+    <string name="wifi_ap_bandwidth_enable">Omogući regulisanje propusnog opsega</string>
+    <string name="display_effect_mode_outdoor_title">Režim za jako svetlo</string>
+    <string name="privacy_backup_userdata_summary_cloud">Napravi rezervnu kopiju podataka sa telefona u oblaku</string>
+    <string name="font_settings_title">"Postavke fonta"</string>
+    <string name="lockscreen_knock_on_ctrl">Kucnite dvaput da biste probudili sistem</string>
+    <string name="notificationbar_setings_title">"Postavke trake za obaveštenja"</string>
+    <string name="unlock_proximity_ctrl">Režim za sprečavanje pozivanja u džepu</string>
+    <string name="try_swing_lock_info">Protresite telefon da biste zaključali ekran</string>
+    <string name="shellt_phone_info_camera">"8 miliona"</string>
+    <string name="sim_enter_pin_hints">(unesite 4-8 brojeva)</string>
+    <string name="ipo_summary_on">Onemogući brzo pokretanje sistema</string>
+    <string name="authorizaion_failed_error">Autorizacija nije uspela. Nije uspelo povezivanje sa udaljenim uređajem.</string>
+    <string name="display_settings_scences_title">Scene</string>
+    <string name="runningapp_stop_dlg_text" product="tablet">Ako zaustavite ove usluge, neke
+        funkcije tableta možda neće pravilno raditi dok ga ne isključite
+        a zatim ponovo uključite.</string>
+    <string name="display_effect_mode_auto_summary">Automatsko menjanje režima u zavisnosti od aplikacije pregledača i okruženja.</string>
+    <string name="teos_settings_title">Balans boja na ekranu</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Zahtev za lokacijom (odbij ako nema odgovora)</string>
+    <string name="authdlg_auto_reply">Ne pitaj ponovo</string>
+    <string name="set_data_subscription_progress">U toku je podešavanje pretplate za podatke</string>
+    <string name="location_consent_dialog_title">Pristanak za deljenje lokacije</string>
+    <string name="eap_sim_aka_no_sim_slot_selected">Morate izabrati ležište za SIM karticu da biste koristili EAP-SIM/AKA</string>
+    <string name="color_light">LED lampica za obaveštenja</string>
+    <string name="devices_info_runMemory">"RAM: 2,0GB</string>
+    <string name="passpoint_summary">Automatski se poveži na pristupne tačke koje podržavaju Passpoint</string>
+    <string name="display_effect_mode_auto_title">Automatski režim</string>
+    <string name="show_frame_count_x_coordinate">X osa</string>
+    <string name="reset_backup_befor_reset_summary">Napravite rezervnu kopiju važnih podataka, kao što su kontakti, pre resetovanja</string>
+    <string name="usb_bicr_summary">Prikaži virtuelni CD-ROM sa korisnim softverom.</string>
+    <string name="service_foreground_processes_ram">"Koristi se <xliff:g id="MEMORY">%1$s</xliff:g> aplikacija"</string>
+    <string name="authdlg_service_map">ovaj telefon da biste pristupili porukama</string>
+    <string name="slide_unlock_title">Otključavanje prevlačenjem</string>
+    <string name="display_effect_of_screen_dialog_title">Efekat će biti primenjen nakon što ponovo uključite ekran!</string>
+    <string name="move_select">Želite li da premestite izabrane aplikacije? Neke aplikacije nije moguće premestiti na podrazumevanu memorijsku karticu.</string>
+    <string name="save_power_summary">"Izaberite aplikacije za usklađivanje sa vremenom buđenja sistema"</string>
+    <string name="internal_storage_app">Unutrašnja memorija za aplikacije</string>
+    <string name="clear_cache">"Obriši sav keš"</string>
+    <string name="authdlg_service_default">ovaj telefon</string>
+    <string name="category_smart">Pametna funkcija</string>
+    <string name="show_frame_count_y_coordinate">Y osa</string>
+    <string name="roaming_time_settings_zone">Preporučena vremenska zona</string>
+    <string name="display_effect_smart_brightness_summary">Pametna tehnologija detektuje da se telefon nalazi u okruženju sa jakim svetlom i aktivira režim pametne osvetljnosti. Ovaj režim povećava vidljivost kada se nalazite napolju pri jakom svetlu.</string>
+    <string name="sel_sub_summary">Izaberite pretplatu za SIM-1 i SIM-2</string>
+    <string name="usb_bicr_title">Ugrađeni CD-ROM</string>
+    <string name="lock_intro_message" product="default">Zaštitite telefon od neovlašćenog korišćenja tako što ćete postaviti lični šablon za otključavanje ekrana. Prevucite prstom preko ekrana da biste bilo kojim redosledom povezali najmanje četiri tačke na sledećem ekranu.
+        \n\nDa li ste spremni? Dodirnite Dalje.
+    </string>
+    <string name="eap_sim_aka_no_sim_error">Morate umetnuti SIM karticu da biste koristili EAP-SIM/AKA</string>
+    <string name="wifi_wps_fail_error">WLAN zaštićeno podešavanje nije uspelo, pokušajte ponovo.</string>
+    <string name="lenovo_exp_content">"Podržano je samo u Kini"</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">Smanjivanje potrošnje baterije kada je WLAN hotspot uključen</string>
+    <string name="simple_settings">Vodič za početnike</string>
+    <string name="profile_edit_weaken_title">Smanji jačinu melodije zvona</string>
+    <string name="gesture_series_summary">Ova funkcija vam omogućava da otključate uređaj dok je ekran isključen i brzo pokrenete aplikacije</string>
+    <string name="A_gps_summary"> koristi pomoćne podatke radi ubrzavanja prikazivanja vremena na lokaciji pomoću funkcije GPS</string>
+    <string name="safety_information_content">Za nadogradnju sistema na telefonu, obratite se zvaničnoj podršci kompanije Lenovo ili upotrebite funkciju kompanije Lenovo za nadogradnju sistema na mobilnim uređajima (OTA). Korišćenje drugih načina za nadogradnju sistema može dovesti do kvara uređaja ili gubitka podataka, kao i do onemogućavanja bezbednosnih funkcija, što vodi bezbednosnim rizicima. U slučaju problema do kojih dođe usled korišćenja drugih načina za nadogradnju, kompanija Lenovo ne snosi odgovornost za održavanje uređaja.</string>
+    <string name="incoming_call_ringer_title">"Ton obaveštenja o pozivu"</string>
+    <string name="unlock_set_unlock_speechpwd_title">"Koristi glasovnu lozinku i šablon za zaštitu"</string>
+    <string name="privacy_restore_userdata_summary_cloud">Vraćanje podataka čija se rezervna kopija čuva u oblaku</string>
+    <string name="startup_shutdown_time_errmsg">Vremenski period između uključivanja i isključivanja mora biti duži od 10 minuta, podesite ponovo.</string>
+    <string name="display_effect_of_screen_cool">Hladno</string>
+    <string name="lock_screen_notifications_title">Obaveštenja na zaključanom ekranu</string>
+    <string name="header_category_call_and_msg">Jednom rukom</string>
+    <string name="system_time_am">pre podne</string>
+    <string name="status_imei_slot1">IMEI(SIM 1)</string>
+    <string name="still_sleep_ctrl_summary">Kada se horizontalno postavi na ravnu površinu, telefon će preći u režim mirovanja.</string>
+    <string name="status_imei_slot2">IMEI(SIM 2)</string>
+    <string name="header_category_lock_and_screen">Pokreti</string>
+    <string name="privacy_restore_userdata_title_cloud">Vrati iz oblaka</string>
+    <string name="lock_screen_style_title">Stil zaključanog ekrana</string>
+    <string name="drm_reset_dialog_msg">Ova operacija će izbrisati sve licence na ovim uređajima. Želite li da nastavite?</string>
+    <string name="wifi_tether_auto_channel_width_text">Automatski 20/40 MHz</string>
+    <string name="usb_charge_summary">Prekidanje svih USB funkcija. Ubrzava punjenje preko USB kabla i smanjuje potrošnju energije.</string>
+    <string name="header_category_personalcustom">"Personalizovana postavka"</string>
+    <string name="save_power_wait_message">"Učitavanje aplikacija"</string>
+    <string name="wifi_ap_time_duration">Trajanje:<xliff:g id="time">%1$s</xliff:g></string>
+    <string name="wifi_advanced_ipv4_address_title">IPv4 adresa</string>
+    <string name="soft_permission">Upravljanje dozvolama</string>
+    <string name="tethered_ipv4">(IPv6 adresa nije dostupna)</string>
+    <string name="unlock_set_unlock_speechnormal_title">"Brzo otključavanje glasom"</string>
+    <string name="recovery_data_title">Vraćanje podataka iz rezervne kopije na SD kartici </string>
+    <string name="tethered_ipv6">(Dostupna je samo IPv6 adresa)</string>
+    <string name="prevent_misoperation_summary">Koristite senzor za blizinu da biste izbegli nenamerne operacije kada vam je telefon u džepu</string>
+    <string name="wifi_ipv6_address">IPv6 adresa</string>
+    <string name="headset_play_mms_enabled_title">"Reprodukuj MMS preko slušalica"</string>
+    <string name="tethering_apn_settings_title">Postavke za APN</string>
+    <string name="usb_detail_message">Upravljanje telefonom sa računara. Posetite http://sj.lenovo.com da biste preuzeli zvanični Lenovo softver.</string>
+    <string name="server_lenovo_exp_summery">Prikupljanje podataka u cilju unapređenja naših proizvoda i usluga</string>
+    <string name="usbsetting_usbmassstorage_close">Izbaci USB uređaj za skladištenje</string>
+    <string name="service_background_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> dostupna aplikacija"</string>
+    <string name="mercury_keyboard_summary">Kada nagnete telefon, biće nagnuta i numerička tastatura | pomoć</string>
+    <string name="save_power_count">"Prilagođeno je <xliff:g id="NUMBER">%d</xliff:g> aplikacija"</string>
+    <string name="set_dds_error">Greška u podešavanju pretplate za podatke.</string>
+    <string name="lockscreen_face_detection_ctrl">Otključavanje prepoznavanjem lica</string>
+    <string name="shutdown_time">Isključi u</string>
+    <string name="bluetooth_confirm_device_pair">Da biste se uparili sa:</string>
+    <string name="long_menu_active_voice">Aktiviranje glasa pomoću tastera Meni</string>
+    <string name="mouse_primary_button_dialog_title">Promeni primarno dugme</string>
+    <string name="fuse_backup_data_description">"Napravite rezervnu kopiju kontakata, slika, poruka, aplikacija i drugih važnih podataka pre resetovanja telefona"</string>
+    <string name="settings_header_ringtone_k7">"Postavke melodije zvona"</string>
+    <string name="move_select_short">Želite li da premestite izabranu aplikaciju?</string>
+    <string name="fuse_recovery_data_from_cloud_summary">Izaberite rezervnu kopiju podataka iz oblaka</string>
+    <string name="display_effect_of_screen_bright">Svetlo</string>
+    <string name="memory_info">RAM</string>
+    <string name="set_dds_failed">Greška u podešavanju pretplate za podatke.  Obrišite postojeću vezu za prenos podataka, pa pokušajte ponovo.</string>
+    <string name="auto_time_on">"Koristi mrežnu podršku"</string>
+    <string name="quicksettings_summary">Dobro došli u Lenovo telefon! Za početak obavite brzo podešavanje. Možete\n da podesite pojedinačno u meniju „Sistemska podešavanja“.</string>
+    <string name="usb_sharing_info_step_1">"1. Otvorite mrežnu vezu na Windows računaru."</string>
+    <string name="lockscreen_volume_key_lock_unlock_ctrl">"Povećavanje osvetljenosti ekrana pomoću tastera za jačinu zvuka"</string>
+    <string name="display_effect_category_title_smart">Pametna funkcija</string>
+    <string name="usb_sharing_info_step_3">"3. Kliknite na karticu za deljenje, pa izaberite opciju „Dozvoli drugim korisnicima mreže da se povezuju na vezu sa Internetom na ovom računaru“ (ako se pojavi poruka „Kućna mrežna veza“, izaberite novu vezu koja predstavlja USB Internet)."</string>
+    <string name="usb_sharing_info_step_2">"2. Desnim tasterom miša kliknite na vezu koju želite da podelite, a zatim kliknite na svojstva“.</string>
+    <string name="slide_unlock_help">Kada je ekran isključen, prevucite prstom s leva nadesno pri dnu ekrana da biste ga otključali.</string>
+    <string name="pch_data_prefer_summary_off">Režim prioriteta podataka</string>
+    <string name="passpoint_username_pw">Korisničko ime/lozinka</string>
+    <string name="dlg_default_write_disk_change_msg">Podrazumevani disk za upisivanje je promenjen, potrebno je da ponovo pokrenete sistem!</string>
+    <string name="fuse_recovery_data_from_cloud_title">Vraćanje podataka iz oblaka</string>
+    <string name="incoming_call_ringer_title1">"Zvono dolaznog poziva (1)"</string>
+    <string name="incoming_call_ringer_title2">"Zvono dolaznog poziva (2)"</string>
+    <string name="authdlg_service_opp">ovaj telefon</string>
+    <string name="usb_tethering_select_version">Izbor verzije sistema na računaru</string>
+    <string name="display_personalize">Personalizacija</string>
+    <string name="shellt_phone_info_cpu">"Qualcomm MSM8926  4*1,2 GHz"</string>
+    <string name="wifi_ap_no_blocked">0 blokiranih korisnika</string>
+    <string name="display_effect_mode_comfirtable_summary">Zaštita očiju, korisna kada se duže vreme koristi telefon.</string>
+    <string name="wifi_tether_setting_title">Osnovne postavke</string>
+    <string name="dialog_title_button_brightness">Pozadinsko osvetljenje dugmadi menija</string>
+    <string name="authdlg_service_accept">Dozvoli</string>
+    <string name="wifi_ap_wps_dialog_title">WPS povezivanje</string>
+    <string name="display_effect_of_screen_contrast_item0">Hladno</string>
+    <string name="wide_touch_title">WideTouch</string>
+    <string name="usbsetting_usbmassstorage_open">Povezivanje USB uređaja za skladištenje</string>
+    <string name="move_to_phone">Premesti na telefon</string>
+    <string name="wifi_ap_total_data">Ukupno prenetih podataka:<xliff:g id="time">%1$s</xliff:g></string>
+    <string name="unlock_proximity_ctrl_summary">Korišćenje senzora blizine kako bi se sprečilo slučajno korišćenje dok se telefon nalazi u džepu.</string>
+    <string name="display_effect_of_screen_contrast_item2">Toplo</string>
+    <string name="uninstall_select">Deinstalirati izabrane stavke?</string>
+    <string name="install_local">Lokacija za instaliranje softvera</string>
+    <string name="display_effect_of_screen_saturation_item0">Tiho</string>
+    <string name="mercury_keyboard_help">Numerička tastatura se naginje u skladu sa položajem telefona</string>
+    <string name="gesture_light_up_screen_title">"Kucnite da uključite"</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">"Aplikacija želi da uključi Bluetooth i komunicira sa uređajem <xliff:g>%1$s</xliff:g> preko Bluetooth veze."</string>
+    <string name="lock_screen_notifications_summary">Prikazuj obaveštenja na zaključanom ekranu</string>
+    <string name="display_effect_of_screen_saturation_item2">Svetlo</string>
+    <string name="privacy_restore_userdata_title">Vrati iz unutrašnje memorije</string>
+    <string name="other_wallpaper">Druga pozadina</string>
+    <string name="processor_info">Procesor</string>
+    <string name="show_dev_countdown">Još samo nekoliko koraka i postaćete razvojni programer.</string>
+    <string name="single_hand_title">Mikro-ekran za upotrebu jednom rukom</string>
+    <string name="os_version">Verzija sistema</string>
+    <string name="pch_warning_message">Brzina prenosa podataka će se smanjiti.</string>
+    <string name="voice_summary">Izaberite pretplatu za glasovne pozive</string>
+    <string name="move_success">Premeštanje je završeno! Neke aplikacije nije moguće premestiti na podrazumevanu memorijsku karticu. <xliff:g>%1$s</xliff:g> aplikacije uspešno premeštene!</string>
+    <string name="show_frame_count_title">Otvaranje uputstva za početnike</string>
+    <string name="privacy_backup_userdata_category_title">Napravi rezervnu kopiju podataka</string>
+    <string name="privacy_category_title_cloud">Oblak</string>
+    <string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Svi korisnički podaci</xliff:g> (uključujući muziku, slike i druge korisničke podatke) iz <xliff:g>Unutrašnje memorije</xliff:g> biće izbrisani. Napravite rezervnu kopiju podataka pre resetovanja telefona."</string>
+    <string name="ipo_title">Brzo pokretanje sistema</string>
+    <string name="title_lcd_invert">Invertuj boje na ekranu</string>
+    <string name="smart_scene_summary">"Režim scene je obavezan za pametno prebacivanje"</string>
+    <string name="mouse_primary_button_title">Zameni primarno i sekundarno dugme</string>
+    <string name="category_single_hand">Jednom rukom</string>
+    <string name="wide_touch_summary">Prečica za pristupanje jednim dodirom</string>
+    <string name="userguide_title">"Vodič za pokretanje sistema"</string>
+    <string name="swing_lock">Zaključavanje trešenjem</string>
+    <string name="wifi_restore_category_title">Vraćanje podataka o WLAN mrežama</string>
+    <string name="never_timeout">Nikad ne prelazi u stanje mirovanja</string>
+    <string name="runningapp_stop_dlg_title">Želite li da zaustavite uslugu?</string>
+    <string name="sim_remain">(Preostaje:<xliff:g id="remains">%d</xliff:g>)</string>
+    <string name="lockscreen_style_default_desc">"Brzo pristupanje aplikacijama sa zaključanog ekrana"</string>
+    <string name="startup_time">Uključi u</string>
+    <string name="keyboard_lights_title">Svetlo dugmeta Meni</string>
+    <string name="category_gesture">Pokret</string>
+    <string name="pin_scroll_summary">Kada se krećete kroz listu, zaustavite se na trenutak pri vrhu i otpustite je, a lista će biti zakačena radi lakšeg korišćenja.</string>
+    <string name="AGPS_DEFAULT_STRING">Podrazumevana niska za A-GPS</string>
+    <string name="muti_window_summary">Podrška za prikazivanje više prozora i obavljanje više zadataka na jednom ekranu, kliknite da uđete u meni za podešavanje</string>
+    <string name="smart_call_answer_title">Pametno javljanje</string>
+    <string name="vpn_lockdown_savelogin_error">Ako je VPN mreža stalno uključena, informacije za prijavljivanje moraju biti sačuvane. </string>
+    <string name="airbuse_phone_info_camera">"Prednja 300.000, zadnja 5 miliona"</string>
+    <string name="stop_select_app">"Zaustaviti izabrano?"</string>
+    <string name="usb_adb_summary">Pokretanje režima za otklanjanje grešaka. Upravljanje telefonom sa računara. Preporučuje se korišćenje zvaničnog softvera. <xliff:g>Detalji</xliff:g></string>
+    <string name="lock_title" product="default">Obezbeđivanje telefona</string>
+    <string name="current_suffix">"(trenutno)"</string>
+    <string name="wifi_backup">Rezervna kopija konfiguracije WLAN mreža</string>
+    <string name="shellt_phone_info_runMemory">"1,0 GB"</string>
+    <string name="agps_profile_select_Title">SUPL profil</string>
+    <string name="roaming_time_settings_time_display">Program za prikazivanje vremena</string>
+    <string name="devices_info_memory">"Memorija：<xliff:g>%1$s</xliff:g>(slobodno)  4 GB(ukupno)"</string>
+    <string name="usb_tether">Deljenje Interneta preko USB veze</string>
+    <string name="smart_scene_title">Pametni izbor scene</string>
+    <string name="single_hand_summary">Korišćenje telefona jednom rukom</string>
+    <string name="cpu_dtm_summary">Ograničavanje maksimalnih performansi procesora kako bi se uštedela baterija i smanjila temperatura uređaja.</string>
+    <string name="apn_port_warning">Vrednost porta mora biti 1-65535!</string>
+    <string name="bluetooth_confirm_passkey_show">Vodite računa da se prikazuje sledeći pristupni ključ:</string>
+    <string name="agps_str_allow">DOZVOLI</string>
+    <string name="recovery_data_section_title">Vraćanje podataka</string>
+    <string name="prevent_misoperation_title">Režim za sprečavanje pozivanja u džepu</string>
+    <string name="default_soft_setting">Podrazumevane postavke softvera</string>
+    <string name="wifi_backup_ok">Pravljenje rezervne kopije je uspelo!</string>
+    <string name="dlg_default_write_disk0_change_msg">"Ako izaberete SD karticu, aplikacije koje su instalirane u unutrašnjoj memoriji neće moći da se koriste, a uređaj će se ponovo pokrenuti. Želite li zaista da pređete na SD karticu?"</string>
+    <string name="side_key_backlight_help">Pritisnite taster za jačinu zvuka da biste uključili ekran</string>
+    <string name="set_voice_error">Greška u podešavanju pretplate za glas. Pretplata nije aktivna.</string>
+    <string name="dlg_mount_external_sd_summary" product="default">Ako postavite SD karticu, neke aplikacije koje koristite biće zaustavljene.</string>
+    <string name="data_usage_enable_mobile_statistics_dialog">Ako omogućite ovu funkciju, potrošnja energije će biti velika na mrežama sa velikom stopom prenosa podataka, kao što je LTE.</string>
+    <string name="agps_str_verify">Verifikacija</string>
+    <string name="phone_car_mode_summary">"Postavke režima za automobil"</string>
+    <string name="bluetooth_stop_search_for_devices">Zaustavi pretragu</string>
+    <string name="smart_rotete_cbox_title">Rotiranje ekrana</string>
+    <string name="phone_model_number">"Model telefona"</string>
+    <string name="voice_call_way_title">"Način glasovnog pozivanja"</string>
+    <string name="gesture_topspeed_snap_summary">"Dvaput dodirnite dugme za početni ekran dok je ekran isključen da biste fotografisali"</string>
+    <string name="akp_installer_settings_title">APK instalator</string>
+    <string name="gps_time_sync_attention_gps_off">Da biste koristili vreme dobijeno preko funkcije GPS, potrebno je da prvo omogućite GPS. Preuzimanje ispravke preko funkcije GPS potrajaće najviše 1 minut. Međutim, preuzimanje vremena preko funkcije GPS možda neće uspeti zbog slabog signala u okruženju. \n\nŽelite li zaista da omogućite funkciju GPS i sačekate da se preuzme vreme preko nje?</string>
+    <string name="tethering_apn_settings_summary">Konfiguriši APN za deljenje Interneta</string>
+    <string name="color_light_unread_mms">Nepročitane poruke</string>
+    <string name="hardware_version">Verzija hardvera</string>
+    <string name="display_effect_mode_default_summary">Podrazumevani fabrički režim za optimalne boje.</string>
+    <string name="display_effect_of_screen_toast_title">Ako ne izaberete dugme \„Primeni\“, prethodna konfiguracija će se vratiti nakon ponovnog pokretanja sistema </string>
+    <string name="privacy_backup_userdata_text">Želite li da napravite rezervnu kopiju kontakata, SMS poruka i evidencije poziva u unutrašnjoj memoriji?</string>
+    <string name="display_smart_standby">Pametni režim mirovanja</string>
+    <string name="ims_toggle_summary">Pružanje IP Multimedia Subsystem usluga </string>
+    <string name="bluetooth_ask_establish_connection_ext">"Aplikacija <xliff:g>%1$s</xliff:g> želi da komunicira sa <xliff:g>%2$s</xliff:g> preko Bluetooth veze."</string>
+    <string name="clear_motion_summary">Poboljšavanje glatkoće video zapisa</string>
+    <string name="rcse_settings_title">Joyn postavke</string>
+    <string name="china_telcom_push_summary">China Telecom - besplatna usluga prosleđivanja obaveštenja</string>
+    <string name="stop_color_light">zaustavi</string>
+    <string name="color_light_missed_call">Propušteni pozivi</string>
+    <string name="voice_ui_title">"Kontrola glasom"</string>
+    <string name="usb_ums_summary">"Preporučuje se XP. Omogućava prenošenje datoteka između računara i Android uređaja."</string>
+    <string name="what_lenovoid_cando_title"> "Šta su propusnice za aplikacije? "</string>
+    <string name="clear_cache_msg">"Brisanje je završeno, oslobođeno je <xliff:g>%1$s</xliff:g> memorije."</string>
+    <string name="k6kk_phone_info_cpu">"Snapdragon 800 2,2 GHz"</string>
+    <string name="cpu_dtm_title">Režim uštede energije za CPU</string>
+    <string name="k6kk_phone_info_camera">"Prednja 5 miliona, zadnja 13 miliona"</string>
+    <string name="smart_roll_summary">Prevucite ivicu ekrana da biste izabrali dugmad</string>
+    <string name="savepower_black_title">"Crna lista"</string>
+    <string name="display_effect_mode_ultra_bright_title">Veoma svetao režim</string>
+    <string name="set_dds_success">Podešavanje pretplate za podatke je uspelo</string>
+    <string name="system_shortcutbar_title">"Traka sa sistemskim prečicama"</string>
+    <string name="hotknot_explained_description">Dozvoli razmenu podataka kada ekran dodirne drugi uređaj</string>
+    <string name="wifi_restore_title">Vraćanje konfiguracije WLAN mreža</string>
+    <string name="bluetooth_ask_establish_connection">"Aplikacija želi da komunicira sa <xliff:g>%1$s</xliff:g> preko Bluetooth veze."</string>
+    <string name="multiwindow_summary">"podržava više prozora"</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">"Aplikacija <xliff:g>%1$s</xliff:g> želi da uključi Bluetooth i komunicira sa uređajem <xliff:g>%2$s</xliff:g> preko Bluetooth veze."</string>
+    <string name="call_ring_pocket_enable_title">"Džepni režim"</string>
+    <string name="swing_lock_summary">Brzo protresite telefon u istom smeru da biste zaključali ekran | Pomoć</string>
+    <string name="lock_intro_message" product="tablet">Zaštitite tablet od neovlašćenog korišćenja tako što ćete postaviti lični šablon za otključavanje ekrana. Prevucite prstom da biste bilo kojim redosledom povezali najmanje četiri tačke na sledećem ekranu.  Potrebno je da povežete najmanje četiri tačke.
+        \n\nDa li ste spremni? Dodirnite Dalje.
+    </string>
+    <string name="show_dialog">Ne podsećaj me</string>
+    <string name="gesture_series_title">Korišćenje isključenog ekrana</string>
+    <string name="airbuse_phone_info_screen">"Rezolucija: qHD960*540, veličina: 6,0 inča"</string>
+    <string name="smart_rotete_cbox_summary">Pametna funkcija</string>
+    <string name="display_effect_mode_outdoor_summary">Prikladno za korišćenje napolju pod jakim svetlom. Poboljšava vidljivost pri korišćenju napolju. Ovaj režim utiče na funkcije u režimu mirovanja.</string>
+    <string name="header_category_system_and_key">Pametna funkcija</string>
+    <string name="wifi_ap_client_ip_label">IP adresa:</string>
+    <string name="wifi_ap_title">Statistika</string>
+    <string name="smart_call_answer_settings_summary">"Samo podignite telefon kada primite dolazni poziv"</string>
+    <string name="autopop_warning_message">Ako opozovete izbor ove stavke, ovaj prozor se neće prikazati kada sledeći put povežete telefon sa računarom. Prozor možete otvoriti tako što ćete kliknuti na sistemsko obaveštenje. </string>
+    <string name="launch_error">"Pokretanje aplikacije nije uspelo!"</string>
+    <string name="shutdown_time_enabled">Zakazano isključivanje</string>
+    <string name="accessibility_service_security_warning_summary" product="default">
+            <xliff:g id="accessibility_service_name">%1$s</xliff:g> može da
+            prikuplja sav tekst koji unesete, osim lozinki. U to spadaju lični podaci, kao što su brojevi kreditnih
+            kartica. Takođe, može da sakuplja podatke o vašem korišćenju telefona.</string>
+    <string name="k6kk_phone_info_screen">"Rezolucija: 1080*1920, veličina: 5,5 inča"</string>
+    <string name="swing_lock_help">Protresite telefon da biste zaključali ekran</string>
+    <string name="software_version">Verzija softvera</string>
+    <string name="incoming_mms_ringer_title">Ton obaveštenja o poruci</string>
+    <string name="wifi_ap_more">Izaberite sve pristupne tačke</string>
+    <string name="header_category_lock_unlock">ZAKLJUČAVANJE EKRANA</string>
+    <string name="no_sim_info">Informacije o SIM kartici nisu dostupne.\nNije moguće pristupiti meniju</string>
+    <string name="display_effect_of_screen_soft">Tiho</string>
+    <string name="side_key_backlight_summary">Da biste uključili ekran, pritisnite taster za pojačavanje ili smanjivanje jačine zvuka | Pomoć</string>
+    <string name="authdlg_service_ftp">ovaj telefon da biste prebacili datoteke</string>
+    <string name="profile_edit_pocket_title">Džepni režim </string>
+    <string name="display_effect_of_screen_warm">Toplo</string>
+    <string name="stop_all_app">"Zaustavi sve"</string>
+    <string name="recovery_data_summary">Dodirnite da biste otvorili pravljenje rezervne kopije podataka na SD kartici</string>
+    <string name="wifi_restore_summary">Vrati konfiguraciju WLAN mreža (npr. nalog/lozinka) sa lokacije LeCloud</string>
+    <string name="wlan_share">"Deljenje WLAN mreže"</string>
+    <string name="bottom_shortcutbar_title">"Donja traka sa prečicama"</string>
+    <string name="display_effect_mode_ultra_bright_summary">Veoma jako osvetljenje ekrana. Ovaj režim utiče na potrošnju energije u režimu mirovanja.</string>
+    <string name="dlg_mount_external_sd_title" product="default">Želite li da postavite SD karticu?</string>
+    <string name="credentials_none">Ne postoji evidencija</string>
+    <string name="privacy_backup_userdata_summary">Napravite rezervnu kopiju podataka u unutrašnjoj memoriji</string>
+    <string name="smart_calling_summary">Rezime pametnog pozivanja</string>
+    <string name="vpn_delete">Želite li zaista da izbrišete?</string>
+    <string name="data_usage_disable_mobile_statistics_dialog">Ako onemogućite ovu funkciju, prikupljanje statistike o prenosu podataka biće isključeno.</string>
+    <string name="wifi_switch_settings_title">Snimanje WLAN mreže</string>
+    <string name="double_click_menu_enabled_title">"Pritisnite i zadržite taster MENI da biste aktivirali glas"</string>
+    <string name="ipo_summary_off">Omogući brzo pokretanje sistema</string>
+    <string name="display_effect_type_hue_cool">Hladne boje</string>
+    <string name="usb_detail_title">Preuzmite zvanični Lenovo softver</string>
+    <string name="usbsetting_usbmassstorage_wait">Sačekajte ...</string>
+    <string name="double_click_home_enabled_title">"Dvaput pritisnite taster POČETNA da biste aktivirali glas"</string>
+    <string name="wifi_WEP_transmit_key">Lozinka za prenos</string>
+    <string name="move_to_sdcard">Premesti na podrazumevanu memorijsku karticu</string>
+    <string name="gps_time_sync_attention_gps_on">Preuzimanje ispravke preko funkcije GPS potrajaće najviše 1 minut. Međutim, preuzimanje vremena preko funkcije GPS možda neće uspeti zbog slabog signala u okruženju.\n\nŽelite li zaista da koristite vreme koje dobijete preko funkcije GPS?</string>
+    <string name="bluetooth_turning_on_failed">Otvaranje Bluetooth veze nije uspelo</string>
+    <string name="phone_info">Informacije o telefonu</string>
+    <string name="show_frame_count_summary">Prikaži broj kadrova ako je omogućeno.</string>
+    <string name="wifi_tether_wps_connect_title">WPS povezivanje</string>
+    <string name="sel_sub_title">Konfigurisanje pretplata </string>
+    <string name="move_tomemory_success">Premeštanje je završeno! <xliff:g>%1$s</xliff:g> aplikacije uspešno premeštene!</string>
+    <string name="reset_backup_befor_reset_title">Napravite rezervnu kopiju podataka pre resetovanja</string>
+    <string name="lockscreen_knock_on_ctrl_summary">Dvaput kliknite na ekran da biste ga uključili</string>
+    <string name="airplane_open_confirm_message">"Želite li zaista da aktivirate Režim rada u avionu?"</string>
+    <string name="gesture_topspeed_snap_title">"Brzo fotografisanje"</string>
+    <string name="quicksettings">"brze postavke"</string>
+    <string name="authdlg_service_spp">serijski port za Bluetooth na ovom telefonu</string>
+    <string name="color_light_demo">Demonstracija LED lampica</string>
+    <string name="sim_settings_title">Postavke rada sa dve kartice</string>
+    <string name="savepower_white_title">"Bela lista"</string>
+    <string name="lenovoID_registered_title">"Želim da koristim broj mobilnog telefona kao ID Lenovo naloga (Lenovo propusnicu)"</string>
+    <string name="wifi_restore_failed">Vraćanje nije uspelo.</string>
+    <string name="landscape_launcher_title">Pokretanje u položenom režimu </string>
+    <string name="usb_sharing_info_title">Internet</string>
+    <string name="mannual">Otvaranje uputstva za početnike</string>
+    <string name="save_power_title">"Usklađivanje sa vremenom buđenja sistema"</string>
+    <string name="header_category_personalcustom_k7">"Personalizacija</string>
+    <string name="display_effect_type_saturation_bright">Svetlo</string>
+    <string name="china_telcom_push_title">China Telecom Yi - prosleđivanje obaveštenja</string>
+    <string name="wifi_tether_auto_disable_title">Ostavi WLAN hotspot uključen</string>
+    <string name="wifi_backup_summary">Napravi rezervnu kopiju konfiguracije WLAN mreža (npr. nalog/lozinka) na lokaciji LeCloud</string>
+    <string name="storage_phone">Ugrađena memorija</string>
+    <string name="header_category_singlehand_settings">"Postavke za korišćenje jednom rukom"</string>
+    <string name="devices_info_buildNumber">"Broj verzije: <xliff:g>%1$s</xliff:g>"</string>
+    <string name="header_category_call_message">POZIVI I PORUKE</string>
+    <string name="location_improve_allow">Usluge lokacije poboljšane su korišćenjem Wi-FI i/ili mobilnih mreža</string>
+    <string name="NI_Request_ID">ID zahtevaoca</string>
+    <string name="wifi_ap_wps_mode_title">WPS režim</string>
+    <string name="lockscreen_shake_unlock_ctrl">Zaključavanje ekrana trešenjem</string>
+    <string name="authdlg_title">Zahtev za Bluetooth autorizaciju</string>
+    <string name="call_ring_weaken_enable_summary">"Jačina zvona se smanjuje ako podignete telefon"</string>
+    <string name="double_click_title">Brzina duplog klika</string>
+    <string name="pin_scroll_title">Krećite se kroz listu da je zakačite</string>
+    <string name="wifi_popup_0">Povežite povezanu pristupnu tačku da bi se dijalog za povezivanje prikazao kada sledeći put budete u ovoj oblasti</string>
+    <string name="wifi_popup_2">Ne podsećaj me</string>
+    <string name="wifi_backup_title">Rezervna kopija WLAN mreža</string>
+    <string name="whatis_lenovoid_summary"> "koristite mobilni telefon kao ime Lenovo naloga, postanite član zajednice. "</string>
+    <string name="wifi_popup_1">Povežite povezanu pristupnu tačku da bi automatski bila omogućena kada sledeći put budete u ovoj oblasti</string>
+    <string name="privacy_backup_userdata_title_cloud">Napravi rezervnu kopiju u oblaku</string>
+    <string name="usb_adb_title">USB otklanjanje grešaka (ADB)</string>
+    <string name="double_click_muti_window_title">Prikazivanje više prozora</string>
+    <string name="auto_popup">Ne prikazuj više</string>
+    <string name="MobileNetwork_SIM1_Active">Aktivna je kartica SIM1</string>
+    <string name="launch_main_label">Pokreni aplikaciju</string>
+    <string name="akp_installer_settings_summary">Instalirajte APK iz memorije telefona i sa SD kartice</string>
+    <string name="tv_system_title">TV sistem</string>
+    <string name="NI_Request_ClientName">Ime klijenta</string>
+    <string name="profile_edit_pocket_summary">"Pojačaj zvono kada je telefon u džepu ili futroli"</string>
+    <string name="roaming_settings_title">Postavke rominga</string>
+    <string name="profile_edit_weaken_summary">Automatsko smanjivanje jačine zvona kada se telefon podigne | Pomoć</string>
+    <string name="data_summary">Izaberite pretplatu za pozive za prenos podataka</string>
+    <string name="server_lenovo_exp_title">Želim da učestvujem u programu Lenovo Experience</string>
+    <string name="passpoint_append_summary">(preko funkcije Passpoint)</string>
+    <string name="hide_recent_settings">povucite nadole da biste prikazali nedavne postavke</string>
+    <string name="app_privacy_settings">Postavke privatnosti za aplikacije</string>
+    <string name="backup_recovery_data_summary">Napravite rezervnu kopiju ili vratite podatke aplikacija na telefonu</string>
+    <string name="showing_color_light">Prikazivanje boja LED lampica</string>
+    <string name="wapi_as_certificate">ASE certifikat</string>
+    <string name="system_time_pm">popodne</string>
+    <string name="slide_unlock_summary">Prevucite prstom nalevo ili nadesnu pri dnu ekrana da biste otključali ekran | Pomoć</string>
+    <string name="reset_skip_backup_summary">Izaberite ovu opciju za stavke za koje već postoji rezervna kopija ili za koje ne želite da pravite rezervnu kopiju.</string>
+    <string name="long_menu_active_voice_summary">Dok je ekran uključen, pritisnite i zadržite taster Meni da biste aktivirali glasovnu funkciju</string>
+    <string name="quicksettings_title">Brzo podešavanje</string>
+    <string name="wifi_ap_client_mac_label">MAC adresa:</string>
+    <string name="hdmi_video_resolution">Rezolucija video zapisa</string>
+    <string name="summary_keyboard_lights">Pametno upravljanje</string>
+    <string name="authdlg_service_dun">usluga za pozivno umrežavanje na ovom telefonu</string>
+    <string name="privacy_backup_userdata_title">Napravi rezervnu kopiju u unutrašnjoj memoriji</string>
+    <string name="overturn_lock_ctrl_summary">"Okrenite telefon licem nadole da zaključate ekran"</string>
+    <string name="wifi_ap_bandwidth_title">Korišćenje propusnog opsega</string>
+    <string name="backup_recovery_data_title">Napravite rezervnu kopiju ili vratite podatke aplikacija</string>
+    <string name="gesture_light_up_screen_summary">"Dvaput dodirnite da biste uključili ekran"</string>
+    <string name="show_screen_frame_count">Prikaži broj kadrova na ekranu</string>
+    <string name="wifi_ap_no_connected">0 povezanih korisnika</string>
+    <string name="wifi_setting_summary">Automatsko omogućavanje ove funkcije kako bi WLAN veza imala veći prioritet od 3G veze za prenos podataka.</string>
+    <string name="dlg_default_write_disk1_change_msg">"Ako izaberete unutrašnju memoriju, aplikacije koje su instalirane na SD kartici neće moći da se koriste, a uređaj će se ponovo pokrenuti. Želite li zaista da pređete na unutrašnju memoriju?"</string>
+    <string name="wifi_ap_bandwidth_chart_summary">Mereno na telefonu. Vaš operator mreže može drugačije meriti brzinu prenosa podataka.</string>
+    <string name="overturn_lock_ctrl">"Okrenite licem nadole da zaključate ekran"</string>
+    <string name="bluetooth_remote_device">Bluetooth uređaj</string>
+    <string name="backup_data_to_sdcard_title">Napravi rezervnu kopiju podataka na SD kartici</string>
+    <string name="backup_data_recovery_section_title">Rezervne kopije podataka i vraćanje</string>
+    <string name="memory_os_size">Prostor koji zauzima OS</string>
+    <string name="wifi_tether_wps_pin_error">Nevažeći PIN</string>
+    <string name="data_title">Poziv za prenos podataka</string>
+    <string name="button_brightness">Pozadinsko osvetljenje dugmadi menija</string>
+    <string name="pch_toggle_title">Režim prioriteta GPRS prenosa</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Zahtev za lokacijom (dozvoli ako nema odgovora)</string>
+    <string name="sim_not_available">SIM kartica nije dostupna</string>
+    <string name="wifi_ap_wps_pin_title">Unesite PIN klijenta</string>
+    <string name="double_click_dock_enabled_title">"Dvaput kliknite na oblast palete da biste aktivirali glas"</string>
+    <string name="runningapp_stop_dlg_text" product="default">Ako zaustavite ove usluge, neke
+        funkcije telefona možda neće pravilno raditi dok ga ne isključite
+        a zatim ponovo uključite.</string>
+    <string name="wifi_tether_wps_connect_summary">Izaberite režim WLAN zaštićenog podešavanja da biste nastavili</string>
+    <string name="location_settings_label">Podešavanje režima lokacije</string>
+    <string name="sim_status_title">Status SIM kartice</string>
+    <string name="wifi_hex_password">Heksadecimalna lozinka.</string>
+    <string name="wifi_WEP_secury_key">Bezbednosni ključ</string>
+    <string name="drm_settings_title">Resetovanje DRM postavki</string>
+    <string name="internal_version">Broj interne verzije</string>
+    <string name="backup_data_to_sdcard_summary">Napravi rezervnu kopiju podataka sa telefona na SD kartici</string>
+    <string name="airbuse_phone_info_runMemory">"1,0 GB"</string>
+    <string name="whatis_lenovoid_title"> "Šta su propusnice za aplikacije? "</string>
+    <string name="drm_settings_summary">Brisanje svih DRM licenci</string>
+    <string name="display_effect_mode_comfirtable_title">Komforan režim</string>
+    <string name="apn_call_number">PPP broj telefona</string>
+    <string name="smart_rotate_type">Pametno rotiranje ekrana</string>
+    <string name="master_clear_error">Funkcija SYNCit je onemogućena. Omogućite je.</string>
+    <string name="tvout_settings_summary">Postavke TV izlaza</string>
+    <string name="try_swing_lock_result_ok">Ispravan metod. Možete da koristite ovu funkciju</string>
+    <string name="wifi_ap_blocked_title">Blokirani korisnici</string>
+    <string name="common_setings_title">"Zajedničko"</string>
+    <string name="set_priority_sub_error">Greška u podešavanju prioritetne pretplate. Pretplata nije aktivna.</string>
+    <string name="wide_touch_float_button_summary">Dodirnite plutajuće dugme da biste otvorili WideTouch</string>
+    <string name="display_effect_smart_brightness_title">Pametna osvetljenost</string>
+    <string name="gesture_rotate_type">Rotiranje ekrana pokretom</string>
+    <string name="storage_path0">USB uređaj za skladištenje</string>
+    <string name="sms_summary">Izaberite pretplatu za slanje SMS poruka</string>
+    <string name="devices_info_firmwareVersion">"Verzija operativnog sistema Android: <xliff:g>%1$s</xliff:g>"</string>
+    <string name="show_recent_settings">povucite nagore da sakrijete postavke</string>
+    <string name="location_consent_dialog_message">Dozvoli da usluga lokacije prikuplja anonimne podatke o lokaciji. Deo podataka možda će se skladištiti na vašem uređaju. Prikupljanje se može vršiti čak i kada aplikacije nisu pokrenute.</string>
+    <string name="phone_car_mode_title">"Režim za automobil"</string>
+    <string name="schpwr_time_invalid">Između vremena za uključivanje / isključivanje mora proteći više od %d minuta</string>
+    <string name="glove_mode">Dodir visoke osetljivosti</string>
+    <string name="glove_mode_summary">Kada je omogućena opcija Dodir visoke osetljivosti, korišćenje ekrana sa rukavicama je podržano</string>
+    <string name="shutdown_alarm_confirm">"Alarm će se aktivirati u <xliff:g id="ALARM_TIME">%1$s</xliff:g>."</string>
+    <string name="location_agps_pref_apn_title">Željeni APN</string>
+    <string name="wave_wakeup_title">Buđenje mahanjem</string>
+    <string name="character_settings_gestural_hand_category">Korišćenje jednom rukom i pokreti</string>
+    <string name="black_screen_settings_normal_summary">Prevucite prstom duž donje ivice ekrana da biste otključali telefon</string>
+    <string name="ringtone_picker_more_ringtones_title">"Još melodija zvona &gt;&gt;&gt;"</string>
+    <string name="power_settings">Menadžer Napajanja</string>
+    <string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"Da biste uključili ekran, pritisnite taster za pojačavanje ili smanjivanje jačine zvuka | Pomoć"</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_exist">Unesite ime drugog direktorijuma, ovaj ne postoji</string>
+    <string name="tilt_slide_title">Prevlačenje naginjanjem</string>
+    <string name="black_screen_settings_shortcut_quick_shots">Fotografisanje dugmetom za početni ekran</string>
+    <string name="black_screen_settings_normal">Otključavanje dok je ekran isključen</string>
+    <string name="black_screen_settings_shortcut_wakeup_screen">Dodirnite da uključite ekran</string>
+    <string msgid="5318394806146587849" name="ringtone_and_sound_settings">"Melodije zvona i jačina zvuka"</string>
+    <string name="flip_screen_control_summary">Okrenite telefon da biste uključili ili isključili ekran</string>
+    <string name="change_settings_to_all_settings">Pređi u meni Postavke</string>
+    <string name="black_screen_settings_summary_app_selected">Otključaj i otvori <xliff:g id="app">%s</xliff:g></string>
+    <string name="charge_stream_min">Trenutna struja za punjenje je 1500 mA </string>
+    <string name="gestural_broswer">Upravljanje pokretima u pregledaču</string>
+    <string name="character_settings_help_title">Opis pokreta za isključivanje ekrana</string>
+    <string name="black_screen_time_service_title"> "Režim Glasovno obaveštenje" </string>
+    <string name="character_settings_phone_call_ring_weaken_help_message">Jačina zvona se smanjuje kada se telefon podigne.</string>
+    <string name="ringtone_weaken_summary">Automatsko smanjivanje jačine zvona kada se telefon podigne | Pomoć</string>
+    <string name="gestural_phone_summary">Prevucite prstom nagore ili nadole u vrhu ekrana da biste se javljali na pozive | povucite ekran nagore i držite da biste prekinuli poziv</string>
+    <string name="character_settings_call_voice_category">Pozivi i govor</string>
+    <string name="processor_unit_info">Jezgra</string>
+    <string name="black_screen_settings_vedio_summary">Nacrtajte slovo „v“ na ekranu</string>
+    <string name="black_screen_time_show_title"> "Režim prikaza" </string>
+    <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD kartica nema AS certifikat, proverite je!</string>
+    <string name="night_mode">Smanjivanje osvetljenosti</string>
+    <string name="ringtone_weaken_title">Smanjivanje jačine tonova</string>
+    <string name="location_agps_reset_type">Tip resetovanja</string>
+    <string name="gestural_image">Upravljanje pokretima za slike</string>
+    <string name="gestural_ebook_summary">Prevucite ekran nalevo ili nadesno da biste okretali stranice e-knjige.</string>
+    <string name="auto_shutdown_interrupted">Isključivanje pomoću tajmera prekinuto</string>
+    <string name="location_agps_def_reset_type">VRUĆE</string>
+    <string name="change_settings_to_recent">Pređi u meni Nedavne postavke</string>
+    <string name="voice_wakeup_title">Buđenje glasom</string>
+    <string name="backup_data_to_device_title">Napravite rezervnu kopiju podataka na drugom uređaju</string>
+    <string name="pocket_mode_title">"Džepni režim"</string>
+    <string name="start_camera_gesture_summary">Brzo otvorite kameru pokretom</string>
+    <string name="still_sleep_summary">Ako ne koristite telefon, preći će u stanje mirovanja</string>
+    <string name="wifi_wapi_cert_delet_subdir">Izaberite certifikat paketa</string>
+    <string name="recovery_data_from_device_title">Vraćanje podataka sa drugog uređaja</string>
+    <string name="recovery_data_from_device_summary">Preuzmite podatke sa drugog uređaja pomoću aplikacije SHAREit</string>
+    <string name="touch_free_phone_answer">Javljanje bez upotrebe dodira</string>
+    <string name="global_action_general">"Standardno"</string>
+    <string name="wifi_wapi_cert_install">Instaliraj WAPI certifikat</string>
+    <string name="gestural_music">Upravljanje pokretima za muziku</string>
+    <string-array name="contrast">
+        
+        
+    <item>Podrazumevano</item>
+        <item>Jako</item>
+    </string-array>
+    <string name="wifi_wapi_cert_mgmt_user_dont_exist">Unesite ime korisničkog certifikata</string>
+    <string name="character_settings_swing_lock_screen_help_message">Brzo protresite telefon u istom smeru da biste zaključali ekran</string>
+    <string name="wifi_wapi_user_cert">Korisnički certifikat</string>
+    <string name="global_single_hand_title_v2">Mikro-ekran</string>
+    <string name="ringtone_weaken_help">Jačina zvona se smanjuje kada se telefon podigne.</string>
+    <string name="black_screen_settings_camera">Otključaj i otvori kameru</string>
+    <string name="tilt_slide_summary">Nagnite nalevo/nadesno da biste pregledali slajdove</string>
+    <string name="multiwindow_divide_settings_summary">Obavljajte zadatke na telefonu tako što ćete otvoriti dva prozora istovremeno</string>
+    <string name="location_agps_si_mode_dialog_title">AGPS metod</string>
+    <string name="smart_answer_incommingcall_summary">Kada postoji dolazni poziv, možete se javiti određenih pokretom</string>
+    <string name="touch_free_phone">Besplatan poziv </string>
+    <string name="black_screen_settings">Otključavanje dok je ekran isključen</string>
+    <string name="black_screen_settings_quick_shots_eight">8 snimaka</string>
+    <string name="backup_data_to_device_summary">Pošaljite podatke na drugi uređaj pomoću aplikacije SHAREit</string>
+    <string name="black_screen_settings_vedio">Otključaj i otvori aplikaciju Video</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Unesite ime direktorijuma koji želite da kreirate!</string>
+    <string name="phone_storage_info">Memorija telefona</string>
+    <string name="lll_pbtn_alert">Držite dugme za uključivanje/isključivanje da biste ponovo pokrenuli uređaj...</string>
+    <string name="character_settings_float_button_help_message">Otvaranje prečica i panela sa aplikacijama tako što ćete kliknuti na plutajuće dugme.</string>
+    <string name="close_home_landscape_summary">Onemogući dugme za početni ekran kada se telefon drži horizontalno</string>
+    <string name="pocket_mode_summary">"Pojačaj zvono kada je telefon u džepu ili futroli"</string>
+    <string name="gestural_gesture">Pokret za upravljanje</string>
+    <string name="black_screen_settings_quick_shots_three">3 snimaka</string>
+    <string name="wide_touch_help">Otvaranje prečica i panela sa aplikacijama tako što ćete kliknuti na plutajuće dugme.</string>
+    <string name="wifi_signal_strong_summary">"Automatsko pojačavanje signala kako bi se poboljšao kvalitet veze kada je signal slab." </string>
+    <string name="invalid_network_mode">Nevažeći režim mreže</string>
+    <string name="black_screen_settings_select_app">Izaberite aplikaciju koju želite da postavite</string>
+    <string name="zone_auto_summaryOff_not_row">"Koristi vremensku zonu koja je dobijena od mreže. Ova funkcija zavisi od dobavljača mreže i nije podržana u nekim zemljama"</string>
+    <string name="gestural_gesture_summary">Prevucite prstom nalevo, nadesno, nagore ili nadole u vrhu ekrana da biste upravljali ekranom. Ne funkcioniše na ekranu za reprodukciju muzike, video zapisa i u pregledaču</string>
+    <string-array name="hue">
+        
+        
+        
+    <item>Hladno</item>
+        <item>Podrazumevano</item>
+        <item>Toplo</item>
+    </string-array>
+    <string name="black_screen_settings_quick_shots_six">6 snimaka</string>
+    <string name="close_home_landscape_title">Onemogući dugme za početni ekran</string>
+    <string name="location_agps_def_network_mode">POČETNI EKRAN</string>
+    <string name="wifi_wapi_cert_uninstall">Deinstaliraj WAPI certifikat</string>
+    <string name="flip_screen_control_title">Okrenite ekran da biste upravljali</string>
+    <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Unesite ime AS certifikata</string>
+    <string-array name="sharpen">
+        
+        
+    <item>Podrazumevano</item>
+        <item>Oštrije</item>
+    </string-array>
+    <string name="location_agps_register_network_type">Tip pristupne mreže</string>
+    <string name="poweron_nosim">SIM kartica nije pronađena</string>
+    <string name="character_settings_side_key_backlight_screen_help_message">Pritisnite taster za jačinu zvuka da uključite pozadinsko osvetljenje.</string>
+    <string name="location_agps_supl_server_port">Port na serveru</string>
+    <string name="location_agps_register_network_type_summary">Izaberite pristupnu mrežu da biste omogućili AGPS</string>
+    <string name="wifi_wapi_cert_mgmt_titlebar">Upravljanje WAPI certifikatima</string>
+    <string name="gestural_music_summary">Povucite ekran nalevo ili nadesno da biste promenili muzičku numeru | Povucite ekran nagore ili nadole da biste podesili jačinu zvuka</string>
+    <string name="voice_wakeup_summary">Sistem možete da probudite glasom</string>
+    <string name="smart_answer_incommingcall_title">Pametno javljanje</string>
+    <string name="gestural_broswer_summary">Povucite ekran nagore ili nadole da biste se kretali kroz stranice pregledača</string>
+    <string name="location_agps_reset_type_choose_dialog_title">Resetuj tipove</string>
+    <string name="gestural_vedio_summary">Prevucite prstom nalevo ili nadesno u vrhu ekrana da biste upravljali reprodukcijom video zapisa | Prevucite prstom nagore ili nadole u vrhu ekrana da biste podesili jačinu zvuka</string>
+    <string name="lenovo_recent_settings">Nedavne postavke</string>
+    <string name="gestural_v2">3D pokreti</string>
+    <string name="no_ftp_app">Nijedna aplikacija ne podržava FTP</string>
+    <string name="gestural_ebook">Upravljanje pokretima u e-knjigama</string>
+    <string name="wifi_wapi_cert_create_subdir">Kreiraj direktorijum</string>
+    <string name="character_settings_black_screen_help_message">Standardno otključavanje: prevucite prstom nalevo ili nadesno pri dnu ekrana da biste otključali ekran. Da biste otvorili aplikaciju: otključajte u režimu sa otvaranjem kamere i nacrtajte slovo „C“ na ekranu. Ova funkcija utiče na potrošnju baterije u režimu mirovanja.</string>
+    <string name="charge_stream_max">Trenutna struja za punjenje je 2000mA </string>
+    <string name="tilt_scroll_control_summary">otvori funkciju za automatsko pomeranje ekrana naginjanjem</string>
+    <string name="location_agps_apn_summary">Izaberite željeni tip APN-a</string>
+    <string name="location_agps_apn_choose_dialog_title">Tipovi APN-a</string>
+    <string name="start_camera_gesture_title">Pokreti za kameru</string>
+    <string name="global_single_hand_summary">Možete koristiti uređaj jednom rukom</string>
+    <string name="night_mode_notification_text">Kliknite da deaktivirate</string>
+    <string name="knock_light_title">Dodirnite dvaput da uključite ekran</string>
+    <string name="multiwindow_settings">Prikaz više prozora</string>
+    <string name="smart_standby_enable_title">"Pametni režim mirovanja"</string>
+    <string name="location_agps_pref_reset_type_title">Željeni tip resetovanja</string>
+    <string name="wifi_signal_strong_title">"Pojačavanje WLAN signala"</string>
+    <string name="fast_poweron_next_time">Brzo pokretanje sledeći put</string>
+    <string name="black_screen_camera_gallery_title"> "Režim za pregled" </string>
+    <string name="tilt_scroll_control_title">Pomeranje ekrana naginjanjem</string>
+    <string name="location_agps_si_mode">AGPS SI režim</string>
+    <string name="black_screen_settings_shortcut_wakeup_screen_summary">Dvaput dodirnite ekran da biste probudili telefon</string>
+    <string name="black_screen_camera_fast_title"> "Režim kamere" </string>
+    <string name="black_screen_settings_summary">Brzo pokretanje aplikacija i otključavanje ekrana dok je ekran isključen</string>
+    <string name="location_agps_reset_type_summary">Izaberite željeni tip resetovanja</string>
+    <string name="character_settings_single_hand_help_message">Nacrtajte slovo „c“ od gornje do donje ivice ekrana da biste otvorili mikro-ekran za korišćenje jednom rukom</string>
+    <string name="long_press_back_finish_title">Pritisnite i zadržite taster Nazad da biste izašli</string>
+    <string name="night_mode_notification_title">Smanjivanje osvetljenosti</string>
+    <string name="not_support_choose">"Ležište 2 ne podržava izbor režima mreže"</string>
+    <string name="character_settings_shortcuts_category">Metodi prečica</string>
+    <string name="gestural">Upravljanje pokretima</string>
+    <string name="gestural_summary">Pomoću pokreta možete daljinski upravljati telefonom</string>
+    <string name="location_agps_pref_si_title">Željeni režim</string>
+    <string name="startup_confirm_auto_shutdown">Mobilni telefon će se isključiti za %s sekundi</string>
+    <string name="night_mode_summary">Prikladno za korišćenje telefona u mraku. Možete nećete moći da dodirnete neku dugmad u određenim aplikacijama.</string>
+    <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Format AS certifikata je pogrešan! Instalirajte ispravan AS certifikat</string>
+    <string name="black_screen_settings_shortcut_quick_shots_summary">Dvaput dodirnite dugme za početni ekran dok je ekran isključen da biste fotografisali</string>
+    <string name="global_single_hand_title">Jednom rukom</string>
+    <string name="zone_auto_summaryOn_not_row">"Koristi vremensku zonu koja je dobijena od mreže. Ova funkcija zavisi od dobavljača mreže i nije podržana u nekim zemljama"</string>
+    <string name="character_settings_mercury_keyboard_help_message">Numerička tastatura se naginje u skladu sa položajem telefona</string>
+    <string name="enter_bright_mode_warning" product="default">"Aktiviraj svetao režim"</string>
+    <string name="night_mode_tip_secure_button">Onemogućite režim za čitanje u mraku, pa kliknite ponovo</string>
+    <string name="pocket_mode_help">"Pojačaj zvono kada je telefon u džepu ili futroli"</string>
+    <string name="startup_confirm_airplane_turn_off">Želite li da izađete iz Režima rada u avionu?</string>
+    <string name="location_agps_pref_network_title">Željena mreža</string>
+    <string name="recent_settings">Nedavne postavke</string>
+    <string name="location_agps_register_network_type_dialog_title">Izbor mreže</string>
+    <string name="black_screen_settings_quick_shots_one">1 snimak</string>
+    <string name="reboot_progress">Ponovo pokreni\u2026</string>
+    <string name="leave_bright_mode_warning" product="default">"Dektiviraj svetao režim"</string>
+    <string name="black_screen_settings_music_summary">Nacrtajte slovo „m“ na ekranu</string>
+    <string name="global_action_outdoors">"Napolju"</string>
+    <string name="location_agps_roaming_help">Upozorenje: Ako izaberete opciju SVE MREŽE za otvaranje funkcije AGPS može dovesti do troškova u romingu!</string>
+    <string name="poweron_nouim">UIM kartica nije pronađena</string>
+    <string name="gestural_vedio">Pokreti za video</string>
+    <string name="multiwindow_settings_summary">Omogući prikaz više prozora</string>
+    <string name="black_screen_notification_title"> "Režim vibracije kao upozorenja na nepročitanu poruku" </string>
+    <string name="unsupported_headset_warning" product="default">
+       "Nepodržan prilog"
+    </string>
+    <string name="startup_auto_shutdown_title">Automatsko isključivanje</string>
+    <string name="wifi_wapi_as_cert">AS certifikat</string>
+    <string name="restart_confirm_question">Želite li da ponovo pokrenete uređaj?</string>
+    <string name="multiwindow_divide_settings">Prikaz više prozora sa podeljenim ekranom</string>
+    <string name="share_music_a2dp_headphones_control_summary">Prekidač za deljenje muzike sa A2DP uređajem</string>
+    <string name="nfc_not_inservice">NFC adapter nije aktiviran!</string>
+    <string name="black_screen_settings_quick_shots_nums">Brze fotografije</string>
+    <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Format korisničkog certifikata je pogrešan! Instalirajte ispravan korisnički AS certifikat</string>
+    <string name="gestural_image_summary">Povucite ekran nalevo ili nadesno da biste se kretali kroz slike | Povucite ekran nagore ili nadole da biste podesili specijalne efekte</string>
+    <string name="wave_not_screenoff_title">Mahanje ne isključuje ekran</string>
+    <string name="recent_settings_empty">Niste nedavno podešavali sistem</string>
+    <string name="gestural_phone">Pokret za pozive</string>
+    <string-array name="saturation">
+        
+        
+        
+    <item>Tiho</item>
+        <item>Podrazumevano</item>
+        <item>Svetlo</item>
+    </string-array>
+    <string name="character_settings_pocket_mode_help_message">Automatsko pojačavanje zvona kada se telefon nalazi u džepu</string>
+    <string name="location_agps_supl_settings">Postavke SUPL protokola</string>
+    <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Kreiranje direktorijuma nije uspelo</string>
+    <string name="character_settings_intelligent_category">Pametno upravljanje</string>
+    <string name="lenovo_cloud">Usluga u oblaku</string>
+    <string name="black_screen_settings_broswer_summary">Nacrtajte slovo „e“ na ekranu</string>
+    <string name="multiwindow_smart_settings_summary">Ako primite poruku dok gledate video zapis preko celog ekrana u položenoj orijentaciji, okrenite telefon uspravno da bi se automatski prikazalo više ekrana za obavljanje više zadataka istovremeno.</string>
+    <string name="location_agps_si_mode_summary">Izaberite željeni AGPS metod</string>
+    <string name="black_screen_face_recognization_title"> "Režim prepoznavanja lica" </string>
+    <string name="nfc_beam_transmit">Android prenos</string>
+    <string name="location_agps_settings_title">Postavke funkcije AGPS</string>
+    <string name="still_sleep_title">Režim mirovanja ako se uređaj ne pomera</string>
+    <string name="smart_standby_enable_summary">"Ekran će se uključiti kada pogledate u njega"</string>
+    <string name="multiwindow_smart_settings">Pametan prikaz više ekrana</string>
+    <string name="location_agps_apn_type">Tipovi APN-a</string>
+    <string name="black_screen_handler_title"> "Pokreti na isključenom ekranu" </string>
+    <string name="black_screen_settings_category_shortcut">Prečice na isključenom ekranu</string>
+    <string name="black_screen_settings_music">Otključaj i otvori aplikaciju Muzika</string>
+    <string name="location_agps_params_settings_title">Postavke funkcije AGPS</string>
+    <string name="black_screen_settings_broswer">Otključaj i otvori aplikaciju Pregledač</string>
+    <string name="long_press_back_finish_summary">Pritisnite i zadržite taster Nazad da biste izašli iz trenutne aplikacije</string>
+    <string name="black_screen_settings_camera_summary">Nacrtajte slovo „c“ na ekranu</string>
+    <string name="share_music_a2dp_headphones_control_title">Upravljanje deljenjem muzike</string>
+    <string name="touch_free_phone_dial">Biranje broja bez upotrebe dodira</string>
+    <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Unesite ime korisničkog certifikata</string>
+    <string name="do_not_distube">"Režim Bez ometanja"</string>
+    <string name="gesture_light_up_off_screen_title">"Dvaput dodirnite da biste ekran uključili/isključili"</string>
+
+    <string name="StorageDialog_summary">Otkriva da ste izvadili spoljno skladište. Sistem prelazi na ugrađeno skladište i ponovo se pokreće. Potvrđujete ponovno pokretanje? \n\n Ako se ponovo umetne u spoljno skladište, nije potrebno ponovno pokretanje!</string>
+    <string name="StorageDialog_comfirm">Ponovo pokreni</string>
+    <string name="StorageDialog_title">Pažnja</string>
+    <string name="dlg_default_write_disk_encrypted_msg">Da biste zaštitili svoju privatnost, ugrađena memorijska kartica uvek treba da bude podešena kao primarni uređaj za skladištenje kada je telefon šifrovan.</string>
+</resources>

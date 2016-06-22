@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Повышение качества сигнала WLAN"</string>
+<string name="dlg_msg">"Обнаружен очень слабый сигнал WLAN. Автоматически активировано повышение качества сигнала WLAN для лучшего сетевого соединения. Можно настроить параметры этой функции, выбрав \"Системные настройки\" - \"WLAN.\"" </string>
+<string name="dlg_ok">"OK"</string>
+<string name="dlg_no">"нет"</string>
+</resources>

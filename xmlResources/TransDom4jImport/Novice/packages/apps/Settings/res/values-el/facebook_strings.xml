@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">Γενικές ρυθμίσεις συγχρον.</string>
+    <string name="sync_interval_settings">Ρυθμίσεις διαστήμ. συγχρον.</string>
+    <string name="try_sso_again">Δοκιμ.ξανά τον ενιαίο έλ.πρόσβ.(SSO)</string>
+    <string name="for_syncing">Για συγχρονισμό</string>
+</resources>

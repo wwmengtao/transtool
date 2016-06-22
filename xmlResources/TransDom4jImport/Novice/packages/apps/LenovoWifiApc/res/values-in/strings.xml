@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Penguat Sinyal WLAN"</string>
+<string name="dlg_msg">"Sinyal WLAN terdeteksi sangat lemah. Penguat sinyal WLAN telah diaktifkan secara otomatis untuk koneksi jaringan yang lebih baik. Anda juga dapat mengonfigurasi pengaturan di Pengaturan Sistem - WLAN." </string>
+<string name="dlg_ok">"OK"</string>
+<string name="dlg_no">"tidak"</string>
+</resources>

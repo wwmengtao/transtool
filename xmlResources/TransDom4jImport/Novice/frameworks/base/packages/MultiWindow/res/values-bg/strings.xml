@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="close">"Затваряне"</string>
+<string name="cancle">"Отказ"</string>
+<string name="open">"Отваряне"</string>
+<string name="confirm">"Потвърждение"</string>
+<string name="menu_settings">"Настройки"</string>
+    <string name="add">Добавяне</string>
+
+    <string name="hello_world">Здр., свят!</string>
+    <string name="app_name">Multi-Window</string>
+    <string name="authorization_message">Ще отворите ли това приложение чрез MultiWindow ?</string>
+    <string name="tips">Плъзнете, за да създадете няколко прозореца</string>
+    <string name="app_browser_title">Приложение Multi-Window</string>
+    <string name="authorization_notication">Разрешение за уведомяване</string>
+</resources>

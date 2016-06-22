@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"تنظیمات"</string>
+    <string name="user_setup_button_setup_later">"اکنون خیر"</string>
+    <string name="user_set_lock_button">"تنظیم قفل"</string>
+    <string name="done_button">"انجام شد"</string>
+    <string name="user_restrictions_controlled_by">"کنترل شده توسط <xliff:g id="APP">%1$s</xliff:g>"</string>
+    <string name="help_label">"راهنما"</string>
+    <string name="user_normal_mode">منطقه آزاد</string>
+    <string name="user_privacy_mgt_summary">محدود سازی برنامه‌ها از دسترسی به مخاطبین، پیام‌ها و گزارش تماس.</string>
+    <string name="user_config_apps_for_seuser">پیکربندی برنامه‌ها در منطقه کنونی</string>
+    <string name="user_auto_start_user">شروع در راه‌اندازی سیستم</string>
+    <string name="user_guide_desc_1">منطقه امن به شما امکان پیکربندی برنامه‌ها، حساب‌ها، تصاویر زمینه و گذرواژه‌های صفحه قفلی می‌دهد که با مواردی که در منطقه کنونی قرار دارند، متفاوت است. روی نماد \"منطقه امن\" در نوار وضعیت ضربه بزنید تا به سرعت بین مناطق جابجا شوید.</string>
+    <string name="user_bgapp_mgt_summary">مانع شروع خودکار برنامه‌ها شوید و پردازش‌های پس‌زمینه آنها را متوقف کنید.</string>
+    <string name="user_guide_desc_2">روی نماد \"منطقه امن\" در نوار وضعیت ضربه بزنید و نگه دارید تا به رابط کاربری نصب برای منطقه کنونی وارد شوید. شما می‌توانید برنامه‌ای را که نیاز به نصب و راه‌اندازی دارید در منطقه کنونی پیکربندی کنید.</string>
+    <string name="user_guide_desc_3">در منطقه آزاد، هرگونه اعلان از برنامه‌ها در منطقه امن نیز همچنین در نوار وضعیت نشان داده خواهد شد. یک نقطه قرمز در نماد اعلان برای مشخص کردن تمایز آن از اعلان‌های منطقه کنونی، ظاهر خواهد شد. برای مشاهده اعلان‌ها بین منطقه‌ها جابجا شوید.</string>
+    <string name="user_remove_secure_user_msg">تمام داده برنامه‌ها، عکس‌ها و فایل‌ها در منطقه امن پاک خواهند شد. حذف شود؟</string>
+    <string name="user_need_lockscreen_for_seuser_msg">شما باید قفل صفحه را به منظور حفاظت از برنامه‌ها و داده‌هایتان در منطقه امن تنظیم کنید.</string>
+    <string name="user_guide_desc_4">داده و مدارک برنامه در دو منطقه کاملاً به صورت مجزا نگهداری می‌شوند. محتوای فضای ذخیره منطقه آزاد می‌توانند در دایرکتوری OpenUserData در فضای ذخیره داخلی منطقه امن مشاهده شوند، اما برعکس این امر ممکن نیست. گزارش تماس، گزارش پیام و مخاطبین در بین دو منطقه اشتراک گذاشته شده‌اند تا از عملکرد عادی تماس و پیام‌دهی در هر دو منطقه اطمینان حاصل شود.</string>
+    <string name="user_share_data_summary">اشتراک‌گذاری مخاطبین، پیام‌های متنی، گزارش‌های تماس و دیگر داده‌ها در دو منطقه بعد از راه‌اندازی مجدد سیستم انجام خواهند شد</string>
+    <string name="user_share_data">اشتراک‌گذاری داده</string>
+    <string name="user_uninstall_app_msg">آیا مایلید که این برنامه را در منطقه کنونی حذف نصب نمایید؟</string>
+    <string name="user_security_mode">منطقه امن</string>
+    <string name="user_auto_start_user_summary">در راه‌اندازی مجدد سیستم، منطقه امن به طور خودکار در پس‌زمینه شروع شود</string>
+    <string name="user_guide_title_2">پیکربندی منطقه کنونی </string>
+    <string name="user_setup_seuser_msg">منطقه امن فعال شد. می‌خواهید اکنون آن را پیکربندی کنید؟</string>
+    <string name="user_guide_title_3">اعلان رد شدن از منطقه</string>
+    <string name="user_remove_secure_user">حذف منطقه امن</string>
+    <string name="user_guide_title_1">مقدمه‌ای بر منطقه امن</string>
+    <string name="user_bgapp_mgt">محدود شدن برنامه‌های پس‌زمینه</string>
+    <string name="user_add_seuser_msg">منطقه امن فعال شود؟</string>
+    <string name="user_guide_title_4">مجزاسازی داده و اشتراک‌گذاری </string>
+    <string name="user_privacy_mgt_msg">مسدود کردن برنامه‌ها از دسترسی به مخاطبین، پیام‌ها و گزارش تماس.</string>
+    <string name="user_privacy_mgt">کنترل دسترسی به حریم خصوصی</string>
+    <string name="user_remove_secure_user_reboot_msg">تمام داده برنامه‌ها، عکس‌ها و فایل‌ها در منطقه امن پاک خواهند شد. سیستم به صورت خودکار برای اعمال کردن تغییرات مجدداً راه‌اندازی خواهد شد. حذف شود؟</string>
+    <string name="user_float_switch_button_summary">نمایش دکمه شناور در صفحه برای راحت‌تر کردن جابه‌جایی بین دو منطقه</string>
+    <string name="user_bgapp_mgt_msg">مانع شروع خودکار برنامه‌ها شوید و پردازش‌های پس‌زمینه آنها را متوقف کنید. به برنامه‌هایی که نیاز به اجرا در پس‌زمینه دارند مانند ایمیل، و WhatsApp اعمال نشود.</string>
+    <string name="user_float_switch_button">دکمه شناور</string>
+    <string name="user_uninstall_app_for_all_user_msg">برنامه در دیگر مناطق نصب نشده است و به طور کامل از گوشی شما پس از حذف نصب پاک خواهد شد. حذف نصب شود؟</string>
+</resources>

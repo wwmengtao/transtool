@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+
+    <string name="no">"هيچ"</string>
+    <string name="ringtone_title">آهنگ زنگ</string>
+    <string name="ringtone_summary">خطا</string>
+    <string name="all_volume_title">"میزان صدا"</string>
+    <string name="musicfx_title">جلوه های موسیقی</string>
+    <string name="ring_volume_title">میزان صداها</string>
+    <string name="vibrate_title">لرزش</string>
+    <string name="sound_settings_title">"صدا"</string>
+    <string name="notification_sound_title">اعلان پیش فرض</string>
+    <string name="incoming_call_volume_title">"آهنگ های زنگ"</string>
+    <string name="notification_volume_title">اعلان</string>
+    <string name="notification_sound_summary">خطا</string>
+    <string name="media_volume_title">"رسانه"</string>
+    <string name="alarm_volume_title">"ساعت"</string>
+    <string name="sound_effects_enable_title">صداهای لمس</string>
+    <string name="lock_sounds_enable_title">صدای قفل صفحه</string>
+    <string name="haptic_feedback_enable_title">لرزش با لمس کردن</string>
+    <string name="volume_ring_description">"میزان صدای آهنگ زنگ"</string>
+    <string name="volume_notification_description">اعلان</string>
+    <string name="volume_alarm_description">"ساعت"</string>
+    <string name="profile_select_label">نمايه های صوتی</string>
+    <string name="general_profile_title">عمومی</string>
+    <string name="silence_profile_title">سکوت</string>
+    <string name="meeting_profile_title">جلسه</string>
+    <string name="outdoors_profile_title">فضای باز</string>
+    <string name="profile_settings">نمايه های صوتی</string>
+    <string name="progress_title">تنظيمات نمايه</string>
+    <string name="volume">"میزان صدا"</string>
+    <string name="ringtone_settings_title">تماس های ورودی</string>
+    <string name="feedback_title">"سیستم"</string>
+    <string name="threeg_call_sound_title">آهنگ زنگ</string>
+    <string name="twog_call_sound_title">آهنگ زنگ</string>
+    <string name="convention">عمومی</string>
+    <string name="cate_call_ringtone">تماس های ورودی</string>
+    <string name="cate_message_ringtone">پيام رسانی</string>
+    <string name="message">پيام رسانی</string>
+    <string name="audio_profile_add">افزودن</string>
+    <string name="audio_profile_reset">"بازنشانی"</string>
+    <string name="audio_profile_rename">تغيير نام</string>
+    <string name="audio_profile_message_rename">لطفاً نام نمايه جديد را وارد کنيد</string>
+    <string name="profile_category_custom_title">نمايه های تعريف شده توسط کاربر</string>
+    <string name="audio_profile_message_name_error">نام وارد شده تکراری است</string>
+    <string name="audio_profile_message_name_length_wrong">نام حداقل بايد دارای يک کاراکتر باشد</string>
+    <string name="audio_profile_error">خطا</string>
+    <string name="audio_profile_message_reset">تمام تنظيمات نمايه صوتی به مقادير پيش فرض بازنشانی می شوند</string>
+    <string name="audio_profile_delete">"Delete"</string>
+    <string name="audio_profile_message_delete">نمايه 
+        <xliff:g id="profile">%s</xliff:g> حذف می شود
+    </string>
+    <string name="audio_profile_enable">فعال کردن</string>
+    <string name="volume_media_mute">"بی‌صدا کردن موسیقی و سایر رسانه‌ها"</string>
+    <string name="volume_ring_mute">"بی‌صدا کردن آهنگ زنگ و اعلان‌ها"</string>
+    <string name="volume_notification_mute">"بی‌صدا کردن اعلان‌ها"</string>
+    <string name="volume_alarm_mute">"بی‌صدا کردن زنگ هشدار"</string>
+    <string name="dtmf_tone_enable_title" msgid="827601042915852989">"صداهای پد لمسی شماره‌گیری"</string>
+    <string name="audio_profile_message_overflow">شما فقط می توانيد 6 نمايه سفارشی داشته باشيد</string>
+    <string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"استفاده از صدای تماس ورودی برای اعلان‌ها"</string>
+    <string name="notification_sound_dialog_title" msgid="3805140135741385667">"صدای اعلان پیش‌فرض"</string>
+    <string name="yes">"بله"</string>
+    <string name="media_volume_summary" msgid="5363248930648849974">"تنظیم میزان صدا برای موسیقی و ویدئو"</string>
+    <string name="vibrate_in_silent_title" msgid="3897968069156767036">"لرزش در حالت بی‌صدا"</string>
+    <string name="volume_media_description" msgid="7949355934788807863">"موسیقی، ویدئو، بازی، و دیگر رسانه‌ها"</string>
+    <string name="notification_pulse_title" msgid="1247988024534030629">"چراغ اعلان چشمک بزند"</string>
+    <string name="audio_record_proc_title" msgid="4271091199976457534">"لغو پارازیت"</string>
+    <string name="set_default_notification_ringtone">زنگ هشدار پیش‌فرض سیستم خود را تنظیم کنید</string>
+    <string name="ring_volume_summary">"بلندی صدای زنگ‌ هشدار تماس، پیام و اعلان‌ را تنظیم نمایید"</string>
+    <string name="vibrate_summary">"لرزش دستگاه هنگام دریافت تماس‌ها و پیام‌های ورودی"</string>
+    <string name="vibrate_in_silent_summary">"اجازه بازخورد لرزشی در حالت بی‌صدا"</string>
+    <string name="turn_cr_title_success">"پیام تنظیم آهنگ زنگ چند آوایی با موفقیت دریافت شد"</string>
+    <string name="outdoors_profile_summary">تغییر آهنگ‌های سیستم، لرزش، آهنگ‌های هشدار ورود تماس و پیام</string>
+    <string name="set_profile_title">تنظیمات شخصی‌سازی</string>
+    <string name="push_mail_ringtone_switch_title">صدای هشدار ایمیل و خدمات ارسال اجباری داده</string>
+    <string name="mail_sound_summary">تنظیم صدای هشدار ایمیل</string>
+    <string name="turn_cr_title_ongoing">"اکنون در حال دریافت پیام تنظیم آهنگ زنگ چند آوایی"</string>
+    <string msgid="145741024028391473" name="lock_sounds_enable_summary_on">"پخش صدا هنگام قفل کردن و باز کردن صفحه"</string>
+    <string msgid="2088830834182228458" name="silent_mode_incl_alarm_summary">"بی‌صدا کردن همه صداهای غیرچندرسانه‌ای"</string>
+    <string name="general_profile_summary">تغییر آهنگ‌های سیستم، لرزش، آهنگ‌های هشدار ورود تماس و پیام</string>
+    <string name="message_sound_title">آهنگ هشدار پیام</string>
+    <string name="threeg_message_sound_title">صدای هشدار پیام</string>
+    <string name="sound_effects_enable_summary_on">پخش صدا در هنگام انتخاب صفحه</string>
+    <string name="call_ringtone_summary">تنظیم آهنگ زنگ برای تماس‌ها</string>
+    <string name="turn_cr_sms_fail">"ارسال پیام تنظیم آهنگ زنگ چند آوایی انجام نشد"</string>
+    <string name="push_mail_ringtone_switch_summary_on">یادآور آهنگ زنگ باز است</string>
+    <string name="alarm_alert_summary">تنظیم صدای هشدار برنامه</string>
+    <string name="meeting_profile_summary">خاموش و روشن کردن تنظیمات بازخورد لمسی</string>
+    <string name="twog_unable">سیم‌کارت ۲ موجود نیست.</string>
+    <string name="startup_sound_title">آهنگ Lenovo</string>
+    <string name="sim_call_one">زنگ هشدار تماس (سیم‌کارت ۱)</string>
+    <string msgid="5318394806146587849" name="ringtone_and_sound_settings">"آهنگ‌ زنگ و میزان صدا"</string>
+    <string msgid="7287885436963105314" name="haptic_feedback_enable_summary_off">"لرزش در هنگام فشار دادن کلید‌های نرم‌افزاری و برخی فعالیت‌ها در رابط کاربر"</string>
+    <string name="remind_summary">تنظیم یادآورهای کلی</string>
+    <string name="threeg_unable">سیم‌کارت ۱ موجود نیست.</string>
+    <string name="push_sound_title">صدای هشدار خدمات ارسال اجباری داده</string>
+    <string name="silence_profile_summary">خاموش و روشن کردن تنظیمات بازخورد لمسی</string>
+    <string name="turn_cr_off">"آهنگ زنگ چند آوایی خاموش شد"</string>
+    <string msgid="1875779656524793053" name="haptic_feedback_enable_summary_on">"لرزش در هنگام فشار دادن کلید‌های نرم‌افزاری و برخی فعالیت‌ها در رابط کاربر"</string>
+    <string name="push_sound_summary">تنظیم صدای هشدار خدمات ارسال اجباری داده</string>
+    <string msgid="3181479108593217704" name="silent_mode_title">"حالت بی‌صدا"</string>
+    <string name="dtmf_tone_enable_summary_on">پخش صدا در هنگام استفاده از شماره‌گیر</string>
+    <string name="message_sound_summary">تنظیم آهنگ زنگ برای پیام چندرسانه‌ای و پیامک</string>
+    <string name="sim_message_sim_one">زنگ هشدار پیام (سیم‌کارت ۱)</string>
+    <string name="profile_options_label">تنظیمات شخصی‌سازی نمایه</string>
+    <string name="sim_call">آهنگ هشدار زنگ</string>
+    <string name="set_default_message_ringtone">زنگ هشدار پیام پیش‌فرض خود را تنظیم کنید</string>
+    <string name="twog_message_sound_title">صدای هشدار پیام</string>
+    <string name="alarm_alert_title">صدای هشدار برنامه</string>
+    <string name="sim_message_sim_two">زنگ هشدار پیام (سیم‌کارت ۲)</string>
+    <string msgid="3309650676072917899" name="silent_mode_summary">"همه صداها جز چندرسانه‌ای‌ها و ساعت خاموش شده‌اند"</string>
+    <string name="progress_message">لطفاً صبر کنید...</string>
+    <string name="remind_title">روش یادآور</string>
+    <string msgid="6899220780534617152" name="notification_pulse_summary">"هنگامی که یک اعلان جدید دریافت می‌شود، چراغ توپ نشانگر به صورت مداوم چشمک می‌زند"</string>
+    <string name="turn_cr_title_fail">"دریافت پیام تنظیم آهنگ زنگ چند آوایی انجام نشد"</string>
+    <string name="sound_effects_enable_summary_off">پخش صدا در هنگام انتخاب صفحه</string>
+    <string name="dtmf_tone_enable_summary_off">پخش صدا در هنگام استفاده از شماره‌گیر</string>
+    <string msgid="8481243116223542804" name="lock_sounds_enable_summary_off">"پخش صدا هنگام قفل کردن و باز کردن صفحه"</string>
+    <string name="startup_sound_summary_off">آهنگ Lenovo هنگام روشن و خاموش کردن فعال شود</string>
+    <string msgid="8113628457499616498" name="audio_record_proc_summary">"صدای پس‌زمینه را در هنگام تماس یا ضبط صدا کاهش می‌دهد""</string>
+    <string name="profile_category_checked_title">تنظیمات نمایه</string>
+    <string name="sim_call_two">زنگ هشدار تماس (سیم‌کارت ۲)</string>
+    <string name="turn_cr_on">"خدمات آهنگ زنگ چند آوایی را دریافت کنید"</string>
+    <string name="set_default_phone_ringtone">"تنظیم زنگ هشدار تماس پیش‌فرض سیستم"</string>
+    <string name="Ringtone_profile_title">تنظیمات آهنگ زنگ</string>
+    <string name="call_ringtone_title">زنگ تماس ورودی</string>
+    <string name="sim_message_one">آهنگ هشدار پیام</string>
+    <string name="sum_profile_settings">جابه‌جایی بین تنظیمات نمایه و شخصی‌سازی نمایه</string>
+    <string name="mail_sound_title">صدای هشدار ایمیل</string>
+    <string name="push_mail_ringtone_switch_summary_off">یادآور آهنگ زنگ بسته است</string>
+    <string name="startup_sound_summary_on">آهنگ Lenovo هنگام روشن و خاموش کردن فعال شود</string>
+    <string name="turn_cr_title">"آهنگ زنگ چندآوایی"</string>
+    <string name="Ringtone_profile_summary">آهنگ زنگ و هشدار پیام را تنظیم کنید</string>
+</resources>

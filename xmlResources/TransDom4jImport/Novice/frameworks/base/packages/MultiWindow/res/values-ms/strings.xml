@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<string name="close">Tutup</string>
+<string name="add">Tambah</string>
+<string name="app_browser_title">Multi-WindowApp</string>
+<string name="app_name">Multi-Window</string>
+    <string name="cancle">"Batal"</string>
+    <string name="open">"Buka"</string>
+    <string name="confirm">"Sahkan"</string>
+    <string name="menu_settings">"Tetapan"</string>
+    <string name="hello_world">Hello dunia!</string>
+    <string name="authorization_message">Bolehkah anda membuka aplikasi ini menggunakan Multi Tetingkap?</string>
+    <string name="tips">Seret untuk mencipta berbilang tetingkap</string>
+    <string name="authorization_notication">Pemberitahuan Kebenaran</string>
+</resources>

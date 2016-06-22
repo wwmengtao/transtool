@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">一般環境</string>
+<string name="user_auto_start_user_summary">開機時自動開始背景安全環境</string>
+<string name="user_setup_seuser_msg">安全環境已開啟。現在進入並完成設定？</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"受到「<xliff:g id="APP">%1$s</xliff:g>」控制"</string>
+<string name="user_config_apps_for_seuser">設定目前環境下需要安裝的應用程式</string>
+<string name="user_add_seuser_msg">安全環境尚未開啟。現在開啟？</string>
+<string name="user_auto_start_user">開機時開始安全環境</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"暫時不要"</string>
+<string name="user_need_lockscreen_for_seuser_msg">您需要設定螢幕鎖定以保護安全模式下的應用程式和資料。</string>
+<string name="user_share_data_summary">在兩個環境下分享聯絡人、短訊、通話記錄及其他資料，重新開機後生效</string>
+<string name="app_name" msgid="1626402585530130914">"系統設定"</string>
+<string name="done_button" msgid="1991471253042622230">"完成"</string>
+<string name="user_share_data">資料分享</string>
+<string name="user_float_switch_button_summary">在螢幕上顯示懸浮按鈕以便切換環境</string>
+<string name="user_security_mode">安全環境</string>
+<string name="user_float_switch_button">懸浮按鈕</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"設定上鎖畫面"</string>
+    <string name="user_guide_title_2">設定目前模式 </string>
+    <string name="user_guide_title_3">交互模式通知</string>
+    <string name="user_guide_title_1">安全模式簡介</string>
+    <string name="user_guide_title_4">資料隔離及共享 </string>
+    <string name="user_guide_desc_1">安全模式讓您設定與目前模式不同的應用程式、帳戶、桌布和鎖定畫面密碼。輕按狀態列的 \"安全模式\" 圖示以快速切換模式。</string>
+    <string name="user_guide_desc_2">按住狀態列的 \"安全模式\" 圖示，進入目前模式的設定介面。您可設定目前模式需要安裝的應用程式。</string>
+    <string name="user_guide_desc_3">一般模式下，安全模式的應用程式通知亦會顯示於狀態列。通知圖示會顯示紅點以區分目前模式的通知。切換模式以檢視通知。</string>
+    <string name="user_guide_desc_4">兩個模式的應用程式資料和文件完全隔離。一般模式 SD 卡的內容可在安全模式 SD 卡的 OpenUserData 目錄中檢視，但反之則不行。兩個模式共享通話記錄、訊息記錄和通訊錄，確保兩個模式的通話和訊息功能正常運作。</string>
+    <string name="user_remove_secure_user">刪除安全環境</string>
+    <string name="user_privacy_mgt_summary">限制應用程式存取聯絡人資料、訊息和通話紀錄。</string>
+    <string name="user_remove_secure_user_reboot_msg">在安全環境內的所有應用程式數據、相片和檔案都會被清除。系統會自動重新啟動以套用變更。刪除？</string>
+    <string name="user_bgapp_mgt">限制背景應用程式</string>
+    <string name="user_privacy_mgt">私隱存取控制</string>
+    <string name="user_privacy_mgt_msg">封鎖應用程式存取聯絡人資料、訊息和通話紀錄。</string>
+    <string name="user_bgapp_mgt_summary">封鎖應用程式自動開啟和關閉背景程式。</string>
+    <string name="user_remove_secure_user_msg">在安全環境內的所有應用程式數據、相片和檔案都會被清除。刪除？</string>
+    <string name="user_bgapp_mgt_msg">封鎖應用程式自動開啟和關閉背景程式。切勿套用在需要在背景運行的應用程式，如電郵和 WhatsApp。</string>
+    <string name="user_uninstall_app_for_all_user_msg">應用程式沒有在其他環境中安裝，解除安裝後會從您的手機中完全刪除。解除安裝？</string>
+<string name="help_label">"說明"</string>
+    <string name="user_uninstall_app_msg">您是否要在目前環境下解除安裝此應用程式？</string>
+</resources>

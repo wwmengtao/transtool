@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Settings</string>
+    <string name="user_security_mode">Secure Zone</string>
+    <string name="user_normal_mode">Open Zone</string>
+    <string name="user_add_seuser_msg">Activate Secure Zone?</string>
+    <string name="user_setup_seuser_msg">Secure Zone activated. Do you want to configure it now?</string>
+    <string name="user_need_lockscreen_for_seuser_msg">You need to set the screen lock in order to protect your apps and data in Secure Zone.</string>
+    <string name="user_config_apps_for_seuser">Config applications in current zone</string>
+    <string name="user_auto_start_user">Start at boot</string>
+    <string name="user_auto_start_user_summary">Automatically start Secure Zone in background at bootup</string>
+    <string name="user_share_data">Data Sharing</string>
+    <string name="user_share_data_summary">Share contacts, text messages, call logs and other data in the two zones, takes effect after reboot</string>
+    <string name="user_float_switch_button">Floating Button</string>
+    <string name="user_float_switch_button_summary">Display floating button on screen to facilitate switching between zones</string>
+
+    <string name="user_setup_button_setup_later">Not now</string>
+    <string name="user_set_lock_button">Set lock</string>
+    <string name="done_button">Done</string>
+    <string name="user_restrictions_controlled_by">Controlled by <xliff:g id="app">%1$s</xliff:g></string>
+
+    <string name="user_guide_title_2">Configure Current Zone </string>
+    <string name="user_guide_title_3">Cross-Zone Notifications</string>
+    <string name="user_guide_title_1">Introduction to Secure Zone</string>
+    <string name="user_guide_title_4">Data Isolation and Sharing </string>
+    <string name="user_guide_desc_1">Secure Zone allows you to configure apps, accounts, wallpapers and lock-screen passwords that are different from those in the current zone. Tap on the \"Secure Zone\" icon in the status bar to quickly switch between zones.</string>
+    <string name="user_guide_desc_2">Press and hold the \"Secure Zone\" icon in the status bar to enter the setup interface for the current zone. You can configure the app that you need to install in the current zone.</string>
+    <string name="user_guide_desc_3">In open zone, any notifications from apps in secure zone will also be displayed in the status bar. A red dot appears on the notification icon to differentiate it from notifications in the current zone. Switch zones to view notifications.</string>
+    <string name="user_guide_desc_4">The application data and documents in the two zones are kept completely isolated. The contents of the Open Zone\'s internal storage can be viewed in the OpenUserData directory of the Secure Zone\'s internal storage, but not vice versa. The call log, message log and contacts are shared between the two zones to ensure the normal operation of call and messaging functions in both zones.</string>
+    <string name="user_remove_secure_user">Delete Secure Zone</string>
+    <string name="user_privacy_mgt_summary">Restrict apps from accessing contacts, messages, and call log.</string>
+    <string name="user_remove_secure_user_reboot_msg">All app data, photos, and files in the Secure Zone will be cleared. System will automatically restart to apply changes. Delete?</string>
+    <string name="user_bgapp_mgt">Restrict background apps</string>
+    <string name="user_privacy_mgt">Privacy access control</string>
+    <string name="user_privacy_mgt_msg">Block app from accessing contacts, messages, and call log.</string>
+    <string name="user_bgapp_mgt_summary">Block apps from auto start and end their background processes.</string>
+    <string name="user_remove_secure_user_msg">All app data, photos, and files in the Secure Zone will be cleared. Delete?</string>
+    <string name="user_bgapp_mgt_msg">Block app from auto start and end its background processes. Do not apply to apps that need to run in background, such as email and WhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">App is not installed in other zones and will be completely deleted from your phone after uninstall. Uninstall?</string>
+    <string name="help_label">help</string>
+    <string name="user_uninstall_app_msg">Do you want to uninstall this app under the current zone?</string>
+</resources>

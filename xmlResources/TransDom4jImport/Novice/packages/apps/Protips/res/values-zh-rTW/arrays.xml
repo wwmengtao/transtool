@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2010 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+  <string-array name="tips">
+    <item msgid="4457112202911142877">"查看您的所有應用程式。\n 點一下 [啟動器] 圖示。@drawable/all_apps"</item>
+    <item msgid="8842580895829057430">"將應用程式拖至主螢幕。\n輕觸並按住應用程式啟動器中的某個應用程式直到震動。"</item>
+    <item msgid="8903218961940756528">"重新整理手機主頁。\n 按住項目直至手機震動，然後把該項目拖曳至新的位置。"</item>
+    <item msgid="3123213860439458492">"移除項目。\n 按住項目直至手機震動，然後把該項目拖曳至垃圾桶圖示。@drawable/trash"</item>
+    <item msgid="1000948398885889319">"多個手機主頁。\n 用手指在螢幕上左右滑動，並把項目拖曳至其他畫面。"</item>
+    <item msgid="424487960942281801">"不需要這個小工具了嗎？\n 按住小工具直至手機震動，然後把該小工具拖曳至垃圾桶圖示。"</item>
+  </string-array>
+    <string-array name="tips2">
+        
+        
+        
+        
+        
+        
+        
+        
+    <item>首頁就像座花園
+        \n觸碰並按住空白位置
+        \n即可建立新圖示</item>
+        <item>手機不防水
+        \n請勿浸入水中
+        \n或其他液體中</item>
+        <item>想要擁有更多首頁畫面嗎？
+        \n請左右滑動來尋找
+        \n(No theft required)</item>
+        <item>首頁畫面上的小圓點
+        \n它們的功能為何？
+        \n觸碰並按住來瞭解。</item>
+        <item>狀態列圖示
+        \n若要探索它們的秘密
+        \n請展開狀態列</item>
+        <item>小秘訣：
+        \n在首頁畫面間拖曳項目
+        \n在邊緣的地方暫停一下</item>
+        <item>觸碰「市集」，取得應用程式
+        \n就像一盒巧克力
+        \n個個都是驚喜</item>
+        <item>對了，順帶一提：
+        \nCeci n’est pas une trombone
+        \n我是一台 Android</item>
+    </string-array>
+</resources>

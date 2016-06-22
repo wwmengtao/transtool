@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Wireless Display</string>
+    <string name="miracast_app_name">Wireless Display</string>
+    <string name="welcome_version">Version <xliff:g id="version">%1s</xliff:g></string>
+
+    <string name="main_connect_switch_title">Connect to device</string>
+
+    <string name="item_device_mode_audio_only_title">Audio</string>
+    <string name="item_device_mode_video_only_title">Video</string>
+    <string name="item_device_mode_meeting_title">Meeting</string>
+    <string name="item_device_mode_connect_title">Connect</string>
+    <string name="item_device_mode_disconnect_title">Disconnect</string>
+    <string name="item_device_mode_rename_title">Rename</string>
+    <string name="item_device_mode_forget_title">Forget</string>
+
+    <string name="activity_settings_title">Settings</string>
+    <string name="activity_meeting_mode_title">Meeting Mode</string>
+
+    <string name="preference_settings_resolution_title">Resolution</string>
+    <string name="preference_settings_meeting_mode_title">Meeting Mode</string>
+    <string name="preference_settings_update_title">About</string>
+    <string name="preference_settings_tutor_title">Tutorial</string>
+
+    <string name="dlg_select_resolution_title">Select resolution</string>
+    <string name="dlg_select_resolution_item_720p">720p</string>
+    <string name="dlg_select_resolution_item_1080p">1080p</string>
+
+    <string name="dlg_confirm_forget_message">Remove this device from list of connected devices?</string>
+    <string name="dlg_confirm_disconnect_message">Disconnect?</string>
+    <string name="dlg_confirm_meeting_mode_message">Calls are restricted in meeting mode, and SMS are automatically displayed in the foreground. Enable meeting mode?</string>
+    <string name="dlg_confirm_switch_av_message">Current connection must be disconnected first to switch mode.\nDo you want to switch now?</string>
+    <string name="dlg_confirm_switch_video_message">Video mode will share screen content via dongle only. \nCurrent connection must be disconnected to switch modes. \nContinue?</string>
+    <string name="dlg_confirm_switch_audio_message">Audio mode will share audio via dongle only. Before switching to audio mode, confirm that it is supported by your dongle, otherwise the connection will not be successful. \nCurrent connection must be disconnected to switch modes. \nContinue?</string>
+
+    <string name="dlg_loading_scan_device_message">Scanning for devices ...</string>
+    <string name="dlg_loading_enable_wifi_message">Enabling wlan ...</string>
+    <string name="dlg_loading_reconnect_message">Switch mode, re-connecting ...</string>
+    <string name="dlg_rename_title">Rename device</string>
+
+    <string name="toast_connecting">Connecting, please try again later</string>
+    <string name="toast_already_connected">Another device already connected, please disconnect first</string>
+    <string name="toast_device_not_available">Can not connect, device not available</string>
+    <string name="toast_not_paired">Operation only available for connected devices</string>
+
+    <string name="tutor_message_1">Connect the AllShare Cast dongle to an HDMI device using the HDMI A-TO-A cable.</string>
+    <string name="tutor_message_2">When the red indicator begin to flash, click reset button. Wait for the indicator to turn blue. No need to click it again when reconnecting.</string>
+    <string name="tutor_message_3">Enter Miracast, then toggle Enable button to On. The names of devices available for connection will then appear in the list of available devices</string>
+    <string name="tutor_message_4">If successfully connected, you can share your screen with another device.</string>
+    <string name="tutor_message_audioonly">If audio output is supported by the dongle, you can try Audio Only mode to experience wireless music.</string>
+    <string name="tutor_message_videoonly">If you want to connect to a dongle with DVI or VGA interface, Video Only mode is recommended.</string>
+
+</resources>

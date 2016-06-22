@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="wifi_switch_faraway_entries">
+        <item>彈出提示</item>
+        <item>自動關閉</item>
+    </string-array>
+<string-array name="wifi_switch_entries">
+        <item>彈出提示</item>
+        <item>自動打開</item>
+    </string-array>
+    <string-array name="wifi_switch_values">
+        
+        
+    <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

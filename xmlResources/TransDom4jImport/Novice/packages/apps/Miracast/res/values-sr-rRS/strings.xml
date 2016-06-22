@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"Bežični ekran"</string>
+    <string name="miracast_app_name">"Bežični ekran"</string>
+    <string name="main_connect_switch_title">"Povežite sa uređajem"</string>
+    <string name="item_device_mode_audio_only_title">"Audio"</string>
+    <string name="item_device_mode_video_only_title">"Video"</string>
+    <string name="item_device_mode_meeting_title">Sastanak</string>
+    <string name="item_device_mode_connect_title">"Poveži"</string>
+    <string name="item_device_mode_disconnect_title">"Prekini vezu"</string>
+    <string name="item_device_mode_rename_title">"Preimenovanje"</string>
+    <string name="item_device_mode_forget_title">"Zaboravi"</string>
+    <string name="activity_settings_title">"Podešavanja"</string>
+    <string name="preference_settings_update_title">"Osnovni podaci"</string>
+    <string name="preference_settings_tutor_title">"Vodič"</string>
+    <string name="dlg_confirm_disconnect_message">"Želite li da prekinete vezu?"</string>
+    <string name="dlg_rename_title">"Preimenuj uređaj"</string>
+    <string name="activity_meeting_mode_title">Režim za sastanke</string>
+    <string name="dlg_loading_reconnect_message">Promena režima, ponovno povezivanje ...</string>
+    <string name="dlg_select_resolution_title">Izaberite rezoluciju</string>
+    <string name="tutor_message_audioonly">Ako hardverski ključ podržava izlaz zvuka, možete aktivirati režim Samo zvuk da biste uživali u muzici preko bežične veze.</string>
+    <string name="dlg_confirm_switch_av_message">Da biste promenili režim, potrebno je da se prekine postojeća veza.\nŽelite li da promenite režim?</string>
+    <string name="welcome_version">Verzija <xliff:g id="version">%1s</xliff:g></string>
+    <string name="dlg_confirm_switch_audio_message">U audio režimu, zvuk se može podeliti samo pomoću hardverskog ključa. Pre nego što pređete u audio režim, proverite da li ga hardverski ključ podržava, pošto u suprotnom povezivanje neće uspeti. \nDa biste promenili režim, potrebno je da se prekine postojeća veza. \nŽelite li da nastavite?</string>
+    <string name="preference_settings_meeting_mode_title">Režim za sastanke</string>
+    <string name="dlg_loading_scan_device_message">Traženje uređaja...</string>
+    <string name="toast_connecting">U toku je povezivanje, pokušajte ponovo kasnije</string>
+    <string name="tutor_message_3">Aktivirajte Miracast, a zatim postavite dugme Omogući u položaj Uključeno. Imena uređaja koje možete povezati prikazaće se na listi dostupnih uređaja</string>
+    <string name="tutor_message_4">Ako se veza uspešno uspostavi, moći ćete da prikažete svoj ekran na drugom uređaju.</string>
+    <string name="tutor_message_1">Povežite hardverski ključ AllShare Cast sa HDMI uređajem pomoću HDMI kabla tipa A-A.</string>
+    <string name="dlg_confirm_switch_video_message">U video režimu, slika sa ekrana se može podeliti samo pomoću hardverskog ključa. \nDa biste promenili režim, potrebno je da se prekine postojeća veza. \nŽelite li da nastavite?</string>
+    <string name="tutor_message_2">Kada crvena lampica počne da trepće, kliknite na dugme za resetovanje. Sačekajte da lampice počne da svetli plavom bojom. Nećete morati ponovo da kliknete prilikom ponovnog povezivanja.</string>
+    <string name="tutor_message_videoonly">Ako želite da koristite hardverski ključ sa DVI ili VGA interfejsom, preporučuje se korišćenje režima Samo slika.</string>
+    <string name="toast_already_connected">Već je povezan drugi uređaj, prvo prekinite tu vezu</string>
+    <string name="dlg_loading_enable_wifi_message">Omogućavanje WLAN mreže...</string>
+    <string name="toast_not_paired">Operacija je dostupna samo za povezane uređaje</string>
+    <string name="dlg_confirm_forget_message">Želite li da uklonite ovaj uređaj sa liste povezanih uređaja?</string>
+    <string name="toast_device_not_available">Povezivanje nije moguće, uređaj nije dostupan</string>
+    <string name="dlg_confirm_meeting_mode_message">U režimu za sastanke pozivi su zabranjeni, a SMS poruke se automatski prikazuju u prvom planu. Želite li da omogućite režim za sastanke?</string>
+    <string name="preference_settings_resolution_title">Rezolucija</string>
+</resources>

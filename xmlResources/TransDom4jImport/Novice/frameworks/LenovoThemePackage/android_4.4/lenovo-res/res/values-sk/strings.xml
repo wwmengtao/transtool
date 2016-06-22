@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+    <string name="storage_sd_card">"Karta SD"</string>
+    <string name="storage_usb">"Ukladací priestor USB"</string>
+    <string name="storage_external_usb">Externá pamäť USB</string>
+    <string name="default_string">"Predvolené"</string>
+    <string name="capital_on">"ZAPNUTÉ"</string>
+    <string name="capital_off">"VYPNUTÉ"</string>
+    <string name="global_action_reboot">"Reštartovať"</string>
+    <string name="reboot_confirm_title">"Reštartovať"</string>
+    <string name="silent_mode_silent">"Vypnúť zvuk"</string>
+    <string name="silent_mode_vibrate">"Vibračné zvonenie"</string>
+    <string name="silent_mode_normal">"Všeobecné"</string>
+    <string name="captive_portal_dialog_title">"Prihlásenie sa do siete WLAN"</string>
+    <string name="captive_portal_dialog_button">"Prihlásiť sa"</string>
+    <string name="volume_icon_description_ringer">"Vyzváňací tón"</string>
+    <string name="volume_icon_description_bluetooth">"Bluetooth"</string>
+    <string name="volume_icon_description_incall">"Hovor"</string>
+    <string name="volume_alarm">"Budík"</string>
+    <string name="volume_matv">"Hľadať"</string>
+    <string name="volume_icon_description_media">"Médiá"</string>
+    <string name="volume_icon_description_notification">"Upozornenie"</string>
+    <string name="turn_on_data">"Zapnúť"</string>
+    <string name="author">"Google"</string>
+    <string name="turn_off_data">"Deaktivovať"</string>
+    <string name="storage_phone">Pamäť telefónu</string>
+    <string name="volume_fm">Hlasitosť FM</string>
+    <string name="silent_mode_outdoor">Použitie vonku</string>
+    <string name="msg_shutdown_habit_guess">"Nedávno ste počas tejto doby vypli zariadenie trikrát. 
+Chcete prejsť na nastavenie plánovaného zapnutia a vypnutia?"</string>
+    <string name="not_support_too_long_string">Vyhľadávanie príliš dlhých reťazcov nie je podporované</string>
+    <string name="keyguard_password_waring_dlg_title">Nesprávne heslo</string>
+    <string name="keyguard_password_attempts_warning"><xliff:g id="number">%d</xliff:g>-krát ste sa neúspešne pokúsili odomknúť telefón.
+       Po ďalších <xliff:g id="number">%d</xliff:g> neúspešných pokusoch
+       sa obnovia výrobné nastavenia telefónu a všetky údaje používateľa sa vymažú.</string>
+    <string name="dlg_use_ipo_confirm">Rýchly štart</string>
+    <string name="prevent_misoperation_message">Nezakrývajte vrchnú časť obrazovky</string>
+    <string name="prevent_misoperation_title">Režim na zabránenie nesprávnej polohe</string>
+    <string name="usb_notification_content">Vyberte režim pripojenia USB a ladenie ADB.</string>
+    <string name="reboot_confirm_msg">Váš telefón sa reštartuje</string>
+    <string name="ext_storage_external_notification_title">Príprava externého úložného priestoru</string>
+    <string name="usb_notification_title">Nastavenia pripojenia USB</string>
+    <string name="captive_portal_dialog_message">Aktuálna sieť WLAN si vyžaduje prihlásenie pred prístupom do internetu, najprv sa prihláste</string>
+    <string name="prevent_misoperation_quit_hint">Nútené ukončenie: stlačte \"Späť\" + tlačidlo \"Zvýšenie hlasitosti\"</string>
+    <string name="long_back_exit_info">ukončiť</string>
+    <string name="kg_forgot_password_button_text">Zabudnuté heslo</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Aktivovať režim Lietadlo?</string>
+    <string name="ext_storage_internal_notification_title">Príprava interného úložného priestoru</string>
+    <string name="turn_on_mobile_data_warning">Prevádzka niektorých aplikácií môže byť spojená s poplatkami za dátové pripojenie</string>
+    <string name="keyguard_password_waring_dlg_remind">Pokračujte zadaním lenovo a stlačením OK.</string>
+    <string name="keyguard_password_dlg_input_err">Chyby pri zadávaní, skúste znova</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Rozhranie Bluetooth sa vypne po aktivácii bezdrôtového displeja. Chcete pokračovať?</string>
+    <string name="reboot_dialog_msg">"Stlačte tlačidlo zap./vyp. po <xliff:g id="DELAY">^1</xliff:g> s. 
+Držte ho stlačené ešte 2 sekundy, ak chcete, aby sa zariadenie po vypnutí reštartovalo"</string>
+    <string name="dlg_ipo_confirm_warning">V režime rýchleho štartu systém nie je úplne vypnutý, neodpájajte kartu SIM ani pamäťovú kartu v tomto stave, pretože by sa mohli poškodiť.</string>
+    <string name="powerOnWarning_boot_msg">Ďalšie zapnutie: %1$s</string>
+    <string name="powerOnWarning_alarm_msg">Ďalší budík: %1$s</string>
+    <string name="next_time_no_warning">Nabudúce ignorovať</string>
+    <string name="component">callscreen</string>
+    <string name="description">Téma Lenovo PhoneApp Snoopy</string>
+</resources>

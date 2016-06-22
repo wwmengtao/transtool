@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="profile_edit_weaken_help">Η ένταση του ήχου κλήσης μειώνεται, όταν σηκώνετε το τηλέφωνο.</string>
+<string name="smart_calling_title">Έξυπνη κλήση</string>
+<string name="character_settings_gestural_hand_category">Κινησεις με το ενα χερι και άλλες χειρονομιες</string>
+<string name="select_subscription">Επιλογή συνδρομής</string>
+<string name="wifi_scan_always_available_summary" msgid="7768204638882691453">"Παροχή στην υπηρεσία εντοπισμού τοποθεσίας της Google και σε άλλες εφαρμογές, της δυνατότητας σάρωσης για δίκτυα, ακόμη και όταν το WLAN είναι απενεργοποιημένο"</string>
+<string name="whatis_lenovoid_cando_summary"> "απεριόριστη πρόσβαση στις συσχετίσεις για διάφορες εφαρμογές, υπηρεσίες cloud και εξυπηρέτηση. Μία κάρτα στο χέρι, χωρίς φραγή. "</string>
+<string name="enable_traces_title">"Ενεργοποίηση ιχνών"</string>
+<string name="wifi_setup_wizard_title" msgid="8242230950011819054">"Επιλογή δικτύου WLAN"</string>
+<string name="schpwr_time_invalid">Το διάστημα μεταξύ του χρονοδιαγράμματος ενεργοποίησης/απενεργοποίησης πρέπει να είναι τουλάχιστον %d λεπτά</string>
+<string name="multiwindow_title">"πολλαπλά παράθυρα"</string>
+<string name="lockscreen_shake_unlock_ctrl_summary">Κουνήστε γρήγορα το τηλέφωνο προς μία κατεύθυνση για κλείδωμα της οθόνης | Βοήθεια</string>
+<string name="show_frame_count_size">Μέγεθος</string>
+<string name="character_settings_phone_call_ring_weaken_help_message">Η ένταση του ήχου κλήσης μειώνεται, όταν σηκώνετε το τηλέφωνο.</string>
+<string name="gestural_phone_summary">Σύρετε προς τα αριστερά/δεξιά για απάντηση σε κλήσεις | Πατήστε προς τα επάνω παρατεταμένα για τερματισμό κλήσεων</string>
+<string name="teos_settings">Εμφάνιση ισορροπίας χρωμάτων</string>
+<string name="display_effect_of_screen_saturation_title">"Κορεσμός"</string>
+<string name="lock_wallpaper">Κλείδωμα ταπετσαρίας</string>
+<string name="done">"Τέλος"</string>
+<string name="version_info">Πληροφορίες έκδοσης</string>
+<string name="desktop_wallpaper">Ταπετσαρία επιφάνειας εργασίας</string>
+<string name="devices_info_cpu">"CPU：τεσσάρων πυρήνων 2,2 GHz"</string>
+<string name="backup_data_to_device_title">Δημιουργία αντιγράφου ασφαλείας δεδομένων σε άλλη συσκευή</string>
+<string name="smart_call_answer_settings_title">Έξυπνη απάντηση</string>
+<string name="reset_skip_backup_title">Παράβλεψη δημιουργίας αντιγράφων ασφαλείας</string>
+<string name="recovery_data_from_device_title">Ανάκτηση δεδομένων από άλλη συσκευή</string>
+<string name="roaming_time_settings_category">Ρυθμίσεις διεθνούς περιαγωγής</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"Η υπηρεσία <xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> μπορεί να συλλέξει όλο το κείμενο που πληκτρολογείτε, εκτός από τους κωδικούς πρόσβασης. Αυτό περιλαμβάνει προσωπικά δεδομένα όπως αριθμούς πιστωτικών καρτών. Μπορεί επίσης να συλλέξει δεδομένα σχετικά με τις αλληλεπιδράσεις σας με το tablet."</string>
+<string name="header_category_shortcut_key">ΛΕΙΤΟΥΡΓΙΕΣ ΣΥΝΤΟΜΕΥΣΕΩΝ</string>
+<string name="multi_sim_settings_summary">Ορίστε τις ρυθμίσεις πολλαπλών καρτών Sim για Φωνή, Δεδομένα και SMS</string>
+<string name="voice_title">Φωνή/USSD/MMI</string>
+<string name="never">"Ποτέ"</string>
+<string name="data_usage_metered_body" msgid="4959032833706695848">"Επιλέξτε τα δίκτυα WLAN που αποτελούν σημεία πρόσβασης για κινητά. Η χρήση αυτών των δικτύων από τις εφαρμογές μπορεί να αποκλειστεί όταν βρίσκονται στο παρασκήνιο. Οι εφαρμογές μπορεί επίσης να προειδοποιούν πριν από τη χρήση αυτών των δικτύων για μεγάλες λήψεις."</string>
+<string name="character_settings_swing_lock_screen_help_message">Κουνήστε το τηλέφωνο για να κλειδώσετε την οθόνη</string>
+<string name="global_single_hand_title_v2">Πολύ μικρή οθόνη που χωρά στο ένα χέρι</string>
+<string name="products_version">Αρ. μοντέλου</string>
+<string name="wifi_display_summary_on">"Άνοιγμα"</string>
+<string name="multiwindow_divide_settings_summary">Ολοκληρώστε εργασίες στο τηλέφωνό σας ανοίγοντας δύο παράθυρα</string>
+<string name="startup_time_enabled">Προγραμματισμένη ενεργοποίηση</string>
+<string name="wifi_setup_title_connected_network" msgid="1608788657122010919">"Σύνδεση στο δίκτυο WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="multi_sim_settings_title">Ρυθμίσεις πολλαπλών καρτών Sim</string>
+<string name="framework_version">Αριθμός έκδοσης Android</string>
+<string name="display_effect_of_screen_apply">Εφαρμογή</string>
+<string name="character_settings_float_button_help_message">Πατήστε το αιωρούμενο κουμπί, για να ανοίξετε τον πίνακα συντομεύσεων και εφαρμογών.</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"Χρήση <xliff:g id="SERVICE">%1$s</xliff:g>;"</string>
+<string name="wifi_empty_list_wifi_off" msgid="8056223875951079463">"Για διαθέσιμα δίκτυα, ενεργοποιήστε το WLAN."</string>
+<string name="mercury_keyboard_title">Έξυπνο πληκτρολόγιο οθόνης</string>
+<string name="data_usage_restrict_background" msgid="8447934953579275363">"Αν περιορίσετε τα δεδομένα παρασκηνίου κινητής τηλεφωνίας, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν εκτός και αν έχετε συνδεθεί σε δίκτυο WLAN."</string>
+<string name="screensaver_timeout_zero_summary">"Ποτέ"</string>
+<string name="still_sleep_ctrl">Έξυπνη αναστολή λειτουργίας</string>
+<string name="playersTutorial_stoped">Ο εκπαιδευτικός οδηγός έχει διακοπεί</string>
+<string name="lenovo_exp_title">Συμφωνώ να συμμετέχω στο πρόγραμμα βελτίωσης εμπειρίας της Lenovo</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet" msgid="7132639594296036143">"Αν περιορίσετε τη χρήση των δεδομένων κινητής τηλεφωνίας στο παρασκήνιο, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός εάν είστε συνδεδεμένοι σε δίκτυο WLAN.\n\nΑυτή η ρύθμιση επηρεάζει όλους τους χρήστες στο συγκεκριμένο tablet."</string>
+<string name="set_sms_error">Σφάλμα στον ορισμό συνδρομής sms. Η συνδρομή δεν είναι ενεργή.</string>
+<string name="lockscreen_face_detection_ctrl_description">Κρατήστε το τηλέφωνο μπροστά στο πρόσωπό σας για να το ξεκλειδώσετε</string>
+<string name="glove_mode">Λειτουργία αφής υψηλής ευαισθησίας</string>
+<string name="smart_standby_ctrl_summary">"Η οθόνη θα ενεργοποιηθεί όταν την κοιτάξετε"</string>
+<string name="battery_action_wifi" msgid="8181553479021841207">"Ρυθμίσεις WLAN"</string>
+<string name="backup_data_summary" msgid="708773323451655666">"Δημιουργία αντιγράφων ασφαλείας για τα δεδομένα εφαρμογών, τους κωδικούς πρόσβασης WLAN και για άλλες ρυθμίσεις, στους διακομιστές Google"</string>
+<string name="black_screen_settings_flash_mode_off">Κλείσιμο</string>
+<string name="exit">Έξοδος</string>
+<string name="gadget_wifi" msgid="4712584536500629417">"WLAN"</string>
+<string name="lockscreen_knock_on_ctrl">Πάτημα λυχνίας οθόνης</string>
+<string name="gestural_music_summary">Σύρετε προς τα αριστερά/δεξιά για εναλλαγή μουσικής | Σύρετε προς τα επάνω/κάτω για ρύθμιση της έντασης ήχου</string>
+<string name="notificationbar_setings_title">"Κέντρο ειδοποιήσεων"</string>
+<string name="unlock_proximity_ctrl">Λειτουργία αποτροπής κλήσης όταν βρίσκεται στην τσέπη</string>
+<string name="shellt_phone_info_camera">"8 εκατομ."</string>
+<string name="wifi_scan_notify_text_location_off" msgid="6323983741393280935">"Οι εφαρμογές ενδέχεται να κάνουν σάρωση για κοντινά δίκτυα, ακόμη και αν το WLAN είναι απενεργοποιημένο. Αν δεν επιθυμείτε να συμβαίνει αυτό, μεταβείτε στη ρύθμιση Σύνθετες &gt; Πάντα διαθέσιμη σάρωση."</string>
+<string name="location_neighborhood_level_wifi" msgid="4234820941954812210">"Η τοποθεσία καθορίζεται από το WLAN"</string>
+<string name="teos_settings_title">Εμφάνιση ισορροπίας χρωμάτων</string>
+<string name="tilt_scroll_control_summary">Όταν είναι ενεργοποιημένη αυτή η επιλογή, τα περιβάλλοντα εργασίας που υποστηρίζουν την κύλιση με κλίση πραγματοποιούν αυτόματα κύλιση αριστερά/δεξιά όταν γέρνετε το τηλέφωνο</string>
+<string name="wifi_setting_sleep_policy_title" msgid="5149574280392680092">"Να παραμένει ενεργοποιημένο το WLAN κατά την αναστολή λειτουργίας"</string>
+<string name="location_consent_dialog_title">Συγκατάθεση θέσης</string>
+<string name="devices_info_runMemory">"RAM: 2,0 GB</string>
+<string name="reset_backup_befor_reset_summary">Δημιουργήστε αντίγραφα ασφαλείας των σημαντικών δεδομένων, π.χ. επαφές, πριν να πραγματοποιήσετε επαναφορά</string>
+<string name="wifi_advanced_titlebar" msgid="4485841401774142908">"Σύνθετο WLAN"</string>
+<string name="personal_hotspot">"Hotspot"</string>
+<string name="save_power_summary">"Επιλέξτε εφαρμογές για την ευθυγράμμιση του χρόνου αφύπνισης συστήματος"</string>
+<string name="internal_storage_app">Εσωτερική αποθήκευση εφαρμογής</string>
+<string name="category_smart">Έξυπνο</string>
+<string name="show_frame_count_y_coordinate">Συντεταγμένη Υ</string>
+<string name="fast_poweron_next_time">Γρήγορη εκκίνηση την επόμενη φορά</string>
+<string name="black_screen_camera_gallery_title"> "Λειτουργία προεπισκόπησης" </string>
+<string name="data_usage_tab_slot2">Υποδοχή 2</string>
+<string name="data_usage_tab_slot1">Υποδοχή 1</string>
+<string name="show_frame_count_ok_button_text">"ΟΚ"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen_summary">Πατήστε δύο φορές την οθόνη όταν είναι απενεργοποιημένη, για να αφυπνίσετε το τηλέφωνο</string>
+<string name="black_screen_camera_fast_title"> "Λειτουργία κάμερας" </string>
+<string name="sel_sub_summary">Επιλέξτε τη Συνδρομή για τα SIM-1 και SIM-2</string>
+<string name="character_settings_single_hand_help_message">Σχεδ. ένα "c" από πάνω προς τα κάτω στην οθόνη, για να εμφ.μια πολύ μικρή οθον.που χωρά στο ένα χέρι.</string>
+<string name="wifi_setup_wizard_next">"Επόμενο"</string>
+<string name="lenovo_exp_content">"Μόνο υποστήριξη CN"</string>
+<string name="character_settings_shortcuts_category">Μεθοδοι συντομευσης</string>
+<string name="gestural_summary">Οι χειρονομίες μπορούν να χρησιμοποιηθούν για τον έλεγχο του τηλεφώνου από απόσταση</string>
+<string name="profile_edit_weaken_title">Μείωση έντασης ήχου</string>
+<string name="character_settings_help_category_title">"Βοήθεια"</string>
+<string name="profile_settings">"Ήχος"</string>
+<string name="black_screen_settings_shortcut_quick_shots_summary">Πατήστε δύο φορές το κουμπί αρχικής οθόνης ενώ η οθόνη είναι απενεργοποιημένη για να τραβήξετε φωτογραφίες</string>
+<string name="global_single_hand_title">Λειτουργία με ένα χέρι</string>
+<string name="startup_shutdown_time_errmsg">Το χρονικό διάστημα μεταξύ της ενεργοποίησης και της απενεργοποίησης πρέπει να είναι μεγαλύτερο από 10 λεπτά, επαναλάβετε τη ρύθμιση.</string>
+<string name="system_time_am">Π.Μ.</string>
+<string name="still_sleep_ctrl_summary">Το τηλέφωνο θα μεταβεί αυτόματα στην κατάσταση αναμονής, εάν τοποθετηθεί σε οριζόντια θέση</string>
+<string name="enable_schpwr">Ενεργοποίηση</string>
+<string name="save_power_wait_message">"Φόρτωση εφαρμογών"</string>
+<string name="schpwr_power_on">"ενεργοποίηση"</string>
+<string name="reboot_progress">Επανεκκίνηση\u2026</string>
+<string name="recovery_data_title">Ανάκτηση δεδομένων από αντίγραφο ασφαλείας στην κάρτα SD </string>
+<string name="day">"1 ημέρα"</string>
+<string name="multiwindow_settings_summary">Ενεργοποίηση πολλών παραθύρων</string>
+<string name="service_background_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> ελεύθερου χώρου εφαρμογής"</string>
+<string name="mercury_keyboard_summary">Η αναλογία μεγέθους του πληκτρολογίου θα αλλάξει με βάση τη γωνία του τηλεφώνου ώστε να διευκολύνεται η χρήση με το ένα χέρι | Βοήθεια</string>
+<string name="save_power_count">"Έχουν ευθυγραμμιστεί <xliff:g id="NUMBER">%d</xliff:g> εφαρμογές συνολικά"</string>
+<string name="lockscreen_face_detection_ctrl">Ξεκλείδωμα με αναγνώριση προσώπου</string>
+<string name="fuse_backup_data_description">"Δημιουργήσετε αντίγραφα ασφαλείας για επαφές, εικόνες, μηνύματα, εφαρμογές και άλλα σημαντικά δεδομένα πριν από την επαναφορά του τηλεφώνου"</string>
+<string name="settings_header_ringtone_k7">"Ρυθμίσεις ήχου κλήσης"</string>
+<string name="gestural_image_summary">Σύρετε προς τα αριστερά/δεξιά για εναλλαγή μεταξύ εικόνων | Σύρετε προς τα επάνω/κάτω για εναλλαγή μεταξύ ειδικών εφέ</string>
+<string name="wifi_starting" msgid="6732377932749942954">"Ενεργοποίηση του WLAN…"</string>
+<string name="memory_info">RAM</string>
+<string name="set_dds_failed">Σφάλμα στη συνδρομή ορισμού δεδομένων.  Διαγράψτε όλες τις υφιστάμενες συνδέσεις δεδομένων και δοκιμάστε ξανά.</string>
+<string name="device_section_title">Συσκευή</string>
+<string name="wave_not_screenoff_title">Η οθόνη δεν απενεργοποιείται με κούνημα</string>
+<string name="wifi_setup_eap_not_supported" msgid="1955087534276570962">"Δεν είναι δυνατή η διαμόρφωση σύνδεσης EAP WLAN κατά τη διάρκεια της εγκατάστασης. Μετά την εγκατάσταση, μπορείτε να τη διαμορφώσετε από το στοιχείο Ρυθμίσεις &gt; Ασύρματο και δίκτυα."</string>
+<string name="gestural_phone">Απάντηση με χειρονομία</string>
+<string name="lock_title" product="tablet">"Ασφάλιση του τηλεφώνου σας"</string>
+<string name="character_settings_pocket_mode_help_message">Η ένταση του ήχου κλήσης αυξάνεται αυτόματα, όταν το τηλέφωνο βρίσκεται στην τσέπη σας.</string>
+<string name="global_action_meeting">"Δόνηση"</string>
+<string name="wifi_tether_checkbox_text" msgid="1847167643625779136">"Φορητό σημείο πρόσβασης WLAN"</string>
+<string name="unlock_set_unlock_speech_title">Φωνητικό ξεκλείδωμα</string>
+<string name="slide_unlock_help">Όταν η οθόνη είναι απενεργοποιημένη, σύρετε αριστερά ή δεξιά στο κάτω μέρος της οθόνης για ξεκλείδωμα. Η λειτουργία αυτή θα επηρεάσει την κατανάλωση ενέργειας στην κατάσταση αναμονής.</string>
+<string name="character_settings_intelligent_category">Έξυπνος έλεγχος</string>
+<string name="black_screen_settings_broswer_summary">Σχεδιάστε ένα “e” στην οθόνη</string>
+<string name="incoming_call_ringer_title1">"Κουδούνισμα εισερχόμενης κλήσης (1)"</string>
+<string name="incoming_call_ringer_title2">"Κουδούνισμα εισερχόμενης κλήσης (2)"</string>
+<string name="safety_information">Πληροφορίες ασφάλειας</string>
+<string name="color_light_hasopen">Ενεργοποίηση</string>
+<string name="nfc_beam_transmit">Μετάδοση Android</string>
+<string name="wifi_empty_list_wifi_on" msgid="8746108031587976356">"Αναζήτηση για δίκτυα WLAN…"</string>
+<string name="multiwindow_smart_settings">Έξυπνα πολλά παράθυρα</string>
+<string name="display_effect_of_screen_contrast_item0">Άνετος</string>
+<string name="display_effect_of_screen_contrast_item1">"Προεπιλεγμένο"</string>
+<string name="black_screen_settings_category_shortcut">Λειτουργία συντόμευσης μαύρης οθόνης</string>
+<string name="black_screen_settings_music">Ξεκλείδωμα στη μουσική</string>
+<string name="unlock_proximity_ctrl_summary">Χρησιμοποιήστε τον αισθητήρα εγγύτητας για να αποφύγετε ακούσιες ενέργειες όταν το τηλέφωνο είναι στην τσέπη σας</string>
+<string name="display_effect_of_screen_contrast_item2">Θερμό</string>
+<string name="memory_video_usage">"Βίντεο"</string>
+<string name="timing_startup_and_shutdown_settings_title">Προγραμματισμένη ενεργοποίηση/απενεργοποίηση</string>
+<string name="mercury_keyboard_help">Κατά τη χρήση του πληκτρολογίου, θα αλλάξει με βάση τη γωνία του τηλεφώνου ώστε να διευκολύνεται η χρήση με το ένα χέρι. Σύρετε με το δάχτυλο όταν είναι επίπεδο το περιβάλλον εργασίας του πληκτρολογίου για να ενεργοποιήσετε το έξυπνο πληκτρολόγιο οθόνης.</string>
+<string name="wifi_wps_setup_title" msgid="8207552222481570175">"Ρύθμιση προστατευόμενου WLAN"</string>
+<string name="restriction_wifi_config_title" msgid="8889556384136994814">"WLAN και κινητά"</string>
+<string name="other_wallpaper">Άλλες ταπετσαρίες</string>
+<string name="show_dev_countdown">Δεν απέχετε πολύ από το να γίνετε προγραμματιστής.</string>
+<string name="os_version">Αριθμός έκδοσης συστήματος</string>
+<string name="show_frame_count_title">Μεταβείτε στον εκπαιδευτικό οδηγό για αρχάριους</string>
+<string name="ringtone_picker_more_ringtones_title">"Περισσότεροι ήχοι κλήσης &gt;&gt;&gt;"</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"Πατήστε το πλήκτρο αύξησης ή μείωσης της έντασης ήχου, για να ενεργοποιήσετε την οθόνη | Βοήθεια"</string>
+<string name="crypt_keeper_encrypt_summary" product="default" msgid="514138079795442371">"Να απαιτείται ένας αριθμητικός κωδικός PIN ή ένας κωδικός πρόσβασης για την αποκρυπτογράφηση του τηλεφώνου σας κάθε φορά που το ενεργοποιείτε"</string>
+<string name="category_single_hand">Με το ένα χέρι</string>
+<string name="black_screen_settings_shortcut_quick_shots">Λήψη φωτογραφιών με υψηλή ταχύτητα</string>
+<string name="black_screen_settings_normal">Κανονικό ξεκλείδωμα</string>
+<string name="userguide_title">"Οδηγός εκκίνησης"</string>
+<string name="black_screen_settings_summary_app_selected">Ξεκλείδωμα <xliff:g id="app">%s</xliff:g></string>
+<string name="character_settings_help_title">Εξερεύνηση λειτ. μαύρης οθόνης</string>
+<string name="wifi_setup_title_editing_network" msgid="6020614644556717979">"Σύνδεση στο δίκτυο WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="never_timeout">Ποτέ σε κατάσταση αναμονής</string>
+<string name="screensaver_settings_disabled_prompt" msgid="3857507943322777651">"Για να ελέγξετε τι συμβαίνει όταν το τηλέφωνο είναι συνδεδεμένο ή/και σε κατάσταση αδράνειας, ενεργοποιήστε τη λειτουργία Daydream."</string>
+<string name="subscription_02_title">SIM 2</string>
+<string name="category_gesture">Χειρονομία</string>
+<string name="accessibility_script_injection_allowed">Επιτρέπεται</string>
+<string name="airbuse_phone_info_camera">"Εμπρός 300.000, πίσω 5 εκατομ."</string>
+<string name="character_settings_call_voice_category">ΚΛHΣΕΙΣ ΚΑΙ ΦΩΝH</string>
+<string name="lock_title" product="default">Ασφάλιση του τηλεφώνου σας</string>
+<string name="devices_info_memory">"Μνήμη：<xliff:g>%1$s</xliff:g>(ελεύθερη) 4 GB (συνολικά)"</string>
+<string name="wifi_wps_onstart_pin" msgid="223344506445335358">"Εισαγάγετε τον <xliff:g id="NUMBER">%1$s</xliff:g> pin στον δρομολογητή σας WLAN. Η ρύθμιση μπορεί να διαρκέσει έως και δύο λεπτά."</string>
+<string name="enable_traces_summary_all">"Όλα τα ίχνη είναι επί του παρόντος ενεργοποιημένα"</string>
+<string name="every_day">κάθε μέρα</string>
+<string name="voice_wakeup_title">Αφύπνιση μέσω φωνής</string>
+<string name="side_key_backlight_help">Πατήστε το πλήκτρο έντασης ήχου για να ενεργοποιήσετε τον οπίσθιο φωτισμό.</string>
+<string name="set_voice_error">Σφάλμα στον ορισμό συνδρομής φωνής. Η συνδρομή δεν είναι ενεργή.</string>
+<string name="data_usage_enable_mobile_statistics_dialog">Με την ενεργοποίηση αυτής της λειτουργίας η κατανάλωση ενέργειας θα είναι υψηλή σε δίκτυα με υψηλή ταχύτητα δεδομένων όπως το LTE...</string>
+<string name="ota_title">Ενημέρωση συστήματος</string>
+<string name="memory_image_usage">"Εικόνες"</string>
+<string name="hardware_version">Έκδοση υλικού</string>
+<string-array name="contrast">
+        <item>Προεπιλογή</item>
+        <item>Υψηλό</item>
+    </string-array>
+<string name="crypt_keeper_desc" product="default" msgid="7663118199519229502">"Μπορείτε να κρυπτογραφήσετε τους λογαριασμούς, τις ρυθμίσεις, τις εφαρμογές των οποίων έχετε πραγματοποιήσει λήψη και τα δεδομένα τους, τα μέσα και άλλα αρχεία σας. Αφού κρυπτογραφήσετε το τηλέφωνό σας, θα πρέπει κάθε φορά που το ενεργοποιείτε να πληκτρολογείτε ένα αριθμητικό PIN ή έναν κωδικό πρόσβασης για την αποκρυπτογράφησή του. Δεν είναι δυνατή η αποκρυπτογράφηση του τηλεφώνου σας, εκτός αν πραγματοποιήσετε επαναφορά εργοστασιακών ρυθμίσεων, διαγράφοντας όλα τα δεδομένα σας.\n\nΗ κρυπτογράφηση διαρκεί μια ώρα ή και περισσότερο. Θα πρέπει να την ξεκινήσετε με την μπαταρία σας φορτισμένη, ενώ το τηλέφωνό σας θα πρέπει να είναι συνδεδεμένο σε πρίζα, έως ότου ολοκληρωθεί η κρυπτογράφηση. Αν διακόψετε τη διαδικασία κρυπτογράφησης, θα χάσετε ορισμένα ή όλα τα δεδομένα σας."</string>
+<string name="china_telcom_push_summary">Δωρεάν υπηρεσία push της China Telecom</string>
+<string name="color_light_missed_call">Αναπάντητες κλήσεις</string>
+<string name="devices_info_products_version">"Μοντέλο: Lenovo K910"</string>
+<string name="usb_mtp_summary" msgid="4617321473211391236">"Σας επιτρέπει να μεταφέρετε αρχεία πολυμέσων στα Windows, ή σε Mac μέσω χρήσης της εφαρμογής \"Μεταφορά αρχείων Android\" (διατίθεται στη διεύθυνση www.android.com/filetransfer)"</string>
+<string name="what_lenovoid_cando_title"> "Τι μπορώ να κάνω με τα πάσα συσχέτισης; "</string>
+<string name="k6kk_phone_info_cpu">"Snapdragon 800 2,2 GHz"</string>
+<string name="smart_answer_incommingcall_summary">Όταν φτάνει μια εισερχόμενη κλήση, ο χρήστης μπορεί να απαντήσει την κλήση με μια ειδική κίνηση</string>
+<string name="gadget_state_template" msgid="5156935629902649932">"<xliff:g id="ID_1">%1$s</xliff:g> <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+<string name="k6kk_phone_info_camera">"Εμπρός 5 εκατομ., πίσω 13 εκατομ."</string>
+<string name="wifi_setup_title" msgid="2970260757780025029">"Ρύθμιση WLAN"</string>
+<string name="system_shortcutbar_title">"Γραμμή συντομεύσεων συστήματος"</string>
+<string name="call_ring_pocket_enable_title">"Λειτουργία τσέπης"</string>
+<string name="schpwr_shutdown_message_second">"Η συσκευή σας θα απενεργοποιηθεί σε <xliff:g id="second">%s</xliff:g> δευτερόλεπτο"</string>
+<string name="smart_rotete_cbox_summary">Έξυπνο</string>
+<string name="gestural_gesture">Έλεγχος μέσω χειρονομιών</string>
+<string name="black_screen_settings_quick_shots_three">τρεις λήψεις</string>
+<string name="smart_call_answer_settings_summary">Απαντά αυτόματα μια εισερχόμενη κλήση, όταν φέρνετε τη συσκευή κοντά στο αφτί σας</string>
+<string name="wifi_wps_onstart_pbc" msgid="5940801028985255304">"Πατήστε ο κουμπί ρύθμισης προστατευόμενου WLAN στον δρομολογητή σας. Ενδέχεται να ονομάζεται \"WPS\" ή να περιέχει αυτό το σύμβολο:"</string>
+<string name="crypt_keeper_final_desc" product="default" msgid="5682944380460921880">"Η λειτουργία κρυπτογράφησης είναι μη αναστρέψιμη και, αν τη διακόψετε, θα χαθούν δεδομένα. Η κρυπτογράφηση διαρκεί μια ώρα ή και περισσότερο, κατά τη διάρκεια της οποίας θα γίνει πολλές φορές επανεκκίνηση του τηλεφώνου."</string>
+<string name="wifi_quick_toggle_summary" msgid="2696547080481267642">"Ενεργοποίηση WLAN"</string>
+<string name="k6kk_phone_info_screen">"Ανάλυση: 1080*1920, Μέγεθος: 5,5 ίντσες"</string>
+<string name="swing_lock_help">Κουνήστε το τηλέφωνο για να κλειδώσετε την οθόνη</string>
+<string name="software_version">Αριθμός έκδοσης λογισμικού</string>
+<string name="header_category_lock_unlock">ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ ΟΘΟΝΗΣ</string>
+<string name="gestural_gesture_summary">Η αριστερή\\δεξιά\\επάνω\\κάτω κίνηση του δαχτύλου σας χωρίς να αγγίζετε την οθόνη έχει το ίδιο αποτέλεσμα με το σύρσιμο του δαχτύλου στην οθόνη. Αυτή η λειτουργία δεν είναι συμβατή με τα περιβάλλοντα εργασίας μουσικής, βίντεο ή προγράμματος περιήγησης.</string>
+<string name="black_screen_settings_quick_shots_six">έξι λήψεις</string>
+<string name="wlan_share">"Κοινή χρήση WLAN"</string>
+<string name="bottom_shortcutbar_title">"Κάτω γραμμή συντομεύσεων"</string>
+<string name="smart_calling_summary">Στις λεπτομέρειες της επαφής ή στο περιβάλλον εργασίας της συνομιλίας μηνυμάτων, φέρτε το τηλέφωνο κοντά στο αφτί σας για να καλέσετε αυτόματα την επαφή</string>
+<string name="usage_type_data_wifi_send" msgid="7178327382353096029">"Αποστολή δεδομένων WLAN"</string>
+<string name="double_click_menu_enabled_title">"Κάντε κλικ παρατεταμένα στο πλήκτρο ΜΕΝΟΥ για ενεργοποίηση της φωνής"</string>
+<string name="glove_mode_summary">Όταν είναι ενεργοποιημένη η λειτουργία Αφή υψηλής ευαισθησίας, υποστηρίζεται η αφή της οθόνης με γάντια</string>
+<string name="gestural_v2">Τρισδιάστατες κινήσεις</string>
+<string name="double_click_home_enabled_title">"Κάντε διπλό κλικ στο πλήκτρο ΑΡΧΙΚΗΣ ΟΘΟΝΗΣ για να ενεργοποιήσετε τη φωνή"</string>
+<string name="backup_data_section_title">Δημιουργία αντιγράφου ασφαλείας δεδομένων</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"<xliff:g id="NUM">%1$d</xliff:g> ίχνη είναι ενεργοποιημένα την τρέχουσα στιγμή"</string>
+<string name="show_frame_count_summary">Να εμφανίζεται ο αριθμός καρέ όταν είναι ενεργοποιημένο.</string>
+<string name="wifi_quick_toggle_title" msgid="8850161330437693895">"WLAN"</string>
+<string name="reset_backup_befor_reset_title">Δημιουργία αντιγράφων ασφαλείας δεδομένων πριν από επαναφορά</string>
+<string name="restriction_wifi_config_summary" msgid="70888791513065244">"Να επιτρέπεται η τροποποίηση των ρυθμίσεων WLAN και κινητών"</string>
+<string name="reboot">"Επανεκκίνηση"</string>
+<string name="bluetooth_on_time" msgid="3056108148042308690">"WLAN στην ώρα του"</string>
+<string name="quicksettings">"γρήγορες ρυθμίσεις"</string>
+<string name="color_light_demo">Επίδειξη λυχνίας LED</string>
+<string name="sim_settings_title">Ρυθμίσεις SIM</string>
+<string name="hours"><xliff:g id="hours">%s</xliff:g> ώρες</string>
+<string name="save_power_title">"Ευθυγράμμιση χρόνου αφύπνισης συστήματος"</string>
+<string name="header_category_call_message">Κλήσεις και μηνύματα</string>
+<string name="show_hw_overdraw">"Εμφάνιση μεγέθους υπερανάληψης σε GPU"</string>
+<string name="display_effect_of_screen_hue_title">Απόχρωση</string>
+<string name="whatis_lenovoid_summary"> "χρησιμοποιήστε το κινητό σας τηλέφωνο ως λογαριασμό πρόσβασης της Lenovo, γίνετε μέλος της Συσχέτισης. "</string>
+<string name="data_usage_menu_show_wifi" msgid="5056401102877964564">"Εμφάνιση χρήσης WLAN"</string>
+<string name="master_clear_desc" product="default" msgid="9165016501623540228">"Με αυτόν τον τρόπο, θα διαγραφούν όλα τα δεδομένα από τον "<b>"εσωτερικό χώρο αποθήκευσης"</b>" της συσκευής σας tablet, συμπεριλαμβανομένων:\n\nΤων δεδομένων και των ρυθμίσεων συστήματος "<li>"του Λογαριασμού σας Google "</li>\n<li/>\n<li>"Ληφθείσες εφαρμογές"</li></string>
+<string name="data_summary">Επιλέξτε "Συνδρομή για Κλήση δεδομένων"</string>
+<string name="savepower_all_title">"Όλα"</string>
+<string name="black_screen_settings_flash_mode_auto">Αυτόματα</string>
+<string name="wifi_setting_frequency_band_title" msgid="3655327399028584656">"Ζώνη συχνοτήτων WLAN"</string>
+<string name="hide_recent_settings">τραβήξτε προς τα κάτω για να εμφανιστούν οι πρόσφατες ρυθμίσεις</string>
+<string name="showing_color_light">Εμφάνιση χρωμάτων λυχνίας LED</string>
+<string name="reset_skip_backup_summary">Ορίστε αυτήν την επιλογή για τα στοιχεία για τα οποία έχουν δημιουργηθεί αντίγραφα ασφαλείας ή για τα οποία δεν χρειάζεται να δημιουργηθούν αντίγραφα ασφαλείας</string>
+<string name="wifi_stopping" msgid="8952524572499500804">"Απενεργοποίηση του WLAN…"</string>
+<string name="wifi_wps_connected" msgid="7153432445748931183">"Σύνδεση στο δίκτυο WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="global_action_outdoors">"Εξωτερικοί χώροι"</string>
+<string name="schpwr_shutdown_message">"Η συσκευή σας θα απενεργοποιηθεί σε <xliff:g id="seconds">%s</xliff:g> δευτερόλεπτα"</string>
+<string name="overturn_lock_ctrl_summary">"Αναστροφή τηλεφώνου για κλείδωμα της οθόνης"</string>
+<string name="schedule_power_on_off_time">Ωρα</string>
+<string name="show_screen_frame_count">Εμφάνιση αριθμού καρέ οθόνης</string>
+<string name="timing_startup_head_text">Ενεργοποίηση</string>
+<string name="wifi_setting_summary">Όταν εισάγετε τη θέση της συνδεδεμένης εφαρμογής και έχετε δεδομένα GRSP， δεσμεύστε τη θέση</string>
+<string name="unsupported_headset_warning" product="default">
+       "Μη υποστηριζόμενο συνημμένο"
+    </string>
+<string name="overturn_lock_ctrl">"Αναστροφή για κλείδωμα της οθόνης"</string>
+<string name="restart_confirm_question">Θέλετε να γίνει επανεκκίνηση;</string>
+<string name="multiwindow_divide_settings">Διαχωρισμός οθόνης - Πολλά παράθυρα</string>
+<string name="backup_data_to_sdcard_title">Δημιουργία αντιγράφου ασφαλείας δεδομένων σε κάρτα SD</string>
+<string name="data_title">Κλήση δεδομένων</string>
+<string name="sim_not_available">Η κάρτα SIM δεν είναι διαθέσιμη</string>
+<string name="preference_status_open">"Ανοιχτό"</string>
+<string-array name="saturation">
+        <item>Απαλό</item>
+        <item>Προεπιλογή</item>
+        <item>Φωτεινό</item>
+    </string-array>
+<string name="multiwindow_smart_settings_summary">Εάν λάβετε ένα μήνυμα ενώ παρακολουθείτε βίντεο σε πλήρη οθόνη με οριζόντιο προσανατολισμό, περιστρέψτε το τηλέφωνο σε κατακόρυφο προσανατολισμό, για να εμφανίσετε αυτόματα πολλά παράθυρα για εκτέλεση πολλών εργασιών.</string>
+<string name="user_you_section">"Εσείς"</string>
+<string name="backup_data_to_sdcard_summary">Δημιουργία αντιγράφου ασφαλείας δεδομένων τηλεφώνου σε κάρτα SD</string>
+<string name="airbuse_phone_info_runMemory">"1,0 GByte"</string>
+<string name="whatis_lenovoid_title"> "Τι είναι τα πάσα συσχέτισης; "</string>
+<string name="wifi_setup_description_connected" msgid="736032046548460779">"Αγγίξτε το στοιχείο "<b>"Επόμενο"</b>" για να συνεχίσετε την εγκατάσταση.\n\nΑγγίξτε το στοιχείο "<b>"Πίσω"</b>"για να συνδεθείτε σε διαφορετικό δίκτυο WLAN."</string>
+<string name="black_screen_face_recognization_title"> "Λειτουργία αναγνώρισης προσώπου" </string>
+<string name="minute">"1 λεπτό"</string>
+<string name="unlock_settings_title">"Ξεκλείδωμα"</string>
+<string name="schedule_power_off_set">Ορισμός προγραμματισμένης απενεργοποίησης</string>
+<string name="location_mode_battery_saving_description" msgid="1728668969743485109">"Χρήση WLAN και δικτύων κινητής τηλεφωνίας για τον καθορισμό της τοποθεσίας"</string>
+<string name="black_screen_handler_title"> "Κινήσεις σε μαύρη οθόνη" </string>
+<string name="wide_touch_float_button_summary">Πρόσβαση στις συντομεύσεις με ένα άγγιγμα</string>
+<string name="black_screen_settings_camera_summary">Σχεδιάστε ένα “c” στην οθόνη</string>
+<string name="share_music_a2dp_headphones_control_title">Έλεγχος κοινής χρήσης μουσικής</string>
+<string name="location_consent_dialog_message">Να επιτρέπεται η συλλογή ανώνυμων δεδομένων τοποθεσίας από την υπηρεσία εντοπισμού τοποθεσίας. Ορισμένα δεδομένα μπορεί να είναι αποθηκευμένα στη συσκευή σας. Η συλλογή μπορεί να πραγματοποιηθεί ακόμη και όταν δεν εκτελούνται εφαρμογές.</string>
+<string name="phone_car_mode_title">"Λειτουργία αυτοκινήτου"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> λεπτά"</string>
+<string name="global_action_silence">"Σίγαση"</string>
+<string name="wifi_display_summary_off" msgid="2445210133184740611">"απενεργοποιημένη"</string>
+<string name="usergudie_button_text">"Εισαγάγετε τις ρυθμίσεις εκκίνησης"</string>
+<string name="color_light_hasclose">Απενεργοποίηση</string>
+<string name="backup_recovery_dialog_message">Διακοπή δημιουργίας αντιγράφων ασφαλείας ή ανάκτησης δεδομένων εφαρμογής;</string>
+<string name="ringtone_and_sound_settings">"Ήχος κλήσης και ήχοι"</string>
+<string name="charge_stream_min">Το τρέχον ρεύμα φόρτισης είναι 1500mA </string>
+<string name="k6kk_phone_info_runMemory">"2,0 GByte"</string>
+<string name="gestural_broswer">Πρόγραμμα περιήγησης με έλεγχο χειρονομιών</string>
+<string name="black_screen_time_service_title"> "Λειτουργία φωνητικής μελωδίας" </string>
+<string name="playertutorial_title">Οδηγός εκμάθησης</string>
+<string name="dtmf_settings_title">"Πληκτρολόγιο κλήσης"</string>
+<string name="status_wifi_mac_address" msgid="2202206684020765378">"Διεύθυνση MAC WLAN"</string>
+<string name="timing_shutdown_head_text">"Απενεργοποίηση"</string>
+<string name="black_screen_settings_vedio_summary">Σχεδιάστε ένα “v” στην οθόνη</string>
+<string name="black_screen_time_show_title"> "Λειτουργία οθόνης" </string>
+<string name="subs_settings">Κατάσταση SIMS</string>
+<string name="weather_live_wallpaper">Ζωντανή ταπετσαρία καιρού</string>
+<string name="data_usage_menu_restrict_systembgdata">"Να επιτρέπονται τα δεδομένα παρασκηνίου συστήματος"</string>
+<string name="gestural_image">Φωτογραφίες με έλεγχο μέσω χειρονομιών</string>
+<string name="location_settings_title" msgid="1369675479310751735">"Τοποθεσία"</string>
+<string name="phone_info_unset">Δεν έχει οριστεί παράμετρος τηλεφ.</string>
+<string name="wifi_menu_p2p" msgid="7619851399250896797">"WLAN Direct"</string>
+<string name="wide_touch_float_button">Ευρεία κίνηση αφής</string>
+<string name="wifi_empty_list_user_restricted" msgid="8280257225419947565">"Δεν έχετε άδεια για αλλαγή του δικτύου WLAN."</string>
+<string name="airbuse_phone_info_cpu">"Qualcomm MSM8612 4*1,2 GHz"</string>
+<string name="schpwr_power_off">"απενεργοποίηση"</string>
+<string name="fuse_backup_data_to_cloud_title">Δημιουργία αντιγράφων ασφαλείας των δεδομένων στο cloud</string>
+<string name="double_click_menu_enabled_description">"Κάντε κλικ παρατεταμένα στο πλήκτρο ΜΕΝΟΥ για ενεργοποίηση της φωνητικής υπηρεσίας"</string>
+<string name="display_effect_of_screen_sharpen_item0">"Προεπιλεγμένο"</string>
+<string name="enable_traces_dialog_title">"Επιλ. ενεργ. ιχνών"</string>
+<string name="display_effect_of_screen_sharpen_item1">"Όξυνση"</string>
+<string name="global_action_general">"Τυπική"</string>
+<string name="backup_data_description">"Δημιουργήστε αντίγραφα ασφαλείας των επαφών σας και άλλων σημαντικών δεδομένων πριν να κάνετε επαναφορά του τηλεφώνου σας"</string>
+<string name="all_setings_title">"Ρυθμίσεις συστήματος"</string>
+<string name="wifi_tether_failed_subtext" msgid="1484941858530919002">"Σφάλμα φορητού σημείου πρόσβασης WLAN"</string>
+<string name="enable_traces_summary_none">"Δεν υπάρχουν ενεργοποιημένα ίχνη την τρέχουσα στιγμή"</string>
+<string name="black_screen_settings_camera">Ξεκλείδωμα στην κάμερα</string>
+<string name="call_ring_pocket_enable_summary">"Μεγιστοποίηση έντασης ήχου κλήσης όταν έχετε τη συσκευή στην τσέπη ή σε θήκη"</string>
+<string name="wifi_display_summary_disabled" msgid="5318394806146587849">"Απενεργοποιημένο"</string>
+<string name="data_usage_enable_mobile_statistics">Στατιστικά δεδομένων</string>
+<string name="touch_free_phone">Δωρεάν κλήση </string>
+<string name="double_click_home_enabled_description">"Κάντε κλικ παρατεταμένα στο πλήκτρο ΜΕΝΟΥ για ενεργοποίηση της φωνητικής υπηρεσίας"</string>
+<string name="black_screen_settings_quick_shots_eight">οκτώ λήψεις</string>
+<string name="black_screen_settings_vedio">Ξεκλείδωμα σε βίντεο</string>
+<string name="backup_data_to_device_summary">Προωθήστε τα δεδομένα σε μια άλλη συσκευή με το SHAREit</string>
+<string name="disable_schpwr">Απενεργοποίηση</string>
+<string name="fuse_backup_data_to_cloud_summary">Δημιουργία αντιγράφου ασφαλείας των δεδομένων του τηλεφώνου στο cloud</string>
+<string name="lll_pbtn_alert">"Κρατήστε πατημένο το κουμπί λειτουργίας <xliff:g id="COUNT_DOWN_TIME">%1$s</xliff:g>s για να απενεργοποιήσετε τη συσκευή..."</string>
+<string name="profile_edit_pocket_help">"Μεγιστοποίηση έντασης ήχου κλήσης όταν έχετε τη συσκευή στην τσέπη ή σε θήκη"</string>
+<string name="monotype_preference_title">Στυλ γραμματοσειράς</string>
+<string name="call_ring_weaken_enable_title">Μείωση έντασης ήχου</string>
+<string name="subscription_01_title">SIM 1</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> ημέρες"</string>
+<string name="wifi_switch_summary">Τα δίκτυα WLAN με τα οποία έχει συνδεθεί το τηλέφωνο θα αναγνωριστούν και θα γίνει αυτόματη σύνδεση στο διαθέσιμο αναγνωρισμένο δίκτυο που βρίσκεται εντός εμβέλειας, αν έχετε πρόσβαση στο Internet μέσω σύνδεσης δεδομένων, για να μειωθεί η κατανάλωση δεδομένων.</string>
+<string name="airplane_open_confirm">"Λειτουργία πτήσης"</string>
+<string name="smart_standby_ctrl">"Έξυπνη αναμονή"</string>
+<string name="display_effect_of_screen_sharpen_title">Ευκρίνεια</string>
+<string name="devices_info_camera">"Κάμερα ：Εμπρός 5 εκατομ., πίσω 13 εκατομ."</string>
+<string name="close_home_landscape_title">Λειτουργία απενεργοποίησης κουμπιού αρχικής οθόνης στην οριζόντια οθόνη</string>
+<string name="schedule_power_on_off_set">Ορισμός προγραμματισμένης ενεργοποίησης/απενεργοποίησης</string>
+<string name="flip_screen_control_title">Αναστρέψτε την οθόνη για έλεγχο</string>
+<string name="display_effect_of_screen_cancel">"Ακύρωση"</string>
+<string name="devices_info_screen">"Οθόνη: 1080*1920 5,5 ίντσες"</string>
+<string name="character_settings_side_key_backlight_screen_help_message">Πατήστε το πλήκτρο έντασης ήχου για να ενεργοποιήσετε τον οπίσθιο φωτισμό.</string>
+<string name="poweron_nosim">Η κάρτα SIΜ δεν βρέθηκε</string>
+<string name="shellt_phone_info_screen">"Ανάλυση: 720P, Μέγεθος: 6,0 ίντσες"</string>
+<string name="location_mode_high_accuracy_description" msgid="6418936349431602808">"Χρήση GPS, WLAN και δικτύων κινητής τηλεφωνίας για τον καθορισμό της τοποθεσίας"</string>
+<string name="track_frame_time_summary">"Μέτρ. χρόνου απόδοσης σε adb shell dumpsys gfxinfo"</string>
+<string name="font_settings_title">"Ρυθμίσεις γραμματοσειράς"</string>
+<string name="voice_wakeup_summary">Δυνατότητα αφύπνισης του συστήματος μέσω φωνής</string>
+<string name="smart_answer_incommingcall_title">Έξυπνη απάντηση</string>
+<string name="wifi_required_info_text" msgid="4080969509965288881">"Για να ολοκληρώσετε τη ρύθμιση, το tablet σας χρειάζεται πρόσβαση σε δίκτυο WLAN. Μετά τη ρύθμιση, μπορείτε να κάνετε εναλλαγή μεταξύ δεδομένων κινητής τηλεφωνίας και δικτύου WLAN."</string>
+<string name="gestural_ebook">Ηλεκτρονικά βιβλία με έλεγχο μέσω χειρονομιών</string>
+<string name="character_settings_black_screen_help_message">Παραδοσιακό ξεκλείδωμα: σύρετε αριστερά ή δεξιά στο κάτω μέρος της οθόνης για να την ξεκλειδώσετε. Για είσοδο στην εφαρμογή: ξεκλειδώστε την οθόνη για να ανοίξει η κάμερα και σχεδιάστε ένα "C" στην οθόνη. Η λειτουργία αυτή θα επηρεάσει την κατανάλωση ενέργειας στην κατάσταση αναμονής.</string>
+<string name="charge_stream_max">Το τρέχον ρεύμα φόρτισης είναι 2000mA </string>
+<string name="power_off">Επιβεβαίωση απενεργοποίησης</string>
+<string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"Για τη βελτίωση της ακρίβειας της τοποθεσίας σας και για άλλους σκοπούς, η εφαρμογή <xliff:g id="APP_NAME">%1$s</xliff:g> επιθυμεί να ενεργοποιήσει τη σάρωση δικτύων, ακόμη και όταν το WLAN είναι απενεργοποιημένο.\n\nΝα επιτρέπεται αυτή η ενέργεια για όλες τις εφαρμογές που επιθυμούν σάρωση;"</string>
+<string name="global_single_hand_summary">Άνετη λειτουργία με ένα χέρι</string>
+<string name="set_data_subscription_progress">Ρύθμιση συνδρομής δεδομένων σε εξέλιξη</string>
+<string name="color_light">Ειδοποίηση μέσω λυχνίας LED</string>
+<string name="knock_light_title">Αφύπνιση οθόνης με διπλό χτύπημα</string>
+<string name="show_frame_count_x_coordinate">Συντεταγμένη X</string>
+<string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"Φορητό σημείο πρόσβασης WLAN <xliff:g id="NETWORK_SSID">%1$s</xliff:g><xliff:g id="NETWORK_SECURITY">%2$s</xliff:g>"</string>
+<string name="service_foreground_processes_ram">"Χρησιμοποιούνται <xliff:g id="MEMORY">%1$s</xliff:g> της εφαρμογής"</string>
+<string name="tilt_scroll_control_title">Κύλιση με κλίση</string>
+<string name="roaming_time_settings_zone">Συνιστώμενη ζώνη ώρας</string>
+<string name="volume_title">"Ένταση"</string>
+<string name="black_screen_settings_summary">Μπορείτε να ξεκλειδώνετε σε μαύρη οθόνη και να εκκινείτε γρήγορα τις εφαρμογές</string>
+<string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"Δεν υπάρχει κωδικός PIN ή κωδικός πρόσβασης κλειδώματος οθόνης"</string>
+<string name="wifi_setup_wizard_skip">"Παράλειψη"</string>
+<string name="hour">1 ώρα</string>
+<string name="black_screen_settings_flash_mode">Φλας</string>
+<string name="lock_intro_message" product="default">Προστατέψτε το τηλέφωνό σας από μη εξουσιοδοτημένη χρήση, δημιουργώντας ένα προσωπικό μοτίβο ξεκλειδώματος οθόνης. Σύρετε το δάχτυλό σας για να συνδέσετε τουλάχιστον τέσσερις κουκκίδες με οποιαδήποτε σειρά στην επόμενη οθόνη.
+        \n\nΕίστε έτοιμοι να ξεκινήσετε; Πατήστε Επόμενο.
+    </string>
+<string name="gestural">Έλεγχος μέσω χειρονομιών</string>
+<string name="preference_status_unknown">Άγνωστο</string>
+<string name="simple_settings">Οδηγός για αρχάριους</string>
+<string name="startup_confirm_auto_shutdown">Το κινητό τηλέφωνο θα απενεργοποιηθεί σε %s δευτερόλεπτο(α).</string>
+<string name="A_gps_summary"> χρησιμοποιήστε τα δεδομένα του βοηθού για να επιταχύνετε το σταθερό χρόνο εντοπισμού θέσης μέσω GPS</string>
+<string name="safety_information_content">Εάν θέλετε να αναβαθμίσετε το σύστημα του τηλεφώνου σας, επικοινωνήστε με το δίκτυο εξυπηρέτησης μετά την πώληση ή χρησιμοποιήστε τη λειτουργία αναβάθμισης συστήματος στο τηλέφωνο Lenovo που διαθέτετε. Διαφορετικά, ενδέχεται να προκληθεί αστοχία της συσκευής ή απώλεια δεδομένων, να καταστραφεί η λειτουργία ασφάλειας συστήματος και να προκύψει κίνδυνος ασφάλειας.</string>
+<string name="color_light_other_summary">Άλλα</string>
+<string name="incoming_call_ringer_title">"Ήχος ειδοποίησης κλήσης"</string>
+<string name="unlock_set_unlock_speechpwd_title">"Χρησιμοποιήστε τον Φωνητικό κωδικό πρόσβασης και το Μοτίβο για προστασία"</string>
+<string name="display_effect_of_screen_contrast_title">Αντίθεση</string>
+<string name="crypt_keeper_dialog_need_password_message" msgid="4071395977297369642">"Πρέπει να ορίσετε έναν κωδικό PIN ή έναν κωδικό κλειδώματος οθόνης προτού αρχίσει η κρυπτογράφηση."</string>
+<string name="accessibility_script_injection_button_disallow">"Να μην επιτρέπεται"</string>
+<string name="character_settings_mercury_keyboard_help_message">Κατά τη χρήση του πληκτρολογίου, θα αλλάξει με βάση τη γωνία του τηλεφώνου ώστε να διευκολύνεται η χρήση με το ένα χέρι. Σύρετε με το δάχτυλο όταν είναι επίπεδο το περιβάλλον εργασίας του πληκτρολογίου για να ενεργοποιήσετε το έξυπνο πληκτρολόγιο οθόνης.</string>
+<string name="startup_confirm_airplane_turn_off">Έξοδος από τη λειτουργία πτήσης;</string>
+<string name="wifi_access_points" msgid="7053990007031968609">"Δίκτυα WLAN"</string>
+<string name="header_category_personalcustom">Εκατομικευση</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"Αγγίξτε το OK για να διακοπεί η υπηρεσία <xliff:g id="SERVICE">%1$s</xliff:g>."</string>
+<string name="unlock_set_unlock_speechnormal_title">"Γρήγορο ξεκλείδωμα μέσω φωνής"</string>
+<string name="headset_play_mms_enabled_title">"Αναπαραγωγή mms στα ακουστικά"</string>
+<string name="black_screen_notification_title"> "Λειτουργία ειδοποίησης δόνησης για μη αναγνωσμένο μήνυμα" </string>
+<string name="set_dds_error">Σφάλμα στον ορισμό συνδρομής δεδομένων.</string>
+<string name="shutdown_time">Απενεργοποίηση στις</string>
+<string-array name="alarm_set">
+        <item>Αυτή η ενεργοποίηση έχει ρυθμιστεί για λιγότερο από 1 λεπτό από τώρα.</item>
+        <item>Αυτή η ενεργοποίηση έχει ρυθμιστεί για <xliff:g id="DAYS">%1$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η ενεργοποίηση έχει ρυθμιστεί για <xliff:g id="HOURS">%2$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η ενεργοποίηση έχει ρυθμιστεί για <xliff:g id="DAYS">%1$s</xliff:g> και <xliff:g id="HOURS">%2$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η ενεργοποίηση έχει ρυθμιστεί για <xliff:g id="MINUTES">%3$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η ενεργοποίηση έχει ρυθμιστεί για <xliff:g id="DAYS">%1$s</xliff:g> και <xliff:g id="MINUTES">%3$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η ενεργοποίηση έχει ρυθμιστεί για <xliff:g id="HOURS">%2$s</xliff:g> και <xliff:g id="MINUTES">%3$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η ενεργοποίηση έχει ρυθμιστεί για <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> και <xliff:g id="MINUTES">%3$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η απενεργοποίηση έχει ρυθμιστεί για λιγότερο από 1 λεπτό από τώρα.</item>
+        <item>Αυτή η απενεργοποίηση έχει ρυθμιστεί για <xliff:g id="DAYS">%1$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η απενεργοποίηση έχει ρυθμιστεί για <xliff:g id="HOURS">%2$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η απενεργοποίηση έχει ρυθμιστεί για <xliff:g id="DAYS">%1$s</xliff:g> και <xliff:g id="HOURS">%2$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η απενεργοποίηση έχει ρυθμιστεί για <xliff:g id="MINUTES">%3$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η απενεργοποίηση έχει ρυθμιστεί για <xliff:g id="DAYS">%1$s</xliff:g> και <xliff:g id="MINUTES">%3$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η απενεργοποίηση έχει ρυθμιστεί για <xliff:g id="HOURS">%2$s</xliff:g> και <xliff:g id="MINUTES">%3$s</xliff:g> από τώρα.</item>
+        <item>Αυτή η απενεργοποίηση έχει ρυθμιστεί για <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> και <xliff:g id="MINUTES">%3$s</xliff:g> από τώρα.</item>
+    </string-array>
+<string name="camera_info">Κάμερα</string>
+<string name="startup_auto_shutdown_title">Αυτόματος τερματισμός λειτουργίας</string>
+<string name="nfc_not_inservice">Το NfcAdapter δεν έχει τεθεί σε λειτουργία!</string>
+<string name="black_screen_settings_quick_shots_nums">Γρήγορες λήψεις</string>
+<string name="i_know_it">OΚ</string>
+<string name="fuse_recovery_data_from_cloud_summary">Επιλέξτε δημιουργία αντιγράφου ασφαλείας δεδομένων από το cloud</string>
+<string name="accessibility_script_injection_button_allow">"Να επιτρέπεται"</string>
+<string name="quicksettings_summary">Καλώς ορίσατε στη χρήση του τηλεφώνου Lenovo. Ξεκινήστε με τη γρήγορη ρύθμιση! Μπορείτε να\n κάνετε μεμονωμένες ρυθμίσεις στη "Ρύθμιση συστήματος".</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl">"Φωτισμός πλήκτρου έντ. ήχου"</string>
+<string name="backup_data">"Δημιουργία αντιγράφων ασφαλείας δεδομένων"</string>
+<string name="fuse_recovery_data_from_cloud_title">Επαναφορά δεδομένων από το cloud</string>
+<string name="shellt_phone_info_cpu">"Qualcomm MSM8926 4*1,2 GHz"</string>
+<string name="still_sleep_title">Ακόμη σε αναστολή λειτουργίας</string>
+<string name="usb_ptp_summary" msgid="7673397474756664929">"Σας επιτρέπει να μεταφέρετε  φωτογραφίες χρησιμοποιώντας το λογισμικό της φωτογραφικής μηχανής και να μεταφέρετε οποιαδήποτε αρχεία σε υπολογιστές που δεν υποστηρίζουν MTP"</string>
+<string name="color_light_other">Άλλο</string>
+<string name="black_screen_settings_broswer">Ξεκλείδωμα στο πρόγραμμα περιήγησης</string>
+<string name="schedule_power_on_off_repeat">Επανάληψη</string>
+<string name="display_effect_of_screen_saturation_item1">"Προεπιλεγμένο"</string>
+<string name="show_frame_count_cancel_button_text">"Ακύρωση"</string>
+<string name="display_effect_of_screen_saturation_item0">Απαλό</string>
+<string name="display_effect_of_screen_saturation_item2">Φωτεινό</string>
+<string name="wifi_connect_failed_message" product="default" msgid="2185803140161396572">"Δεν ήταν δυνατή η σύνδεση του τηλεφώνου σε αυτό το δίκτυο WLAN."</string>
+<string name="processor_info">Επεξεργαστής</string>
+<string name="data_usage_metered_wifi" msgid="8540872226614404873">"Δίκτυα WLAN"</string>
+<string name="shutdown_alarm_confirm">"Το ξυπνητήρι θα ενεργοποιηθεί σε <xliff:g id="ALARM_TIME">%1$s</xliff:g>."</string>
+<string name="wave_wakeup_title">Αφύπνιση με κούνημα</string>
+<string name="voice_summary">Επιλέξτε "Συνδρομή για φωνητική κλήση"</string>
+<string name="wifi_tether_configure_ap_text" msgid="7974681394041609308">"Ρύθμιση φορητού σημείου πρόσβασης WLAN"</string>
+<string name="black_screen_settings_normal_summary">Για ξεκλείδωμα, μπορείτε να σύρετε προς τα αριστερά ή δεξιά στο κάτω μέρος της οθόνης</string>
+<string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Όλα τα δεδομένα χρήστη</xliff:g> (συμπεριλαμβανομένων της μουσική, των εικόνων και άλλων δεδομένων χρήστη) στον <xliff:g> Εσωτερικό χώρο αποθήκευσης</xliff:g> θα διαγραφούν. Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων σας πριν από την επαναφορά του τηλεφώνου."</string>
+<string name="wifi_p2p_settings_title" msgid="5444461191435291082">"WLAN Direct"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen">Πατήστε για να φωτιστεί η οθόνη</string>
+<string name="flip_screen_control_summary">Αναστρέψτε το τηλέφωνο για να ενεργοποιήσετε ή να απενεργοποιήσετε την οθόνη</string>
+<string name="wifi_setup_title_connecting_network" msgid="5572226790101017822">"Σύνδεση σε δίκτυο WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>…"</string>
+<string name="screen_info">Οθόνη</string>
+<string name="startup_time">Ενεργοποίηση στις</string>
+<string name="keyboard_lights_title">Φως πλήκτρου αφής</string>
+<string name="wifi_poor_network_detection_summary" msgid="7843672905900544785">"Να μην γίνεται χρήση δικτύων WLAN, εκτός αν υπάρχει καλή σύνδεση στο Διαδίκτυο"</string>
+<string name="muti_window_summary">Εμφανίζεται ένα άλλο παράθυρο για επιλεγμένες εφαρμογές</string>
+<string name="credentials_configure_lock_screen_hint" msgid="6757119179588664966">"Πρέπει να ορίσετε έναν κωδικό PIN ή έναν κωδικό κλειδώματος οθόνης πριν χρησιμοποιήσετε τον χώρο αποθήκευσης διαπιστευτηρίων."</string>
+<string name="shellt_phone_info_runMemory">"1,0 GByte"</string>
+<string name="roaming_time_settings_time_display">Πρόγραμμα εμφάνισης ώρας</string>
+<string name="header_category_other">"Άλλο"</string>
+<string name="data_usage_metered_wifi_disabled" msgid="5502020778468643732">"Για επιλογή σημείων πρόσβασης για κινητά ενεργοποιήστε το WLAN."</string>
+<string name="recovery_data_section_title">Ανάκτηση δεδομένων</string>
+<string name="gestural_ebook_summary">Σύρετε προς τα αριστερά/δεξιά για έλεγχο της αλλαγής σελίδων ηλεκτρονικών βιβλίων</string>
+<string name="auto_shutdown_interrupted">Ο χρονομετρημένος τερματισμός λειτουργίας διακόπηκε</string>
+<string name="start_camera_gesture_summary">Ξεκινήστε γρήγορα την κάμερα με μια κίνηση</string>
+<string name="wifi_connect_failed_message" product="tablet" msgid="4474691090681670156">"Δεν ήταν δυνατή η σύνδεση του tablet σε αυτό το δίκτυο WLAN."</string>
+<string name="phone_car_mode_summary">"Ρυθμίσεις λειτουργίας αυτοκινήτου"</string>
+<string name="data_connect_settings_title">Σύνδεση δεδομένων</string>
+<string name="still_sleep_summary">Όταν το τηλέφωνο είναι ακίνητο, εισέρχεται σε αναστολή λειτουργίας</string>
+<string name="theme_settings_title">"Θέμα"</string>
+<string name="smart_rotete_cbox_title">Περιστροφή οθόνης</string>
+<string name="recovery_data_from_device_summary">Τραβήξτε τα δεδομένα από μια άλλη συσκευή με το SHAREit</string>
+<string name="voice_call_way_title">"Τρόπος φωνητικής κλήσης"</string>
+<string name="gestural_music">Μουσική με έλεγχο μέσω χειρονομιών</string>
+<string name="color_light_unread_mms">Μη αναγνωσμένα μηνύματα</string>
+<string name="stop_color_light">διακοπή</string>
+<string name="save_power_wait_title">"Περιμένετε"</string>
+<string name="black_screen_settings">Ξεκλείδωμα μαύρης οθόνης</string>
+<string name="savepower_black_title">"Λίστα ανεπιθύμητων"</string>
+<string name="set_dds_success">Η ρύθμιση της συνδρομής δεδομένων ήταν επιτυχής</string>
+<string name="multiwindow_summary">"υποστήριξη πολλαπλών παραθύρων"</string>
+<string name="lock_intro_message" product="tablet">Προστατέψτε το tablet σας από μη εξουσιοδοτημένη χρήση, δημιουργώντας ένα προσωπικό μοτίβο ξεκλειδώματος οθόνης. Σύρετε το δάχτυλό σας για να συνδέσετε τις κουκκίδες με οποιαδήποτε σειρά στην επόμενη οθόνη.  Πρέπει να συνδέσετε τουλάχιστον τέσσερις κουκκίδες.
+        \n\nΕίστε έτοιμοι να ξεκινήσετε; Πατήστε Επόμενο.
+    </string>
+<string name="show_dialog">Να μην γίνει ερώτηση ξανά</string>
+<string name="close_home_landscape_summary">Γυρίστε το τηλέφωνο οριζόντια, για να απενεργοποιήσετε το κουμπί αρχικής σελίδας</string>
+<string name="airbuse_phone_info_screen">"Ανάλυση: qHD960*540, Μέγεθος: 6,0 ίντσες"</string>
+<string name="shutdown_time_enabled">Προγραμματισμένη απενεργοποίηση</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"Η υπηρεσία <xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> μπορεί να συλλέξει όλο το κείμενο που πληκτρολογείτε, εκτός από τους κωδικούς πρόσβασης. Αυτό περιλαμβάνει προσωπικά δεδομένα όπως αριθμούς πιστωτικών καρτών. Μπορεί επίσης να συλλέξει δεδομένα σχετικά με τις αλληλεπιδράσεις σας με το τηλέφωνο."</string>
+<string name="black_screen_settings_select_app">Επιλέξτε την εφαρμογή που θέλετε να ρυθμίσετε</string>
+<string name="incoming_mms_ringer_title">Ήχος ειδοποίησης μηνύματος</string>
+<string name="no_sim_info">Οι πληροφορίες της κάρτας SIM δεν είναι διαθέσιμες.\nΔεν είναι δυνατή η μετάβαση στο μενού</string>
+<string name="wifi_settings" msgid="29722149822540994">"WLAN"</string>
+<string-array name="hue">
+        <item>Άνετος</item>
+        <item>Προεπιλογή</item>
+        <item>Θερμό</item>
+    </string-array>
+<string name="wifi_suspend_optimizations" msgid="1220174276403689487">"Βελτιστοποίηση WLAN"</string>
+<string name="wifi_on_time" msgid="3208518458663637035">"WLAN στην ώρα του"</string>
+<string name="recovery_data_summary">Πατήστε για να μεταβείτε στη δημιουργία αντιγράφων ασφαλείας των δεδομένων κάρτας SD</string>
+<string-array name="sharpen">
+        <item>Προεπιλογή</item>
+        <item>Όξυνση</item>
+    </string-array>
+<string name="wifi_menu_wps_pin" msgid="6426448256268695933">"Εισαγ. κωδ. PIN WPS"</string>
+<string name="poweron_emergencycallonly">"Μόνο κλήσεις έκτακτης ανάγκης"</string>
+<string name="data_usage_disable_mobile_statistics_dialog">Απενεργοποιώντας αυτήν τη λειτουργία, θα απενεργοποιηθεί η συλλογή δεδομένων για τα στατιστικά χρήσης.</string>
+<string name="wifi_switch_settings_title">Σύνδεση εντοπισμού WLAN</string>
+<string name="schedule_power_on_off_settings_title">Προγραμματισμένη ενεργοποίηση/απενεργοποίηση</string>
+<string name="gestural_broswer_summary">Σύρετε προς τα επάνω/κάτω για κύλιση στις σελίδες του προγράμματος περιήγησης</string>
+<string name="wifi_scan_notify_text_location_on" msgid="8135076005488914200">"Για τη βελτίωση της ακρίβειας και για άλλους σκοπούς, το Google και άλλες εφαρμογές ενδέχεται να πραγματοποιούν σάρωση για κοντινά δίκτυα WLAN, ακόμη και αν το WLAN είναι απενεργοποιημένο. Αν δεν επιθυμείτε να συμβαίνει αυτό, μεταβείτε στη ρύθμιση Σύνθετες &gt; Πάντα διαθέσιμη σάρωση."</string>
+<string name="gestural_vedio_summary">Σύρετε προς τα αριστερά/δεξιά για έλεγχο της αναπαραγωγής βίντεο | Σύρετε προς τα επάνω/κάτω για ρύθμιση της έντασης ήχου</string>
+<string name="lenovo_recent_settings">Πρόσφατες ρυθμίσεις</string>
+<string name="no_ftp_app">Καμία εφαρμογή δεν υποστηρίζει το FTP</string>
+<string name="accessibility_toggle_script_injection_preference_title">"Βελτίωση προσβασιμότητας στον ιστό"</string>
+<string name="phone_info">Πληροφορίες τηλεφώνου</string>
+<string name="sel_sub_title">Διαμόρφωση συνδρομών </string>
+<string name="accessibility_script_injection_disallowed">Δεν επιτρέπεται</string>
+<string name="start_camera_gesture_title">Κάμερα με κινήσεις</string>
+<string name="rotate_type_choose_cancel">"Ακύρωση"</string>
+<string name="lockscreen_knock_on_ctrl_summary">Κάντε διπλό κλικ στη φωτεινή οθόνη του τηλεφώνου</string>
+<string name="airplane_open_confirm_message">Είστε βέβαιοι ότι θέλετε να ενεργοποιήσετε τη λειτουργία πτήσης;</string>
+<string name="data_usage_restrict_background_multiuser" product="default" msgid="2642864376010074543">"Αν περιορίσετε τη χρήση των δεδομένων κινητής τηλεφωνίας στο παρασκήνιο, ορισμένες εφαρμογές και υπηρεσίες δεν θα λειτουργούν, εκτός εάν είστε συνδεδεμένοι σε δίκτυο WLAN.\n\nΑυτή η ρύθμιση επηρεάζει όλους τους χρήστες που χρησιμοποιούν το συγκεκριμένο τηλέφωνο."</string>
+<string name="savepower_white_title">"Λίστα επιτρεπόμενων"</string>
+<string name="lenovoID_registered_title">"Συμφωνώ με τη χρήση του αριθμού του κινητού τηλεφώνου ως λογαριασμού με αναγνωριστικό της Lenovo (πρόσβαση της Lenovo)"</string>
+<string name="mannual">Μεταβείτε στον εκπαιδευτικό οδηγό για αρχάριους</string>
+<string name="header_category_personalcustom_k7">"Εκατομικευση"</string>
+<string name="china_telcom_push_title">Yi Push της China Telecom</string>
+<string name="location_network_based" msgid="9134175479520582215">"Τοποθεσία WLAN και δικτύων κιν. τηλεφ."</string>
+<string name="header_category_singlehand_settings">"Ρυθμίσεις λειτουργίας με ένα χέρι"</string>
+<string name="devices_info_buildNumber">"Αριθμός έκδοσης: <xliff:g>%1$s</xliff:g>"</string>
+<string name="location_improve_allow">Οι υπηρεσίες εντοπισμού θέσης έχουν βελτιωθεί μέσω του WLAN ή/και των δικτύων κινητής τηλεφωνίας</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"Διακοπή <xliff:g id="SERVICE">%1$s</xliff:g>;"</string>
+<string name="schedule_power_on_set">Ορισμός προγραμματισμένης ενεργοποίησης</string>
+<string name="lockscreen_shake_unlock_ctrl">Κλείδωμα με ανακίνηση</string>
+<string name="call_ring_weaken_enable_summary">Μειώνει αυτόματα την ένταση του ήχου κλήσης όταν σηκώσετε το τηλέφωνο | Βοήθεια</string>
+<string name="wifi_popup_0">Να ενημερώνομαι για το αν θα γίνει σύνδεση μέσω WLAN ή μέσω δεδομένων 3G.</string>
+<string name="wifi_popup_2">Απενεργοποίηση σύνδεσης WLAN της δυνατότητας εντοπισμού.</string>
+<string name="wifi_popup_1">Να γίνεται αυτόματη σύνδεση στο διαθέσιμο WLAN, αν το τηλέφωνο είναι συνδεδεμένο με δεδομένα 3G.</string>
+<string name="double_click_muti_window_title">Πολλαπλά παράθυρα</string>
+<string name="roaming_settings_title">Ρυθμίσεις περιαγωγής</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"Θέλετε να οι εφαρμογές να εγκαταστήσουν σενάρια από την Google που διευκολύνουν την πρόσβαση στο περιεχόμενο ιστού που έχουν;"</string>
+<string name="enter_bright_mode_warning" product="default"> "Άνοιγμα ήχου, καθαρότερες κλήσεις" </string>
+<string name="character_setings_title">"Ρυθμίσεις δυνατότητας"</string>
+<string name="backup_recovery_data_summary">Δημιουργία αντιγράφου ασφαλείας ή ανάκτηση δεδομένων εφαρμογών στο τηλέφωνο</string>
+<string name="wifi_settings_title" msgid="3103415012485692233">"WLAN"</string>
+<string name="security_settings_title">"Ασφάλεια και κλείδωμα οθόνης"</string>
+<string name="black_screen_settings_flash_mode_on">Άνοιγμα</string>
+<string name="black_screen_settings_quick_shots_one">μία λήψη</string>
+<string name="leave_bright_mode_warning" product="default"> "Η λειτουργία έχει απενεργοποιηθεί" </string>
+<string name="black_screen_settings_music_summary">Σχεδιάστε ένα “Μ” στην οθόνη</string>
+<string name="quicksettings_title">Γρήγορη ρύθμιση</string>
+<string name="summary_keyboard_lights">SmartControl</string>
+<string name="backup_recovery_data_title">Δημιουργία αντιγράφου ασφαλείας ή ανάκτηση δεδομένων εφαρμογών</string>
+<string name="poweron_nouim">Η κάρτα UIM δεν βρέθηκε</string>
+<string name="wifi_suspend_optimizations_summary" msgid="4151428966089116856">"Ελαχιστοποίηση χρήσης μπαταρίας όταν το WLAN είναι ενεργό"</string>
+<string name="gestural_vedio">Βίντεο με έλεγχο μέσω χειρονομιών </string>
+<string name="gadget_toggle_wifi" msgid="319262861956544493">"Ενημέρωση ρύθμισης WLAN"</string>
+<string name="backup_data_recovery_section_title">Δημιουργία αντιγράφου ασφαλείας και ανάκτηση δεδομένων</string>
+<string name="share_music_a2dp_headphones_control_summary">Κοινή χρήση μουσικής με εναλλαγή συσκευής A2dp</string>
+<string name="memory_os_size">Μέγεθος χρησιμοποιημένης μνήμης λειτουργικού συστήματος</string>
+<string name="revert">"Επαναφορά"</string>
+<string name="usage_type_data_wifi_recv" msgid="7822328607564241372">"Λήψη δεδομένων WLAN"</string>
+<string name="double_click_dock_enabled_title">"Εικονίδιο περιοχής διπλής ΑΓΚΥΡΩΣΗΣ για ενεργή φωνή"</string>
+<string name="color_light_battery">Μπαταρ.</string>
+<string name="internal_version">Εσωτερικός αριθμός έκδοσης</string>
+<string name="preference_status_close">Κλειστό</string>
+<string name="apn_call_number">Αριθμός τηλεφώνου PPP</string>
+<string name="sound_settings_title">"Ήχος"</string>
+<string name="set_priority_sub_error">Σφάλμα στον ορισμό συνδρομής προτεραιότητας. Η συνδρομή δεν είναι ενεργή.</string>
+<string name="common_setings_title">"Κοινές ρυθμίσεις"</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="sms_summary">Επιλέξτε τη συνδρομή για την αποστολή SMS</string>
+<string name="devices_info_firmwareVersion">"Έκδοση Android: <xliff:g>%1$s</xliff:g>"</string>
+<string name="wifi_settings_category" msgid="8719175790520448014">"Ρυθμίσεις WLAN"</string>
+<string name="show_hw_overdraw_summary">"Από το καλύτερο στο χειρότερο: μπλε, πράσινο, απαλό κόκκινο, κόκκινο"</string>
+<string name="show_recent_settings">τραβήξτε για απόκρυψη ρυθμίσεων</string>
+<string name="global_action_restart">"Επανεκκίνηση"</string>
+<string name="color_light_call">Κλήση</string>
+    <string name="eap_sim_aka_airplanemode">Απενεργοποιήστε τη λειτουργία πτήσης για να χρησιμοποιήσετε το EAP-SIM/AKA.</string>
+    <string name="wifi_ap_bandwidth_chart_title">Ταχύτητα δεδομένων σε πραγματικό χρόνο</string>
+    <string name="single_hand_title">Μικρο-οθόνη ενός χεριού</string>
+    <string name="pch_warning_message">Ο ρυθμός μετάδοσης δεδομένων θα μειωθεί.</string>
+    <string name="dlg_error_unmount_usb_text" product="default">"Δεν ήταν δυνατή η αφαίρεση της κάρτας SD. Προσπαθήστε ξανά αργότερα."</string>
+    <string name="move_success">Μετακινήθηκε! Τμήμα της εφαρμογής δεν ήταν δυνατό να μετακινηθεί λόγω σφάλματος στην κάρτα μνήμης</string>
+    <string name="AGPS_NOTIFY_ONLY">Ειδοποίηση αιτήματος θέσης</string>
+    <string name="agps_str_deny">ΑΠΟΡΡΙΨΗ</string>
+    <string name="privacy_backup_userdata_category_title">Δημιουργία αντιγράφων ασφαλείας δεδομένων</string>
+    <string name="usb_ums_without_external_sd_summary">"Δεν εντοπίστηκε καμία εξωτερική κάρτα μνήμης. Η ενσωματωμένη κάρτα δεν υποστηρίζει τη λειτουργία δίσκου U και δεν μπορεί να χρησιμοποιηθεί."</string>
+    <string name="wifi_backup_category_title">Δημιουργία αντιγράφου ασφαλείας WLAN</string>
+    <string name="display_effect_of_screen_reset">"Επαναφορά"</string>
+    <string name="double_click_tip">Κάντε διπλό κλικ εδώ</string>
+    <string name="ipo_title">Γρήγορη εκκίνηση</string>
+    <string name="authdlg_message">Ο χρήστης \'%1$s\' ζητά άδεια για σύνδεση με το %2$s.</string>
+    <string name="lockdown_vpn_already_connected">Η δυνατότητα Πάντα σε VPN έχει ήδη ενεργοποιηθεί για σύνδεση.</string>
+    <string name="usb_connect_as_cdrom_category">"Σύνδεση ως CD-ROM"</string>
+    <string name="wifi_ap_max_connection_title">Μέγιστος αριθμός συνδέσεων</string>
+    <string name="launch_main">Εκκίνηση της εφαρμογής μέσω της κύριας δραστηριότητας</string>
+    <string name="usbsetting_help_content">1. Συσκευή μαζικής αποθήκευσης USB: Σας επιτρέπει να μεταφέρετε αρχεία μεταξύ του υπολογιστή σας και της συσκευής αποθήκευσης USB και SD του Android σας. \n\n
+2. MTP: Σας επιτρέπει να διαχειρίζεστε τα αρχεία σας από το τηλέφωνό σας και τον υπολογιστή σας ταυτόχρονα.
+Σημείωση: Συνιστάται η χρήση WIN7 ή μεταγενέστερης έκδοσης. Αν χρησιμοποιείτε XP, εγκαταστήστε πρώτα τα προγράμματα οδήγησης. \n\n
+3. PTP: Σας επιτρέπει να μεταφέρετε τις φωτογραφίες σας στον υπολογιστή σας χωρίς υποστήριξη MTP.
+Σημείωση: Συνιστάται η χρήση WIN7 ή μεταγενέστερης έκδοσης. Αν χρησιμοποιείτε XP, εγκαταστήστε πρώτα τα προγράμματα οδήγησης. \n\n
+4. Εντοπισμός σφαλμάτων USB: Σας επιτρέπει να αντιγράφετε δεδομένα μεταξύ του υπολογιστή και της συσκευής σας, να εγκαθιστάτε εφαρμογές στη συσκευή σας χωρίς ειδοποίηση και να διαβάζετε τα δεδομένα του αρχείου καταγραφής. Αυτό προορίζεται μόνο για σκοπούς ανάπτυξης. \n\n
+5. USB tethering: Σας δίνει τη δυνατότητα να κάνετε κοινή χρήση της σύνδεσης 3G Internet με τον υπολογιστή σας. Ενδέχεται να ισχύουν χρεώσεις δεδομένων.</string>
+    <string name="title_lcd_invert">Αναστροφή χρωμάτων οθόνης LCD</string>
+    <string name="test_area">ΠΕΡΙΟΧΗ ΔΟΚΙΜΗΣ:</string>
+    <string name="wfd_change_resolution_menu_title">Αλλαγή ανάλυσης</string>
+    <string name="smart_scene_summary">"Για έξυπνη εναλλαγή απαιτείται η λειτουργία σκηνής"</string>
+    <string name="lenovo_system_update">"Ενημέρωση συστήματος"</string>
+    <string name="wifi_ap_reset_OOB_title">Επαναφορά SSID δικτύου, ασφάλειας και κωδικού πρόσβασης σε προεπιλογή ( προεπιλεγμένη διαμόρφωση [out-of-box] για WPS )</string>
+    <string name="mouse_primary_button_title">Εναλλαγή πρωτεύοντος και δευτερεύοντος</string>
+    <string name="wide_touch_summary">Πρόσβαση στις συντομεύσεις με ένα άγγιγμα</string>
+    <string name="try_swing_lock_result_longer">δοκιμάστε ξανά και κουνήστε σε μεγαλύτερη ακτίνα</string>
+    <string name="bluetooth_ask_enablement_ext">Η εφαρμογή <xliff:g>%1$s</xliff:g> θέλει να ενεργοποιήσει το Bluetooth.</string>
+    <string name="wifi_ap_reset_OOB">Επαναφορά OOB</string>
+    <string name="side_key_backlight_title">"Φωτισμός πλήκτρου έντ. ήχου"</string>
+    <string name="privacy_restore_userdata_summary">Επαναφορά δεδομένων από το χώρο αποθήκευσης</string>
+    <string name="swing_lock">Κλείδωμα με ανακίνηση</string>
+    <string name="default_name">"Προεπιλεγμένο"</string>
+    <string name="gesture_rotete_cbox_summary">Χειρονομία</string>
+    <string name="usb_sharing_title">Internet USB</string>
+    <string name="wifi_restore_category_title">Επαναφορά WLAN</string>
+    <string name="landscape_launcher_none">Κανένα</string>
+    <string name="drm_reset_toast_msg">Οι άδειες έχουν διαγραφεί με επιτυχία.</string>
+    <string name="ringtone_settings">Ήχοι κλήσης και έντ. ήχου</string>
+    <string name="network_synchronization_enable_confirm">Για το συγχρονισμό δικτύου είναι απαραίτητη ασύρματη σύνδεση δεδομένων για τη λήψη των δεδομένων βοηθού. Μπορεί να προκύψουν επιπλέον χρεώσεις. Είστε βέβαιοι ότι θέλετε να ενεργοποιήσετε το συγχρονισμό δικτύου;</string>
+    <string name="usb_charge_title">Μόνο φόρτιση</string>
+    <string name="runningapp_stop_dlg_title">Να διακοπεί η υπηρεσία;</string>
+    <string name="sim_remain">(Απομένει: <xliff:g id="remains">%d</xliff:g>)</string>
+    <string name="lockscreen_style_default_desc">"Γρήγορη πρόσβαση σε εφαρμογές σε οθόνη κλειδώματος"</string>
+    <string name="pin_scroll_summary">Ενώ κάνετε κύλιση μιας λίστας στην κορυφή, σταματήστε για μια στιγμή και αποσύρετε το δάκτυλό σας. Η λίστα θα καρφιτσωθεί για καλύτερη λειτουργία.</string>
+    <string name="AGPS_DEFAULT_STRING">Προεπιλεγμένη συμβολοσειρά A-GPS</string>
+    <string name="vpn_lockdown_savelogin_error">Πάντα ενεργοποιημένο. Το VPN απαιτεί την αποθήκευση πληροφοριών σύνδεσης.</string>
+    <string name="smart_call_answer_title">Έξυπνη απάντηση</string>
+    <string name="sim_slot">Υποδοχή κάρτας SIM</string>
+    <string name="stop_select_app">"Να διακοπεί η επιλεγμένη;"</string>
+    <string name="wifi_ap_client_block_title">"Αποκλεισμός"</string>
+    <string name="usb_sharing_summary">Κοινή χρήση internet υπολογιστή Windows μέσω καλωδίου USB</string>
+    <string name="current_suffix">"(Τρέχον)"</string>
+    <string name="wifi_backup">Δημιουργία αντιγράφου ασφαλείας της ρύθμισης παραμέτρων WLAN</string>
+    <string name="agps_profile_select_Title">Προφίλ SUPL</string>
+    <string name="single_hand_summary">Χρησιμοποιήστε το τηλέφωνο μόνο με το ένα χέρι</string>
+    <string name="smart_scene_title">Έξυπνη οθόνη</string>
+    <string name="cpu_dtm_summary">Περιορίστε τη μέγιστη απόδοση της CPU για να διατηρήσετε τη διάρκεια ζωής της μπαταρίας και να μειώσετε τη θερμοκρασία της συσκευής.</string>
+    <string name="dlg_confirm_unmount_usb_title" product="default">"Αφαίρεση κάρτας SD;"</string>
+    <string name="battery_percent">Ποσοστό μπαταρίας</string>
+    <string name="server_lenovo_exp_dialogmsg">Αν ακυρώσετε την εγκατάσταση του προγράμματος εμπειρίας Lenovo, ορισμένα μέρη της εφαρμογής δεν θα λειτουργούν σωστά, ενώ μπορεί να επηρεαστεί αρνητικά η χρήση του προϊόντος, καθώς και να ακυρωθεί η εγγύησή του. Θέλετε σίγουρα να ακυρώσετε την υπηρεσία; </string>
+    <string name="apn_port_warning">Η τιμή θύρας θα πρέπει να είναι 1-65535!</string>
+    <string name="agps_str_allow">ΑΠΟΔΟΧΗ</string>
+    <string name="tethered_ipv4v6">(Διαθέσιμο IPv6)</string>
+    <string name="autopop_warning_title">Να μην εμφανιστεί την επόμενη φορά;</string>
+    <string name="prevent_misoperation_title">Λειτουργία αποτροπής κλήσης όταν βρίσκεται στην τσέπη</string>
+    <string name="default_soft_setting">Προεπιλεγμένες ρυθμίσεις λογισμικού</string>
+    <string name="lockscreen_style_set">Ορισμός οθόνης κλειδώματος</string>
+    <string name="wifi_backup_ok">Το αντίγραφο ασφαλείας δημιουργήθηκε με επιτυχία!</string>
+    <string name="wifi_backup_failed">Η δημιουργία αντιγράφου ασφαλείας απέτυχε.</string>
+    <string name="dlg_default_write_disk0_change_msg">"Αν επιλέξετε τη συσκευή αποθήκευσης SD, οι εφαρμογές που έχουν εγκατασταθεί στον εσωτερικό χώρο αποθήκευσης δεν είναι δυνατό να χρησιμοποιηθούν και η συσκευή θα πραγματοποιήσει επανεκκίνηση. Είστε βέβαιοι ότι θέλετε να αλλάξετε στη συσκευή αποθήκευσης SD;"</string>
+    <string name="MobileNetwork_SIM2_Active">Η κάρτα SIM2 είναι ενεργή</string>
+    <string name="eap_sim_slot_0">Υποδοχή κάρτας SIM 0</string>
+    <string name="smart_standby_ctrl_description">Η οθόνη θα ενεργοποιηθεί όταν την κοιτάξετε</string>
+    <string name="eap_sim_slot_1">Υποδοχή κάρτας SIM 1</string>
+    <string name="auto_rotete_cbox_summary">Αυτόματο</string>
+    <string name="wifi_restore_ok">Η επαναφορά ήταν επιτυχής!</string>
+    <string name="auto_time_off">"απενεργοποιημένο"</string>
+    <string name="passpoint_certificate">Πιστοποιητικό</string>
+    <string name="audio_profile_error">Σφάλμα</string>
+    <string name="dlg_mount_external_sd_summary" product="default">Εάν συνδέσετε την κάρτα SD, ορισμένες εφαρμογές που χρησιμοποιείτε θα διακοπούν.</string>
+    <string name="wifi_channel">Προτιμώμενο κανάλι</string>
+    <string name="agps_str_verify">Επαλήθευση</string>
+    <string name="bluetooth_stop_search_for_devices">ΔΙΑΚΟΠΗ ΑΝΑΖΗΤΗΣΗΣ</string>
+    <string name="phone_model_number">"Μοντέλο τηλεφώνου"</string>
+    <string name="akp_installer_settings_title">Πρόγραμμα εγκατάστασης APK</string>
+    <string name="authdlg_service_pbap">αυτό το τηλέφωνο για λήψη επαφών</string>
+    <string name="wifi_security_wapi_certificate">Πιστοποιητικό WAPI</string>
+    <string name="gps_time_sync_attention_gps_off">Για να χρησιμοποιήσετε την ώρα που παρέχεται από το GPS, πρέπει πρώτα να ενεργοποιήσετε το GPS. Η λήψη εντοπισμού GPS διαρκεί το πολύ 1 λεπτό. Άλλωστε, το GPS ενδέχεται να αποτύχει στην παροχή ώρας λόγω ασθενούς περιβαλλοντικού σήματος. \n\nΕίστε βέβαια ότι θέλετε να ενεργοποιήσετε το GPS τώρα και να περιμένετε για την ώρα που παρέχεται από το GPS;</string>
+    <string name="launch_activitie">Εκκίνηση</string>
+    <string name="sd_eject_usbstorage_summary" product="default">"Αποπροσ. εσωτ. χώρο αποθ. USB"</string>
+    <string name="smart_call_answer_summary">Απαντά αυτόματα μια εισερχόμενη κλήση όταν φέρνετε τη συσκευή κοντά στο αφτί σας</string>
+    <string name="try_swing_lock_result_harder">δοκιμάστε ξανά και κουνήστε το κινητό πιο δυνατά</string>
+    <string name="hdmi_settings">Ρυθμίσεις HDMI</string>
+    <string name="tethering_apn_settings_summary">Ρύθμιση παραμέτρων APN για πρόσδεση</string>
+    <string name="usb_ums_with_external_sd_summary">"Συνιστάται το XP. Πάρτε την εξωτερική αλλά όχι την ενσωματωμένη κάρτα μνήμης ως δίσκο U για την αντιγραφή των αρχείων. "</string>
+    <string name="gemini_data_connection_progress_message">"Περιμένετε..."</string>
+    <string name="display_effect_of_screen_toast_title">Εάν δεν επιλέξτε το κουμπί \"Εφαρμογή\", η διαμόρφωση θα αποκατασταθεί μετά την επανεκκίνηση </string>
+    <string name="privacy_category_title_sd">"Κάρτα SD"</string>
+    <string name="privacy_backup_userdata_text">Να δημιουργηθούν αντίγραφα ασφαλείας των SMS, των Επαφών και των αρχείων καταγραφής κλήσεών σας στο χώρο αποθήκευσης;</string>
+    <string name="mobile">Σύνδεση δεδομένων</string>
+    <string name="choose_soft_place">Επιλέξτε τη θέση εγκατάστασης του λογισμικού</string>
+    <string name="display_smart_standby">Έξυπνη αναμονή</string>
+    <string name="ims_toggle_summary">Παροχή υπηρεσιών υποσυστήματος πολυμέσων IP </string>
+    <string name="bluetooth_ask_establish_connection_ext">"Η εφαρμογή <xliff:g>%1$s</xliff:g> θέλει να επικοινωνήσει με το <xliff:g>%2$s</xliff:g> μέσω Bluetooth."</string>
+    <string name="wifi_advanced_ipv6_address_title">Διεύθυνση IPv6</string>
+    <string name="clear_motion_summary">Βελτίωση ροής βίντεο</string>
+    <string name="rcse_settings_title">Ρυθμίσεις Joyn</string>
+    <string name="voice_ui_title">Στοιχείο ελέγχου φωνής</string>
+    <string name="bluetooth_ftp_profile_summary_use_for">Χρήση για μεταφορά αρχείου</string>
+    <string name="select_memory">Προεπιλεγμένος δίσκος εγγραφής</string>
+    <string name="usb_ums_summary">"Συνιστάται XP. Μεταφέρετε αρχεία μεταξύ του υπολογιστή σας και της συσκευής αποθήκευσης USB Android που διαθέτετε."</string>
+    <string name="clear_cache_msg">Έγινε απαλοιφή. Ελευθερώθηκαν <xliff:g>%1$s</xliff:g> μνήμης.</string>
+    <string name="data_usage_more_settings">Περισσότερες ρυθμίσεις</string>
+    <string name="dlg_confirm_unmount_usb_text" product="default">"Εάν αφαιρέσετε την κάρτα SD, ορισμένες από τις εφαρμογές που χρησιμοποιείτε θα σταματήσουν και ενδέχεται να μην είναι διαθέσιμες μέχρι να την τοποθετήσετε ξανά."</string>
+    <string name="cpu_dtm_title">Λειτουργία εξοικονόμησης ισχύος CPU</string>
+    <string name="display_effect_of_screen_dialog_ok">OΚ</string>
+    <string name="smart_roll_summary">Σύρετε στην άκρη της οθόνης για να αλλάξετε τη διάταξη και να αντιστρέψετε την οθόνη προς την άλλη μεριά. Για να επιστρέψετε στην αρχική διάταξη, απλώς σύρετε στην άκρη της οθόνης ξανά</string>
+    <string name="light_settings">Ρυθμίσεις ειδοποιήσεων LED</string>
+    <string name="agps_str_notify">Ειδοποίηση</string>
+    <string name="unmount_usb_inform_text" product="default">"Θα γίνει αποπροσάρτηση της κάρτας SD."</string>
+    <string name="agps_OK">"ΟΚ"</string>
+    <string name="hotknot_explained_description">Να επιτρέπεται η ανταλλαγή δεδομένων όταν η οθόνη επικοινωνεί με άλλη συσκευή</string>
+    <string name="wifi_restore_title">Επαναφορά ρύθμισης παραμέτρων WLAN</string>
+    <string name="security_not_set">Δεν έχει ρυθμιστεί η ασφάλεια</string>
+    <string name="bluetooth_ask_establish_connection">"Μια εφαρμογή θέλει να επικοινωνήσει με το <xliff:g>%1$s</xliff:g> μέσω Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">"Η εφαρμογή <xliff:g>%1$s</xliff:g> θέλει να ενεργοποιήσει το Bluetooth και να επικοινωνήσει με το <xliff:g>%2$s</xliff:g> μέσω Bluetooth."</string>
+    <string name="sd_eject_usbstorage" product="default">"Αποπροσ. αποθ. χώρου USB"</string>
+    <string name="swing_lock_summary">Κουνήστε γρήγορα το τηλέφωνο προς μία κατεύθυνση για κλείδωμα της οθόνης | Βοήθεια</string>
+    <string name="usb_tether_type_title">Τύπος πρόσδεσης USB</string>
+    <string name="gesture_series_title">Λειτουργία μαύρης οθόνης</string>
+    <string name="header_category_system_and_key">Λειτουργία συντόμευσης</string>
+    <string name="wifi_ap_client_ip_label">Διεύθυνση IP:</string>
+    <string name="wifi_ap_title">Στατιστικά</string>
+    <string name="gemini_sim_management_title">Διαχείριση κάρτας SIM</string>
+    <string name="try_it">Δοκιμ. το</string>
+    <string name="AGPS_NOTIFY_PRIVACY">Αίτημα τοποθεσίας (Απόρρητο)</string>
+    <string name="pch_call_prefer_summary_on">Προτίμηση κλήσης</string>
+    <string name="wifi_hotspot_suspend_optimizations">Βελτιστοποίηση ενεργού σημείου WLAN</string>
+    <string name="network_synchronization_enable_allow">Συνέχεια</string>
+    <string name="wifi_ipv4_address">Διεύθυνση IPv4</string>
+    <string name="autopop_warning_message">Αν καταργήσετε την επιλογή αυτού του στοιχείου, αυτό το παράθυρο δεν θα εμφανιστεί την επόμενη φορά που θα συνδέσετε το τηλέφωνό σας στον υπολογιστή. Μπορείτε να μεταβείτε σε αυτό το παράθυρο κάνοντας κλικ στην ειδοποίηση συστήματος. </string>
+    <string name="launch_error">"Δεν ήταν δυνατή η εκκίνηση της εφαρμογής!"</string>
+    <string name="wifi_no_cert_for_wapi">Δεν ήταν δυνατή η εύρεση πιστοποιητικού για την τρέχουσα σύνδεση AP</string>
+    <string name="custom_theme_name">Νέο [%1$s]</string>
+    <string name="wifi_tethering_title">Ενεργό σημείο WLAN</string>
+    <string name="passpoint_config_credential_type">Τύπος διαπιστευτηρίων</string>
+    <string name="tethered_ipv6_title">Ρυθμίσεις ενεργού σημείου &amp; πρόσδεσης</string>
+    <string name="display_effect_of_screen_soft">Απαλό</string>
+    <string name="wifi_ap_connected_title">Συνδεδεμένοι χρήστες</string>
+    <string name="tvout_settings">Εξοδος τηλεόρασης</string>
+    <string name="side_key_backlight_summary">"Πατήστε το πλήκτρο αύξησης ή μείωσης της έντασης ήχου, για να ενεργοποιήσετε την οθόνη | Βοήθεια"</string>
+    <string name="authdlg_service_ftp">αυτό το τηλέφωνο για μεταφορά αρχείων</string>
+    <string name="loading">"Φόρτωση..."</string>
+    <string name="profile_edit_pocket_title">"Λειτουργία τσέπης"</string>
+    <string name="display_effect_of_screen_warm">Θερμό</string>
+    <string name="display_effect_of_screen_default">"Προεπιλεγμένο"</string>
+    <string name="wifi_restore_summary">Επαναφορά ρύθμισης παραμέτρων WLAN (π.χ. λογαριασμός/κωδικός πρόσβασης) από το LeCloud</string>
+    <string name="stop_all_app">"ΔΙΑΚΟΠΗ ΌΛΩΝ"</string>
+    <string name="sd_insert_usb_summary" product="default">"Εισ. απ. χώρ. USB για προσ."</string>
+    <string name="dlg_mount_external_sd_title" product="default">Σύνδεση κάρτας SD;</string>
+    <string name="credentials_none">Δεν υπάρχουν διαπιστευτήρια</string>
+    <string name="privacy_backup_userdata_summary">Δημιουργία αντιγράφων ασφαλείας των δεδομένων σας στο χώρο αποθήκευσης</string>
+    <string name="mtk_thememanager_title">Θέματα</string>
+    <string name="wifi_ap_bandwidth_enable">Ενεργοποίηση περιορισμού εύρους ζώνης</string>
+    <string name="passpoint_supported">Με υποστήριξη</string>
+    <string name="screen_timeout_CU">Χρονικό όριο οθόνης</string>
+    <string name="vpn_delete">Είστε βέβαιοι ότι θέλετε να γίνει διαγραφή;</string>
+    <string name="privacy_backup_userdata_summary_cloud">Δημιουργήστε αντίγραφο ασφαλείας των δεδομένων σας στο cloud</string>
+    <string name="bluetooth_advanced_settings">ρυθμίσεις για προχωρημένους</string>
+    <string name="gemini_default_sim_never">Απενερεγοποίηση</string>
+    <string name="bluetooth_profile_ftp">Μεταφορά αρχείου</string>
+    <string name="try_swing_lock_info">Κουνήστε το κινητό και δοκιμάστε να το κλειδώσετε</string>
+    <string name="network_synchronization_enable_deny"> Άκυρο</string>
+    <string name="sim_enter_pin_hints">(Εισαγωγή 4-8 ψηφίων)</string>
+    <string name="ipo_summary_on">Απενεργοποίηση γρήγορης εκκίνησης</string>
+    <string name="authorizaion_failed_error">Η εξουσιοδότηση απέτυχε. Δεν είναι δυνατή η σύνδεση με την απομακρυσμένη συσκευή.</string>
+    <string name="ipo_summary_off">Ενεργοποίηση γρήγορης εκκίνησης</string>
+    <string name="display_settings_scences_title">Σκηνές</string>
+    <string name="runningapp_stop_dlg_text" product="tablet">Αν διακόψετε αυτές τις υπηρεσίες, ορισμένες
+        λειτουργίες του tablet σας μπορεί να σταματήσουν να λειτουργούν σωστά μέχρι να το απενεργοποιήσετε
+        και να το ενεργοποιήσετε ξανά.</string>
+    <string name="usbsetting_usbmassstorage_wait">Περιμένετε...</string>
+    <string name="wifi_WEP_transmit_key">Κλειδί μεταβίβασης</string>
+    <string name="move_to_sdcard">Μετακίνηση στην προεπιλεγμένη κάρτα μνήμης</string>
+    <string name="gps_time_sync_attention_gps_on">Θα χρειαστεί το πολύ 1 λεπτό για τη λήψη του GPS fix. Επιπλέον, το GPS ενδέχεται να μην μπορέσει να παράσχει την ώρα λόγω αδύναμου σήματος.\n\nΕίστε σίγουροι ότι θέλετε να χρησιμοποιήσετε την ώρα που παρέχεται από το GPS?</string>
+    <string name="bluetooth_turning_on_failed">Η ενεργοποίηση του Bluetooth απέτυχε</string>
+    <string name="wifi_tether_wps_connect_title">Σύνδεση WPS</string>
+    <string name="tether_title">Ατομικό hotspot</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Αίτημα τοποθεσίας (Απόρριψη εάν δεν υπάρχει απάντηση)</string>
+    <string name="move_tomemory_success">Μετακινήθηκε!</string>
+    <string name="authdlg_auto_reply">Να μην γίνει ερώτηση ξανά</string>
+    <string name="eap_sim_aka_no_sim_slot_selected">Πρέπει να επιλέξετε μια υποδοχή κάρτας SIM για να χρησιμοποιήσετε το EAP-SIM/AKA</string>
+    <string name="passpoint_summary">Αυτόματη σύνδεση σε AP με ενεργοποίηση passpoint</string>
+    <string name="usb_ums_title">"Χώρος αποθήκευσης USB"</string>
+    <string name="usb_bicr_summary">Εμφάνιση εικονικού CD-ROM που περιλαμβάνει χρήσιμο λογισμικό.</string>
+    <string name="authdlg_service_map">αυτό το τηλέφωνο για πρόσβαση σε μηνύματα</string>
+    <string name="server_lenovo_exp_ok">"ΟΚ"</string>
+    <string name="slide_unlock_title">Ξεκλείδωμα οθόνης</string>
+    <string name="authdlg_service_spp">η σειριακή θύρα Bluetooth σε αυτό το τηλέφωνο</string>
+    <string name="display_effect_of_screen_dialog_title">Σε ισχύ μετά την εκ νέου ενεργοποίηση της οθόνης!</string>
+    <string name="move_select">Θέλετε να μετακινήσετε την επιλεγμένη εφαρμογή; Ορισμένα τμήματα δεν μπορούν να μετακινηθούν στην εσωτερική κάρτα μνήμης.</string>
+    <string name="wifi_restore_failed">Η επαναφορά απέτυχε.</string>
+    <string name="landscape_launcher_title">Εκκίνηση Landscape</string>
+    <string name="usb_sharing_info_title">Διαβίβαση internet</string>
+    <string name="clear_cache">Εκκαθάριση μνήμης cache με ένα πλήκτρο</string>
+    <string name="authdlg_service_default">αυτό το τηλέφωνο</string>
+    <string name="wifi_tether_auto_disable_title">Διατήρηση ενεργού σημείο WLAN ενεργοποιημένου</string>
+    <string name="wifi_backup_summary">Δημιουργία αντιγράφου ασφαλείας της ρύθμισης παραμέτρων WLAN (π.χ. λογαριασμός/κωδικός πρόσβασης) στο LeCloud</string>
+    <string name="storage_phone">Ενσωματωμένος χώρος αποθήκευσης</string>
+    <string name="hdmi_audio_toggler">Ηχος</string>
+    <string name="NI_Request_ID">Αναγνωριστικό αιτούντος</string>
+    <string name="passpoint_config_eap_method">Μέθοδος EAP</string>
+    <string name="wifi_ap_wps_mode_title">Λειτουργία WPS</string>
+    <string name="authdlg_title">Αίτημα εξουσιοδότησης Bluetooth</string>
+    <string name="usb_bicr_title">Ενσωματωμένο CD-ROM</string>
+    <string name="double_click_title">Ταχύτητα διπλού κλικ</string>
+    <string name="pin_scroll_title">Κύλιση για καρφίτσωμα λίστας</string>
+    <string name="wifi_backup_title">Δημιουργία αντιγράφου ασφαλείας WLAN</string>
+    <string name="eap_sim_aka_no_sim_error">Πρέπει να εισαγάγετε μια κάρτα SIM για να χρησιμοποιήσετε το EAP-SIM/AKA</string>
+    <string name="wifi_wps_fail_error">Η ρύθμιση προστατευόμενου WLAN απέτυχε. Προσπαθήστε ξανά.</string>
+    <string name="bluetooth_ftp_profile_summary_connected">"Πραγματοποιήθηκε σύνδεση με τη μεταφορά αρχείων"</string>
+    <string name="privacy_backup_userdata_title_cloud">Δημιουργία αντιγράφου ασφαλείας στο cloud</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">Ελαχιστοποίηση χρήσης μπαταρίας όταν είναι ενεργοποιημένο το ενεργό σημείο WLAN</string>
+    <string name="privacy_restore_userdata_category_title">Επαναφορά δεδομένων</string>
+    <string name="gesture_series_summary">Μπορείτε να ξεκλειδώνετε σε μαύρη οθόνη και να εκκινείτε γρήγορα τις εφαρμογές</string>
+    <string name="auto_popup">Να μην εμφανιστεί</string>
+    <string name="MobileNetwork_SIM1_Active">Η κάρτα SIM1 είναι ενεργή</string>
+    <string name="move_app_to_where">"Μετακίνηση στην "<xliff:g id="location">%s</xliff:g>
+  </string>
+    <string name="launch_main_label">Εκκίνηση εφαρμογής</string>
+    <string name="akp_installer_settings_summary">Εγκατάσταση του APK από κάρτα SD</string>
+    <string name="tv_system_title">Σύστημα τηλεόρασης</string>
+    <string name="NI_Request_ClientName">Όνομα πελάτη</string>
+    <string name="profile_edit_pocket_summary">"Μεγιστοποίηση έντασης ήχου κλήσης όταν έχετε τη συσκευή στην τσέπη ή σε θήκη"</string>
+    <string name="profile_edit_weaken_summary">Μειώνει αυτόματα την ένταση του ήχου κλήσης όταν σηκώσετε το τηλέφωνο | Βοήθεια</string>
+    <string name="privacy_restore_userdata_summary_cloud">Επιλέξτε επαναφορά δεδομένων από το cloud</string>
+    <string name="display_effect_of_screen_cool">Άνετος</string>
+    <string name="lock_screen_notifications_title">Ειδοποιήσεις οθόνης κλειδώματος</string>
+    <string name="header_category_call_and_msg">Κλήσεις και μηνύματα</string>
+    <string name="status_imei_slot1">IMEI(Υποδοχή1)</string>
+    <string name="wifi_ap_client_details_title">Λεπτομέρειες</string>
+    <string name="server_lenovo_exp_title">Συμφωνώ να συμμετάσχω στο πρόγραμμα βελτίωσης εμπειρίας της Lenovo</string>
+    <string name="status_imei_slot2">IMEI(Υποδοχή2)</string>
+    <string name="header_category_lock_and_screen">Οθόνη κλειδώματος και οθόνη</string>
+    <string name="passpoint_append_summary">(μέσω Passpoint)</string>
+    <string name="lock_screen_style_title">Στυλ οθόνης κλειδώματος</string>
+    <string name="privacy_restore_userdata_title_cloud">Επαναφορά από το cloud</string>
+    <string name="app_privacy_settings">Ρυθμίσεις απορρήτου της εφαρμογής</string>
+    <string name="drm_reset_dialog_msg">Αυτή η λειτουργία θα διαγράψει όλες τις άδειες που υπάρχουν σε αυτήν τη συσκευή. Συνέχεια;</string>
+    <string name="wapi_as_certificate">Πιστοποιητικό ASE</string>
+    <string name="erase_external_storage_description_fuse">"Διαγράψτε όλα τα δεδομένα που υπάρχουν στην κάρτα SD, όπως αρχεία μουσικής και φωτογραφίες"</string>
+    <string name="wifi_tether_auto_channel_width_text">Αυτόματο 20/40 MHz</string>
+    <string name="bluetooth_security_confirm">"Αίτηση δικαιώματος Bluetooth"</string>
+    <string name="slide_unlock_summary">Σύρετε αριστερά ή δεξιά στο κάτω μέρος της οθόνης για ξεκλείδωμα | Βοήθεια</string>
+    <string name="wifi_tether_auto_channel_text">"Αυτόματη"</string>
+    <string name="usb_charge_summary">Διακοπή όλων των λειτουργιών USB. Σάς επιτρέπει να επιταχύνετε τη φόρτιση USB και να ελαττώσετε την κατανάλωση ισχύος.</string>
+    <string name="long_menu_active_voice_summary">Όταν η οθόνη είναι ενεργοποιημένη, πατήστε παρατεταμένα το πλήκτρο μενού για να ενεργοποιήσετε τη λειτουργία φωνής</string>
+    <string name="wifi_ap_time_duration">Χρόνος διάρκειας: 
+        <xliff:g id="time">%1$s</xliff:g> 
+    </string>
+    <string name="wifi_ap_client_mac_label">Διεύθυνση MAC:</string>
+    <string name="wifi_advanced_ipv4_address_title">Διεύθυνση IPv4</string>
+    <string name="hdmi_video_resolution">Ανάλυση βίντεο</string>
+    <string name="tethered_ipv4">(IPv6 μη διαθέσιμο)</string>
+    <string name="soft_permission">Διαχείριση δικαιωμάτων</string>
+    <string name="authdlg_service_dun">η υπηρεσία δικτύωσης κλήσης σε αυτό το τηλέφωνο</string>
+    <string name="privacy_backup_userdata_title">Δημιουργία αντιγράφων ασφαλείας στο χώρο αποθήκευσης</string>
+    <string name="prevent_misoperation_summary">Χρησιμοποιήστε τον αισθητήρα εγγύτητας για να αποφύγετε ακούσιες ενέργειες όταν το τηλέφωνο είναι στην τσέπη σας</string>
+    <string name="tethered_ipv6">(Διαθέσιμο μόνο IPv6)</string>
+    <string name="wifi_ipv6_address">Διεύθυνση IPv6</string>
+    <string name="wifi_ap_bandwidth_title">Χρήση εύρους ζώνης</string>
+    <string name="tethering_apn_settings_title">Ρυθμίσεις APN</string>
+    <string name="erase_external_storage_fuse">"Διαγραφή κάρτας SD"</string>
+    <string name="server_lenovo_exp_summery">Συλλογή δεδομένων για τη βελτίωση των προϊόντων και των υπηρεσιών μας</string>
+    <string name="usbsetting_usbmassstorage_close">Εξαγωγή συσκευής αποθήκευσης USB</string>
+    <string name="wifi_ap_no_connected">0 ευνδεδεμένοι χρήστες</string>
+    <string name="wifi_channel_width">Πλάτος καναλιών</string>
+    <string name="dlg_default_write_disk1_change_msg">"Αν επιλέξετε τον εσωτερικό χώρο αποθήκευσης, οι εφαρμογές που έχουν εγκατασταθεί στη συσκευή αποθήκευσης SD δεν είναι δυνατό να χρησιμοποιηθούν και η συσκευή θα πραγματοποιήσει επανεκκίνηση. Είστε βέβαιοι ότι θέλετε να αλλάξετε στον εσωτερικό χώρο αποθήκευσης;"</string>
+    <string name="wifi_ap_bandwidth_chart_summary">Μετρημένη από το τηλέφωνό σας, ο υπολογισμός της ταχύτητας δεδομένων της εταιρείας κινητής τηλεφωνίας σας ίσως διαφέρει.</string>
+    <string name="usbsetting_help_title">Βοήθεια</string>
+    <string name="bluetooth_remote_device">συσκευή bluetooth</string>
+    <string name="long_menu_active_voice">Ενεργοποίηση φωνής με το πλήκτρο μενού</string>
+    <string name="mouse_primary_button_dialog_title">Εναλλαγή πρωτεύοντος</string>
+    <string name="authdlg_service_decline">Απόρριψη</string>
+    <string name="move_select_short">"Εφαρμογή της μετακίνησης επιλογής;"</string>
+    <string name="display_effect_of_screen_bright">Φωτεινό</string>
+    <string name="hdmi_video_toggler">Βίντεο</string>
+    <string name="wifi_tether_wps_pin_error">Μη έγκυρο PIN</string>
+    <string name="auto_time_on">"Χρήση υποστήριξης δικτύου"</string>
+    <string name="usb_sharing_info_step_1">"1. Ανοίξτε τις συνδέσεις στον υπολογιστή Windows που διαθέτετε."</string>
+    <string name="button_brightness">Οπίσθιος φωτισμός κουμπιών μενού</string>
+    <string name="display_default">Εμφάνιση</string>
+    <string name="pch_toggle_title">Λειτουργία προτίμησης μεταφοράς GPRS</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Αίτημα τοποθεσίας (Αποδοχή εάν δεν υπάρχει απάντηση)</string>
+    <string name="usb_sharing_info_step_3">"3. Κάντε κλικ στην καρτέλα κοινής χρήσης και επιλέξτε \'Να επιτρέπεται σε άλλους χρήστες δικτύου η σύνδεση μέσου του δικτύου Internet αυτού του υπολογιστή\'(επιλέξτε το δίκτυο που έχει προστεθεί πρόσφατα το οποίο αντιπροσωπεύει το Internet USB εάν εμφανιστεί η ένδειξη \'Σύνδεση οικιακού δικτύου\')."</string>
+    <string name="wifi_ap_wps_pin_title">Εισαγάγετε PIN από πελάτη</string>
+    <string name="usb_sharing_info_step_2">"2. Κάντε δεξιό κλικ στη σύνδεση που θέλετε να κάνετε κοινή χρήση και, στη συνέχεια, επιλέξτε τις ιδιότητες."</string>
+    <string name="runningapp_stop_dlg_text" product="default">Αν διακόψετε αυτές τις υπηρεσίες, ορισμένες
+        λειτουργίες του τηλεφώνου σας μπορεί να σταματήσουν να λειτουργούν σωστά μέχρι να το απενεργοποιήσετε
+        και να το ενεργοποιήσετε ξανά.</string>
+    <string name="wifi_tether_wps_connect_summary">Επιλεγμένη λειτουργία ρύθμισης προστατευμένου WLAN για συνέχεια</string>
+    <string name="wizard_title">Οδηγός εκμάθησης</string>
+    <string name="location_settings_label">Λειτουργία σχεδιασμού τοποθεσίας</string>
+    <string name="sim_status_title">Κατάσταση κάρτας SIM</string>
+    <string name="auto_rotate_type">Αυτόματη περιστροφή οθόνης</string>
+    <string name="wifi_hex_password">Δεκαεξαδικός κωδικός πρόσβασης.</string>
+    <string name="pch_data_prefer_summary_off">Προτίμηση δεδομένων</string>
+    <string name="wifi_WEP_secury_key">Κλειδί ασφαλείας</string>
+    <string name="passpoint_username_pw">Όνομα χρήστη/Κωδικός πρόσβασης</string>
+    <string name="dlg_default_write_disk_change_msg">Ο προεπιλεγμένος δίσκος εγγραφής έχει αλλάξει. Πρέπει να γίνει επανεκκίνηση τώρα!</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off" msgid="1225626898926363100">"Για να δείτε τις συσκευές, ενεργοποιήστε την ασύρματη οθόνη."</string>
+    <string name="drm_settings_title">Επαναφορά DRM</string>
+    <string name="notification_settings_title">Κέντρο ειδοποιήσεων</string>
+    <string name="wifi_ap_client_unblock_title">Ξεκλείδωμα</string>
+    <string name="authdlg_service_opp">αυτό το τηλέφωνο</string>
+    <string name="display_personalize">Εκατομικευση</string>
+    <string name="usb_tethering_select_version">Επιλογή έκδοσης συστήματος υπολογιστή</string>
+    <string name="drm_settings_summary">Διαγράφει όλες τις άδειες DRM</string>
+    <string name="hdmi_settings_summary">Κάντε κλικ για τη ρύθμιση παραμέτρων HDMI</string>
+    <string name="wifi_ap_no_blocked">0 αποκλεισμένοι χρήστες</string>
+    <string name="smart_rotate_type">Έξυπνη περιστροφή οθόνης</string>
+    <string name="wifi_tether_setting_title">Βασικές ρυθμίσεις</string>
+    <string name="master_clear_error">"Άνοιγμα του SYNCit"</string>
+    <string name="tvout_settings_summary">Ρυθμίσεις εξόδου τηλεόρασης</string>
+    <string name="try_swing_lock_result_ok">η μέθοδός σας είναι σωστή</string>
+    <string name="wifi_ap_wps_dialog_title">Σύνδεση WPS</string>
+    <string name="authdlg_service_accept">Εξουσιοδότηση</string>
+    <string name="dialog_title_button_brightness">Οπίσθιος φωτισμός κουμπιών μενού</string>
+    <string name="move_to_phone">Μετακίνηση στο τηλέφωνο</string>
+    <string name="usbsetting_usbmassstorage_open">Σύνδεση στη συσκευή αποθήκευσης USB</string>
+    <string name="wide_touch_title">Ευρεία κίνηση αφής</string>
+    <string name="wifi_ap_blocked_title">Αποκλεισμένοι χρήστες</string>
+    <string name="gesture_rotate_type">Περιστροφή οθόνης με χειρονομία</string>
+    <string name="sd_mount_usbstorage" product="default">"Προσάρτ. χώρου αποθ. USB"</string>
+    <string name="vpn_delete_title">"Διαγραφή"</string>
+    <string name="wifi_ap_total_data">Σύνολο χρησιμοποιημένων δεδομένων:
+        <xliff:g id="time">%1$s</xliff:g>
+    </string>
+    <string name="unlock_set_unlock_mode_voice_weak">Φωνητικό ξεκλείδωμα</string>
+    <string name="audio_profile_settings_title_lap">Προφίλ ήχου</string>
+    <string name="storage_path0">Συσκευή αποθήκευσης USB</string>
+    <string name="uninstall_select">Να καταργηθεί το επιλεγμένο;</string>
+    <string name="storage_path1">Συσκευή αποθήκευσης SD</string>
+    <string name="install_local">"Θέση εγκατάστασης λογισμικού"</string>
+    <string name="server_lenovo_exp_cancel">"Ακύρωση"</string>
+    <string name="hdmi_auto">"ΑΥΤΟΜ."</string>
+    <string name="server_lenovo_exp_dlg_title">Προειδοποίηση</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">"Μια εφαρμογή θέλει να ενεργοποιήσει το Bluetooth και να επικοινωνήσει με το <xliff:g>%1$s</xliff:g> μέσω Bluetooth."</string>
+    <string name="lock_screen_notifications_summary">Εμφάνιση ειδοποιήσεων στην οθόνη κλειδώματος</string>
+    <string name="wapi_user_certificate">Πιστοποιητικό χρήστη</string>
+    <string name="privacy_restore_userdata_title">Επαναφορά από το χώρο αποθήκευσης</string>
+
+    <string name="smart_roll_title">Smart roll</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="dlg_error_unmount_usb_title" product="default">Σφάλμα</string>
+    <string name="system_time_pm">PM</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Σφάλμα</string>
+    <string name="privacy_category_title_cloud">Cloud</string>
+    <string name="summary_lcd_invert">Σφάλμα</string>
+    <string name="personal_hotsport_title">Προσωπικό hotspot</string>
+    <string name="usb_tether">USB tether</string>
+    <string name="system_time_pm">PM</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Σφάλμα</string>
+
+    <string name="power_settings">Διαχείριση ενέργειας</string>
+    <string name="multiwindow_settings">Πολ. παράθ.</string>
+    <string name="night_mode_summary">Η συγκεκριμένη λειτουργία είναι κατάλληλη για περιήγηση στη διάρκεια της νύχτας. Σε ελάχιστες εφαρμογές ο χρήστης ενδέχεται να μην μπορεί να πατήσει μερικά κουμπιά.</string>
+    <string name="long_press_back_finish_title">Πατήστε παρατεταμένα το κουμπί επιστροφής για έξοδο</string>
+    <string name="night_mode">Προστασία ματιών για τη νύχτα</string>
+    <string name="long_press_back_finish_summary">Πατήστε παρατεταμένα το κουμπί επιστροφής για έξοδο από το τρέχον πρόγραμμα</string>
+    <string name="change_settings_to_all_settings">Μετάβαση στις Ρυθμίσεις</string>
+    <string name="touch_free_phone_dial">Δυνατότητα κλήσεων χωρίς αφή</string>
+    <string name="tilt_slide_summary">Κλίση προς τα αριστερά/δεξιά για οριζόντια κύλιση κατά την περιήγηση</string>
+    <string name="change_settings_to_recent">Μετάβαση στις Πρόσφατες ρυθμίσεις</string>
+    <string name="touch_free_phone_answer">Αποδοχή χωρίς αφή</string>
+    <string name="recent_settings_empty">Δεν έχει γίνει καμία πρόσφατη αλλαγή στις ρυθμίσεις συστήματος</string>
+    <string name="recent_settings">Πρόσφατες ρυθμίσεις</string>
+    <string name="tilt_slide_title">Οριζόντια κύλιση με κλίση της συσκευής</string>
+    <string name="display_effect_type_hue_cool">Ψυχρό χρώμα</string>
+    <string name="display_effect_buttom_text_cancel">Άκυρο</string>
+    <string name="display_effect_mode_default_summary">Εργοστασιακή προεπιλεγμένη λειτουργία για βέλτιστο χρώμα.</string>
+    <string name="display_effect_mode_auto_summary">Εναλλάσσει τη λειτουργία αυτόματα με βάση την εφαρμογή του προγράμματος περιήγησης και το περιβάλλον.</string>
+    <string name="display_effect_type_hue">Απόχρωση</string>
+    <string name="display_effect_mode_default_title">Προεπιλεγμένη λειτουργία</string>
+    <string name="display_effect_mode_comfirtable_title">Άνετη λειτουργία</string>
+    <string name="display_effect_type_hue_default">Κανονικό</string>
+    <string name="display_effect_type_contrast_sharp">Ευκρινές</string>
+    <string name="display_effect_mode_comfirtable_summary">Προστατεύει τα μάτια σας και είναι κατάλληλη κατά την περιήγηση του τηλεφώνου σας για μεγάλες χρονικές περιόδους.</string>
+    <string name="display_effect_type_hue_warm">Θερμό χρώμα</string>
+    <string name="display_effect_type_saturation">Κορεσμός</string>
+    <string name="display_effect_type_contrast_soft">Παστέλ</string>
+    <string name="display_effect_mode_auto_title">Αυτόματη λειτουργία</string>
+    <string name="display_effect_mode_ultra_bright_summary">Αποτέλεσμα εξαιρετικά φωτεινής οθόνης. Αυτή η λειτουργία θα επηρεάσει την ισχύ όταν βρίσκεται σε κατάσταση αναμονής.</string>
+    <string name="display_effect_type_saturation_default">Κανονικό</string>
+    <string name="display_effect_smart_brightness_title">Έξυπνη λειτουργία έντονου φωτός</string>
+    <string name="display_effect_buttom_text_apply">Εφαρμογή</string>
+    <string name="display_effect_mode_ultra_bright_title">Λειτουργία εξαιρετικής φωτεινότητας</string>
+    <string name="display_effect_category_title_commom_mode">Κοινή λειτουργία</string>
+    <string name="display_effect_mode_outdoor_title">Λειτουργία έντονου φωτός</string>
+    <string name="display_effect_type_contrast_default">Κανονικό</string>
+    <string name="display_effect_type_saturation_bright">Φωτεινό</string>
+    <string name="display_effect_type_contrast">Αντίθεση</string>
+    <string name="display_effect_mode_outdoor_summary">Κατάλληλη για χρήση σε εξωτερικές συνθήκες με έντονο φως. Βελτιώνει την ορατότητα σε εξωτερικό χώρο. Αυτή η λειτουργία θα επηρεάσει τις λειτουργίες σε κατάσταση αναμονής, κατά τις οποίες οι απλοί χρήστες ασκούν ιδιαίτερη προσοχή!</string>
+    <string name="display_effect_mode_custom_title">Προσαρμογή</string>
+    <string name="display_effect_category_title_smart">Έξυπνο</string>
+    <string name="display_effect_type_saturation_soft">Παστέλ</string>
+    <string name="display_effect_mode_custom_summary">Ορισμός κάθε τιμής παραμέτρου μη αυτόματα.</string>
+    <string name="display_effect_smart_brightness_summary">Η έξυπνη τεχνολογία κρίνει πότε το τηλέφωνο βρίσκεται σε περιβάλλον με έντονο φως και ξεκινά τη λειτουργία έντονου φωτός. Αυτή η λειτουργία βελτιώνει την ορατότητα σε εξωτερικό χώρο, σε περιβάλλοντα με έντονο φως.</string>
+<string name="device_info" msgid="3191876744469364173">"Στοιχεία συσκευής"</string>
+<string name="pocket_mode_title">"Λειτουργία τσέπης"</string>
+<string name="pocket_mode_summary">"Μεγιστοποίηση έντασης ήχου κλήσης όταν έχετε τη συσκευή στην τσέπη ή σε θήκη"</string>
+<string name="pocket_mode_help">"Μεγιστοποίηση έντασης ήχου κλήσης όταν έχετε τη συσκευή στην τσέπη ή σε θήκη"</string>
+<string name="ringtone_weaken_title">Μείωση έντασης ήχου</string>
+<string name="ringtone_weaken_summary">Μειώνει αυτόματα την ένταση του ήχου κλήσης όταν σηκώσετε το τηλέφωνο | Βοήθεια</string>
+<string name="ringtone_weaken_help">Η ένταση του ήχου κλήσης μειώνεται, όταν σηκώνετε το τηλέφωνο.</string>
+<string name="gesture_topspeed_snap_title">Λήψη φωτογραφιών με υψηλή ταχύτητα</string>
+<string name="gesture_topspeed_snap_summary">Πατήστε δύο φορές το κουμπί αρχικής οθόνης ενώ η οθόνη είναι απενεργοποιημένη για να τραβήξετε φωτογραφίες</string>
+<string name="gesture_light_up_screen_title">Πατ.2 φορ.για ενεργ./απενεργ.την οθόνη</string>
+<string name="gesture_light_up_screen_summary">Πατ.2 φορ.οπουδ.στην οθ.για ενεργ.την οθ.εάν είναι απενεργ.Πατ.2 φορ.οπουδ.στην οθ.κλειδ.για να θέσετε τη συσ.σε ανασ.λειτ</string>
+<string name="usb_detail_message">Χρησιμοποιήστε τον υπολογιστή σας για να διαχειριστείτε το τηλέφωνό σας. Για να λάβετε το επίσημο λογισμικό της Lenovo, επισκεφτείτε τη διεύθυνση http://sj.lenovo.com.</string>
+<string name="bluetooth_confirm_device_pair">Για σύζευξη με:</string>
+<string name="wifi_ap_less">Έλεγχος καλής λήψης</string>
+<string name="usb_adb_summary">Εκκίνηση λειτουργίας εντοπισμού σφαλμάτων. Χρησιμοποιήστε τον υπολογιστή σας για να διαχειριστείτε το τηλέφωνό σας. Συνιστάται η χρήση του επίσημου λογισμικού. </string>
+<string name="wifi_ap_more">Έλεγχος όλων των σημείων πρόσβασης</string>
+<string name="bluetooth_confirm_passkey_show">Βεβαιωθ.ότι εμφαν.το κλειδί πρόσβ.:</string>
+<string name="usb_adb_title">Εντοπισμός σφαλμάτων USB (ADB)</string>
+<string name="wifi_wapi_cert_install">Εγκαταστήστε το πιστοποιητικό WAPI</string>
+<string name="location_agps_pref_apn_title">Προτιμώμενο APN</string>
+<string name="location_agps_roaming_help">Προειδοποίηση：Εάν επιλέξετε ΟΛΑ ΤΑ ΔΙΚΤΥΑ για να ανοίξετε το AGPS, ενδέχεται να υπάρχουν χρεώσεις τηλεφώνου κατά την περιαγωγή！</string>
+<string name="wifi_wapi_cert_install_button">Εγκατάσταση</string>
+<string name="wifi_wapi_cert_create_subdir">Δημιουργία καταλόγου</string>
+<string name="wifi_wapi_cert_mgmt_user_dont_exist">Εισαγάγετε το όνομα του πιστοποιητικού χρήστη</string>
+<string name="wifi_wapi_user_cert">Πιστοποιητικό χρήστη</string>
+<string name="location_agps_apn_summary">Επιλέξτε τον προτιμώμενο τύπο apn</string>
+<string name="location_agps_apn_choose_dialog_title">Τύποι Apn</string>
+<string name="location_agps_si_mode_dialog_title">Μέθοδος AGPS</string>
+<string name="wifi_wapi_cert_mgmt_subdir_exist">Εισαγάγετε ένα άλλο όνομα καταλόγου, αυτό δεν υπάρχει</string>
+<string name="location_agps_pref_reset_type_title">Προτιμώμενος τύπος επαναφοράς</string>
+<string name="wifi_wapi_as_cert">Πιστοποιητικό AS</string>
+<string name="supl_not_set">"&lt;Δεν έχει οριστεί&gt;"</string>
+<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Εισαγάγετε το όνομα του καταλόγου που θέλετε να δημιουργήσετε!</string>
+<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Η μορφή του πιστοποιητικού χρήστη είναι λάθος! Εγκαταστήστε το σωστό πιστοποιητικό χρήστη</string>
+<string name="location_agps_si_mode">Λειτουργία SI AGPS</string>
+<string name="location_agps_reset_type_summary">Επιλέξτε τον προτιμώμενο τύπο επαναφοράς</string>
+<string name="location_agps_supl_settings">Ρυθμίσεις SUPL</string>
+<string name="wifi_wapi_cert_mgmt_subdir_create_fail">Η δημιουργία του καταλόγου απέτυχε</string>
+<string name="wifi_wapi_cert_mgmt_as_dont_exist">Η κάρτα SD δεν διαθέτει το πιστοποιητικό AS, ελέγξτε το!</string>
+<string name="invalid_network_mode">Μη έγκυρη λειτουργία δικτύου</string>
+<string name="location_agps_si_mode_summary">Επιλέξτε την προτιμώμενη μέθοδο AGPS</string>
+<string name="location_agps_reset_type">Επαναφορά τύπων</string>
+<string name="not_support_choose">Η υποδοχή 2 δεν υποστηρίζει τη λειτουργία επιλογή δικτύου</string>
+<string name="location_agps_supl_server_addr">Διεύθυνση διακομιστή</string>
+<string name="location_agps_pref_si_title">Προτιμώμενος τρόπος λειτουργίας</string>
+<string name="location_agps_def_reset_type">ΚΑΥΤΟ</string>
+<string name="wifi_wapi_cert_uninstall">Απεγκαταστήστε το πιστοποιητικό WAPI</string>
+<string name="location_agps_def_network_mode">ΑΡΧΙΚΗ ΟΘΟΝΗ</string>
+<string name="wifi_wapi_cert_mgmt_as_name_is_empty">Εισαγάγετε το όνομα του πιστοποιητικού as</string>
+<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Η μορφή του πιστοποιητικού as είναι εσφαλμένη! Εγκαταστήστε το σωστό πιστοποιητικό as</string>
+<string name="location_agps_apn_type">Τύποι Apn</string>
+<string name="location_agps_register_network_type">Τύπος πρόσβασης δικτύου</string>
+<string name="wifi_wapi_cert_uninstall_button">Απεγκατάσταση</string>
+<string name="location_agps_supl_server_port">Θύρα διακομιστή</string>
+<string name="location_agps_register_network_type_summary">Επιλέξτε δίκτυο πρόσβασης για ενεργοποίηση του AGPS...</string>
+<string name="location_agps_params_settings_title">Ρυθμίσεις AGPS</string>
+<string name="wifi_wapi_cert_mgmt_titlebar">Διαχείριση πιστοποιητικών WAPI</string>
+<string name="wifi_wapi_cert_cancel_button">"Ακύρωση"</string>
+<string name="wifi_wapi_cert_delet_subdir">Επιλέξτε ένα κατάλληλο πιστοποιητικό</string>
+<string name="wifi_wapi_cert_mgmt_user_name_is_empty">Εισαγάγετε το όνομα του πιστοποιητικού χρήστη</string>
+<string name="location_agps_pref_network_title">Προτιμώμενο δίκτυο</string>
+<string name="location_agps_register_network_type_dialog_title">Επιλογή δικτύου</string>
+<string name="smart_standby_enable_title">"Έξυπνη αναμονή"</string>
+<string name="smart_standby_enable_summary">"Η οθόνη θα ενεργοποιηθεί όταν την κοιτάξετε"</string>
+<string name="phone_storage_info">Μνήμη τηλεφ.</string>
+    <string name="usb_detail_title">Λήψη επίσ. λογ. της Lenovo</string>
+    <string name="processor_unit_info">Πυρήνες</string>
+    <string name="night_mode_tip_secure_button">Απεν. τη λειτ. νυχτ. ανάγν. και πατ. ξανά</string>
+    <string name="location_agps_reset_type_choose_dialog_title">Όλοι οι τύπ. έν.</string>
+    <string name="wide_touch_help">Πατήστε το αιωρ. κουμπί, για να ανοίξ. τον πίνακα συντ. και εφαρ.</string>
+    <string name="lenovo_cloud">Υπηρ. Cloud</string>
+    <string name="zone_auto_summaryOn_not_row">"Χρήση παρεχ. ζώνης ώρας δικτ. Αυτή η λειτ. εξαρτ. από τον πάροχο υπηρ. και δεν υποστ. σε ορισμένες χώρες"</string>
+    <string name="zone_auto_summaryOff_not_row">"Χρήση παρεχ. ζώνης ώρας δικτ. Αυτή η λειτ. εξαρτ. από τον πάροχο υπηρ. και δεν υποστ. σε ορισμένες χώρες"</string>
+    <string name="location_agps_settings_title">ΡυθμίσειςAGPS</string>
+    <string name="night_mode_notification_title">Λειτ. νυχτ. ανάγ. ενεργ.</string>
+    <string name="night_mode_notification_text">Πατ. για απεν. της λειτ. νυχτ. ανάγ.</string>
+<string name="wifi_account_share">@string/wlan_share</string>
+<string name="wifi_status_test">Κατάσταση κάρτας WLAN</string>
+<string name="wifi_signal_strong_title">"Ενίσχυση σήματος WLAN"</string>
+<string name="wifi_signal_strong_summary">"Ενισχύει αυτόματα το σήμα για να εξασφαλιστεί η καλύτερη σύνδεση, όταν το σήμα σύνδεσης είναι αδύναμο." </string>
+    <string name="do_not_distube">"Λειτουργία \'Μην ενοχλείτε\'"</string>
+    <string name="gesture_light_up_off_screen_title">"Πατήστε δύο φορές για να ενεργοποιήσετε/απενεργοποιήσετε την οθόνη"</string>
+
+    <string name="StorageDialog_summary">Αφαιρέθηκε η εξωτερική συσκευή αποθήκευσης, το σύστημα θα μεταβεί στον ενσωματωμένο χώρο αποθήκευσης και θα γίνει επανεκκίνηση, επιβεβαίωση; \n\n Αν τοποθετηθεί ξανά η εξωτερική συσκευή αποθήκευσης, δεν θα γίνει επανεκκίνηση.</string>
+    <string name="StorageDialog_comfirm">Επανεκκίνηση</string>
+    <string name="StorageDialog_title">Προσοχή</string>
+    <string name="dlg_default_write_disk_encrypted_msg">Για την καλύτερη προστασία του απορρήτου σας, ο κύριος χώρος αποθήκευσης πρέπει να είναι πάντα ο εσωτερικός χώρος αποθήκευσης όταν το τηλέφωνο είναι κρυπτογραφημένο.</string>
+</resources>

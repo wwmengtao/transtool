@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string-array name="silent_mode_entries">
+    
+    
+    
+  <item>"Закрити"</item>
+        <item>"Вібрація"</item>
+        <item>"Без звуку"</item>
+    </string-array>
+</resources>

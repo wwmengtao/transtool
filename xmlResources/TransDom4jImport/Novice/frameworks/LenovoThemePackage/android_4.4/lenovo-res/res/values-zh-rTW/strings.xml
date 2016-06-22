@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+--><!--
+WangXuejin,2011.0719,dd lenovo added frameworks resource.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+   <!-- Lenovo-sw caijh modify: lenovo standard fast boot modify. [2012.02.28] begin
+     featureOption: LENOVO_STANDARD_FAST_BOOT_MODIFY --> 
+    <string name="dlg_use_ipo_confirm">下次快速開機</string>
+    <string name="dlg_ipo_confirm_warning">開啓快速開機功能，系統並未完全斷電，請勿在此帶電狀態下插拔sim卡或存儲卡，可能會造成卡損壞。</string>
+   <!-- Lenovo-sw caijh modify: lenovo standard fast boot modify. [2012.02.28] end
+     featureOption: LENOVO_STANDARD_FAST_BOOT_MODIFY -->
+    <!-- Lenovo sw caijh 20120328 begin-->
+    <string name="storage_sd_card">"外置存儲卡"</string>
+    <string name="storage_usb">"內置存儲卡"</string>
+    <string name="storage_phone">"內置存儲卡"</string>
+    <string name="storage_external_usb">"外部 USB 儲存裝置"</string>
+    <!-- Lenovo sw caijh 20120328 end-->  
+
+    <!-- Lenovo-sw [huangxh2] 2012-03-08 add begin-->
+    <string name="ext_storage_internal_notification_title">正在準備內置存儲卡</string>
+    <string name="ext_storage_external_notification_title">正在準備外置存儲卡</string>
+    <!-- Lenovo-sw [huangxh2] 2012-03-08 add end-->
+
+    <!--lenovo-sw wuzb1 2013_09_03 add air mode change confirm dialog begin -->
+    <string name="global_actions_toggle_open_airplane_mode_confirm">將會開啟飛航模式</string>
+    <!--lenovo-sw wuzb1 2013_09_03 add air mode change confirm dialog end -->
+    <!--Lenovo-huangleib add begin 20120803 -->
+    <string name="usb_notification_title">USB計算機連接</string>
+    <string name="usb_notification_content">選擇存儲設備方式和USB調試設置</string>
+    <!--Lenovo-huangleib add begin 20120803 -->
+    <string name="default_string">默認</string>
+
+    <string name="capital_on">"開"</string>
+    <string name="capital_off">"關"</string>
+    <!--lenovo-sw caijh 2012_03_08 add begin -->
+    <string name="kg_forgot_password_button_text">忘記了密碼</string>
+    <!--lenovo-sw caijh 2012_03_08 add end -->
+    <!--lenovo-sw wuzb1 2013-08-30 add begin -->
+    <string name="msg_shutdown_habit_guess">"近期內您已連續三次在此時間段關機，是否需要進入定時開關機設置?"</string>
+    <!--lenovo-sw wuzb1 2013-08-30 add end -->
+
+    <!--begin, lenovo-sw wuzb1 2013-06-30 -->
+    <string name="global_action_reboot">重啟</string>
+    <string name="reboot_confirm_title">重啟</string>
+    <string name="reboot_confirm_msg">你的手機將會重啟</string>
+    <string name="reboot_dialog_msg">"繼續按電源鍵 <xliff:g id="DELAY">^1</xliff:g> 秒后關機。關機后再按2秒會重啟。"</string>
+    <string name="silent_mode_silent">靜音</string>
+    <string name="silent_mode_vibrate">震動</string>
+    <string name="silent_mode_normal">標準</string>
+    <string name="silent_mode_outdoor">戶外</string>
+    <!--end, lenovo-sw wuzb1 2013-06-30 -->
+    <!--Lenovo-sw wuzb1 add 2013-08-06 begin,add for shutdown warning-->
+    <string name="powerOnWarning_alarm_msg">關機鬧鐘會在%1$s喚醒</string>
+    <string name="powerOnWarning_boot_msg">定時開機會在%1$s啟動</string>
+    <!--Lenovo-sw wuzb1 add 2013-08-06 end,add for shutdown warning-->
+
+    <!--lenovo-sw zhengpf1 modify: add for long press back key for exit current app[2013-07-10] begin-->
+    <string name="long_back_exit_info">已退出</string>
+    <!--lenovo-sw zhengpf1 modify end-->
+
+    <!-- Lenovo Edit Begin -->
+    <!-- liubin add 2013.07.25, for Prevent Misoperation -->
+    <string name="prevent_misoperation_title">防誤觸模式</string>
+    <string name="prevent_misoperation_message">請勿遮擋熒幕頂部</string>
+    <string name="prevent_misoperation_quit_hint">強制退出：依次或同時按下\“音量+\”和\“返回\”</string>
+    <!-- liubin add 2013.09.13, for Captive Portal Pop-up Dialog -->
+    <string name="captive_portal_dialog_title">WLAN登錄確認</string>
+    <string name="captive_portal_dialog_message">當前連接的無線網絡需要其他登錄信息才可訪問互聯網，請先登錄</string>
+    <string name="captive_portal_dialog_button">登錄</string>
+    <!-- Lenovo Edit End -->
+    <!--lenovo-sw shehh1 modify: add for volumePanel  begin-->
+    <string name="volume_icon_description_ringer">來電、訊息</string>
+    <string name="volume_icon_description_bluetooth">藍牙</string>
+    <string name="volume_icon_description_incall">通話</string>
+    <string name="volume_alarm">鬧鐘</string>
+    <string name="volume_fm">FM</string>
+    <string name="volume_matv">行動電視</string>
+    <string name="volume_icon_description_media">媒體</string>
+    <string name="volume_icon_description_notification">通知</string>
+     <!--lenovo-sw shehh1 modify: add for volumePanel  begin-->
+    <string name="not_support_too_long_string">不支持查找过长的字符串</string>
+    <!--Lenovo-sw wangsq2 add 2013-09-12 begin,add turn on mobile data confirm dialog-->
+    <string name="turn_on_mobile_data_warning">打開數據連接，手機會産生壹定的數據流量。具體的收費由運營商收取。確認需要打開嗎？</string>
+    <string name="next_time_no_warning">下次不再提醒</string>
+    <string name="turn_on_data">打開</string>
+    <string name="turn_off_data">關閉</string>
+    <!--Lenovo-sw wangsq2 add 2013-09-12 end,add turn on mobile data confirm dialog-->
+    <!--lenovo-sw caijh add 2013-10-22, add "lenovo" recheck dialog on keuguard-->
+    <string name="keyguard_password_waring_dlg_title">密碼錯誤</string>
+    <string name="keyguard_password_attempts_warning">"您嘗試解除這支手機的鎖定已失敗 <xliff:g id="NUMBER_0">%d</xliff:g> 次，目前還剩 <xliff:g id="NUMBER_1">%d</xliff:g> 次機會。如果失敗次數超過限制，手機將恢復原廠設定，所有使用者資料都會遺失。</string>
+    <string name="keyguard_password_waring_dlg_remind">請輸入 lenovo 并點擊確定以繼續輸入密碼</string>
+    <string name="keyguard_password_dlg_input_err">輸入錯誤，請重試</string>
+    <!--lenovo-sw caijh add 2013-10-22, add "lenovo" recheck dialog on keuguard-->
+
+    <!--Lenovo-sw add by liqf2 on  2013/10/21 begin-->
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">當您開啟無線螢幕分享時，藍牙將被關閉。您要繼續嗎？</string>
+    <!--Lenovo-sw add by liqf2 on  2013/10/21 end-->
+    <string name="app_name">經典</string>
+    <string name="component">系統小工具</string>
+    <string name="author">Lenovo 作者</string>
+    <string name="description">Lenovo 預設主題 </string>
+</resources>

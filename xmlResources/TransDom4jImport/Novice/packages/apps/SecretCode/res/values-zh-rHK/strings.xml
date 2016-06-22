@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hardversion">硬體版本：</string>
+    <string name="softversion">軟體版本： </string>
+    <string name="btn_post">"啟用"</string>
+    <string name="btn_neg">停用</string>
+    <string name="enable_fdn">"啟用"</string>
+    <string name="disable_fdn">停用</string>
+    <string name="reboot">"重新啟動"</string>
+    <string name="cancel">"取消"</string>
+    <string name="alert_ok">確定</string>
+    <string name="alert_no">否</string>
+    <string name="framework_inf">內部版本</string>
+    <string name="commit_cate">儲存</string>
+    <string name="summary_on">"開啟"</string>
+    <string name="summary_off">"關閉"</string>
+    <string name="yes_exit">是</string>
+    <string name="no_exit">否</string>
+    <string name="disable">"已停用"</string>
+    <string name="regulatory_information">"法規資訊"</string>
+    <string name="alert_message_ums_string">按下 [確定] 鍵會將 usb.config 設定為 mass_storage 模式，以進行除錯，建議一般使用者謹慎使用！</string>
+    <string name="alert_string">警示！</string>
+    <string name="productsversion">產品版本：</string>
+    <string name="frameworkversion">架構版本：</string>
+    <string name="app_name">秘密代碼</string>
+    <string name="modemversion">數據機版本：</string>
+    <string name="osversion">作業系統版本： </string>
+    <string name="alert_message_string">按下 [確定] 鍵將會回復為原廠設定並清除所有使用者資料，建議一般使用者謹慎使用！</string>
+</resources>

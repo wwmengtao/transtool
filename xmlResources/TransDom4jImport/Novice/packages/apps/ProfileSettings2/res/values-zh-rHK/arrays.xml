@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string-array name="silent_mode_entries">
+    
+    
+    
+  <item>"關閉"</item>
+        <item>"震動"</item>
+        <item>"靜音"</item>
+    </string-array>
+</resources>

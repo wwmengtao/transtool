@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_open_wifi_message">WLAN分享需要打開WLAN，確定打開?</string>
+<string name="socketchannel_busy">操作進行中，請稍後再試!</string>
+<string name="wifi_p2p_cancel_connect_message">"要取消連接的邀請嗎？"</string>
+<string name="sending_file_notification">WLAN分享： 正在發送文件</string>
+<string name="received_file_fail_dialog">文件接收失敗！</string>
+<string name="dlg_received_file_fail_notification_message">文件接收失敗，請重新發送！</string>
+<string name="wifi_p2p_disconnect_multiple_message">"如果斷開連接，您所有的連接設備將中斷。"</string>
+<string name="dlg_cancel">取消</string>
+<string name="toast_no_send_files">請先選擇壹個或多個共享文件，然後再進行連接！</string>
+<string name="dlg_close_bt_then_send_file">請關閉藍牙，然後發送文件！</string>
+<string name="app_name">"WLAN 分享"</string>
+<string name="dlg_received_file_confirm_notification_message">是否取消文件發送？</string>
+<string name="dlg_request_if_send_file">
+	       "是否向<xliff:g id="id_1">%1$s</xliff:g>發送文件:<xliff:g id="id_2">%2$s</xliff:g>？"
+    </string>
+<string name="wifi_p2p_failed_connect_message">"無法連接。"</string>
+<string name="wifi_p2p_delete_group_message">"刪除這個群組？"</string>
+<string name="dlg_request_if_receive_file">是否接收 </string>
+<string name="dlg_ok">確定</string>
+<string name="dlg_go_to_file_browser_message">請到文件管理器/WlanShare目錄查看文件！</string>
+<string name="connect_info_one2one">僅支持壹對壹的連接，請關閉其他連接再試！</string>
+<string name="dlg_airplane_open_message">請關閉飛行糢式，然後用Wlan分享！</string>
+<string name="wifi_p2p_menu_rename">"重命名設備"</string>
+<string name="dlg_sent_file_fail_notification_message">文件發送失敗，請重新發送！</string>
+<string name="received_file_result_notification">"WLAN分享：已接收的文件"</string>
+<string name="lock_settings_picker_title">"選擇屏幕鎖定方式"</string>
+<string name="sent_received_file_result_number_notification">
+        "<xliff:g id="successful_number">%1$s</xliff:g> 個成功，<xliff:g id="unsuccessful_number">%2$s</xliff:g> 個失敗。"
+    </string>
+<string name="dlg_open_wifi_message_tel">您無法在飛航模式中使用 WLAN 分享。</string>
+<string name="receiving_file_notification">WLAN分享： 正在接收文件</string>
+<string name="sent_file_fail_dialog">文件發送失敗！</string>
+<string name="wifi_p2p_remembered_groups">"已記住的群組"</string>
+<string name="wifi_p2p_disconnect_message">"如果斷開連接，您的連接將中斷。"</string>
+<string name="help_label">"幫助"</string>
+<string name="wifi_p2p_menu_searching">"正在搜索…"</string>
+<string name="dlg_sdcard_not_mounted_message">存儲設備不可用，請關閉usb存儲設備再試！</string>
+<string name="sent_file_dialog">成功發送文件(對方手機保存位置：/WlanShare)：</string>
+<string name="wifi_p2p_disconnect_title">"斷開連接？"</string>
+<string name="open_file_fail_dialog">無法打開該類型文件，請安裝相關軟件來打開！</string>
+<string name="wifi_p2p_cancel_connect_title">"取消邀請？"</string>
+<string name="wifi_p2p_failed_rename_message">"無法重命名設備。"</string>
+<string name="dlg_received_file_success_notification_message">文件接收成功，請點擊查看！</string>
+<string name="wifi_p2p_peer_devices">"對等設備"</string>
+<string name="wifi_p2p_menu_search">"搜索設備"</string>
+<string name="received_file_dialog">成功接收文件(保存位置：/WlanShare)：</string>
+<string name="sent_file_result_notification">"WLAN分享：已發送的文件"</string>
+<string name="dlg_sent_file_confirm_notification_message">是否取消文件發送？</string>
+<string name="dlg_sent_file_success_notification_message">文件發送成功，請在接收方的手機中查看！</string>
+    <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"已連線"</item>
+    <item msgid="3189211552661432651">"已邀請"</item>
+    <item msgid="3206450250360237549">"失敗"</item>
+    <item msgid="7785896708926971207">"可用的"</item>
+    <item msgid="2330782789550628803">"超出範圍"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">無內容</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="close">Kapat</string>
+<string name="cancle">"İptal"</string>
+<string name="open">"Aç"</string>
+<string name="confirm">"Onayla"</string>
+<string name="menu_settings">"Ayarlar"</string>
+    <string name="add">Ekle</string>
+
+    <string name="hello_world">Merhaba Dünya!</string>
+    <string name="app_name">Çoklu Pencere</string>
+    <string name="authorization_message">Bu uygulamayı Çoklu Pencere ile açacak mısınız?</string>
+    <string name="tips">Çoklu pencere oluşturmak için sürükleyin</string>
+    <string name="app_browser_title">Çoklu Pencere uygulaması</string>
+    <string name="authorization_notication">Yetkilendirme Bildirimi</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"การเร่งสัญญาณ WLAN"</string>
+<string name="dlg_msg">"ตรวจพบสัญญาณ WLAN อ่อนมาก การเร่งสัญญาณ WLAN ถูกเปิดใช้โดยอัตโนมัติเพื่อการเชื่อมต่อเครือข่ายที่ดีขึ้น คุณยังสามารถกำหนดการตั้งค่าฟังก์ชันได้ในการตั้งค่าระบบ - WLAN" </string>
+<string name="dlg_ok">"ตกลง"</string>
+<string name="dlg_no">"ไม่"</string>
+</resources>

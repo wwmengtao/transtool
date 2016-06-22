@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="app_name">玩家教程</string>
+    <string name="searchresult">搜尋結果</string>
+    <string name="searchLabel">搜尋</string>
+    <string name="searchHint">請輸入搜尋詞彙</string>
+    <string name="searchnoresult">無結果</string>
+    <string name="nolenovowizard">系統中找不到快速啟動</string>
+    <string name="lessons">快速啟動</string>
+    <string name="functionkeyscontent">功能按鈕</string>
+    <string name="mainscreen">主螢幕</string>
+    <string name="notificationbar">通知欄</string>
+    <string name="call">撥號</string>
+    <string name="callringtone">鈴聲</string>
+    <string name="contactsmanage">聯絡人</string>
+    <string name="message">訊息</string>
+    <string name="applist">應用程式清單</string>
+    <string name="network">網絡服務</string>
+    <string name="dualsim">雙 SIM 卡</string>
+    <string name="setting">系統設定</string>
+    <string name="connect">連接至電腦</string>
+    <string name="backupandrestore">備份與重設</string>
+    <string name="hotspot">個人熱點</string>
+    <string name="batterysaving">樂省電</string>
+    <string name="otg">OTG 功能</string>
+    <string name="applist_edit">1. 長按以編輯</string>
+    <string name="applist_edit_description">長按應用程式功能表可進入編輯介面。</string>
+    <string name="applist_uninstall">1. 快速解除安裝應用程式</string>
+    <string name="applist_uninstall_description">若要快速解除安裝應用程式，請輕點並按住該應用程式，直到上面出現紅色 X 記號為止。輕點紅色 X 記號可解除安裝應用程式。</string>
+    <string name="applist_move">2. 移動應用程式的位置</string>
+    <string name="applist_move_description">長按某個應用程式圖示，然後將它拖曳到螢幕上任一空白處。</string>
+    <string name="backupandrestore_content">1. 備份內容</string>
+    <string name="backupandrestore_content_description">「樂同步」會將「聯絡人」、「訊息」和「通話記錄」備份到您的 SD 卡中。當然，使用者必須先擁有 聯想通行証。</string>
+    <string name="backupandrestore_backup">2. 備份操作</string>
+    <string name="backupandrestore_backup_description">輕點應用程式清單中的「樂同步」圖示，然後選擇「聯絡人」、「訊息」和「通話記錄」以建立備份。</string>
+    <string name="backupandrestore_restore">3. 恢復操作</string>
+    <string name="backupandrestore_restore_description">輕點應用程式清單中的「樂同步」圖示，然後選擇「聯絡人」、「訊息」和「通話記錄」以還原。</string>
+    <string name="batterysaving_introduce">1. 窗口小部件</string>
+    <string name="batterysaving_introduce_description">長按主螢幕中的空白處，直到底部出現功能表為止，按一下「窗口小部件」，然後選取「樂省電」。此小部件將會新增至您的桌面。</string>
+    <string name="batterysaving_screen">3.定時開關</string>
+    <string name="batterysaving_screen_description">首頁設有定時開關功能。例如，您可以將 23:00-6:00 這個時段切換為應急省電模式。</string>
+    <string name="batterysaving_lowbattery">1.切換省電模式</string>
+    <string name="batterysaving_lowbattery_descritpion">首頁設有日常、省電及應急模式。用戶可以輕按以選擇首兩個模式的其中一個，然後進入設定介面進行詳細設定。您可以按一下左上角的功能表按鈕或在螢幕上向右滑動，進入設定介面。 </string>
+    <string name="batterysaving_mode">2.實用工具</string>
+    <string name="batterysaving_mode_description">設定介面的「工具」列中提供耗電量、凍結的應用程式及其他實用工具。</string>
+    <string name="call_mode">1. 撥號方式</string>
+    <string name="call_mode_description">您可以從撥號、聯絡人、通話記錄或訊息介面來撥打電話。</string>
+    <string name="call_volume">2. 通話音量調整</string>
+    <string name="call_volume_description">按下側面按鈕（提高和降低音量）可調整通話期間的音量。</string>
+    <string name="call_bluetooth">3. 切換成藍牙接聽</string>
+    <string name="call_bluetooth_description">如果已連接藍牙耳機，並在擴音器聽筒位置顯示藍牙項目圖示，您就可以輕點以顯示相關的功能表選項。</string>
+    <string name="call_record">4. 通話錄音</string>
+    <string name="call_record_description">在通話期間輕點螢幕底部的「錄音」圖示可開始錄音，再輕點一次即停止。</string>
+    <string name="call_speedcall">5. 透過相片快速撥號</string>
+    <string name="call_speedcall_description">輕點聯絡人的相片可快速存取撥號和訊息捷徑。</string>
+    <string name="call_mapping">6. 使用撥號來快速尋找名稱</string>
+    <string name="call_mapping_description">撥號可以快速搜尋電話號碼，以及根據聯絡人的第一個字母或完整名稱來尋找聯絡人。</string>
+    <string name="call_ip">7. IP 撥號</string>
+    <string name="call_ip_description">您可在「通話設定」中設定 IP 撥號（方法是按下撥號中的功能表按鍵）。若要進行 IP 通話，請輸入您要的電話號碼，按下功能表按鍵，然後選取「IP  撥號」。</string>
+    <string name="call_endcall">8. 按下電源按鈕以結束通話</string>
+    <string name="call_endcall_description">啟用此功能後，電源按鈕在通話期間就會變成結束通話的按鍵。（按下撥號中的功能表按鍵，選取「通話設定」即可進行設定）</string>
+    <string name="call_sensor">9. 近距離感應器</string>
+    <string name="call_sensor_description">啟用此功能後，當您在通話期間將電話拿起至耳邊時，螢幕就會自動關閉。</string>
+    <string name="call_smartsound">10. 智音功能</string>
+    <string name="call_smartsound_description">智音：以智能型方式減少環境噪音，並改善通話期間的語音品質。此設定位於「通話設定」中。（按下撥號中的功能表按鍵，選取「通話設定」）</string>
+    <string name="callringtone_choose">1. 鈴聲選擇</string>
+    <string name="callringtone_choose_description">在目錄「系統設定 - 情景模式 - 標準/戶外」中，開啟並選取鈴聲。您可以從電話的媒體櫃中選擇。</string>
+    <string name="callringtone_adjust">2. 鈴聲音量調整</string>
+    <string name="callringtone_adjust_description">1) 在目錄「系統設定 - 情景模式 - 標準/戶外」中，開啟並調整電話的音量。2) 在主螢幕中，使用電話側面的音量按鍵來直接調整音量。</string>
+    <string name="callringtone_mute">3. 接聽電話時立刻靜音</string>
+    <string name="callringtone_mute_description">有來電時，按下電話右側的音量按鍵或電源按鍵可將鈴聲設為靜音。</string>
+    <string name="connect_device">1. 使用電話做為儲存裝置</string>
+    <string name="connect_device_description">當您連接數據線時，手機會自動顯示「USB存取模式」介面（按一下下拉通知欄中的「USB已連接」也可以叫出此介面）。在此介面中，您可以選取媒體裝置 (MTP) 或相機 (PTP)。</string>
+    <string name="connect_mode">2. 两種儲存模式</string>
+    <string name="connect_mode_description">1) MTP 儲存裝置：此模式讓您的電話變成 USB 磁碟機，允許您管理複製到電話上的檔案。這是隨插即用的功能。若是 Windows XP 和更舊的系統，您必須安裝 Windows Mediaplayer 11 或更新版本。2) PTP：此模式可讓您使用攝影機的軟體來傳輸相片。若是 Windows XP 和更舊的系統，則需要額外的驅動程式。若是 Windows XP 和更舊的系統，您必須安裝 Windows Mediaplayer 11 或更新版本</string>
+    <string name="connect_pc">3. 與電腦同步</string>
+    <string name="connect_pc_description">當手機透過數據連接線連接到電腦時，會自動顯示 \"USB 電腦連接\" 介面。您亦可在下拉式通知列中選擇 \"USB 電腦連接\" 顯示此介面。選擇 \"USB除錯模式\"。連接後，即可複製資料到電腦和手機，和透過電腦在手機上安裝應用程式，而不會收到彈出通知。</string>
+    <string name="contactsmanage_add">1. 新增聯絡人</string>
+    <string name="contactsmanage_add_description">輕點聯絡人清單中的 (+) 按鈕可建立新聯絡人。</string>
+    <string name="contactsmanage_remove">2. 刪除聯絡人</string>
+    <string name="contactsmanage_remove_description">長按聯絡人清單中任一聯絡人名稱，直到彈出功能表為止，然後選取「刪除聯絡人」即可刪除。您也可以在聯絡人清單頁面按下功能表按鍵，選取「刪除所有會話串」選項，以刪除多個聯絡人。</string>
+    <string name="contactsmanage_lookup">3. 搜尋聯絡人</string>
+    <string name="contactsmanage_lookup_description">1) 您可以使用聯絡人清單右側的字母 A 到 Z，依聯絡人名稱的第一個字母來搜尋聯絡人。2) 您也可以輕點「搜尋」圖示，使用聯絡人清單中的搜尋視窗。然後輸入第一個字母、完整名稱或電話號碼來尋找聯絡人。</string>
+    <string name="contactsmanage_copy">4. 複製聯絡人</string>
+    <string name="contactsmanage_copy_description">長按聯絡人清單中的聯絡人名稱，直到彈出功能表為止。接著選取「複製聯絡人」，即可在您的 SIM 卡和電話之間複製聯絡人。</string>
+    <string name="contactsmanage_share">4. 共用聯絡人</string>
+    <string name="contactsmanage_share_description">長按聯絡人清單中的聯絡人名稱可彈出功能表。然後選取「共用聯絡人」，透過 訊息、MMS 等共用所選的聯絡人。</string>
+    <string name="dualsim_setting">1. 雙 SIM 卡配置</string>
+    <string name="dualsim_setting_description">使用雙 SIM 卡的使用者可以在「系統設定」->「SIM 管理」中設定和取消主要卡片。</string>
+    <string name="dualsim_switch">2. 快速切換主要 SIM</string>
+    <string name="dualsim_switch_description">設定主要 SIM 之後，您可以使用撥號或訊息介面中的下拉通知面板在 SIM 卡之間切換。</string>
+    <string name="fmtansmitter_definition">1. FM 發射器簡介</string>
+    <string name="fmtansmitter_definition_description">啟用 FM 發射器之後，電話所有的音訊都會使用 FM 發射器。您可以使用其他裝置來接收這些訊號，但電話本身無法接收音訊。</string>
+    <string name="fmtansmitter_guide">2. 使用 FM 發射器</string>
+    <string name="fmtansmitter_guide_description">1) 從應用程式清單中開啟 FM 發射器，然後使用介面的開關打開它。2) 按下底部的搜尋按鈕，尋找可用的頻率。3) 將另一部裝置設定為所選的頻率，以接收音訊。</string>
+    <string name="functionkeyscontent_introduce">1. 功能鍵概觀</string>
+    <string name="hotspot_definition">1. 個人熱點簡介</string>
+    <string name="hotspot_definition_description">個人熱點可讓您與您的電腦和其他無線裝置共用您電話的 3G 網際網絡連線。</string>
+    <string name="hotspot_setting">2. 設定個人熱點</string>
+    <string name="hotspot_setting_description">設定個人熱點的方式有三種：1) WLAN 連線方式：這會將您的電話變成行動 AP，讓其他裝置可以透過 WLAN 使用它的網絡連線。2) 藍牙連線方式：這可讓其他裝置與您的電話配對，並透過藍牙使用它的連線。3) USB 連線方式：這可讓其他裝置在透過 USB 線連接時，使用您電話的網絡連線。</string>
+    <string name="hotspot_method">3. 個人熱點操作</string>
+    <string name="hotspot_method_description">1) 從應用程式清單中開啟「個人熱點」應用程式；2)在三種連接方式中，選擇適合自己的方式； 3) 依據需要透過您的電話進行連線的裝置上所選的模式來建立連線；4) 建立連線後，您的電話即可當做無線存取點使用。</string>
+    <string name="mainscreen_move">1. 移動項目</string>
+    <string name="mainscreen_move_description">長按要移動的項目，然後拖曳到您要的空白位置。</string>
+    <string name="mainscreen_delete">2. 移除項目</string>
+    <string name="mainscreen_delete_description">長按要移除的項目，直到主螢幕頂端出現資源回收筒圖示或「X 移除」為止，然後將它拖放至該處即可移除。</string>
+    <string name="mainscreen_add">3. 新增項目</string>
+    <string name="mainscreen_add_description">長按主螢幕中的空白處，然後輕點「小工具」中的某個圖示。此工具集將會新增至您的桌面。</string>
+    <string name="mainscreen_icon">2. 狀態列圖示</string>
+    <string name="mainscreen_fourgrass_edit">5. 更換四葉草上的項目</string>
+    <string name="mainscreen_fourgrass_edit_description">長按您要更換的四葉草上的項目。</string>
+    <string name="mainscreen_fourgrass_delete">6. 移除四葉草</string>
+    <string name="mainscreen_fourgrass_delete_desecription">長按要移除的四葉草中央。然後將四葉草拖曳到「X 移除」即可移除。</string>
+    <string name="mainscreen_fourgrass_restore">7. 還原四葉草</string>
+    <string name="mainscreen_fourgrass_restore_description">長按主螢幕中的空白處，直到底部出現功能表為止，然後選取「四葉草」即可還原。請注意，主螢幕上必須有足夠的空間。</string>
+    <string name="mainscreen_wallpaper">3.更換 主題 和 桌布</string>
+    <string name="mainscreen_wallpaper_description">輕點左下角的功能表按鍵，然後選擇「主題」或「桌布」進行更換。</string>
+    <string name="mainscreen_folder">6. 新增資料夾</string>
+    <string name="mainscreen_folder_description">如果待機介面中有太多捷徑，您可以長按捷徑並拖曳到另一個捷徑圖示。這將會自動建立資料夾。</string>
+    <string name="mainscreen_thumbnail">4. 檢視主螢幕縮圖</string>
+    <string name="mainscreen_thumbnail_description">若要檢視主螢幕縮圖，請使用兩指合併的動作來縮小主螢幕。</string>
+    <string name="message_send">1. 傳送訊息</string>
+    <string name="message_send_description">1) 開啟應用程式清單中的「聯絡人」，輕點聯絡人，然後在彈出介面中輕點「訊息」圖示；2) 開啟應用程式清單中的「聯絡人」，輕點聯絡人的圖片，然後在彈出介面中輕點「訊息」圖示；3) 在「通話記錄」中輕點某個聯絡人，然後在彈出介面中輕點「訊息」圖示。</string>
+    <string name="message_zoom">2. 訊息字型大小</string>
+    <string name="message_zoom_description">使用兩指分開的動作可放大字型，使用兩指合併的動作則可縮小字型。</string>
+    <string name="message_delete">3. 刪除訊息</string>
+    <string name="message_delete_description">在訊息清單中，長按您要刪除的訊息，然後從彈出功能表中選取「刪除會話串」。</string>
+    <string name="message_save">4. 將訊息儲存至 SIM 卡</string>
+    <string name="message_save_description">在訊息詳情界面有兩種方法儲存訊息：1）長按你想保存的訊息，然後點按彈出選單的相關信息儲存選項；2）點擊您需要儲存的訊息，點按彈出選單的「更多」按鈕，然後點按接下來彈出選單的相關信息儲存選項。</string>
+    <string name="network_data">1. 使用資料服務</string>
+    <string name="network_data_description">資料服務啟用和停用：1) 下拉通知面板，然後輕點資料服務圖示以啟用和停用服務；2) 在「系統設定」中輕點「資料連線」以啟用和停用服務。附註：資料服務會依據實際流量和您的服務供應商來收取費用。</string>
+    <string name="network_wlan">2. 使用 WLAN</string>
+    <string name="network_wlan_description">1) 若要切換 WLAN 的開或關：下拉通知欄，然後輕點 WLAN 圖示來切換開或關。長按以進入 WLAN 設定。您也可以透過「系統設定」->「無線與網絡」來啟用或停用 WLAN。2) WLAN 設定：當您第一次使用無線基地台時，必須進行這些設定。在 WLAN 設定介面中啟用 WLAN 之後，按下要連線的無線基地台，然後輸入必要的設定（即輸入密碼）。下次使用無線基地台時，只要已啟用 WLAN 且網絡參數相同，便會自動與無線基地台連線。3) WLAN 狀態：若正在使用 WLAN 圖示，該圖示便會顯示在狀態列上。</string>
+    <string name="network_hotspot">3. 使用個人熱點</string>
+    <string name="network_hotspot_description">個人熱點可讓您與您的電腦和其他無線裝置共用您電話的 3G 網際網絡連線。此功能將帶來數據費用。若要使用電話做為個人無線基地台，請開啟應用程式清單，然後輕點個人無線基地台並啟用此功能。然後選取 USB、WLAN 或藍牙連線方式。</string>
+    <string name="notificationbar_open">1. 開啟通知欄</string>
+    <string name="notificationbar_open_description">從螢幕的頂端下拉通知欄即可開啟。</string>
+    <string name="notificationbar_close">2. 關閉通知欄</string>
+    <string name="notificationbar_close_description">從螢幕的底部往上拖曳通知欄即可關閉。</string>
+    <string name="notificationbar_quick">3. 捷徑切換</string>
+    <string name="notificationbar_quick_description">從螢幕的頂端下拉通知欄時，可以找到不同的快速鍵，例如情景模式、資料連線、亮度等等，長按任一圖示即可進入其設定介面。</string>
+    <string name="setting_display">1. 顯示設定</string>
+    <string name="setting_display_description">您可以透過「系統設定」->「顯示」，設定螢幕亮度、自動轉屏螢幕以及休眠時間。</string>
+    <string name="setting_secure">2. 安全設定</string>
+    <string name="setting_secure_description">您可以透過「系統設定」->「安全性與鎖屏」來設定螢幕鎖定密碼。</string>
+    <string name="setting_resotre">3. 恢復原廠設定</string>
+    <string name="setting_resotre_description">如果您的電話有問題，可以試著將電話重設為原廠設定。只要前往「系統設定」->「備份與重設」，並選擇「恢復原廠設定」即可。請注意，將會刪除儲存在電話中的所有資料，包括訊息、聯絡人、通話記錄、應用程式和媒體檔案。建議您備份重要檔案，避免資料遺失。</string>
+    <string name="otg_charge">1. 行動充電</string>
+    <string name="otg_charge_description">如果電話需要充電，請使用行動整流器接線來連接電話和此裝置，即可充電。充電期間，此裝置的電池電量會消耗地比較快。請注意，如果正在充電的電話已關閉，此裝置將不會顯示連接提示。</string>
+    <string name="backupandrestore_other_description">除了使用「樂同步」，您也可以前往「系統設定」，然後選擇「備份與重設」來備份或還原訊息、聯絡人和通話記錄。</string>
+    <string name="backupandrestore_other">4.其他備份和還原方法</string>
+    <string name="character">精選功能</string>
+<string name="character_functions_description">用戶可前往 <b>系統設定->精選</b>檢視系統特色及指示。</string>
+</resources>

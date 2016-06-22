@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2010 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+  <string-array name="tips">
+    
+    
+    
+    
+    
+    
+  <item>"查看手機上的所有應用程式。"\n"按一下「啟動程序」圖示。@drawable/all_apps"</item>
+        <item>"將應用程式拖曳至主畫面。"\n"點選並按住啟動器中的一個應用程式，直到手機震動。"</item>
+        <item>"整理手機的主畫面。"\n"按住某個項目直到手機震動，然後將其拖到所需位置。"</item>
+        <item>"刪除某個項目。"\n"按住該項目直到手機震動，然後將其拖入「垃圾桶」圖示。@drawable/trash"</item>
+        <item>"有多個主畫面。"\n"用手指在螢幕上左右滑動即可切換顯示，並可在各主畫面之間移動圖示。"</item>
+        <item>"不再需要這個小部件？"\n"按住它直到手機震動，然後將其拖入「垃圾桶」圖示。"</item>
+    </string-array>
+    <string-array name="tips2">
+        
+        
+        
+        
+        
+        
+        
+        
+    <item>首頁就像座花園
+        \n觸碰並按住空白位置
+        \n即可建立新圖示</item>
+        <item>手機不防水
+        \n請勿浸入水中
+        \n或其他液體中</item>
+        <item>想要擁有更多首頁畫面嗎？
+        \n請左右滑動來尋找
+        \n(No theft required)</item>
+        <item>首頁畫面上的小圓點
+        \n它們的功能為何？
+        \n觸碰並按住來瞭解。</item>
+        <item>狀態列圖示
+        \n若要探索它們的秘密
+        \n請展開狀態列</item>
+        <item>小秘訣：
+        \n在首頁畫面間拖曳項目
+        \n在邊緣的地方暫停一下</item>
+        <item>觸碰「市集」，取得應用程式
+        \n就像一盒巧克力
+        \n個個都是驚喜</item>
+        <item>對了，順帶一提：
+        \nCeci n’est pas une trombone
+        \n我是一台 Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">ระบบทั่วไป</string>
+<string name="user_auto_start_user_summary">เริ่มระบบปลอดภัยในพื้นหลังโดยอัตโนมัติเมื่อบูตระบบ</string>
+<string name="user_setup_seuser_msg">ระบบปลอดภัยเปิดอยู่ เข้าร่วมเลยและทำการตั้งค่าให้เสร็จหรือไม่</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"ควบคุมโดย <xliff:g id="APP">%1$s</xliff:g>"</string>
+<string name="user_config_apps_for_seuser">ตั้งค่าแอ็พที่คุณต้องการติดตั้งในระบบปัจจุบัน</string>
+<string name="user_add_seuser_msg">ยังไม่ได้เปิดระบบปลอดภัย เปิดตอนนี้เลยหรือไม่</string>
+<string name="user_auto_start_user">เริ่มระบบปลอดภัยเพื่อบูตระบบ</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"ข้ามไปก่อน"</string>
+<string name="user_need_lockscreen_for_seuser_msg">คุณต้องตั้งค่าการล็อคหน้าจอเพื่อปกป้องแอ็พและข้อมูลของคุณในโหมดปลอดภัย</string>
+<string name="user_share_data_summary">แชร์ผู้ติดต่อ ข้อความตัวอักษร บันทึกการโทร และข้อมูลอื่นๆ ในสองระบบ มีผลหลังจากบูตระบบ</string>
+<string name="app_name" msgid="1626402585530130914">"การตั้งค่า"</string>
+<string name="done_button" msgid="1991471253042622230">"เสร็จสิ้น"</string>
+<string name="user_share_data">การแชร์ข้อมูล</string>
+<string name="user_float_switch_button_summary">แสดงปุ่มลอยบนหน้าจอเพื่อให้สนับระหว่างระบบต่างๆ ได้ง่าย</string>
+<string name="user_security_mode">ระบบปลอดภัย</string>
+<string name="user_float_switch_button">ปุ่มลอย</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"ตั้งค่าล็อก"</string>
+    <string name="user_guide_title_2">กำหนดค่าโหมดปัจจุบัน </string>
+    <string name="user_guide_title_3">การแจ้งเตือนการใช้ข้ามโหมด</string>
+    <string name="user_guide_title_1">คำแนะนำโหมดปลอดภัย</string>
+    <string name="user_guide_title_4">การแยกข้อมูลและการแชร์ </string>
+    <string name="user_guide_desc_1">โหมดปลอดภัยให้คุณได้กำหนดแอ็พ บัญชี ภาพพื้นหลัง และรหัสผ่านล็อคหน้าจอ ที่ต่างจากที่ใช้ในโหมดปัจจุบันได้ แตะไอคอน \"โหมดปลอดภัย\" ในแถบสถานะเพื่อสลับใช้โหมดต่างๆ อย่างรวดเร็ว</string>
+    <string name="user_guide_desc_2">กด \"โหมดปลอดภัย\" ที่อยู่ในแถบสถานะค้างไว้เพื่อไปที่ส่วนติดต่อการตั้งค่าสำหรับโหมดปัจจุบัน คุณสามารถกำหนดแอ็พที่ต้องการติดตั้งได้ในโหมดปัจจุบัน</string>
+    <string name="user_guide_desc_3">ในโหมดปกติ การแจ้งเตือนจากแอ็พที่อยู่ในโหมดปลอดภัยก็จะแสดงบนแถบสถานะเช่นกัน จุดสีแดงที่ปรากฏบนไอคอนการแจ้งเตือนแสดงให้เห็นว่าแตกต่างจากการแจ้งเตือนที่อยู่ในโหมดปัจจุบัน สลับโหมดเพื่อดูการแจ้งเตือน</string>
+    <string name="user_guide_desc_4">ข้อมูลแอ็พพลิเคชันและเอกสารต่างๆ ของทั้งสองโหมดจะเก็บไว้แยกจากกัน สามารถดูเนื้อหาต่างๆ ที่อยู่ในการ์ด SD โหมดปกติในไดเรกทอรี OpenUserData ของการ์ด SD โหมดปลอดภัยได้ แต่ไม่สามารถทำได้ในทางกลับกัน โหมดทั้งสองจะแชร์บันทึกการโทร บันทึกข้อความ และผู้ติดต่อเพื่อให้การโทรและการส่งข้อความทำงานได้เป็นปกติในทั้งสองโหมด</string>
+    <string name="user_remove_secure_user">ลบระบบปลอดภัย</string>
+    <string name="user_privacy_mgt_summary">จำกัดแอ็พไม่ให้เข้าถึงที่ติดต่อ ข้อความ และบันทึกการโทร</string>
+    <string name="user_remove_secure_user_reboot_msg">ข้อมูลของแอ็พ รูปภาพ และไฟล์ที่อยู่ในระบบปลอดภัยทั้งหมดจะถูกลบ ระบบจะรีสตาร์ทโดยอัตโนมัติเพื่อนำการเปลี่ยนแปลงไปใช้ ลบหรือไม่</string>
+    <string name="user_bgapp_mgt">จำกัดข้อมูลในเบื้องหลัง</string>
+    <string name="user_privacy_mgt">การควบคุมการเข้าถึงความเป็นส่วนตัว</string>
+    <string name="user_privacy_mgt_msg">บล็อกแอ็พไม่ให้เข้าถึงที่ติดต่อ ข้อความ และบันทึกการโทร</string>
+    <string name="user_bgapp_mgt_summary">บล็อกแอ็พไม่ให้เริ่มอัตโนมัติและยุติโปรเซสที่อยู่เบื้องหลัง </string>
+    <string name="user_remove_secure_user_msg">ข้อมูลของแอ็พ รูปภาพ และไฟล์ที่อยู่ในระบบปลอดภัยทั้งหมดจะถูกลบ ลบหรือไม่</string>
+    <string name="user_bgapp_mgt_msg">บล็อกแอ็พไม่ให้เริ่มอัตโนมัติและยุติโปรเซสที่อยู่เบื้องหลัง ใช้ไม่ได้กับแอ็พที่ต้องทำงานเบื้องหลัง เช่น อีเมลและ WhatsApp</string>
+    <string name="user_uninstall_app_for_all_user_msg">แอ็พไม่ได้ติดตั้งในระบบอื่นและจะถูกลบจากโทรศัพท์ของคุณหลังถอนการติดตั้ง ถอนการติดตั้งหรือไม่</string>
+<string name="help_label">"ความช่วยเหลือ"</string>
+    <string name="user_uninstall_app_msg">คุณต้องการถอนการติดตั้งแอ็พนี้ในสภาพแวดล้อมปัจจุบันใช่หรือไม่</string>
+</resources>

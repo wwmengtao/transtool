@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="wifi_sleep_policy_entries_smart">
+        <!-- Always keep WLAN on when screen turns off. -->
+        <item>"Sempre"</item>
+        <!-- Keep WLAN on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        <item>"Apenas quando estiver ligado"</item>
+        <!-- Do not keep WLAN on when screen turns off. -->
+        <item>"Nunca (aumenta a utilização de dados)"</item>
+        <!-- Smart go to sleep. -->
+        <item>Inteligente (Liga-se automaticamente durante a transferência de dados)</item>
+    </string-array>
+    <string-array name="ext_mvno_type_entries">
+        <!-- to avoid translate again for string "None". -->
+        <item>@string/landscape_launcher_none</item>
+        <!-- Do not translate. -->
+        <item>SPN</item>
+        <!-- Do not translate. -->
+        <item>IMSI</item>
+        <!-- Do not translate. -->
+        <item>GID</item>
+        <!-- Do not translate. -->
+        <item>PNN</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>@string/wifi_security_none</item>
+        
+        
+        
+        
+    <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        
+        
+    <item>Normalmente ligado</item>
+        <item>Durante 3 segundos</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        
+        
+        
+    <item>Automático</item>
+        <item>\WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        
+        
+    <item>720p (60 fotogramas/seg.)</item>
+        <item>720p (30 fotogramas/seg.)</item>
+    </string-array>
+    <string-array name="sim_slot">
+
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+    <item>(não especificada)</item>
+        <item>Ranhura de SIM 1</item>
+        <item>Ranhura de SIM 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+    <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        
+        
+    <item>IPv4</item>
+        <item>IPv4 e IPv6</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        
+        
+        
+    <item>Subscrição 1</item>
+        <item>Subscrição 2</item>
+        <item>Pedido</item>
+    </string-array>
+    <string-array name="wpa_security">
+
+        <!-- The WLAN network does not have any security. -->
+        <item>@string/wifi_security_none</item>
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+    <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        
+        
+    <item>Rato direito</item>
+        <item>Rato esquerdo</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+
+        <!-- Always keep WLAN on when screen turns off. -->
+        
+        <!-- Keep WLAN on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        
+        <!-- Do not keep WLAN on when screen turns off. -->
+        
+    <item>Sempre</item>
+        <item>Desligar quando inativo durante 5 min.</item>
+        <item>Desligar quando inativo durante 10 min.</item>
+    </string-array>
+    <string-array name="wapi_security">
+
+        <!-- The WLAN network does not have any security. -->
+        <item>@string/wifi_security_none</item>
+        <!-- Do not translate. -->
+        
+        
+    <item>WAPI PSK</item>
+        <item>Certificado WAPI</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        
+        
+        
+    <item>1080p (30 fotogramas/seg.)</item>
+        <item>720p (60 fotogramas/seg.)</item>
+        <item>720p (30 fotogramas/seg.)</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>@string/wifi_security_none</item>
+        
+        
+        
+        
+        
+        
+    <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Certificado WAPI</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Utilizar a hora fornecida pela rede</item>
+        <item>Utilizar a hora fornecida pelo GPS</item>
+        <item>Desligado</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        <item>Abrir</item>
+        <item>Durante 3 segundos</item>
+        <item>Automático</item>
+        <item>Fechar</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Ecrã de rotação inteligente (roda o ecrã de acordo com os seus olhos)</item>
+        <item>Ecrã de rotação automática</item>
+        <item>Fechado</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        <item>Rotação por gesto</item>
+        <item>Rotação automática</item>
+        <item>Desligado</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Recomendações do sistema</item>
+        <item>Instalar no telefone</item>
+        <item>Instalar no cartão de memória predefinido</item>
+    </string-array>
+</resources>

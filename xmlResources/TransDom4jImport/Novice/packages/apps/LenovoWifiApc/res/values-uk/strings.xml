@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Підсилення сигналу WLAN"</string>
+<string name="dlg_msg">"Виявлено дуже слабкий сигнал WLAN. Було автоматично активовано підсилення сигналу WLAN для кращого з\'єднання з мережею. Ви також можете налаштувати параметри функції в настройках системи - WLAN." </string>
+<string name="dlg_ok">"OK"</string>
+<string name="dlg_no">"ні"</string>
+</resources>

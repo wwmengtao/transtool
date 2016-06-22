@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Amplification du signal WLAN"</string>
+<string name="dlg_msg">"Un signal WLAN très faible a été détecté. La fonction d\'amplification du signal WLAN a été activée automatiquement pour améliorer la connexion réseau. Vous pouvez configurer les paramètres de la fonction dans Paramètres système - WLAN." </string>
+<string name="dlg_ok">"OK"</string>
+<string name="dlg_no">"non"</string>
+</resources>

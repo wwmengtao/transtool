@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="permlab_accessWifiState" msgid="5202012949247040011">"lihat sambungan WLAN"</string>
+<string name="permlab_changeWifiState" msgid="6550641188749128035">"sambung dan putuskan dari WLAN"</string>
+<string name="permdesc_accessFineLocation" msgid="5295047563564981250">"Membenarkan apl mendapatkan lokasi tepat anda menggunakan Sistem Kedudukan Global (GPS) atau sumber lokasi rangkaian seperti menara sel dan WLAN. Perkhidmatan lokasi ini mesti dihidupkan dan tersedia pada peranti anda untuk kegunaan apl. Apl boleh menggunakan ini untuk menentukan tempat anda berada dan mungkin menggunakan kuasa bateri tambahan."</string>
+<string name="permdesc_accessCoarseLocation" msgid="2538200184373302295">"Membenarkan apl mendapatkan lokasi anggaran anda. Lokasi ini diperolehi oleh perkhidmatan lokasi menggunakan sumber lokasi rangkaian seperti menara sel dan WLAN. Perkhidmatan lokasi ini mesti dihidupkan dan tersedia pada peranti anda untuk kegunaan apl. Apl boleh menggunakan ini untuk menentukan secara anggaran tempat anda berada."</string>
+<string name="permdesc_accessWifiState" msgid="5002798077387803726">"Membenarkan apl melihat maklumat tentang rangkaian WLAN, seperti sama ada WLAN didayakan dan nama peranti WLAN yang disambungkan."</string>
+<string name="permdesc_changeWifiState" msgid="7137950297386127533">"Membenarkan apl menyambung ke dan memutuskan sambungan dari titik capaian WLAN dan membuat perubahan kepada konfigurasi peranti untuk rangkaian WLAN."</string>
+</resources>

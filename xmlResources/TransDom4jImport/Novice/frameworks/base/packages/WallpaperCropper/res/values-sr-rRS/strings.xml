@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="crop_wallpaper">"Opsecanje pozadine"</string>
+    <string name="wallpaper_instructions">"Podesi pozadinu"</string>
+    <string name="wallpaper_load_fail">Nije moguće učitati sliku kao pozadinu</string>
+</resources>

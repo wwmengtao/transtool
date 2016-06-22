@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_settings">"Подешавања"</string>
+    <string name="open">"Отвори"</string>
+    <string name="exit">Izađi</string>
+    <string name="add">"Додај"</string>
+    <string name="close">"Затвори"</string>
+    <string name="confirm">"Потврда"</string>
+    <string name="cancle">"Откажи"</string>
+</resources>

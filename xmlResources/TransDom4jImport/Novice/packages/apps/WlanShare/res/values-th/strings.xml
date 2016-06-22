@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_open_wifi_message">WLAN แชร์ จำเป็นต้องเปิด WLAN，และคุณเิปิด WLAN หรือไม่?</string>
+<string name="socketchannel_busy">กำลังทำงาน โปรดลองใหม่ภายหลัง</string>
+<string name="wifi_p2p_cancel_connect_message">คุณต้องการยกเลิกการเชิญเพื่อเชื่อมต่อหรือไม่?</string>
+<string name="sending_file_notification">WLAN แชร์: ไฟล์กำลังถูกส่ง</string>
+<string name="received_file_fail_dialog">รับเอกสารไม่ได้</string>
+<string name="dlg_received_file_fail_notification_message">รับเอกสารไม่ได้ โปรดลองใหม่อีกครั้ง</string>
+<string name="wifi_p2p_disconnect_multiple_message">ถ้าคุณตัดการเชื่อมต่อ, การเชื่อมต่อกับอุปกรณ์ทั้งหมดจะสิ้นสุด</string>
+<string name="dlg_cancel">"ยกเลิก"</string>
+<string name="toast_no_send_files">โปรดเลือกเอกสารที่จะแชร์หนึ่งฉบับหรือมากกว่าก่อนการเชื่อมต่อ</string>
+<string name="dlg_close_bt_then_send_file">โปรดปิด Bluetooth ก่อนส่งเอกสาร</string>
+<string name="app_name">"การแชร์ WLAN"</string>
+<string name="dlg_received_file_confirm_notification_message">คุณต้องการยกเลิกการส่งเอกสารปัจจุบันหรือไม่</string>
+<string name="dlg_request_if_send_file">คุณส่งไฟล์ </string>
+<string name="wifi_p2p_failed_connect_message">ไม่สามารถเชื่อมต่อ</string>
+<string name="wifi_p2p_delete_group_message">"ไม่จำกลุ่มนี้ใช่หรือไม่"</string>
+<string name="dlg_request_if_receive_file">ยอมรับหรือไม่ </string>
+<string name="dlg_ok">"ยืนยัน"</string>
+<string name="dlg_go_to_file_browser_message">โปรดตรวจสอบไฟล์เอกสารภายใต้ตัวจัดการเอกสาร/WlanShare</string>
+<string name="connect_info_one2one">รองรับการเชื่อมต่อแบบหนึ่งต่อหนึ่งเท่านั้น โปรดปิดการเชื่อมต่ออื่นๆ ทั้งหมดก่อนลองใหม่</string>
+<string name="dlg_airplane_open_message">โปรดออกจากโหมดเครื่องบินแล้วใช้การแชร์ WLAN</string>
+<string name="wifi_p2p_menu_rename">"เปลี่ยนชื่ออุปกรณ์"</string>
+<string name="dlg_sent_file_fail_notification_message">ส่งเอกสารไม่ได้ โปรดส่งใหม่</string>
+<string name="received_file_result_notification">WLAN แชร์: ไฟล์ที่ได้รับ</string>
+<string name="lock_settings_picker_title">เลือกล็อคหน้าจอ</string>
+<string name="sent_received_file_result_number_notification"> 
+        <xliff:g id="successful_number">%1$s</xliff:g> สำเร็จ, <xliff:g id="unsuccessful_number">%2$s</xliff:g> ไม่สำเร็จ
+    </string>
+<string name="dlg_open_wifi_message_tel">คุณไม่สามารถใช้การแชร์ WLAN ในโหมดเครื่องบินได้</string>
+<string name="receiving_file_notification">WLAN แชร์: กำลังรับไฟล์</string>
+<string name="sent_file_fail_dialog">ส่งเอกสารไม่ได้</string>
+<string name="wifi_p2p_remembered_groups">"กลุ่มที่จดจำ"</string>
+<string name="wifi_p2p_disconnect_message">ถ้าคุณตัดการเชื่อมต่อ, การเชื่อมต่อของคุณจะสิ้นสุด</string>
+<string name="help_label">"ความช่วยเหลือ"</string>
+<string name="wifi_p2p_menu_searching">กำลังค้นหา\u2026</string>
+<string name="dlg_sdcard_not_mounted_message">อุปกรณ์จัดเก็บข้อมูลไม่พร้อมใช้งาน โปรดปิดอุปกรณ์จัดเก็บข้อมูล USB ก่อนลอง</string>
+<string name="sent_file_dialog">ส่งเอกสารสำเร็จ (เอกสารถูกบันทึกภายใต้: /WlanShare บนโทรศัพท์มือถือของผู้รับ):</string>
+<string name="wifi_p2p_disconnect_title">ยกเลิกการเชื่อมต่อหรือไม่?</string>
+<string name="open_file_fail_dialog">ไม่สามารถเปิดไฟล์ประเภทนี้ได้ โปรดติดตั้งซอฟต์แวร์ที่จำเป็น</string>
+<string name="wifi_p2p_cancel_connect_title">"ยกเลิกข้อความเชิญหรือไม่"</string>
+<string name="wifi_p2p_failed_rename_message">ไม่สามารถเปลี่ยนชื่ออุปกรณ์</string>
+<string name="dlg_received_file_success_notification_message">รับเอกสารสำเร็จ โปรดกดเพื่อดู</string>
+<string name="wifi_p2p_peer_devices">อุปกรณ์เพียร์</string>
+<string name="wifi_p2p_menu_search">ค้นหาอุปกรณ์</string>
+<string name="received_file_dialog">รับเอกสารสำเร็จ (บันทึกภายใต้: /WlanShare):</string>
+<string name="sent_file_result_notification">WLAN แชร์: ไฟล์ที่ส่ง</string>
+<string name="dlg_sent_file_confirm_notification_message">คุณต้องการยกเลิกการส่งเอกสารปัจจุบันหรือไม่</string>
+<string name="dlg_sent_file_success_notification_message">ส่งเอกสารสำเร็จ โปรดดูในโทรศัพท์มือถือของผู้รับ</string>
+    <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"เชื่อมต่อแล้ว"</item>
+    <item msgid="3189211552661432651">"เชิญแล้ว"</item>
+    <item msgid="3206450250360237549">"ไม่สำเร็จ"</item>
+    <item msgid="7785896708926971207">"พร้อมใช้งาน"</item>
+    <item msgid="2330782789550628803">"อยู่นอกระยะสัญญาณ"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">ไม่มีเนื้อหา</string>
+</resources>

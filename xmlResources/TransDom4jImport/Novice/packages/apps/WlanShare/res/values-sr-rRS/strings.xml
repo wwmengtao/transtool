@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="dlg_ok">"Potvrdi"</string>
+    <string name="dlg_cancel">"Otkaži"</string>
+    <string name="help_label">"Pomoć"</string>
+    <string name="wifi_p2p_menu_rename">"Preimenuj uređaj"</string>
+    <string name="wifi_p2p_disconnect_title">"Želite li da prekinete vezu?"</string>
+    <string name="wifi_p2p_cancel_connect_title">"Želite li da otkažete pozivnicu?"</string>
+    <string name="wifi_p2p_remembered_groups">"Zapamćene grupe"</string>
+    <string name="wifi_p2p_delete_group_message">"Želite li da zaboravite ovu grupu?"</string>
+    <string name="lock_settings_picker_title" msgid="1095755849152582712">"Izbor zaključav. ekrana"</string>
+    <string name="wifi_p2p_failed_rename_message" msgid="2562182284946936380">"Preimenovanje uređaja nije uspelo."</string>
+    <string name="wifi_p2p_menu_search" msgid="3436429984738771974">"Pretraži uređaje"</string>
+    <string name="wifi_p2p_peer_devices" msgid="299526878463303432">"Ravnopravni uređaji"</string>
+    <string name="wifi_p2p_cancel_connect_message" msgid="7477756213423749402">"Želite li da otkažete pozivnicu za povezivanje sa uređajem <xliff:g id="PEER_NAME">%1$s</xliff:g>?"</string>
+    <string name="wifi_p2p_failed_connect_message" msgid="8921447388048243547">"Povezivanje nije moguće."</string>
+    <string name="wifi_p2p_disconnect_multiple_message" msgid="3283805371034883105">"Ako prekinete vezu, okončaćete vezu sa uređajem <xliff:g id="PEER_NAME">%1$s</xliff:g> i drugim uređajima (<xliff:g id="PEER_COUNT">%2$s</xliff:g>)."</string>
+    <string name="wifi_p2p_disconnect_message" msgid="8227342771610125771">"Ako prekinete vezu, okončaćete vezu sa uređajem <xliff:g id="PEER_NAME">%1$s</xliff:g>."</string>
+    <string name="wifi_p2p_menu_searching" msgid="2396704492143633876">"Pretraživanje…"</string>
+    <string name="dlg_open_wifi_message">Da biste omogućili deljenje WLAN mreže, potrebno je da aktivirate WLAN mrežu. Želite li da je aktivirate?</string>
+    <string name="socketchannel_busy">Još radi. Pokušajte ponovo kasnije!</string>
+    <string name="sending_file_notification">Deljenje WLAN mreže: Slanje dokumenta</string>
+    <string name="dlg_received_file_fail_notification_message">Dokument nije primljen. Pokušajte ponovo.</string>
+    <string name="received_file_fail_dialog">Dokument nije primljen!</string>
+    <string name="wifi_p2p_no_content_message">Nema sadržaja</string>
+    <string name="toast_no_send_files">Pre povezivanja, izaberite dokumente koje želite da podelite!</string>
+    <string name="dlg_close_bt_then_send_file">Zatvorite Bluetooth vezu pre slanja dokumenta!</string>
+    <string name="dlg_received_file_confirm_notification_message">Želite li zaista da otkažete trenutni prenos dokumenta?</string>
+    <string name="dlg_request_if_send_file">
+	       Želite li da pošaljete dokument: <xliff:g id="id_2">%2$s</xliff:g> primaocu <xliff:g id="id_1">%1$s</xliff:g>?
+    </string>
+    <string name="dlg_request_if_receive_file">Prihvati </string>
+    <string name="dlg_go_to_file_browser_message">Pogledajte dokument u fascikli Document Manager/WlanShare!</string>
+    <string name="connect_info_one2one">Podržana je samo veza jedan-na-jedan. Zatvorite ostale veze, pa pokušajte ponovo.</string>
+    <string name="dlg_airplane_open_message">Izađite iz Režima rada u avionu, a zatim upotrebite funkciju Deljenje WLAN mreže!</string>
+    <string name="dlg_sent_file_fail_notification_message">Dokument nije poslat. Pošaljite ga ponovo.</string>
+    <string name="received_file_result_notification">"Deljenje WLAN mreže: Dokument je primljen"</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> uspelo, <xliff:g id="unsuccessful_number">%2$s</xliff:g> nije uspelo.
+    </string>
+    <string name="dlg_open_wifi_message_tel">Deljenje WLAN mreže ne možete da koristite u Režimu rada u avionu.</string>
+    <string name="receiving_file_notification">Deljenje WLAN mreže: Prijem dokumenta</string>
+    <string name="sent_file_fail_dialog">Dokument nije poslat!</string>
+    <string name="dlg_sdcard_not_mounted_message">Uređaj za skladištenje nije dostupan. Zatvorite USB uređaj za skladištenje, pa pokušajte ponovo.</string>
+    <string name="open_file_fail_dialog">Nije moguće otvoriti ovaj tip datoteke, instalirajte potreban softver!</string>
+    <string name="sent_file_dialog">Dokument je uspešno poslat (dokument je sačuvan u fascikli: /WlanShare na mobilnom telefonu primaoca):</string>
+    <string name="dlg_received_file_success_notification_message">Dokument je uspešno primljen. Pritisnite da biste ga prikazali.</string>
+    <string name="received_file_dialog">Dokument je uspešno primljen (sačuvan u fascikli:/WlanShare):</string>
+    <string name="sent_file_result_notification">"Deljenje WLAN mreže: Dokument je poslat"</string>
+    <string name="dlg_sent_file_confirm_notification_message">Želite li zaista da otkažete trenutni prenos dokumenta?</string>
+    <string name="dlg_sent_file_success_notification_message">Dokument je uspešno poslat. Pogledajte ga na mobilnom telefonu primaoca.</string>
+    <string name="app_name">"Deljenje WLAN mreže"</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Layar Nirkabel"</string>
+    <string name="miracast_app_name">"Layar Nirkabel"</string>
+    <string name="welcome_version">Versi <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"Sambungkan ke perangkat"</string>
+    <string name="item_device_mode_audio_only_title">Audio</string>
+    <string name="item_device_mode_video_only_title">Video</string>
+    <string name="item_device_mode_meeting_title">Rapat</string>
+    <string name="item_device_mode_connect_title">"Sambungkan"</string>
+    <string name="item_device_mode_disconnect_title">"Putuskan sambungan"</string>
+    <string name="item_device_mode_rename_title">Ganti nama</string>
+    <string name="item_device_mode_forget_title">Lupakan</string>
+    <string name="activity_settings_title">"Setelan"</string>
+    <string name="preference_settings_resolution_title">Resolusi</string>
+    <string name="preference_settings_update_title">"Tentang"</string>
+    <string name="dlg_confirm_switch_av_message">Sambungan saat ini harus diputus lebih dulu untuk mengalihkan mode.\nAnda ingin beralih sekarang?</string>
+    <string name="dlg_loading_scan_device_message">Memindai perangkat ...</string>
+    <string name="dlg_loading_enable_wifi_message">Mengaktifkan WLAN ...</string>
+    <string name="dlg_loading_reconnect_message">Alihkan mode, menyambung ulang ...</string>
+    <string name="toast_connecting">Menyambung, coba lagi nanti</string>
+    <string name="toast_already_connected">Perangkat lain sudah tersambung, lepaskan sambungan lebih dulu</string>
+    <string name="toast_device_not_available">Tidak dapat menyambung, perangkat tidak tersedia</string>
+    <string name="tutor_message_1">Sambungkan dongle AllShare Cast ke perangkat HDMI yang menggunakan kabel HDMI A-TO-A.</string>
+    <string name="tutor_message_2">Saat indikator merah mulai berkedip, klik tombol reset. Tunggu sampai indikator berubah biru. Tidak perlu mengkliknya lagi saat menyambung ulang.</string>
+    <string name="tutor_message_4">Jika berhasil tersambung, Anda dapat berbagi layar dengan perangkat lain.</string>
+    <string name="tutor_message_audioonly">Jika output audio didukung oleh dongle, Anda dapat mencoba mode Audio Saja untuk menikmati musik nirkabel.</string>
+    <string name="tutor_message_videoonly">Jika Anda ingin terhubung ke suatu dongle dengan antarmuka DVI atau VGA, Anda disarankan menggunakan mode Video Saja.</string>
+    <string name="activity_meeting_mode_title">Mode Rapat</string>
+    <string name="tutor_message_3">Masuk ke Miracast, lalu setel Tombol Aktifkan ke Aktif. Nama perangkat yang tersedia untuk koneksi akan muncul di daftar perangkat yang tersedia</string>
+    <string name="dlg_select_resolution_title">Pilih resolusi</string>
+    <string name="dlg_confirm_switch_video_message">Mode video akan membagikan konten layar melalui dongle saja. \nKoneksi saat ini harus diputuskan untuk beralih mode. \nLanjutkan?</string>
+    <string name="dlg_rename_title">Ganti nama perangkat</string>
+    <string name="dlg_confirm_disconnect_message">Putuskan?</string>
+    <string name="toast_not_paired">Operasi hanya tersedia untuk perangkat yang terhubung</string>
+    <string name="dlg_confirm_switch_audio_message">Mode audio akan membagikan video melalui dongle saja. Sebelum beralih ke mode audio, pastikan bahwa mode ini didukung oleh dongle Anda, jika tidak koneksi tidak akan berhasil. \nKoneksi saat ini harus diputuskan untuk beralih mode. \nLanjutkan?</string>
+    <string name="dlg_confirm_forget_message">Hapus perangkat ini dari daftar perangkat yang terhubung?</string>
+    <string name="preference_settings_meeting_mode_title">Mode Rapat</string>
+    <string name="preference_settings_tutor_title">Tutorial</string>
+    <string name="dlg_confirm_meeting_mode_message">Panggilan dibatasi dalam mode rapat, dan SMS secara otomatis ditampilkan di bagian depan. Aktifkan mode rapat?</string>
+</resources>

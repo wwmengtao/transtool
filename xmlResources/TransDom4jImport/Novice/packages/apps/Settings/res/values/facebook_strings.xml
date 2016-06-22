@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">General sync settings</string>
+    <string name="sync_interval_settings">Sync interval settings</string>
+    <string name="try_sso_again">Try single sign-on again</string>
+    <string name="for_syncing">For syncing</string>
+</resources>

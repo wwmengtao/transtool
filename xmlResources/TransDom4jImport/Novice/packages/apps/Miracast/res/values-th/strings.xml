@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"จอแสดงผลไร้สาย"</string>
+    <string name="miracast_app_name">"จอแสดงผลไร้สาย"</string>
+    <string name="welcome_version">เวอร์ชัน <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"เชื่อมต่อกับอุปกรณ์"</string>
+    <string name="item_device_mode_audio_only_title">เสียง</string>
+    <string name="item_device_mode_video_only_title">ภาพ</string>
+    <string name="item_device_mode_meeting_title">ประชุม</string>
+    <string name="item_device_mode_connect_title">"เชื่อมต่อ"</string>
+    <string name="item_device_mode_disconnect_title">ยกเลิกการเชื่อมต่อ</string>
+    <string name="item_device_mode_rename_title">เปลี่ยนชื่อ</string>
+    <string name="item_device_mode_forget_title">"ไม่จำ"</string>
+    <string name="activity_settings_title">การตั้งค่า</string>
+    <string name="preference_settings_resolution_title">ความละเอียด</string>
+    <string name="preference_settings_update_title">เกี่ยวกับ</string>
+    <string name="dlg_confirm_switch_av_message">ต้องยกเลิกการเชื่อมต่อปัจจุบันเสียก่อนเพื่อเปลี่ยนโหมด\nคุณต้องการเปลี่ยนตอนนี้เลยหรือไม่</string>
+    <string name="dlg_loading_scan_device_message">สแกนหาอุปกรณ์ ...</string>
+    <string name="dlg_loading_enable_wifi_message">เปิดใช้งาน WLAN ...</string>
+    <string name="dlg_loading_reconnect_message">เปลี่ยนโหมด กำลังเชื่อมต่อใหม่ ...</string>
+    <string name="toast_connecting">กำลังเชื่อมต่อ โปรดลองใหม่ภายหลัง</string>
+    <string name="toast_already_connected">มีอุปกรณ์อื่นเชื่อมต่ออยู่ โปรดยกเลิกการเชื่อมต่อก่อน</string>
+    <string name="toast_device_not_available">อุปกรณ์ไม่พร้อมใช้งาน ไม่สามารถเชื่อมต่อได้ </string>
+    <string name="tutor_message_1">เชื่อมต่อดองเกิล  AllShare Cast ไปที่อุปกรณ์ HDMI โดยใช้สาย HDMI แบบ A ทั้งสองด้าน (A-TO-A)</string>
+    <string name="tutor_message_2">เมื่อไฟบอกสถานะสีแดงเริ่มกะพริบ ให้คลิกปุ่ม รีเซ็ต รอให้ไฟบอกสถานะเปลี่ยนเป็นสีน้ำเงิน ไม่จำเป็นต้องคลิกอีกครั้งเมื่อทำการเชื่อมต่อใหม่</string>
+    <string name="tutor_message_4">เมื่อเชื่อมต่อสำเร็จแล้ว คุณจะสามารถแชร์หน้าจอของคุณร่วมกับอุปกรณ์อีกรายการได้</string>
+    <string name="tutor_message_audioonly">หากดองเกิลรองรับเอาท์พุตเสียง คุณสามารถลองใช้งานโหมด เสียงเท่านั้น เพื่อสัมผัสกับฟังเพลงแบบไร้สาย</string>
+    <string name="tutor_message_videoonly">หากคุณต้องการเชื่อมต่อไปที่ดองเกิลด้วยส่วนติดต่อ DVI หรือ VGA แนะนำให้ใช้โหมด วิดีโอเท่านั้น</string>
+    <string name="activity_meeting_mode_title">โหมดการประชุม</string>
+    <string name="tutor_message_3">เข้าสู่ Miracast แล้วเปลี่ยนปุ่ม เปิดใช้งาน เป็น เปิด ชื่ออุปกรณ์ที่พร้อมสำหรับการเชื่อมต่อจะปรากฏในรายการอุปกรณ์ที่พร้อมเชื่อมต่อ</string>
+    <string name="dlg_select_resolution_title">เลือกความละเอียด</string>
+    <string name="dlg_confirm_switch_video_message">โหมดวิดีโอจะแชร์เนื้อหาของหน้าจอผ่าน dongle เท่านั้น \nการเชื่อมต่อปัจจุบันจะต้องยกเลิกการเชื่อมต่อเพื่อเปลี่ยนโหมด \nดำเนินการต่อไหม</string>
+    <string name="dlg_rename_title">เปลี่ยนชื่ออุปกรณ์</string>
+    <string name="dlg_confirm_disconnect_message">ยกเลิกการเชื่อมต่อไหม</string>
+    <string name="toast_not_paired">การทำงานใช้งานได้กับอุปกรณ์ที่เชื่อมต่อเท่านั้น</string>
+    <string name="dlg_confirm_switch_audio_message">โหมดเสียงจะแชร์เสียงผ่าน dongle เท่านั้น ก่อนที่จะสลับเป็นโหมดเสียง ให้ยืนยันว่า dongle ของคุณรองรับ มิเช่นนั้นการเชื่อมต่อจะไม่สำเร็จ \nการเชื่อมต่อปัจจุบันจะต้องยกเลิกการเชื่อมต่อเพื่อเปลี่ยนโหมด \nดำเนินการต่อไหม</string>
+    <string name="dlg_confirm_forget_message">ลบอุปกรณ์นี้จากรายการอุปกรณ์ที่เชื่อมต่อไหม</string>
+    <string name="preference_settings_meeting_mode_title">โหมดการประชุม</string>
+    <string name="preference_settings_tutor_title">สาธิตการใช้งาน</string>
+    <string name="dlg_confirm_meeting_mode_message">การโทรจะถูกจำกัดในโหมดการประชุม และ SMS จะแสดงในฉากหน้าโดยอัตโนมัติ เปิดใช้งานโหมดการประชุมไหม</string>
+</resources>

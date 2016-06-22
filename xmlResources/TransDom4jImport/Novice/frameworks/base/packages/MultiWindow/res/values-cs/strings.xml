@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="close">Zavřít</string>
+<string name="cancle">"Zrušit"</string>
+<string name="open">"Otevřít"</string>
+<string name="confirm">"Potvrdit"</string>
+<string name="menu_settings">"Nastavení"</string>
+    <string name="add">Přidat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Více oken</string>
+    <string name="authorization_message">Budete tuto aplikaci otevírat pomocí více oken?</string>
+    <string name="tips">Vytvořit více oken přetažením</string>
+    <string name="app_browser_title">Aplikace více oken</string>
+    <string name="authorization_notication">Oznámení o autorizaci</string>
+</resources>

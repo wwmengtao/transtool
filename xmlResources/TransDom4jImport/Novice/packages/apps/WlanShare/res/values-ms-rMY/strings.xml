@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_open_wifi_message">WLAN SHARE perlu membuka WLAN dan adakah anda membuka WLAN?</string>
+<string name="socketchannel_busy">Bekerja. Sila cuba lagi nanti!</string>
+<string name="wifi_p2p_cancel_connect_message">Adakah anda ingin membatalkan jemputan untuk bersambung?</string>
+<string name="sending_file_notification">WLAN SHARE: Fail sedang dihantar.</string>
+<string name="received_file_fail_dialog">Dokumen tidak diterima!</string>
+<string name="dlg_received_file_fail_notification_message">Dokumen tidak diterima. Sila cuba lagi.</string>
+<string name="wifi_p2p_disconnect_multiple_message">Jika anda memutuskan sambungan, sambungan anda dengan semua peranti akan tamat.</string>
+<string name="dlg_cancel">"Batal"</string>
+<string name="toast_no_send_files">Sila pilih satu atau lebih dokumen untuk dikongsi sebelum bersambung!</string>
+<string name="dlg_close_bt_then_send_file">Sila tutup Bluetooth sebelum menghantar dokumen!</string>
+<string name="app_name">WLAN dikongsi</string>
+<string name="dlg_received_file_confirm_notification_message">Adakah anda pasti ingin membatalkan penghantaran dokumen semasa?</string>
+<string name="dlg_request_if_send_file">Adakah anda menghantar fail </string>
+<string name="wifi_p2p_failed_connect_message">Tidak dapat menyambung.</string>
+<string name="wifi_p2p_delete_group_message">"Lupakan kumpulan ini?"</string>
+<string name="dlg_request_if_receive_file">Terima </string>
+<string name="dlg_ok">"Sahkan"</string>
+<string name="dlg_go_to_file_browser_message">Sila semak dokumen di bawah fail Pengurus Dokumen/WlanShare!</string>
+<string name="connect_info_one2one">Menyokong sambungan satu kepada satu sahaja. Sila tutup semua sambungan lain sebelum mencuba semula.</string>
+<string name="dlg_airplane_open_message">Sila keluar daripada mod penerbangan, kemudian gunakan Kongsi WLAN!</string>
+<string name="wifi_p2p_menu_rename">"Namakan semula peranti"</string>
+<string name="dlg_sent_file_fail_notification_message">Dokumen tidak dihantar. Sila hantar semula.</string>
+<string name="received_file_result_notification">WLAN SHARE: Fail diterima</string>
+<string name="lock_settings_picker_title">Pilih kunci skrin</string>
+<string name="sent_received_file_result_number_notification"> 
+        <xliff:g id="successful_number">%1$s</xliff:g> berjaya, <xliff:g id="unsuccessful_number">%2$s</xliff:g> tidak berjaya.
+    </string>
+<string name="dlg_open_wifi_message_tel">Anda tidak boleh menggunakan kongsi WLAN dalam mod Pesawat.</string>
+<string name="receiving_file_notification">WLAN SHARE: Fail sedang diterima.</string>
+<string name="sent_file_fail_dialog">Dokumen tidak dihantar!</string>
+<string name="wifi_p2p_remembered_groups">"Kumpulan diingati"</string>
+<string name="wifi_p2p_disconnect_message">Jika anda memutuskan sambungan, sambungan anda akan ditamatkan.</string>
+<string name="help_label">"Bantuan"</string>
+<string name="wifi_p2p_menu_searching">Mencari\u2026</string>
+<string name="dlg_sdcard_not_mounted_message">Peranti storan tidak tersedia. Sila tutup peranti storan USB sebelum mencuba.</string>
+<string name="sent_file_dialog">Dokumen berjaya dihantar (dokumen disimpan bawah: /WlanShare pada telefon mudah alih penerima):</string>
+<string name="wifi_p2p_disconnect_title">Putuskan sambungan?</string>
+<string name="open_file_fail_dialog">Tidak boleh membuka jenis fail ini, sila pasang perisian yang diperlukan!</string>
+<string name="wifi_p2p_cancel_connect_title">"Batalkan jemputan?"</string>
+<string name="wifi_p2p_failed_rename_message">Gagal menamakan semula peranti.</string>
+<string name="dlg_received_file_success_notification_message">Dokumen berjaya diterima. Sila tekan untuk melihat.</string>
+<string name="wifi_p2p_peer_devices">Peranti rakan</string>
+<string name="wifi_p2p_menu_search">Cari peranti</string>
+<string name="received_file_dialog">Dokumen berjaya diterima (disimpan bawah: /WlanShare):</string>
+<string name="sent_file_result_notification">WLAN SHARE: Fail dihantar</string>
+<string name="dlg_sent_file_confirm_notification_message">Adakah anda pasti ingin membatalkan penghantaran dokumen semasa?</string>
+<string name="dlg_sent_file_success_notification_message">Dokumen berjaya dihantar. Sila lihat pada telefon mudah alih penerima.</string>
+    <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Bersambung"</item>
+    <item msgid="3189211552661432651">"Dijemput"</item>
+    <item msgid="3206450250360237549">"Tidak berjaya"</item>
+    <item msgid="7785896708926971207">"Ada"</item>
+    <item msgid="2330782789550628803">"Di luar liputan"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">Tiada Kandungan</string>
+</resources>

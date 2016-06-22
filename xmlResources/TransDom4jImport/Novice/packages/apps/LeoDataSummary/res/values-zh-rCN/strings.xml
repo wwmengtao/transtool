@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="operator_name_china_mobile">"China Mobile"</string>
+    <string name="operator_name_china_unicom">"China Unicom"</string>
+    <string name="operator_name_china_telcom">"China Telcom"</string>
+    <string name="info">由手机计算得出可能于运营商有所不同。</string>
+    <string name="appcontrol">应用联网控制</string>
+    <string name="apprateinfo">流量使用情况</string>
+    <string name="data_summary">流量使用及应用控制</string>
+    <string name="current_month">"说明：当月已使用 "</string>
+    <string name="data_usage_tab_slot1">"卡1"</string>
+    <string name="data_usage_tab_slot2">"卡2"</string>
+    <string name="today">"今日"</string>
+
+    <string name="disable">disable</string>
+    <string name="i_know_it">I know it</string>
+    <string name="profile_settings">Profile Settings</string>
+
+    <!-- Title for accessibility preference to install accessibility scripts from Google. [CHAR LIMIT=35] -->
+    <string name="accessibility_toggle_script_injection_preference_title">Enhance web accessibility</string>
+    <string name="accessibility_script_injection_security_warning_summary">Do you want apps to install scripts from Google that make their web content more accessible?</string>
+    <!-- Title for the dialog button to allow script injection. [CHAR LIMIT=15] -->
+    <string name="accessibility_script_injection_button_allow">Allow</string>
+    <!-- Title for the dialog button to disallow script injection. [CHAR LIMIT=15] -->
+    <string name="accessibility_script_injection_button_disallow">Don\'t allow</string>
+    <string name="colorLight_settings"> lighting set </string>
+    <string name="color_light"> lamp efficiency </string>
+    <string name="color_light_demo"> lamp efficiency demo </string>
+    <string name="color_light_call"> calls </string>
+    <string name="color_light_missed_call"> missed calls </string>
+    <string name="color_light_unread_mms"> unread SMS </string>
+    <string name="color_light_battery"> low battery </string>
+    <string name="showing_color_light"> lighting demo </string>
+    <string name="stop_color_light"> stops </string>
+    <string name="color_light_hasopen"> is turned on </string>
+    <string name="color_light_hasclose"> closed </string>
+    <string name="color_light_other_summary"> micro letters, QQ, microblogging </string>
+    <string name="color_light_other"> other unread notifications </string>
+    <string name="timing_startup_and_shutdown_settings_title">Scheduled power on and off</string>
+    <string name="startup_shutdown_time_errmsg">Time span between power on and off must be longer than 10 minutes, please set up again.</string>
+    <string name="timing_startup_head_text">Power on</string>
+    <string name="timing_shutdown_head_text">Power off</string>
+    <string name="startup_time">Power on at</string>
+    <string name="shutdown_time">Power off at</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="startup_time_enabled">Scheduled power on</string>
+    <string name="shutdown_time_enabled">Scheduled power off</string>
+    <string name="data_connect_settings_title">Data connection</string>
+    <string name="sim_not_available">SIM card unavailable</string>
+    <string name="never_timeout">Never standby</string>
+    <string name="simple_settings">Beginner\'s guide</string>
+    <string name="version_info">"Version information"</string>
+    <string name="ota_title">System update</string>
+    <string name="products_version">Model No.</string>
+    <string name="hardware_version">Hardware version number</string>
+    <string name="software_version">Software version number</string>
+    <string name="framework_version">Android version number</string>
+    <string name="os_version">System version number</string>
+    <string name="internal_version">Internal version number</string>
+    <string name="backup_data_section_title">Data backup</string>
+    <string name="backup_data_to_sdcard_title">Back up data to SD card</string>
+    <string name="backup_data_to_sdcard_summary">Back up phone data to SD card</string>
+    <string name="recovery_data_section_title">Data recovery</string>
+    <string name="recovery_data_title">Recover data from SD card backup </string>
+    <string name="recovery_data_summary">Tap to enter SD card data backup</string>
+    <string name="reset_backup_befor_reset_title">Back up data before reset</string>
+    <string name="reset_backup_befor_reset_summary">Back up important data, e.g. contacts, before reset</string>
+    <string name="reset_skip_backup_title">Skip backup</string>
+    <string name="reset_skip_backup_summary">Select this option for items have been backed up or have no needs for backup</string>
+    <string name="whatis_lenovoid_title"> "Association passes what is it? "</string>
+    <string name="whatis_lenovoid_summary"> "use your cell phone as Lenovo pass account, become a member of the Association. "</string>
+    <string name="what_lenovoid_cando_title"> "Association passes what can I do? "</string>
+    <string name="whatis_lenovoid_cando_summary"> "unrestrained access to associations for various applications, cloud services, and service. One card in hand, unblocked. "</string>
+    <string name="lock_title" product="tablet">Securing your tablet</string>
+    <!-- ChooseLockPatternTutorial, tutorial screen title -->
+    <string name="lock_title" product="default">Securing your phone</string>
+    <!-- ChooseLockPatternTutorial, tutorial screen text -->
+    <string name="lock_intro_message" product="tablet">Protect your tablet from unauthorized use by creating a personal screen unlock pattern. Slide your finger to connect the dots in any order on the next screen.  You need to connect at least four dots.
+        \n\nReady to start? Touch Next.</string>
+    <!-- ChooseLockPatternTutorial, tutorial screen text -->
+    <string name="lock_intro_message" product="default">Protect your phone from unauthorized use by creating a personal screen unlock pattern. Slide your finger to connect at least four dots in any order on the next screen.
+        \n\nReady to start? Touch Next.</string>
+    <string name="teos_settings">Effect Of Screen</string>
+    <string name="teos_settings_title">Effect Of Screen</string>
+    <string name="display_effect_of_screen_saturation_title">Saturation</string>
+    <string name="display_effect_of_screen_contrast_title">Contrast</string>
+    <string name="display_effect_of_screen_hue_title">HUE</string>
+    <string name="display_effect_of_screen_sharpen_title">Sharpness</string>
+    <string name="display_effect_of_screen_apply">Apply</string>
+    <string name="display_effect_of_screen_cancel">Cancel</string>
+
+    <string-array name="saturation">
+        <item>Soft</item>
+        <item>Default</item>
+        <item>Bright</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Default</item>
+        <item>Hight</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Cool</item>
+        <item>Default</item>
+        <item>Warm</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Default</item>
+        <item>Sharpen</item>
+    </string-array>
+
+    <string name="display_effect_of_screen_saturation_item0">Soft</string>
+    <string name="display_effect_of_screen_saturation_item1">Default</string>
+    <string name="display_effect_of_screen_saturation_item2">Bright</string>
+    <string name="display_effect_of_screen_contrast_item0">Cool</string>
+    <string name="display_effect_of_screen_contrast_item1">Default</string>
+    <string name="display_effect_of_screen_contrast_item2">Warm</string>
+    <string name="display_effect_of_screen_sharpen_item0">Default</string>
+    <string name="display_effect_of_screen_sharpen_item1">Sharpen</string>
+    <string name="quicksettings">"quicksettings"</string>
+    <string name="exit">Exit</string>
+    <string name="mannual">Enter into Beginner\'s tutorial</string>
+    <string name="quicksettings_title">Quick setup</string>
+    <string name="quicksettings_summary">Welcom using Lenovo phone, please start with quick setup! You may\n set up individually in "System setup".</string>
+
+    <!-- Title for show frame count x coordinate -->
+    <string name="show_frame_count_x_coordinate">X coordinate</string>
+    <!-- Title for show frame count y coordinate -->
+    <string name="show_frame_count_y_coordinate">Y coordinate</string>
+    <!-- Title for show frame count size -->
+    <string name="show_frame_count_size">Size</string>
+    <!-- Title for show frame count bit -->
+    <string name="show_frame_count_bit">Bit</string>
+    <!-- Title for show frame count Cancel -->
+    <string name="show_frame_count_cancel_button_text">Cancel</string>
+    <!-- Title for show frame OK -->
+    <string name="show_frame_count_ok_button_text">OK</string>
+    <!-- Title for Show screen frame count -->
+    <string name="show_screen_frame_count">Show screen frame count</string>
+    <string name="savepower_white_title">"White List"</string>
+    <string name="savepower_black_title">"Black List"</string>
+    <string name="savepower_all_title">"All"</string>
+    <string name="save_power_title">"System Wake-up Control"</string>
+    <string name="save_power_summary">"Choose the application that allow wake-up system"</string>
+    <string name="save_power_count">"Totally <xliff:g id="NUMBER">%d</xliff:g> apps allow to wake-up system"</string>
+    <string name="save_power_wait_title">"Please wait"</string>
+    <string name="save_power_wait_message">"Loading apps"</string>
+    <string name="lenovo_exp_title">Agree to participate in the Lenovo Experience Program</string>
+    <string name="lenovo_exp_content">"Only support CN"</string>
+
+    <!-- Bluetooth Authorization Dialog [CHAR LIMIT=none] -->
+    <string name="authdlg_title">Bluetooth Authorization Request</string>
+    <string name="authdlg_message">\'%1$s\' is requesting permission to connect to %2$s.</string>
+    <string name="bluetooth_remote_device">bluetooth device</string>
+    <string name="authdlg_auto_reply">Do not ask again</string>
+    <string name="authdlg_service_dun">the dialup networking service on this phone</string>
+    <string name="authdlg_service_ftp">this phone to transfer files</string>
+    <string name="authdlg_service_map">this phone to access messages</string>
+    <string name="authdlg_service_opp">this phone</string>
+    <string name="authdlg_service_pbap">this phone to download contacts</string>
+    <string name="authdlg_service_spp">the Bluetooth serial port on this phone</string>
+    <string name="authdlg_service_default">this phone</string>
+    <string name="authdlg_service_accept">Authorize</string>
+    <string name="authdlg_service_decline">Decline</string>
+    <string name="authorizaion_failed_error">Authorization failed. Unable to connect to the remote device.</string>
+    <string name="A_gps_summary"> use assistant data to speed up the fixed time of location  with GPS</string>
+    <string name="userguide_title">"Boot Guide"</string>
+    <string name="usergudie_button_text">"Enter the boot settings"</string>
+    <string name="theme_settings_title">"Theme"</string>
+    <string name="volume_title">"Volume"</string>
+    <string name="incoming_call_ringer_title">"Incoming call Ringer"</string>
+    <string name="incoming_mms_ringer_title">"Message  Ringer"</string>
+    <string name="sound_settings_title">"Volume"</string>
+    <string name="show_frame_count_title">Enter into Beginner\'s tutorial</string>
+
+    <!-- UI debug setting: profile time taken by hardware acceleration to render apps [CHAR LIMIT=25] -->
+    <!-- UI debug setting: profile hardware acceleration summary [CHAR LIMIT=50] -->
+    <string name="track_frame_time_summary">Measure rendering time in adb shell dumpsys gfxinfo</string>
+    <string name="show_frame_count_summary">Show frame count when it is enable.</string>
+
+    <!-- UI debug setting: enable low-level traces? [CHAR LIMIT=25] -->
+    <string name="enable_traces_title">Enable traces</string>
+    <!-- UI debug setting: title for dialog to enable low-level traces [CHAR LIMIT=25] -->
+    <string name="enable_traces_dialog_title">Select enabled traces</string>
+
+    <!-- UI debug setting: enable low-level traces, none enabled summary [CHAR LIMIT=NONE] -->
+    <string name="enable_traces_summary_none">No traces currently enabled</string>
+    <!-- UI debug setting: enable low-level traces, some number enabled summary [CHAR LIMIT=NONE] -->
+    <string name="enable_traces_summary_num">traces currently enabled</string>
+    <!-- UI debug setting: enable low-level traces, all enabled summary [CHAR LIMIT=NONE] -->
+    <string name="enable_traces_summary_all">All traces currently enabled</string>
+    <string name="playertutorial_title">Player tutorial</string>
+    <string name="safety_information_content">"If you want to upgrade your phone's system, please contact the official Lenovo after-sales service network or use the system upgrade function in your Lenovo phone. Otherwise, it may lead to device failure or data loss, and may also destroy the system's security function and incur security risk."</string>
+    <string name="safety_information">Safety Warning</string>
+    <string name="keyboard_lights_title">Keyboard lights</string>
+    <string name="summary_keyboard_lights">SmartControl</string>
+    <!-- Lenovo-sw huangxh2 2012-08-06 add begin -->
+    <string name="unlock_proximity_ctrl">Avoid Power Key Mis-Touch</string>
+    <string name="unlock_proximity_ctrl_summary">when mobile in pocket, automatic turn screen off while power key is mis-touched.</string>
+    <!-- Lenovo-sw huangxh2 2012-08-06 add end -->
+    <string name="other_wallpaper">Other Wallpaper</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="desktop_wallpaper">Desktop Wallpaper</string>
+    <string name="lock_wallpaper">Lock Wallpaper</string>
+    <string name="weather_live_wallpaper">Weather Live Wallpaper</string>
+    <string name="lenovoID_registered_title">"Agree use mobile phone number as Lenovo ID (Lenovo pass) account"</string>
+    <string name="backup_data_recovery_section_title">Data backup and recovery</string>
+    <string name="backup_recovery_data_title">Back up or recovery app data</string>
+    <string name="backup_recovery_data_summary">Back up or recovery app data on phone</string>
+    <string name="backup_recovery_dialog_message">Stop backing up or recoverying app data？</string>
+    <string name="unlock_set_unlock_speechnormal_title">"Quick voice unlock"</string>
+    <string name="unlock_set_unlock_speechpwd_title">"Use Voice password and Pattern to protect"</string>
+    <string name="personal_hotspot">"Personal hotspot"</string>
+    <string name="wlan_share">"WLAN share"</string>
+    <string name="common_setings_title">"Common settings"</string>
+    <string name="character_setings_title">"Feature settings"</string>
+    <string name="all_setings_title">"System settings"</string>
+
+    <!-- Summary for the allowed state of script injection. [CHAR LIMIT=15] -->
+    <string name="accessibility_script_injection_allowed">Allowed</string>
+    <!-- Summary for the disallowed state of script injection. [CHAR LIMIT=15] -->
+    <string name="accessibility_script_injection_disallowed">Not allowed</string>
+    <!--
+      Title for a warning message about security implications of enabling an accessibility service,
+         displayed as a dialog message when the user selects to enable an accessibility service (tablet). [CHAR LIMIT=NONE]
+    -->
+    <string name="accessibility_service_security_warning_title">Use</string>
+    <!--
+         Summary for a warning message about security implications of enabling an accessibility service,
+         displayed as a dialog message when the user selects to enable an accessibility service (tablet). [CHAR LIMIT=NONE]
+    -->
+    <string name="accessibility_service_security_warning_summary" product="tablet">can collect all of the text you type, except passwords. This includes personal data such as credit card numbers. It can also collect data about your interactions with the tablet.</string>
+    <!--
+         Summary for a warning message about security implications of enabling an accessibility service,
+         displayed as a dialog message when the user selects to enable an accessibility service (phone). [CHAR LIMIT=NONE]
+    -->
+    <string name="accessibility_service_security_warning_summary" product="default">can collect all of the text you type, except passwords. This includes personal data such as credit card numbers. It can also collect data about your interactions with the phone.</string>
+
+    <!--
+         Title for a warning about disabling an accessibility service displayed as a dialog message when the user
+         selects to disable that service. This avoids accidental disabling. [CHAR LIMIT=NONE]
+    -->
+    <string name="accessibility_service_disable_warning_title">Stop </string>
+    <!--
+         Summary for a warning about disabling accessibility service displayed as a dialog message when the user
+         selects to disable that service. This avoids accidental disabling. [CHAR LIMIT=NONE]
+    -->
+    <string name="accessibility_service_disable_warning_summary">Touching OK will stop </string>
+    <string name="backup_data">"Backup data before reset phone"</string>
+    <string name="backup_data_description">"Back up Contacts and other important data before reset your phone"</string>
+    <string name="show_password_summary"/>
+    <string name="unlock_set_unlock_speech_title">Voice Unlock</string>
+    <string name="user_you_section">You</string>
+    <string name="wifi_switch_settings_title">WLAN binding of location</string>
+    <string name="wifi_setting_summary">When enter location of connected ap and have GRPS data，bind the location</string>
+    <string name="wifi_switch_summary">Introduction：Record connected WLAN network, and later if you use 3G/2G GPRS data service in its coverage area, you will be remined to connect to this WLAN network or it will connect to this network automatically.</string>
+    <string name="show_dev_countdown">You are now steps away from being a developer.</string>
+    <string name="monotype_preference_title">Font style</string>
+	<string name="header_category_personalcustom">"Personalized custom"</string>
+
+   <string name="font_settings_title">"Font settings"</string>
+   <string name="roaming_settings_title">Roaming Settings</string>
+	<string name="sim_settings_title">Dual Card Settings</string>
+
+<string name="data_usage_enable_mobile_statistics">Data statistics</string>
+<string name="data_usage_enable_mobile_statistics_dialog">By enabling this feature power consumption will be high on high data rate networks such as LTE...</string>
+<string name="apn_call_number">PPP phone number</string>
+<string name="roaming_time_settings_category">International roaming settings</string>
+    <string name="roaming_time_settings_zone">Recommended time zone</string>
+    <string name="roaming_time_settings_time_display">Time display program</string>
+<string name="show_hw_overdraw_summary">From best to worst: blue, green, light red, red</string>
+    <string name="china_telcom_push_title">China Telecom Yi Push</string>
+    <string name="china_telcom_push_summary">China Telecom free push service</string>
+<string name="location_network_service">Qualcomm iZat</string>
+    <string name="location_improve_allow">Location services improved by WLAN and/or mobile networks</string>
+<!-- Mobile networks, item title to go into the network settings -->
+    <string name="subscription_01_title">SIM 1</string>
+    <!-- Mobile networks, item title to go into the network settings -->
+    <string name="subscription_02_title">SIM 2</string>
+
+<string name="data_usage_menu_restrict_systembgdata">"Permit system background data"</string>
+<string name="playersTutorial_stoped">The app of PlayersTutorial has been stoped.</string>
+<!-- Body of dialog shown when user disables collection of data statistics. [CHAR LIMIT=NONE] -->
+    <string name="data_usage_disable_mobile_statistics_dialog">By disabling this feature collection of data usage statistics would be turned off.</string>
+<string name="location_consent_dialog_message">Allow location service to collect anonymous location data. Some data may be stored on your device. Collection may occur even when no apps are running.</string>
+
+<!-- add by xubc 20130321  -->
+    <string name="devices_info_products_version">"Model: Lenovo K910"</string>
+    <string name="devices_info_firmwareVersion">"Android version: <xliff:g>%1$s</xliff:g>"</string>
+    <string name="devices_info_buildNumber">"Build num: <xliff:g>%1$s</xliff:g>"</string>
+    <string name="devices_info_cpu">"CPU：fore-core 2.2GHz"</string>
+    <string name="devices_info_runMemory">"RAM: 2.0GB</string>
+    <string name="devices_info_screen">"Screen: 1080*1920   5.5-inch"</string>
+    <string name="devices_info_camera">"Camera ：Front 5million  Rear 13million"</string>
+    <string name="devices_info_memory">"Memory：<xliff:g>%1$s</xliff:g>(free)"</string>
+
+<string name="location_consent_dialog_title">Location consent</string>
+	<string name="screensaver_timeout_zero_summary">"Never"</string>
+
+    <!-- add by liuxu7@lenovo.com, 2013-09-09, begin -->
+    <string name="fuse_backup_data_to_cloud_title">Back up data to cloud</string>
+    <string name="fuse_backup_data_to_cloud_summary">Back up phone data to cloud</string>
+    <string name="fuse_recovery_data_from_cloud_title">Recover data from cloud</string>
+    <string name="fuse_recovery_data_from_cloud_summary">Tap to enter cloud data backup</string>
+    <string name="fuse_master_clear_desc_erase_storage">"\n\n<b>All user data</b> (including music, pictures, and other user data) in <b>Internal Storage</b> will be erased. Please backup your data before reset phone."</string>
+    <string name="fuse_backup_data_description">"Back up Contacts, Pictures, Messages, Applications and other important data before reset your phone"</string>
+    <!-- add by liuxu7@lenovo.com, 2013-09-09, end -->
+    <string name="select_subscription">Select Subscription</string>
+    <string name="airplane_open_confirm">"Airplane mode"</string>
+    <string name="airplane_open_confirm_message">"Whether to allow open airplane mode?"</string>
+    
+    <string name="preference_status_open">Open</string>
+	<string name="preference_status_close">Close</string>
+	
+	<string name="header_category_personalcustom_k7">"Personalized"</string>
+	<string name="settings_header_ringtone_k7">"Ringtone Settings"</string>
+</resources>

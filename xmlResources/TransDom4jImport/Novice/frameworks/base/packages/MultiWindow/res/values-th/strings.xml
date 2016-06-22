@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<string name="close">ปิด</string>
+<string name="add">เพิ่ม</string>
+<string name="app_browser_title">Multi-WindowApp</string>
+<string name="app_name">Multi-Window</string>
+    <string name="cancle">ยกเลิก</string>
+    <string name="open">เปิด</string>
+    <string name="confirm">ยืนยัน</string>
+    <string name="menu_settings">การตั้งค่า</string>
+    <string name="hello_world">สวัสดี!</string>
+    <string name="authorization_message">จะเปิดแอ็พนี้ด้วยฟังก์ชันหลายหน้าต่างไหม</string>
+    <string name="tips">ลากขึ้นเพื่อสร้างหลายหน้าต่าง</string>
+    <string name="authorization_notication">การแจ้งเตือนการรับรองความถูกต้อง</string>
+</resources>

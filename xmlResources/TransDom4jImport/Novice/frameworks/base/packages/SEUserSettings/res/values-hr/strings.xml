@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"Postavke"</string>
+    <string name="user_setup_button_setup_later">"Ne sada"</string>
+    <string name="user_set_lock_button">"Postavi zaključavanje"</string>
+    <string name="done_button">"Gotovo"</string>
+    <string name="user_restrictions_controlled_by">"Kontrolira aplikacija <xliff:g id="APP">%1$s</xliff:g>"</string>
+    <string name="help_label">"pomoć"</string>
+    <string name="user_normal_mode">Otvorena zona</string>
+    <string name="user_privacy_mgt_summary">Ograničite aplikacijama pristup kontaktima, porukama i popisu poziva.</string>
+    <string name="user_config_apps_for_seuser">Konfiguracija aplikacija u trenutnoj zoni</string>
+    <string name="user_auto_start_user">Pokreni pri podizanju</string>
+    <string name="user_guide_desc_1">Sigurna zona omogućuje vam konfiguraciju aplikacija, računa, pozadina i lozinki za zaključani zaslon različitih od onih u trenutnoj zoni. Dodirnite ikonu \"Sigurna zona\" na statusnoj traci kako biste se brzo kretali među zonama.</string>
+    <string name="user_bgapp_mgt_summary">Blokirajte aplikacije koje se automatski pokreću i prekinite postupke koje vrše u pozadini.</string>
+    <string name="user_guide_desc_2">Pritisnite i držite ikonu \"Sigurna zona\" na statusnoj traci kako biste ušli u sučelje za postavljanje trenutne zone. Aplikaciju koju želite instalirati možete konfigurirati u trenutnoj zoni.</string>
+    <string name="user_guide_desc_3">U otvorenoj će se zoni sve obavijesti sigurne zone prikazati na traci statusa. Uz ikonu obavijesti pojavljuje se crvena točka kako biste je mogli razlikovati od obavijesti u trenutnoj zoni. Za pregled obavijesti prebacite se u odgovarajuću zonu.</string>
+    <string name="user_remove_secure_user_msg">Svi podaci aplikacija, fotografije i datoteke u sigurnoj zoni izbrisat će se. Izbrisati?</string>
+    <string name="user_need_lockscreen_for_seuser_msg">Za zaštitu aplikacija i podataka u sigurnoj zoni morate postaviti zaključavanje zaslona.</string>
+    <string name="user_guide_desc_4">Podaci aplikacija i dokumenti u dvjema zonama u potpunosti su razdvojeni. Interna memorija otvorene zone može se vidjeti u direktoriju OpenUserData interne memorije sigurne zone, ali ne i obrnuto. Popis poziva, popis poruka i kontakti zajednički su objema zonama kako bi se omogućio normalna rad funkcija pozivanja i razmjene poruka bez obzira na zonu.</string>
+    <string name="user_share_data_summary">Dijeljenje kontakata, tekstualnih poruka, popisa poziva i drugih podataka među dvjema zonama događa se nakon ponovnog pokretanja</string>
+    <string name="user_share_data">Dijeljenje podataka</string>
+    <string name="user_uninstall_app_msg">Želite li deinstalirati tu aplikaciju u trenutnoj zoni?</string>
+    <string name="user_security_mode">Sigurna zona</string>
+    <string name="user_auto_start_user_summary">Pri pokretanju automatski pokreni sigurnu zonu u pozadini</string>
+    <string name="user_guide_title_2">Konfiguracija trenutne zone </string>
+    <string name="user_setup_seuser_msg">Sigurna zona je aktivirana. Želite li je sada konfigurirati?</string>
+    <string name="user_guide_title_3">Obavijesti iz zone u zonu</string>
+    <string name="user_remove_secure_user">Izbriši sigurnu zonu</string>
+    <string name="user_guide_title_1">Uvod u sigurnu zonu</string>
+    <string name="user_bgapp_mgt">Ograniči aplikacije u pozadini</string>
+    <string name="user_add_seuser_msg">Aktivirati sigurnu zonu?</string>
+    <string name="user_guide_title_4">Izolacija i dijeljenje podataka </string>
+    <string name="user_privacy_mgt_msg">Blokirajte aplikacijama pristup kontaktima, porukama i popisu poziva.</string>
+    <string name="user_privacy_mgt">Upravljanje privatnošću i pristupom</string>
+    <string name="user_remove_secure_user_reboot_msg">Svi podaci aplikacija, fotografije i datoteke u sigurnoj zoni izbrisat će se. Sustav će se automatski ponovo pokrenuti kako bi se izmjene primijenile. Izbrisati?</string>
+    <string name="user_float_switch_button_summary">Prikaz plutajućeg gumba na zaslonu radi lakšeg prebacivanja između zona</string>
+    <string name="user_bgapp_mgt_msg">Blokirajte aplikaciju koja se automatski pokreće i prekinite postupke koje vrši u pozadini. Nemojte primjenjivati na aplikacije koje se moraju izvoditi u pozadini, primjerice one za e-poštu ili WhatsApp.</string>
+    <string name="user_float_switch_button">Plutajući gumb</string>
+    <string name="user_uninstall_app_for_all_user_msg">Aplikacija nije instalirana u drugim zonama te će se nakon deinstalacije u potpunosti izbrisati s telefona. Deinstalirati?</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"WLAN 訊號增強"</string>
+    <string name="dlg_msg">"偵測到非常微弱的 WLAN 訊號。為了獲得更穩定的網路連線，WLAN 訊號增強功能已自動啟動。您也可以在「系統設定 - WLAN」中進行此功能的設定。" </string>
+    <string name="dlg_ok">"確定"</string>
+    <string name="dlg_no">"否"</string>   
+</resources>

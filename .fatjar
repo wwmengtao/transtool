@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon May 04 11:37:34 CST 2015
+onejar.license.required=false
+manifest.classpath=com.trans.tool.TransSearch com.trans.tool.TransFileFilter com.trans.tool.TransFileMerge com.trans.tool.TransMiss com.trans.tool.TransReuse com.trans.tool.TransImport com.trans.tool.TransInsert  com.trans.tool.TransRmDupli com.trans.tool.TransSrCytoLatin
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=TranslateTool.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

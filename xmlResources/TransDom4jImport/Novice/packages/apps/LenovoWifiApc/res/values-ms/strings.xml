@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Penggalak Isyarat WLAN"</string>
+<string name="dlg_msg">"Isyarat WLAN yang sangat lemah dikesan. Penggalak isyarat WLAN telah diaktifkan secara automatik untuk sambungan rangkaian yang lebih baik. Anda boleh juga mengkonfigurasi seting fungsi di dalam Seting Sistem - WLAN." </string>
+<string name="dlg_ok">"OK"</string>
+<string name="dlg_no">"tidak"</string>
+</resources>

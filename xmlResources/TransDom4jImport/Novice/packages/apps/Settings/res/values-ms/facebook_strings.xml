@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">Tetapan penyegerakan umum</string>
+    <string name="sync_interval_settings">Tetapan selang penyegerakan</string>
+    <string name="try_sso_again">Cuba daftar masuk tunggal semula</string>
+    <string name="for_syncing">Untuk menyegerak</string>
+</resources>

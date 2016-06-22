@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"Nastavenia"</string>
+    <string name="user_setup_button_setup_later">"Teraz nie"</string>
+    <string name="user_set_lock_button">Nastavenie blokovania</string>
+    <string name="done_button">"Hotovo"</string>
+    <string name="user_restrictions_controlled_by">Ovláda: <xliff:g id="app">%1$s</xliff:g></string>
+    <string name="help_label">"pomocník"</string>
+    <string name="user_normal_mode">Otvorená zóna</string>
+    <string name="user_privacy_mgt_summary">Obmedzenie prístupu aplikácií ku kontaktom, správam a záznamom volaní.</string>
+    <string name="user_config_apps_for_seuser">Konfigurácia aplikácií v aktuálnej zóne</string>
+    <string name="user_auto_start_user">Spustiť pri štarte</string>
+    <string name="user_guide_desc_1">Bezpečná zóna vám umožní nastaviť aplikácie, účty, tapety a heslá zamknutia obrazovky, ktoré sa líšia od nastavení v aktuálnej zóne. Ťuknutím na ikonu \"Bezpečná zóna\" na stavovom riadku rýchlo prepnete medzi zónami.</string>
+    <string name="user_bgapp_mgt_summary">Zablokovať automatické spúšťanie aplikácií a ukončiť ich procesy na pozadí.</string>
+    <string name="user_guide_desc_2">Stlačte a podržte prst na ikone \"Bezpečná zóna\" na stavovom riadku a prejdite do rozhrania nastavenia aktuálnej zóny. Môžete vykonať konfiguráciu aplikácie, ktorú potrebujete nainštalovať v aktuálnej zóne.</string>
+    <string name="user_guide_desc_3">V otvorenej zóne sa na stavovom riadku zobrazia aj všetky oznámenia aplikácií v bezpečnej zóne. Na ikone oznámenia sa objaví červená bodka, ktorou sa oznámenie odlíši od oznámení v aktuálnej zóne. Prepnite zóny a prezrite si oznámenia.</string>
+    <string name="user_remove_secure_user_msg">Všetky údaje aplikácií, fotografie a súbory v bezpečnej zóne budú vymazané. Odstrániť?</string>
+    <string name="user_need_lockscreen_for_seuser_msg">Musíte nastaviť zamykanie obrazovky, aby ste ochránili svoje aplikácie a údaje v bezpečnej zóne.</string>
+    <string name="user_guide_desc_4">Údaje aplikácií a dokumenty v dvoch zónach sú uložené úplne oddelene. Obsah úložného priestoru možno zobraziť v adresári OpenUserData vo vnútornom úložnom priestore bezpečnej zóny, no nie naopak. Záznam volaní, záznam správ a kontakty sa zdieľajú medzi dvoma zónami, aby sa zaistila bežná prevádzka funkcií volania a správ v obidvoch zónach.</string>
+    <string name="user_share_data_summary">Zdieľať kontakty, textové správy, záznamy volaní a iné údaje v dvoch zónach. Zmena sa uplatní po reštartovaní</string>
+    <string name="user_share_data">Zdieľanie údajov</string>
+    <string name="user_uninstall_app_msg">Chcete odinštalovať túto aplikáciu v aktuálnej zóne?</string>
+    <string name="user_security_mode">Bezpečná zóna</string>
+    <string name="user_auto_start_user_summary">Automaticky pri štarte spustiť bezpečnú zónu na pozadí</string>
+    <string name="user_guide_title_2">Konfigurácia aktuálnej zóny </string>
+    <string name="user_setup_seuser_msg">Bezpečná zóna aktivovaná. Chcete teraz vykonať jej konfiguráciu?</string>
+    <string name="user_guide_title_3">Oznámenia z rôznych zón</string>
+    <string name="user_remove_secure_user">Zmazať bezpečnú zónu</string>
+    <string name="user_guide_title_1">Predstavenie bezpečnej zóny</string>
+    <string name="user_bgapp_mgt">Obmedziť aplikácie na pozadí</string>
+    <string name="user_add_seuser_msg">Aktivovať bezpečnú zónu?</string>
+    <string name="user_guide_title_4">Izolácia údajov a zdieľanie </string>
+    <string name="user_privacy_mgt_msg">Zablokovať prístup aplikácie ku kontaktom, správam a záznamom volaní.</string>
+    <string name="user_privacy_mgt">Regulácia súkromného prístupu</string>
+    <string name="user_remove_secure_user_reboot_msg">Všetky údaje aplikácií, fotografie a súbory v bezpečnej zóne budú vymazané. Systém sa pri použití zmien reštartuje. Odstrániť?</string>
+    <string name="user_float_switch_button_summary">Zobrazenie vznášajúceho sa tlačidla na obrazovke na uľahčenie prepínania medzi zónami</string>
+    <string name="user_bgapp_mgt_msg">Blokovanie automatického spúšťania aplikácie a ukončenie jej procesov na pozadí. Nepoužívať pri aplikáciách, ktoré musia bežať na pozadí, ako sú e-mailový klient alebo aplikácia WhatsApp.</string>
+    <string name="user_float_switch_button">Vznášajúce sa tlačidlo</string>
+    <string name="user_uninstall_app_for_all_user_msg">Aplikácia sa nenainštaluje v iných zónach a po odinštalovaní bude úplne odstránená z telefónu. Odinštalovať?</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+    <string name="dlg_ok">"Potrdi"</string>
+    <string name="dlg_cancel">"Prekliči"</string>
+    <string name="help_label">"Pomoč"</string>
+    <string name="wifi_p2p_menu_rename">"Preimenovanje naprave"</string>
+    <string name="wifi_p2p_disconnect_title">"Želite prekiniti povezavo?"</string>
+    <string name="wifi_p2p_cancel_connect_title">"Želite preklicati povabilo?"</string>
+    <string name="wifi_p2p_remembered_groups">"Shranjene skupine"</string>
+    <string name="wifi_p2p_delete_group_message">"Želite pozabiti to skupino?"</string>
+    <string name="lock_settings_picker_title" msgid="1095755849152582712">"Izberite zakl. zaslona"</string>
+    <string name="wifi_p2p_failed_rename_message" msgid="2562182284946936380">"Naprave ni bilo mogoče preimenovati."</string>
+    <string name="wifi_p2p_menu_search" msgid="3436429984738771974">"Išči naprave"</string>
+    <string name="wifi_p2p_peer_devices" msgid="299526878463303432">"Enakovredne naprave"</string>
+    <string name="wifi_p2p_cancel_connect_message" msgid="7477756213423749402">"Ali želite preklicati povabilo za povezavo z napravo <xliff:g id="PEER_NAME">%1$s</xliff:g>?"</string>
+    <string name="wifi_p2p_failed_connect_message" msgid="8921447388048243547">"Povezava ni mogoča."</string>
+    <string name="wifi_p2p_disconnect_multiple_message" msgid="3283805371034883105">"Če prekinete povezavo, bo prekinjena povezava z napravo <xliff:g id="PEER_NAME">%1$s</xliff:g> in še toliko drugimi: <xliff:g id="PEER_COUNT">%2$s</xliff:g>."</string>
+    <string name="wifi_p2p_disconnect_message" msgid="8227342771610125771">"Če prekinete, se prekine povezava z napravo <xliff:g id="PEER_NAME">%1$s</xliff:g>."</string>
+    <string name="wifi_p2p_menu_searching" msgid="2396704492143633876">"Iskanje …"</string>
+    <string name="dlg_open_wifi_message">Brezžična povezava mora biti pred deljenjem prek brezžične povezave vklopljena: Ali ga želite vklopiti?</string>
+    <string name="socketchannel_busy">Delam. Poskusite znova pozneje!</string>
+    <string name="sending_file_notification">"Deljenje prek brezžične povezave: Pošiljanje dokumenta</string>
+    <string name="dlg_received_file_fail_notification_message">Dokument ni prejet. Poskusite znova.</string>
+    <string name="received_file_fail_dialog">Dokument ni prejet!</string>
+    <string name="wifi_p2p_no_content_message">Ni vsebine</string>
+    <string name="toast_no_send_files">Pred vzpostavitvijo povezave izberite en ali več dokumentov!</string>
+    <string name="dlg_close_bt_then_send_file">Pred pošiljanjem dokumenta izklopite Bluetooth!</string>
+    <string name="dlg_received_file_confirm_notification_message">Ali ste prepričani, da želite preklicati trenuten prenos dokumenta?</string>
+    <string name="dlg_request_if_send_file">
+	       Ali želite poslati dokument: <xliff:g id="id_2">%2$s</xliff:g> osebi <xliff:g id="id_1">%1$s</xliff:g>?
+    </string>
+    <string name="dlg_request_if_receive_file">Sprejmi </string>
+    <string name="dlg_go_to_file_browser_message">V mapi Upravitelj dokumentov/Datoteke prek WlanShare preverite dokument!</string>
+    <string name="connect_info_one2one">Podpira samo povezavo ene naprave z drugo napravo. Zaprite vse druge povezave in poskusite znova.</string>
+    <string name="dlg_airplane_open_message">Zaprite letalski način in uporabite deljenje prek brezžične povezave!</string>
+    <string name="dlg_sent_file_fail_notification_message">Dokument ni bil poslan. Pošljite znova.</string>
+    <string name="received_file_result_notification">\"Deljenje prek brezžične povezave: Prejeti dokument\"</string>
+    <string name="sent_received_file_result_number_notification">
+        Uspešno:<xliff:g id="successful_number">%1$s</xliff:g>, neuspešno: <xliff:g id="unsuccessful_number">%2$s</xliff:g>.
+    </string>
+    <string name="dlg_open_wifi_message_tel">V letalskem načinu deljenje prek brezžične povezave ni mogoče.</string>
+    <string name="receiving_file_notification">"Deljenje prek brezžične povezave: Prejemanje dokumenta</string>
+    <string name="sent_file_fail_dialog">Dokument ni bil poslan!</string>
+    <string name="dlg_sdcard_not_mounted_message">Naprava za shranjevanje ni na voljo. Zaprite pomnilniško napravo USB in poskusite znova.</string>
+    <string name="open_file_fail_dialog">Te vrste datoteke ni mogoče odpreti. Namestite potrebno programsko opremo!</string>
+    <string name="sent_file_dialog">Dokument uspešno poslan (dokument shranjen pod: /WlanShare v prejemnikovem mobilnem telefonu):</string>
+    <string name="dlg_received_file_success_notification_message">Dokument uspešno prejet. Pritisnite za ogled.</string>
+    <string name="received_file_dialog">Dokument je bil uspešno prejet (shranjen v mapo: /WlanShare):</string>
+    <string name="sent_file_result_notification">"Deljenje prek brezžične povezave: Poslani dokument"</string>
+    <string name="dlg_sent_file_confirm_notification_message">Ali ste prepričani, da želite preklicati trenuten prenos dokumenta?</string>
+    <string name="dlg_sent_file_success_notification_message">Dokument uspešno poslan. Oglejte si na prejemnikovem mobilnem telefonu.</string>
+<string name="app_name">"Deli prek WLAN"</string>
+  <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Povezava vzpostavljena"</item>
+    <item msgid="3189211552661432651">"Povabljen"</item>
+    <item msgid="3206450250360237549">"Neuspešno"</item>
+    <item msgid="7785896708926971207">"Na voljo"</item>
+    <item msgid="2330782789550628803">"Zunaj dosega"</item>
+  </string-array>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+    <string name="storage_sd_card">"Kartica SD"</string>
+    <string name="storage_usb">"Pomnilnik USB"</string>
+    <string name="default_string">"Privzeto"</string>
+    <string name="capital_on">"VKLOPLJENO"</string>
+    <string name="capital_off">"IZKLOPLJENO"</string>
+    <string name="global_action_reboot">"Znova zaženi"</string>
+    <string name="reboot_confirm_title">"Znova zaženi"</string>
+    <string name="silent_mode_silent">"Izklopi zvok"</string>
+    <string name="silent_mode_vibrate">"Zvonjenje z vibriranjem"</string>
+    <string name="silent_mode_normal">"Splošno"</string>
+    <string name="captive_portal_dialog_title">"Prijava v omrežje WLAN"</string>
+    <string name="captive_portal_dialog_button">"Prijava"</string>
+    <string name="volume_icon_description_ringer">"Zvonjenje"</string>
+    <string name="volume_icon_description_bluetooth">"Bluetooth"</string>
+    <string name="volume_icon_description_incall">"Pokliči"</string>
+    <string name="volume_alarm">"Alarm"</string>
+    <string name="volume_matv">"Iskanje"</string>
+    <string name="volume_icon_description_media">"Predstavnost"</string>
+    <string name="volume_icon_description_notification">"Obvestilo"</string>
+    <string name="turn_on_data">"Vklopi"</string>
+    <string name="author">"Google"</string>
+    <string name="turn_off_data">"Izklopi"</string>
+    <string name="volume_fm">Glasnost FM</string>
+    <string name="silent_mode_outdoor">Na prostem</string>
+    <string name="msg_shutdown_habit_guess">"Nedavno ste v tem času trikrat zaustavili napravo. 
+Ali se želite premaknite na nastavitve načrtovanja vklopa in izklopa?</string>
+    <string name="not_support_too_long_string">Iskanje predolgih nizov ni podprto</string>
+    <string name="keyguard_password_waring_dlg_title">Napačno geslo</string>
+    <string name="keyguard_password_attempts_warning">Telefon ste <xliff:g id="number">%d</xliff:g>-krat poskusili odkleniti na napačen način.
+       Po še <xliff:g id="number">%d</xliff:g> neuspelih poskusih bo
+       telefon ponastavljen na tovarniške vrednosti in vsi uporabniški podatki bodo izgubljeni.</string>
+    <string name="dlg_use_ipo_confirm">Hitro zagon</string>
+    <string name="prevent_misoperation_message">Ne pokrivajte zgornjega dela zaslona</string>
+    <string name="prevent_misoperation_title">Način preprečevanja napačnih operacij</string>
+    <string name="usb_notification_content">Izberite način namestitve USB-ja in razhroščevanja ADB-ja.</string>
+    <string name="reboot_confirm_msg">Slušalke se bodo znova zagnale</string>
+    <string name="ext_storage_external_notification_title">Priprava zunanjega pomnilnika</string>
+    <string name="usb_notification_title">Nastavitve povezave USB</string>
+    <string name="captive_portal_dialog_message">Za dostop do interneta se prijavite v trenutno omrežje WLAN</string>
+    <string name="prevent_misoperation_quit_hint">Prisilni izhod: pritisk tipk \"Nazaj\" in \"Zvišanje glasnosti\"</string>
+    <string name="long_back_exit_info">izhod</string>
+    <string name="kg_forgot_password_button_text">Pozabil sem geslo</string>
+    <string name="turn_on_mobile_data_warning">Nekatere aplikacije lahko ustvarijo dodatne stroške podatkovne povezave</string>
+    <string name="ext_storage_internal_notification_title">Priprava notranjega pomnilnika</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Želite vklopiti letalski način?</string>
+    <string name="keyguard_password_waring_dlg_remind">Vnesite lenovo in kliknite V redu za nadaljevanje.</string>
+    <string name="keyguard_password_dlg_input_err">Napake pri vnosu, poskusite znova</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Ob vklopu brezžičnega zaslona se bo izklopil Bluetooth. Ali želite nadaljevati?</string>
+    <string name="reboot_dialog_msg">"Pritisnite tipko za vklop za zaustavitev po <xliff:g id="DELAY">^1</xliff:g> sekundah. 
+Pridržite za 2 sekundi za ponovni zagon po zaustavitvi"</string>
+    <string name="storage_external_usb">Zunanji pomnilnik USB</string>
+    <string name="dlg_ipo_confirm_warning">V načinu hitrega zagona se sistem ne izklopi popolnoma. V tem stanju ne vstavljajte kartice SIM ali pomnilniške kartice, saj se lahko poškoduje.</string>
+    <string name="powerOnWarning_boot_msg">Naslednji vklop: %1$s</string>
+    <string name="storage_phone">vgrajeni pomnilnik</string>
+    <string name="powerOnWarning_alarm_msg">Naslednja budilka: %1$s</string>
+    <string name="next_time_no_warning">Naslednjič prezri</string>
+    <string name="component">zaslon med klicem</string>
+    <string name="description">Lenovova aplikacija s temo Snoopy</string>
+</resources>

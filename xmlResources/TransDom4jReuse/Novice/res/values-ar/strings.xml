@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string-array name="array1">
+	<item>T0</item>
+	<item>T1</item>
+	<!--new-->
+	<item>T2</item>
+	</string-array>     
+	<string-array name="array2">
+	<item>T21</item>
+	<!--new-->
+	<item>T22</item>
+	</string-array>
+    <string name="searchresult">search result</string>   
+    <string name="searchLabel">search</string>
+    <string name="searchHint">please input</string>
+    <string name="searchnoresult">no result</string>
+    <string name="nolenovowizard">can not find NoviceTutorial in system</string>
+<string name="drm_settings_title">DRM ponovno postavljanje</string>	
+</resources>

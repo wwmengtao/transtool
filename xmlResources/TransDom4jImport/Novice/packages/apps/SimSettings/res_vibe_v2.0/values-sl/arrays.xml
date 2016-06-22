@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="entries_show_type_array">
+        
+        
+        
+    <item>Prve 4 številke</item>
+        <item>Zadnje 4 številke</item>
+        <item>Ne prikaži</item>
+    </string-array>
+<string-array name="show_roaming_tips_entries">
+      
+      
+      
+    <item>Enkrat</item>
+        <item>Vedno</item>
+        <item>Nikoli</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hardversion">Versi perangkat keras:</string>
+    <string name="softversion">Versi perangkat lunak: </string>
+    <string name="btn_post">Aktifkan</string>
+    <string name="btn_neg">Menonaktifkan</string>
+    <string name="enable_fdn">Aktifkan</string>
+    <string name="disable_fdn">Menonaktifkan</string>
+    <string name="reboot">"Mulai Ulang"</string>
+    <string name="cancel">"Batal"</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_no">TIDAK</string>
+    <string name="framework_inf">Versi Internal</string>
+    <string name="commit_cate">Simpan</string>
+    <string name="summary_on">"HIDUP"</string>
+    <string name="summary_off">"MATI"</string>
+    <string name="yes_exit">"Ya"</string>
+    <string name="no_exit">"Tidak"</string>
+    <string name="disable">"Nonaktif"</string>
+    <string name="regulatory_information">"Informasi pengaturan"</string>
+    <string name="alert_message_ums_string">Menekan tombol [OK] akan menyetel usb.config ke mode mass_storage untuk debug, disarankan pengguna umum untuk melakukannya dengan hati-hati!</string>
+    <string name="alert_string">Peringatan!</string>
+    <string name="productsversion">Versi  produk:</string>
+    <string name="frameworkversion">Versi framework:</string>
+    <string name="app_name">SecretCode</string>
+    <string name="modemversion">Versi modem:</string>
+    <string name="osversion">Versi OS: </string>
+    <string name="alert_message_string">Menekan tombol [OK] akan mengembalikan ke pengaturan pabrik dan menghapus semua data pengguna, disarankan pengguna umum untuk melakukannya dengan hati-hati!</string>
+</resources>

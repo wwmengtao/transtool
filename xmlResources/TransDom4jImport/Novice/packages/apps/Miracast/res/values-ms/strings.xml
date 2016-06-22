@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Paparan Wayarles"</string>
+    <string name="miracast_app_name">"Paparan Wayarles"</string>
+    <string name="welcome_version">Versi <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">Sambung ke peranti</string>
+    <string name="item_device_mode_audio_only_title">Audio</string>
+    <string name="item_device_mode_video_only_title">Video</string>
+    <string name="item_device_mode_meeting_title">Mesyuarat</string>
+    <string name="item_device_mode_connect_title">"Sambung"</string>
+    <string name="item_device_mode_disconnect_title">"Putuskan sambungan"</string>
+    <string name="item_device_mode_rename_title">Namakan Semula</string>
+    <string name="item_device_mode_forget_title">Lupakan</string>
+    <string name="activity_settings_title">"Tetapan"</string>
+    <string name="preference_settings_resolution_title">Resolusi</string>
+    <string name="preference_settings_update_title">"Perihal"</string>
+    <string name="dlg_confirm_switch_av_message">Sambungan semasa harus diputuskan terlebih dahulu untuk menukar mod.\nAdakah anda ingin menukar sekarang?</string>
+    <string name="dlg_loading_scan_device_message">Mengimbas untuk peranti ...</string>
+    <string name="dlg_loading_enable_wifi_message">Mendayakan wlan ...</string>
+    <string name="dlg_loading_reconnect_message">Bertukar mod, menyambung semula ...</string>
+    <string name="toast_connecting">Sedang menyambungkan, sila cuba sebentar lagi</string>
+    <string name="toast_already_connected">Peranti lain sudah bersambung, sila putuskan sambungan dahulu</string>
+    <string name="toast_device_not_available">Tidak boleh menyambung, peranti tidak tersedia</string>
+    <string name="tutor_message_1">Sambungkan anak kunci AllShare Cast ke sebuah peranti HDMI menggunakan kabel A-TO-A HDMI.</string>
+    <string name="tutor_message_2">Apabila lampu penunjuk merah mula berkelip, klik butang set semula. Tunggu lampu penunjuk untuk bertukar biru. Tidak perlu klik sekali lagi apabila menyambung semula.</string>
+    <string name="tutor_message_4">Jika ia berjaya disambungkan, anda boleh mengongsi skrin anda dengan peranti lain.</string>
+    <string name="tutor_message_audioonly">Jika output audio disokong oleh anak kunci, anda boleh mencuba mod Audio Sahaja untuk menikmati muzik wayarles.</string>
+    <string name="tutor_message_videoonly">Jika anda ingin bersambung ke anak kunci dengan antara muka DVI atau VGA, mod Video Sahaja adalah disyorkan.</string>
+    <string name="activity_meeting_mode_title">Mod Mesyuarat</string>
+    <string name="tutor_message_3">Masuk ke Miracast, kemudian togol butang Dayakan untuk Hidupkan. Nama peranti tersedia untuk sambungan akan muncul di dalam senarai peranti tersedia</string>
+    <string name="dlg_select_resolution_title">Pilih resolusi</string>
+    <string name="dlg_confirm_switch_video_message">Mod Video akan berkongsi kandungan skrin melalui dongle sahaja. \nSambungan semasa harus diputuskan untuk menukar mod. \nTeruskan?</string>
+    <string name="dlg_rename_title">Namakan semula peranti</string>
+    <string name="dlg_confirm_disconnect_message">Putuskan sambungan?</string>
+    <string name="toast_not_paired">Operasi hanya tersedia untuk peranti yang disambungkan</string>
+    <string name="dlg_confirm_switch_audio_message">Mod Audio akan berkongsi audio melalui dongle sahaja. Sebelum bertukar kepada mod audio, sahkan bahawa ia disokong oleh dongle anda, jika tidak sambungan tidak akan berjaya. \nSambungan semasa harus diputuskan untuk menukar mod. \nTeruskan?</string>
+    <string name="dlg_confirm_forget_message">Alih keluar peranti ini daripada senarai peranti yang disambungkan?</string>
+    <string name="preference_settings_meeting_mode_title">Mod Mesyuarat</string>
+    <string name="preference_settings_tutor_title">Tutorial</string>
+    <string name="dlg_confirm_meeting_mode_message">Panggilan dihadkan di dalam mod mesyuarat dan SMS dipaparkan secara automatik di latar depan. Dayakan mod mesyuarat?</string>
+</resources>

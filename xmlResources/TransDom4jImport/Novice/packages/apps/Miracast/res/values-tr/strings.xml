@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Kablosuz Ekran"</string>
+    <string name="miracast_app_name">"Kablosuz Ekran"</string>
+    <string name="welcome_version">Sürüm <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"Cihaza bağlanın"</string>
+    <string name="item_device_mode_audio_only_title">Ses</string>
+    <string name="item_device_mode_video_only_title">Video</string>
+    <string name="item_device_mode_meeting_title">Toplantı</string>
+    <string name="item_device_mode_connect_title">"Bağlan"</string>
+    <string name="item_device_mode_disconnect_title">"Bağlantıyı kes"</string>
+    <string name="item_device_mode_rename_title">Yeniden adlandır</string>
+    <string name="item_device_mode_forget_title">Unut</string>
+    <string name="activity_settings_title">Ayarlar</string>
+    <string name="preference_settings_resolution_title">Çözünürlük</string>
+    <string name="preference_settings_update_title">"Hakkında"</string>
+    <string name="dlg_confirm_switch_av_message">Mod değiştirmek için önce mevcut bağlantı kesilmelidir.\nŞimdi değiştirmek istiyor musunuz?</string>
+    <string name="dlg_loading_scan_device_message">Cihazlar taranıyor...</string>
+    <string name="dlg_loading_enable_wifi_message">wlan etkinleştiriliyor...</string>
+    <string name="dlg_loading_reconnect_message">Geçiş modu, yeniden bağlanıyor...</string>
+    <string name="toast_connecting">Bağlanıyor, lütfen daha sonra tekrar deneyin</string>
+    <string name="toast_already_connected">Zaten başka bir cihaz bağlanmış. Lütfen önce onun bağlantısını kesin</string>
+    <string name="toast_device_not_available">Bağlanılamıyor, cihaz uygun değil</string>
+    <string name="tutor_message_1">AllShare Cast donanım kilidini HDMI A-TO-A kablosu kullanarak bir HDMI cihazına bağlayın.</string>
+    <string name="tutor_message_2">Kırmızı gösterge yanıp sönmeye başladığında, yeniden başlat düğmesini tıklatın. Göstergenin maviye dönmesini bekleyin. Yeniden bağlanırken tekrar tıklatmanıza gerek yoktur.</string>
+    <string name="tutor_message_4">Başarılı bir şekilde bağlanılırsa, ekranınızı başka bir cihazla paylaşabilirsiniz.</string>
+    <string name="tutor_message_audioonly">Ses çıkışı donanım kilidi tarafından destekleniyorsa kablosuz müzik dinleme deneyimi için Yalnızca Ses modunu deneyebilirsiniz.</string>
+    <string name="tutor_message_videoonly">Eğer bağlantı kilidine bir DVI veya VGA arayüzü ile bağlanmak istiyorsanız Yalnızca Video modu önerilir.</string>
+    <string name="activity_meeting_mode_title">Toplantı Modu</string>
+    <string name="tutor_message_3">Miracast\'a girin, Etkinleştir düğmesini Açık olarak ayarlayın. Bağlantı için kullanılabilir cihazlar, kullanılabilir cihazlar listesinde görüntülenecektir.</string>
+    <string name="dlg_select_resolution_title">Çözünürlük seç</string>
+    <string name="dlg_confirm_switch_video_message">Video modu yalnızca dongle yoluyla ekran içeriğini paylaşır. \nModları değiştirmek için mevcut bağlantı kesilmelidir. \nDevam edilsin mi?</string>
+    <string name="dlg_rename_title">Cihazı yeniden adlandır</string>
+    <string name="dlg_confirm_disconnect_message">Bağlantı kesilsin mi?</string>
+    <string name="toast_not_paired">İşlem yalnızca bağlı cihazlar için kullanılabilir.</string>
+    <string name="dlg_confirm_switch_audio_message">Ses modu yalnızca donanım kilidi aracılığıyla ses paylaşabilir. Ses moduna geçmeden önce donanım kilidiniz tarafından desteklendiğini onaylayın, aksi takdirde bağlantı başarılı olmayacaktır. \nModları değiştirmek için mevcut bağlantı kesilmelidir. \nDevam edilsin mi?</string>
+    <string name="dlg_confirm_forget_message">Bu cihaz bağlı cihazlar listesinden çıkarılsın mı?</string>
+    <string name="preference_settings_meeting_mode_title">Toplantı Modu</string>
+    <string name="preference_settings_tutor_title">Eğitim</string>
+    <string name="dlg_confirm_meeting_mode_message">Aramalar toplantı modunda kısıtlanır ve SMS\'ler otomatik olarak ön planda görüntülenir. Toplantı modu etkinleştirilsin mi?</string>
+</resources>

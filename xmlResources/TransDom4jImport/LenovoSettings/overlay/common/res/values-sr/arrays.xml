@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="entries_button_brightness">
+        <item>On</item>
+        <item>For 3 seconds</item>
+        <item>Off</item>
+    </string-array>
+<string-array name="entries_smart_rotation_nocamera">
+        <item>Gesture Rotation screen</item>
+        <item>Auto-rotate screen</item>
+        <item>Closed</item>
+    </string-array>
+<string-array name="auto_time_entries">
+    	<item>Use network-provided time</item>
+    	<item>Use GPS-provided time</item>
+    	<item>Off</item>
+    </string-array>
+<string-array name="entries_smart_rotation">
+        <item>Smart Rotation（follows your visual orientation）</item>
+       <!-- <item>Gesture Rotation screen</item>-->
+        <item>Auto-rotate screen</item>
+        <item>Off</item>
+    </string-array>
+<string-array name="softspacename">
+        
+        
+        
+    
+        
+        
+    <item>System recommendations</item>
+        <item>Install on phone</item>
+        <item>Install on default memory card</item>
+    </string-array>
+<string-array name="wifi_sleep_policy_entries_smart">
+        <!-- Always keep WLAN on when screen turns off. -->
+        <item>"Увек"</item>
+        <!-- Keep WLAN on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        <item>"Само када је укључен"</item>
+        <!-- Do not keep WLAN on when screen turns off. -->
+        <item>"Никад (повећава искоришћеност података)"</item>
+        <!-- Smart go to sleep. -->
+        <item>Pametno (uključuje se automatski prilikom prenosa podataka)</item>
+    </string-array>
+</resources>

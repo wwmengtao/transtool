@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"تعزيز إشارة WLAN"</string>
+<string name="dlg_msg">"تم الكشف عن إشارة WLAN ضعيفة جدًا. تم تنشيط ميزة تعزيز إشارة WLAN تلقائيًا للحصول على جودة اتصال بالشبكة أفضل. يمكنك أيضًا تكوين إعدادات الميزة في إعدادات النظام - WLAN." </string>
+<string name="dlg_ok">"موافق"</string>
+<string name="dlg_no">"لا"</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="silent_mode_outdoor">На открито</string>
+<string name="capital_on">ВКЛ.</string>
+<string name="not_support_too_long_string">Не се поддържа търсенето на прекалено дълги низове</string>
+<string name="component">системен изпълним модул</string>
+<string name="volume_icon_description_notification">Известие</string>
+<string name="dlg_use_ipo_confirm">Бързо зареждане</string>
+<string name="prevent_misoperation_message">Не\покривайте горната част на екрана</string>
+<string name="volume_alarm">Аларма</string>
+<string name="reboot_confirm_title">Рестартиране</string>
+<string name="ext_storage_external_notification_title">Подготвяне на външната памет</string>
+<string name="captive_portal_dialog_message">Влизането е задължително за текущата WLAN мрежа преди достъп до интернет, моля първо влезте</string>
+<string name="usb_notification_title">Настройки за USB свързване</string>
+<string name="prevent_misoperation_quit_hint">Принудително излизане: натискане на клавиша \"Назад\" + клавиша \"Увеличаване на звука\"</string>
+<string name="long_back_exit_info">изход</string>
+<string name="global_actions_toggle_open_airplane_mode_confirm">Активиране на самолетния режим?</string>
+<string name="keyguard_password_waring_dlg_remind">Моля, въведете lenovo  и щракнете върху OK, за да продължите.</string>
+<string name="storage_external_usb">Външна USB памет</string>
+<string name="reboot_dialog_msg">"Задръжте бутона на захранването за <xliff:g id="DELAY">^1</xliff:g> секунди и телефонът ще се изключи; задръжте бутона на захранването за още 2 секунди и телефонът ще се стартира отново."</string>
+<string name="default_string">По подразбиране</string>
+<string name="turn_off_data">Изключване</string>
+<string name="captive_portal_dialog_button">Влизане</string>
+<string name="storage_phone">Вградена памет</string>
+<string name="next_time_no_warning">Не\предупреждавай следващия път.</string>
+<string name="silent_mode_silent">Тих</string>
+<string name="silent_mode_vibrate">Вибриране</string>
+<string name="author">Lenovo автор</string>
+<string name="msg_shutdown_habit_guess">"Наскоро, вие сте изключили устройството три пъти през това време. 
+Искате ли да отидете на настройките за планирано включване-изключване?"</string>
+<string name="keyguard_password_waring_dlg_title">Грешна парола</string>
+<string name="volume_icon_description_media">Медиа</string>
+<string name="app_name">Класически</string>
+<string name="keyguard_password_attempts_warning">Вие неуспешно сте се опитали да отключите телефона <xliff:g id="number">%d</xliff:g> пъти.
+       След още <xliff:g id="number">%d</xliff:g> неуспешни опити,
+       телефонът ще бъде нулиран до фабрични настройки и всички потребителски настройки ще бъдат загубени.</string>
+<string name="capital_off">ИЗКЛ.</string>
+<string name="captive_portal_dialog_title">Влизане в WLAN мрежа</string>
+<string name="storage_usb">USB памет</string>
+<string name="usb_notification_content">Изберете режима на USB монтиране и ADB поправки.</string>
+<string name="prevent_misoperation_title">Режим за предотвратяване на неправилна употреба</string>
+<string name="reboot_confirm_msg">Мобилният телефон ще се рестартира</string>
+<string name="turn_on_data">Включване</string>
+<string name="global_action_reboot">Рестартиране</string>
+<string name="silent_mode_normal">Основни</string>
+<string name="kg_forgot_password_button_text">Забравена парола</string>
+<string name="ext_storage_internal_notification_title">Подготвяне на вътрешната памет</string>
+<string name="turn_on_mobile_data_warning">При включване на връзката за данни, мобилният телефон ще използва някои GPRS данни. \nКонкретните такси зависят от операторите. Наистина ли искате да го отворите?</string>
+<string name="storage_sd_card">Външна памет</string>
+<string name="description">Тема по подразбиране на Lenovo </string>
+<string name="keyguard_password_dlg_input_err">Грешно въвеждане, моля опитайте отново</string>
+<string name="volume_icon_description_ringer">Тон на звънене и съобщение</string>
+<string name="dlg_ipo_confirm_warning">Имайте предвид, че в този режим устройството не се изключва напълно. Не поставяйте или изваждайте SIM карта или карта с памет, за да предотвратите повреждането или унищожаването им. За да поставите или извадите SIM карта или карта с памет правилно, махнете отметката за този режим.</string>
+<string name="volume_matv">Мобилна телевизия</string>
+<string name="volume_icon_description_incall">Обаждане</string>
+<string name="powerOnWarning_boot_msg">Следващо включване: %1$s</string>
+<string name="powerOnWarning_alarm_msg">Следваща аларма: %1$s</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Bluetooth ще се изключи, когато включите безжичния дисплей. Желаете ли да продължите?</string>
+</resources>

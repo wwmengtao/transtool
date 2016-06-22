@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="silent_mode_outdoor">На вулиці</string>
+<string name="capital_on">УВІМК.</string>
+<string name="volume_icon_description_bluetooth" msgid="6538894177255964340">"Гучність Bluetooth"</string>
+<string name="not_support_too_long_string">Пошук задовгих рядків не підтримується</string>
+<string name="component">Системний віджет</string>
+<string name="volume_icon_description_notification" msgid="7044986546477282274">"Гучність сповіщення"</string>
+<string name="dlg_use_ipo_confirm">Швидке завантаження наступного разу</string>
+<string name="prevent_misoperation_message">Не накривати верхню частину екрана</string>
+<string name="volume_alarm" msgid="1985191616042689100">"Гучн. сповіщ."</string>
+<string name="reboot_confirm_title">Перезавантажити</string>
+<string name="ext_storage_external_notification_title">Підготовка зовнішнього накопичувача</string>
+<string name="captive_portal_dialog_message">У наразі підключеній бездротовій мережі для доступу до Інтернету потрібна інша реєстраційна інформація. Виконайте вхід. </string>
+<string name="usb_notification_title">Параметри USB-підключення</string>
+<string name="prevent_misoperation_quit_hint">Примусове завершення: одночасно натисніть \"Назад\" і \"Збільшити гучність\"</string>
+<string name="long_back_exit_info">вихід</string>
+<string name="global_actions_toggle_open_airplane_mode_confirm">Встановити режим "У літаку"?</string>
+<string name="keyguard_password_waring_dlg_remind">Введіть "lenovo" і натисніть "OK", щоб ввести пароль.</string>
+<string name="storage_external_usb">Зовнішній USB накопичувач</string>
+<string name="reboot_dialog_msg">"Щоб вимкнути телефон, натисніть кнопку живлення й утримуйте її <xliff:g id="DELAY">^1</xliff:g> с. Щоб увімкнути телефон, також потрібно натиснути кнопку живлення й утримувати її 2 секунди."</string>
+<string name="default_string">Типовий</string>
+<string name="turn_off_data">Вимкнення</string>
+<string name="captive_portal_dialog_button">Вхід</string>
+<string name="storage_phone">Пам\'ять телефону</string>
+<string name="next_time_no_warning">Більше не показувати це повідомлення</string>
+<string name="silent_mode_silent">Без звуку</string>
+<string name="silent_mode_vibrate">Вібро</string>
+<string name="author">Автор Lenovo</string>
+<string name="msg_shutdown_habit_guess">Нещодавно ви вимикали свій пристрій о цій порі тричі поспіль. Настроїти параметри ввімкнення-вимкнення? Натисніть \"Скасувати\", щоб вимкнути пристрій зараз.</string>
+<string name="keyguard_password_waring_dlg_title">Неправильний пароль</string>
+<string name="volume_icon_description_media" msgid="4217311719665194215">"Гучність медіа"</string>
+<string name="app_name">Класична</string>
+<string name="keyguard_password_attempts_warning">"Зроблено <xliff:g id="NUMBER_0">%d</xliff:g> невдалих спроб розблокування телефону.。 Якщо наступні <xliff:g id="NUMBER_1">%d</xliff:g> спроб будуть невдалими, для телефону буде відновлено заводські настройки, і всі дані користувача буде втрачено."</string>
+<string name="capital_off">ВИМК.</string>
+<string name="captive_portal_dialog_title">Підказка для входу в мережу WLAN</string>
+<string name="storage_usb">Пристрій USB</string>
+<string name="usb_notification_content">Виберіть режим підключення і налагодження USB.</string>
+<string name="prevent_misoperation_title">Режим блокування набору в кишені</string>
+<string name="reboot_confirm_msg">Телефон перезавантажиться</string>
+<string name="turn_on_data">Відкрити</string>
+<string name="global_action_reboot">Перезавантажити</string>
+<string name="silent_mode_normal">Загальний</string>
+<string name="kg_forgot_password_button_text">Відновлення паролю</string>
+<string name="ext_storage_internal_notification_title">Підготовка внутрішнього накопичувача</string>
+<string name="turn_on_mobile_data_warning">Якщо з\'єднання для передачі даних відкрите, телефон може передавати певні дані.  За це оператором зніматимуться кошти.  Справді відкрити? </string>
+<string name="storage_sd_card">SD-карта</string>
+<string name="description">Тема Lenovo за замовчуванням </string>
+<string name="keyguard_password_dlg_input_err">Неправильний пароль. Повторіть спробу</string>
+<string name="volume_icon_description_ringer" msgid="3326003847006162496">"Гучність мелодії"</string>
+<string name="dlg_ipo_confirm_warning">У режимі швидкого завантаження система не отримує повного живлення, тому в цей час не слід вставляти у пристрій SIM-карту або карту пам\'яті, оскільки це може призвести до їх пошкодження.</string>
+<string name="volume_matv">Мобільне ТВ</string>
+<string name="volume_icon_description_incall" msgid="8890073218154543397">"Гучність сигналу виклику"</string>
+<string name="powerOnWarning_boot_msg">Режим регулярного ввімкнення (%1$s) активовано</string>
+<string name="powerOnWarning_alarm_msg">Оповіщення про завершення роботи з\'явиться о %1$s</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">У разі ввімкнення бездротового дисплея Bluetooth вимкнеться. Продовжити?</string>
+</resources>

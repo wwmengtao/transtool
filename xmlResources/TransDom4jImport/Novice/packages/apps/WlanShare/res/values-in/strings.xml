@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_open_wifi_message">BERBAGI WLAN harus membuka WLAN, buka WLAN?</string>
+<string name="socketchannel_busy">Bekerja. Coba lagi nanti!</string>
+<string name="wifi_p2p_cancel_connect_message">Anda ingin membatalkan undangan untuk menyambung?</string>
+<string name="sending_file_notification">BERBAGI WLAN: File sedang dikirim.</string>
+<string name="received_file_fail_dialog">Dokumen tidak diterima!</string>
+<string name="dlg_received_file_fail_notification_message">Dokumen tidak diterima. Harap coba lagi.</string>
+<string name="wifi_p2p_disconnect_multiple_message">Jika sambungan terputus, maka sambungan dengan semua perangkat akan berakhir.</string>
+<string name="dlg_cancel">"Batal"</string>
+<string name="toast_no_send_files">Harap pilih satu atau beberapa dokumen untuk dibagi sebelum tersambung!</string>
+<string name="dlg_close_bt_then_send_file">Harap tutup Bluetooth sebelum mengirimkan dokumen!</string>
+<string name="app_name">"Berbagi WLAN"</string>
+<string name="dlg_received_file_confirm_notification_message">Anda yakin ingin membatalkan transmisi dokumen yang sedang berjalan?</string>
+<string name="dlg_request_if_send_file">Kirim file? </string>
+<string name="wifi_p2p_failed_connect_message">Tidak dapat tersambung.</string>
+<string name="wifi_p2p_delete_group_message">"Lupakan grup ini?"</string>
+<string name="dlg_request_if_receive_file">Terima </string>
+<string name="dlg_ok">"Konfirmasi"</string>
+<string name="dlg_go_to_file_browser_message">Harap periksa dokumen pada file Manajer Dokumen/WlanShare!</string>
+<string name="connect_info_one2one">Hanya mendukung koneksi satu ke satu. Harap tutup semua koneksi lainnya sebelum mencoba lagi.</string>
+<string name="dlg_airplane_open_message">Keluar dari mode pesawat, lalu gunakan Wlan Share!</string>
+<string name="wifi_p2p_menu_rename">"Ganti nama perangkat"</string>
+<string name="dlg_sent_file_fail_notification_message">Dokumen tidak terkirim. Harap kirim ulang.</string>
+<string name="received_file_result_notification">BERBAGI WLAN: File diterima</string>
+<string name="lock_settings_picker_title">Pilih penguncian layar</string>
+<string name="sent_received_file_result_number_notification"> 
+        <xliff:g id="successful_number">%1$s</xliff:g> berhasil, <xliff:g id="unsuccessful_number">%2$s</xliff:g> gagal.
+    </string>
+<string name="dlg_open_wifi_message_tel">Anda tidak dapat menggunakan berbagi WLAN dalam mode Pesawat.</string>
+<string name="receiving_file_notification">BERBAGI WLAN: File sedang diterima.</string>
+<string name="sent_file_fail_dialog">Dokumen tidak terkirim!</string>
+<string name="wifi_p2p_remembered_groups">"Grup yang diingat"</string>
+<string name="wifi_p2p_disconnect_message">Jika sambungan terputus, maka sambungan Anda akan berakhir.</string>
+<string name="help_label">"Bantuan"</string>
+<string name="wifi_p2p_menu_searching">Mencari\u2026</string>
+<string name="dlg_sdcard_not_mounted_message">Perangkat penyimpanan tidak tersedia. Harap tutup perangkat penyimpanan USB sebelum mencoba.</string>
+<string name="sent_file_dialog">Dokumen berhasil dikirim (dokumen disimpan pada: /WlanShare di ponsel penerima):</string>
+<string name="wifi_p2p_disconnect_title">Putus?</string>
+<string name="open_file_fail_dialog">Tidak dapat membuka jenis file ini, harap instal peranti lunak yang diperlukan!</string>
+<string name="wifi_p2p_cancel_connect_title">"Batalkan undangan?"</string>
+<string name="wifi_p2p_failed_rename_message">Gagal mengubah nama perangkat.</string>
+<string name="dlg_received_file_success_notification_message">Dokumen berhasil diterima. Harap tekan untuk melihat.</string>
+<string name="wifi_p2p_peer_devices">Perangkat pasangan</string>
+<string name="wifi_p2p_menu_search">Cari perangkat</string>
+<string name="received_file_dialog">Dokumen berhasil diterima (disimpan pada:/WlanShare):</string>
+<string name="sent_file_result_notification">BERBAGI WLAN: File terkirim</string>
+<string name="dlg_sent_file_confirm_notification_message">Anda yakin ingin membatalkan transmisi dokumen yang sedang berjalan?</string>
+<string name="dlg_sent_file_success_notification_message">Dokumen berhasil dikirim. Harap lihat pada ponsel penerima.</string>
+    <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Tersambung"</item>
+    <item msgid="3189211552661432651">"Diundang"</item>
+    <item msgid="3206450250360237549">"Gagal"</item>
+    <item msgid="7785896708926971207">"Tersedia"</item>
+    <item msgid="2330782789550628803">"Di luar jangkauan"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">Tidak Ada Konten</string>
+</resources>

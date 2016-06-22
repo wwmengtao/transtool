@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">Réglages généraux de synchro</string>
+    <string name="sync_interval_settings">Réglages d\'intervalle de synchro</string>
+    <string name="try_sso_again">Essayer une connexion uniquement</string>
+    <string name="for_syncing">Pour la synchro</string>
+</resources>

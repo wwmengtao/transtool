@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">"Bezdrôtový displej"</string>
+    <string name="miracast_app_name">"Bezdrôtový displej"</string>
+    <string name="main_connect_switch_title">"Pripojenie k zariadeniu"</string>
+    <string name="item_device_mode_audio_only_title">"Zvuk"</string>
+    <string name="item_device_mode_video_only_title">"Video"</string>
+    <string name="item_device_mode_connect_title">"Pripojiť"</string>
+    <string name="item_device_mode_disconnect_title">"Odpojiť"</string>
+    <string name="item_device_mode_rename_title">"Premenovať"</string>
+    <string name="item_device_mode_forget_title">"Odstrániť"</string>
+    <string name="activity_settings_title">"Nastavenia"</string>
+    <string name="preference_settings_resolution_title">Rozlíšenie:</string>
+    <string name="preference_settings_update_title">"Informácie"</string>
+    <string name="preference_settings_tutor_title">"Príručka"</string>
+    <string name="dlg_confirm_disconnect_message">"Odpojiť?"</string>
+    <string name="dlg_rename_title">"Premenovať zariadenie"</string>
+    <string name="activity_meeting_mode_title">Režim Stretnutie</string>
+    <string name="dlg_loading_reconnect_message">Zmena režimu, opätovné pripájanie</string>
+    <string name="dlg_select_resolution_title">Výber rozlíšenia</string>
+    <string name="tutor_message_audioonly">Ak externé zariadenie podporuje audio výstup, môžete vyskúšať režim Len audio a vypočuť si bezdrôtovú hudbu.</string>
+    <string name="dlg_confirm_switch_av_message">Pred prepnutím režimu sa musí aktuálne spojenie odpojiť.\nChcete vykonať zmenu teraz?</string>
+    <string name="welcome_version">Verzia <xliff:g id="version">%1s</xliff:g></string>
+    <string name="item_device_mode_meeting_title">Stretnutie</string>
+    <string name="dlg_confirm_switch_audio_message">V režime Audio sa budú zvukové médiá zdieľať len prostredníctvom externého zariadenia. Pred prepnutím do režimu audio potvrďte, že ho vaše zariadenie podporuje, v opačnom prípade bude spojenie neúspešné. \nPred zmenou režimu sa musí aktuálne spojenie odpojiť. \nPokračovať?</string>
+    <string name="preference_settings_meeting_mode_title">Režim Stretnutie</string>
+    <string name="dlg_loading_scan_device_message">Vyhľadávanie zariadení...</string>
+    <string name="toast_connecting">Pripájanie. Skúste znova neskôr</string>
+    <string name="tutor_message_3">Vstúpte do položky Miracast, tlačidlo Povoliť potom zapnite. Názvy zariadení, ktoré možno pripojiť sa potom zobrazia v zozname dostupných zariadení</string>
+    <string name="tutor_message_4">V prípade úspešného pripojenia môžete zdieľať obsah vašej obrazovky s iným zariadením.</string>
+    <string name="tutor_message_1">Pripojte zariadenie AllShare Cast k zariadeniu HDMI pomocou kábla HDMI A-TO-A.</string>
+    <string name="dlg_confirm_switch_video_message">V režime Video sa bude obsah obrazovky zdieľať len prostredníctvom zariadenia. \nPred zmenou režimu sa musí aktuálne spojenie odpojiť. \nPokračovať?</string>
+    <string name="tutor_message_2">Keď začne červená kontrolka blikať, kliknite na tlačidlo Reset. Počkajte, kým sa farba kontrolky zmení na modrú. Pri opätovnom pripájaní už žiadne ďalšie kliknutia netreba.</string>
+    <string name="tutor_message_videoonly">Ak chcete zariadenie pripojiť pomocou rozhrania DVI alebo VGA, odporúčame režim Len video.</string>
+    <string name="toast_already_connected">Ďalšie zariadenie je už pripojené. Najprv ho odpojte</string>
+    <string name="dlg_loading_enable_wifi_message">Aktivácia WLAN...</string>
+    <string name="toast_not_paired">Táto funkcia je dostupná len pre pripojené zariadenia</string>
+    <string name="dlg_confirm_forget_message">Odstrániť toto zariadenie zo zoznamu pripojených zariadení?</string>
+    <string name="toast_device_not_available">Pripojenie zlyhalo, zariadenie nie je k dispozícii</string>
+    <string name="dlg_confirm_meeting_mode_message">V režime stretnutie sú obmedzené volania a SMS správy sa automaticky zobrazujú v popredí. Povoliť režim stretnutie?</string>
+</resources>

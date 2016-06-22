@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Vezeték nélküli kijelző"</string>
+    <string name="miracast_app_name">"Vezeték nélküli kijelző"</string>
+    <string name="welcome_version">Verzió: <xliff:g id="version">%1s</xliff:g></string>
+    <string name="main_connect_switch_title">"Csatlakozás adott eszközhöz"</string>
+    <string name="item_device_mode_audio_only_title">Audió</string>
+    <string name="item_device_mode_video_only_title">Videó</string>
+    <string name="item_device_mode_meeting_title">Találkozó</string>
+    <string name="item_device_mode_connect_title">Csatlakozás</string>
+    <string name="item_device_mode_disconnect_title">"Kapcsolat bontása"</string>
+    <string name="item_device_mode_rename_title">Átnevezés</string>
+    <string name="item_device_mode_forget_title">Mellőz</string>
+    <string name="activity_settings_title">"Beállítások"</string>
+    <string name="preference_settings_resolution_title">Felbontás</string>
+    <string name="preference_settings_update_title">"Információ"</string>
+    <string name="dlg_confirm_switch_av_message">A módváltáshoz először le kell kapcsolnia az aktuális csatlakozást.\nSzeretne most váltani?</string>
+    <string name="dlg_loading_scan_device_message">Eszközök keresése...</string>
+    <string name="dlg_loading_enable_wifi_message">WLAN engedélyezése...</string>
+    <string name="dlg_loading_reconnect_message">Mód váltása, újracsatlakozás...</string>
+    <string name="toast_connecting">Csatlakozás folyamatban, próbálja újra később</string>
+    <string name="toast_already_connected">Már egy másik eszköz csatlakozik. Először válassza le az első eszközt</string>
+    <string name="toast_device_not_available">Nem lehet csatlakozni, az eszköz nem érhető el</string>
+    <string name="tutor_message_1">A HDMI A-TO-A kábel segítségével csatlakoztassa az AllShare Cast hardverkulcsot egy HDMI-eszközhöz.</string>
+    <string name="tutor_message_2">Ha a piros színű kijelző villogni kezd, kattintson a Visszaállítás gombra. Várjon, amíg a kijelző kék színre vált. Az újracsatlakozáshoz nem szükséges újból rákattintania.</string>
+    <string name="tutor_message_4">Ha sikeresen csatlakozott, megoszthatja a képernyőt egy másik eszközzel.</string>
+    <string name="tutor_message_audioonly">Ha a hardverkulcs támogatja a hangkimenetet, a Csak hang mód segítségével vezeték nélkül élvezheti a zenéket.</string>
+    <string name="tutor_message_videoonly">Ha DVI- vagy VGA-interfész segítségével kíván csatlakozni egy hardverkulcshoz, ajánlatos a Csak videó módot használnia.</string>
+    <string name="activity_meeting_mode_title">Értekezlet mód</string>
+    <string name="tutor_message_3">Lépjen be a Miracast módba, majd váltsa az engedélyezés választógombot bekapcsolt állásba. A csatlakoztatáshoz elérhető készülékek neve az elérhető készülékek listájában jelenik majd meg</string>
+    <string name="dlg_select_resolution_title">Felbontás kiválasztása</string>
+    <string name="dlg_confirm_switch_video_message">A videó mód csak dongle segítségével osztja meg a képernyőn megjelenő tartalmakat. \nA módok közötti váltáshoz a jelenlegi kapcsolatot meg kell szakítani. \nFolytatja?</string>
+    <string name="dlg_rename_title">Készülék átnevezése</string>
+    <string name="dlg_confirm_disconnect_message">Megszakítja?</string>
+    <string name="toast_not_paired">A művelet csak csatlakoztatott készülékekhez érhető el</string>
+    <string name="dlg_confirm_switch_audio_message">Az audió mód csak dongle segítségével osztja meg az audiót. Az audió módra váltás előtt ellenőrizze, hogy azt támogatja-e a dongle, ellenkező esetben a csatlakozás nem lesz sikeres. \nA módok közötti váltáshoz a jelenlegi kapcsolatot meg kell szakítani. \nFolytatja?</string>
+    <string name="dlg_confirm_forget_message">Eltávolítja ezt a készüléket a csatlakoztatott készülékek listájáról?</string>
+    <string name="preference_settings_meeting_mode_title">Értekezlet mód</string>
+    <string name="preference_settings_tutor_title">Oktatóanyag</string>
+    <string name="dlg_confirm_meeting_mode_message">Értekezlet módban a hívások korlátozva vannak, az SMS-ek pedig automatikusan az előtérben jelennek meg. Engedélyezi az értekezlet módot?</string>
+</resources>

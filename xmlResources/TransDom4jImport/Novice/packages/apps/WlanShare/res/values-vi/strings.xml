@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="dlg_open_wifi_message">Chia sẻ WLAN cần mở mạng WLAN, bạn muốn mở mạng WLAN?</string>
+<string name="socketchannel_busy">Đang làm việc. Vui lòng thử lại sau!</string>
+<string name="wifi_p2p_cancel_connect_message">Bạn muốn hủy thư mời kết nối?</string>
+<string name="sending_file_notification">CHIA SẺ WLAN: File đang được gửi.</string>
+<string name="received_file_fail_dialog">Chưa nhận được tài liệu!</string>
+<string name="dlg_received_file_fail_notification_message">Chưa nhận được tài liệu. Vui lòng thử lại.</string>
+<string name="wifi_p2p_disconnect_multiple_message">Nếu ngắt kết nối, thì kết nối của bạn với mọi thiết bị sẽ bị tắt.</string>
+<string name="dlg_cancel">"Hủy"</string>
+<string name="toast_no_send_files">Vui lòng chọn một hoặc nhiều tài liệu cần chia sẻ trước khi kết nối!</string>
+<string name="dlg_close_bt_then_send_file">Vui lòng đóng Bluetooth trước khi gửi tài liệu!</string>
+<string name="app_name">"Chia sẻ WLAN"</string>
+<string name="dlg_received_file_confirm_notification_message">Bạn có chắc muốn hủy quá trình truyền tài liệu hiện tại không?</string>
+<string name="dlg_request_if_send_file">Bạn muốn gửi file? </string>
+<string name="wifi_p2p_failed_connect_message">Không thể kết nối.</string>
+<string name="wifi_p2p_delete_group_message">"Bỏ qua nhóm này?"</string>
+<string name="dlg_request_if_receive_file">Chấp nhận </string>
+<string name="dlg_ok">"Xác nhận"</string>
+<string name="dlg_go_to_file_browser_message">Vui lòng kiểm tra tài liệu trong tập tin Trình quản lý Tài liệu/WlanShare!</string>
+<string name="connect_info_one2one">Chỉ hỗ trợ kết nối 1-1. Vui lòng đóng tất cả các kết nối khác trước khi thử lại.</string>
+<string name="dlg_airplane_open_message">Vui lòng thoát khỏi chế độ máy bay, sau đó sử dụng Chia sẻ WLAN!</string>
+<string name="wifi_p2p_menu_rename">"Đổi tên thiết bị"</string>
+<string name="dlg_sent_file_fail_notification_message">Tài liệu chưa được gửi. Vui lòng gửi lại.</string>
+<string name="received_file_result_notification">CHIA SẺ WLAN: File đã nhận</string>
+<string name="lock_settings_picker_title">Chọn khóa màn hình</string>
+<string name="sent_received_file_result_number_notification"> 
+        <xliff:g id="successful_number">%1$s</xliff:g> thành công, <xliff:g id="unsuccessful_number">%2$s</xliff:g> thất bại.
+    </string>
+<string name="dlg_open_wifi_message_tel">Bạn không thể sử dụng chia sẻ WLAN ở chế độ máy bay.</string>
+<string name="receiving_file_notification">CHIA SẺ WLAN: File đang được nhận.</string>
+<string name="sent_file_fail_dialog">Tài liệu chưa được gửi!</string>
+<string name="wifi_p2p_remembered_groups">"Các nhóm đã xóa"</string>
+<string name="wifi_p2p_disconnect_message">Nếu ngắt kết nối, kết nối của bạn sẽ bị tắt.</string>
+<string name="help_label">"Trợ giúp"</string>
+<string name="wifi_p2p_menu_searching">Đang dò tìm\u2026</string>
+<string name="dlg_sdcard_not_mounted_message">Thiết bị lưu trữ không khả dụng. Vui lòng đóng thiết bị lưu trữ USB trước khi thử lại.</string>
+<string name="sent_file_dialog">Đã gửi tài liệu thành công (tài liệu được lưu trong: /WlanShare trên điện thoại di động của người nhận):</string>
+<string name="wifi_p2p_disconnect_title">Ngắt kết nối?</string>
+<string name="open_file_fail_dialog">Không thể mở loại tập tin này, vui lòng cài đặt phần mềm cần thiết!</string>
+<string name="wifi_p2p_cancel_connect_title">"Hủy lời mời?"</string>
+<string name="wifi_p2p_failed_rename_message">Không thể đổi tên thiết bị.</string>
+<string name="dlg_received_file_success_notification_message">Đã nhận tài liệu thành công. Vui lòng nhấn để xem.</string>
+<string name="wifi_p2p_peer_devices">Các thiết bị ngang hàng</string>
+<string name="wifi_p2p_menu_search">Dò tìm thiết bị</string>
+<string name="received_file_dialog">Đã nhận tài liệu thành công (được lưu trong:/WlanShare):</string>
+<string name="sent_file_result_notification">CHIA SẺ WLAN: File đã gửi</string>
+<string name="dlg_sent_file_confirm_notification_message">Bạn có chắc muốn hủy quá trình truyền tài liệu hiện tại không?</string>
+<string name="dlg_sent_file_success_notification_message">Đã gửi tài liệu thành công. Vui lòng xem trên điện thoại di động của người nhận.</string>
+    <string-array name="wifi_p2p_status">
+    <item msgid="1701505390737218306">"Đã kết nối"</item>
+    <item msgid="3189211552661432651">"Đã mời"</item>
+    <item msgid="3206450250360237549">"Không thành công"</item>
+    <item msgid="7785896708926971207">"Có sẵn"</item>
+    <item msgid="2330782789550628803">"Ngoài vùng phủ sóng"</item>
+  </string-array>
+    <string name="wifi_p2p_no_content_message">Không có</string>
+</resources>

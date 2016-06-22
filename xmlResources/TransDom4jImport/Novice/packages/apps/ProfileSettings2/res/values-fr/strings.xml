@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project Licensed under the 
+	Apache License, Version 2.0 (the "License"); you may not use this file except 
+	in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 
+	Unless required by applicable law or agreed to in writing, software distributed 
+	under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES 
+	OR CONDITIONS OF ANY KIND, either express or implied. See the License for 
+	the specific language governing permissions and limitations under the License. --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+	<string name="yes" msgid="4676390750360727396">"Oui"</string>
+	<string name="no" msgid="6731231425810196216">"Non"</string>
+	<string name="silent_mode_title" msgid="3181479108593217704">"Mode silencieux"</string>
+	<string name="ringtone_title" msgid="5379026328015343686">"Sonnerie"</string>
+	<string name="ringtone_summary" msgid="2630023412632683493"/>
+	<string name="all_volume_title" msgid="4296957391257836961">"Volume"</string>
+	<string name="musicfx_title" msgid="3415566786340790345">"Effets sonores"</string>
+	<string name="ring_volume_title" msgid="7938706566797464165">"Volume"</string>
+	<string name="vibrate_in_silent_title" msgid="3897968069156767036">"Vibreur en mode silencieux"</string>
+	<string name="vibrate_title" msgid="6045820877942801599">"Vibreur"</string>
+
+	<string name="sound_settings_title" msgid="8735891486683305886">"Son"</string>
+	<string name="silent_mode_summary" msgid="3309650676072917899">"Mode silencieux à l\'exception des fichiers multimédia et des alarmes"</string>
+	<string name="silent_mode_incl_alarm_summary" msgid="2088830834182228458">"Mode silencieux pour l\'ensemble des sons hors multimédia"</string>
+	<string name="ring_volume_summary" msgid="7055497624193116879">"Définir le volume de la sonnerie pour les appels entrants, les messages et les notifications"</string>
+	<string name="vibrate_in_silent_summary" msgid="3312600513070076281">"Autoriser le vibreur en mode silencieux"</string>
+	<string name="vibrate_summary" msgid="7378130397830790458">"Vibreur lors de l\'acceptation des appels et des notifications"</string>
+	<string name="notification_sound_title" msgid="312032901303146002">"Notification par défaut"</string>
+	<string name="notification_pulse_title" msgid="1247988024534030629">"Clignotement lumineux en cas de notification"</string>
+	<string name="incoming_call_volume_title" msgid="8073714801365904099">"Sonneries"</string>
+	<string name="notification_volume_title" msgid="2012640760341080408">"Notification"</string>
+	<string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"Utiliser le volume d\'appel d\'entrant comme volume pour les notifications"</string>
+	<string name="notification_sound_summary" msgid="2953599929394109819"/>
+	<string name="notification_pulse_summary" msgid="6899220780534617152">"Le voyant de la boule de commande clignote lors de la réception de nouvelles notifications"</string>
+	<string name="notification_sound_dialog_title" msgid="9052854168612951170">"Sélectionner une sonnerie de notification"</string>
+	<string name="media_volume_title" msgid="3576565767317118106">"Support"</string>
+	<string name="media_volume_summary" msgid="5363248930648849974">"Définir le volume de la musique et des vidéos"</string>
+	<string name="alarm_volume_title" msgid="2285597478377758706">"Alarme"</string>
+	<string name="dtmf_tone_enable_title" msgid="8533399267725365088">"Effets sonores du clavier"</string>
+	<string name="sound_effects_enable_title" msgid="1171590821131077296">"Sons tactiles"</string>
+	<string name="lock_sounds_enable_title" msgid="450098505659399520">"Son de verrouillage d\'écran"</string>
+	<string name="haptic_feedback_enable_title" msgid="2438293710530828760">"Vibration au toucher"</string>
+	<string name="audio_record_proc_title" msgid="4271091199976457534">"Réduire le volume sonore"</string>
+	<string name="volume_media_description" msgid="7949355934788807863">"Musique, vidéo, jeux et autres supports"</string>
+	<string name="volume_ring_description" msgid="5936851631698298989">"Appels et messages entrants"</string>
+	<string name="volume_notification_description" msgid="5810902320215328321">"Notification"</string>
+	<string name="volume_alarm_description" msgid="8322615148532654841">"Alarme"</string>
+	<string name="dtmf_tone_enable_summary_on" msgid="3028201873989887327">"Effet sonore lors de la numérotation"</string>
+	<string name="dtmf_tone_enable_summary_off" msgid="7791065951268525678">"Effet sonore lors de la numérotation"</string>
+	<string name="sound_effects_enable_summary_on" msgid="6154141289879491329">"Émettre un effet sonore lors de la sélection d\'écrans"</string>
+	<string name="sound_effects_enable_summary_off" msgid="3447739581759560125">"Émettre un effet sonore lors de la sélection d\'écrans"</string>
+	<string name="lock_sounds_enable_summary_on" msgid="145741024028391473">"Émettre un son lors du verrouillage et du déverrouillage de l\'écran"</string>
+	<string name="lock_sounds_enable_summary_off" msgid="8481243116223542804">"Émettre un son lors du verrouillage et du déverrouillage de l\'écran"</string>
+	<string name="haptic_feedback_enable_summary_on" msgid="1875779656524793053">"Vibreur lorsque vous appuyez sur une touche programmable et que vous basculez entre certaines interfaces utilisateur"</string>
+	<string name="haptic_feedback_enable_summary_off" msgid="7287885436963105314">"Vibreur lorsque vous appuyez sur une touche programmable et que vous basculez entre certaines interfaces utilisateur"</string>
+	<string name="audio_record_proc_summary" msgid="8113628457499616498">"Réduire les bruits de fond lorsque vous parlez ou enregistrez" "</string>
+
+	<string name="Ringtone_profile_title">Paramètres de sonnerie</string>
+	<string name="Ringtone_profile_summary">Définir la sonnerie pour l\'alerte d\'appels et de messages entrants</string>
+
+
+	<string name="turn_cr_title">"Paramètres d\'appel de coloration"</string>
+	<string name="turn_cr_on">"Récupérer le service d\'appel de coloration"</string>
+	<string name="turn_cr_off">"Déclenchement d\'un appel de coloration"</string>
+	<string name="turn_cr_title_ongoing">"Récupération d\'un message de déclenchement d\'appel de coloration"</string>
+	<string name="turn_cr_title_success">"Le message de déclenchement d\'appel de coloration a bien été récupéré"</string>
+	<string name="turn_cr_title_fail">"La récupération du message de déclenchement d\'appel de coloration a échoué"</string>
+	<string name="turn_cr_sms_fail">"L\'envoi du message de déclenchement d\'appel de coloration a échoué"</string>
+	
+	<!-- Profile Settings -->
+	<string name="profile_select_label">Paramètres du profil</string>
+	<string name="profile_options_label">Paramètres du profil personnalisé</string>
+	<string name="general_profile_title">Standard</string>
+	<string name="silence_profile_title">Mode silencieux</string>
+	<string name="meeting_profile_title">Vibreur</string>
+	<string name="outdoors_profile_title">Extérieur</string>
+	<string name="general_profile_summary">Définir la sonnerie pour les appels entrants et les rappels en mode standard</string>
+	<string name="meeting_profile_summary">Paramètres tactiles, etc., en mode vibreur</string>
+	<string name="silence_profile_summary">Paramètres tactiles, etc., en mode silencieux</string>
+	<string name="outdoors_profile_summary">Paramètres de sonnerie d\'appel entrant et de rappels, etc. en mode extérieur</string>
+	<string name="sum_profile_settings">Basculer entre les paramètres du profil et les paramètres personnalisés du profil</string>
+
+	<string name="set_profile_title">Paramètres personnalisés</string>
+	<string name="call_ringtone_title">Sonnerie d\'appel entrant</string>
+	<string name="call_ringtone_summary">Définir la sonnerie d\'appel entrant</string>
+	<string name="message_sound_title">Sonnerie de message</string>
+	<string name="message_sound_summary">Définir la sonnerie pour les messages, les MMS et les notifications</string>
+	<string name="mail_sound_title">Sonnerie d\'arrivée d\'un courrier</string>
+	<string name="mail_sound_summary">Définir la sonnerie d\'arrivée d\'un courrier</string>
+	<string name="alarm_alert_title">Sonnerie de planification</string>
+	<string name="alarm_alert_summary">Définir la sonnerie de planification</string>
+	<string name="push_sound_title">Sonnerie de service push</string>
+	<string name="push_sound_summary">Définir la sonnerie de service push</string>
+	<string name="push_mail_ringtone_switch_title">Service push et alerte par courrier électronique</string>
+	<string name="push_mail_ringtone_switch_summary_on">Alerte par sonnerie activée</string>
+	<string name="push_mail_ringtone_switch_summary_off">Alerte par sonnerie désactivée</string>
+
+	<string name="startup_sound_title">"Sonnerie d\'activation/de désactivation du téléphone"</string>
+	<string name="startup_sound_summary_on">"Définir la sonnerie d\'activation/de désactivation du téléphone ?"</string>
+	<string name="startup_sound_summary_off">"Définir la sonnerie d\'activation/de désactivation du téléphone ?"</string>
+
+	<string name="remind_title">Mode de rappel</string>
+	<string name="remind_summary">Définir le mode de rappel général</string>
+	<string name="profile_settings">Paramètres du profil</string>
+	<string name="progress_title">Paramètres du profil</string>
+	<string name="progress_message">Veuillez patienter…</string>
+
+	<!-- Mini -->
+	<string name="volume">Volume</string>
+	<string name="ringtone_settings_title">Paramètres de sonnerie</string>
+	<string name="feedback_title">Retour utilisateur</string>
+	<string name="threeg_call_sound_title">Sonnerie d\'appel entrant</string>
+	<string name="threeg_message_sound_title">Sonnerie de message</string>
+	<string name="twog_call_sound_title">Sonnerie d\'appel entrant</string>
+	<string name="twog_message_sound_title">Sonnerie de message</string>
+	<string name="threeg_unable">Carte SIM 1 non disponible</string>
+	<string name="twog_unable">Carte SIM 2 non disponible</string>
+  
+    <string name="convention">Convention</string>
+    <string name="cate_call_ringtone">Appel entrant</string>
+    <string name="cate_message_ringtone">Message</string>
+    
+     <string name="pocket_mode_title">Mode poche</string>
+     <string name="pocket_mode_summary">Le volume de la sonnerie est réduit automatiquement lorsque vous décrochez votre téléphone</string>
+
+    <string name="audio_profile_rename">Renommer</string>
+    <string name="audio_profile_enable">"Activer"</string>
+    <string name="audio_profile_delete">"Supprimer"</string>
+    <string name="audio_profile_message_delete">Le profil 
+        <xliff:g id="profile">%s</xliff:g> sera supprimé
+    </string>
+    <string name="profile_category_checked_title">Configuration des profils</string>
+    <string name="audio_profile_error">ERREUR</string>
+    <string name="audio_profile_message_reset">Tous les réglages du profil audio seront réinitialisés</string>
+    <string name="audio_profile_add">Ajouter</string>
+    <string name="message">"Message"</string>
+    <string name="audio_profile_message_name_error">Le nom saisi existe déjà</string>
+    <string name="audio_profile_message_rename">Veuillez saisir un nouveau nom de profil</string>
+    <string name="profile_category_custom_title">Profils définis par l\'utilisateur</string>
+    <string name="audio_profile_reset">"Réinitialiser"</string>
+    <string name="audio_profile_message_name_length_wrong">Le nom doit contenir au moins un caractère</string>
+    <string name="set_default_phone_ringtone">"Définissez votre tonalité d\'alerte d\'appel par défaut"</string>
+    <string name="set_default_message_ringtone">Définissez votre tonalité d\'alerte de message par défaut</string>
+    <string name="sim_message_one">Sonnerie de message</string>
+    <string name="set_default_notification_ringtone">Définir la sonnerie de notification par défaut</string>
+    <string name="sim_message_sim_one">Sonnerie de message (SIM 1)</string>
+    <string name="volume_alarm_mute">"Désactiver le son des alarmes"</string>
+    <string name="sim_call">Sonnerie</string>
+    <string name="audio_profile_message_overflow">Vous pouvez ajouter 4 profils personnalisés maximum</string>
+    <string name="volume_ring_mute">"Sonnerie muette et notifications"</string>
+    <string name="ringtone_and_sound_settings">"Sonnerie et tonalité"</string>
+    <string name="sim_call_one">Sonnerie (SIM 1)</string>
+    <string name="sim_call_two">Sonnerie (SIM 2)</string>
+    <string name="sim_message_sim_two">Sonnerie de message (SIM 2)</string>
+    <string name="volume_notification_mute">"Désactiver le son des notifications"</string>
+    <string name="volume_media_mute">"Désactiver le son de la musique et des autres supports"</string>
+</resources>

@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="profile_edit_weaken_help">Volumul tonului de apel este redus la ridicarea telefonului.</string>
+<string name="smart_calling_title">Apel inteligent</string>
+<string name="character_settings_gestural_hand_category">Util. cu o singură mână şi gesturi</string>
+<string name="select_subscription">Select. abonament</string>
+<string name="wifi_scan_always_available_summary" msgid="7768204638882691453">"Permiteți serviciului de localizare Google și altor aplicații să caute rețele, chiar dacă rețeaua WLAN este dezactivată"</string>
+<string name="whatis_lenovoid_cando_summary"> "acces nelim. la asocieri pentru diferite aplicaţii, servicii cloud şi service. Un card disponibil, deblocat. "</string>
+<string name="enable_traces_title">"Activaţi monitorizările"</string>
+<string name="wifi_setup_wizard_title" msgid="70277346338812325">"Selectaţi o reţea WLAN"</string>
+<string name="schpwr_time_invalid">Intervalul dintre programul de pornire/oprire trebuie să fie de cel puţin %d (de) minute</string>
+<string name="multiwindow_title">"Ferestre Multimedia"</string>
+<string name="lockscreen_shake_unlock_ctrl_summary">Scuturare rapidă tel. într-o direcţie pt. blocare ecran | Ajutor</string>
+<string name="show_frame_count_size">Dimensiune</string>
+<string name="character_settings_phone_call_ring_weaken_help_message">Volumul tonului de apel este redus la ridicarea telefonului.</string>
+<string name="gestural_phone_summary">Glisați pe ecran spre stânga şi dreapta pt. a prelua apeluri|Apăsaţi şi menţineţi apăsată săg. sus pt. a încheia apelul</string>
+<string name="teos_settings">Balans culori afişaj</string>
+<string name="display_effect_of_screen_saturation_title">"Saturaţie"</string>
+<string name="lock_wallpaper">Bloc.img.fundal</string>
+<string name="done">"Terminat"</string>
+<string name="version_info">Informaţii despre versiune</string>
+<string name="desktop_wallpaper">Img.fundal desktop</string>
+<string name="devices_info_cpu">"CPU：fore-core 2,2GHz"</string>
+<string name="backup_data_to_device_title">Copie sig. date pe alt dispozitiv</string>
+<string name="smart_call_answer_settings_title">Răsp. intelig.</string>
+<string name="reset_skip_backup_title">Omit.cop.sig.</string>
+<string name="recovery_data_from_device_title">Recup. date de pe alt dispozitiv</string>
+<string name="roaming_time_settings_category">Setări roaming internaţional</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> poate colecta tot textul pe care îl introduceţi, cu excepţia parolelor. Aceasta include date personale, cum ar fi numerele cardurilor de credit. Serviciul poate colecta şi date despre interacţiunile dvs. cu tableta."</string>
+<string name="header_category_shortcut_key">CARACT. COM.RAPIDE</string>
+<string name="multi_sim_settings_summary">Config. setări multi-sim pt. voce, date şi SMS</string>
+<string name="voice_title">Voce/USSD/MMI</string>
+<string name="never">"Niciodată"</string>
+<string name="data_usage_metered_body" msgid="2446827764036316131">"Selectaţi reţelele WLAN care sunt hotspoturi mobile. Utilizarea acestor reţele de către aplicaţii poate fi restricţionată când ele se află în fundal. De asemenea, aplicaţiile pot emite o avertizare înainte de a utiliza aceste reţele pentru descărcări mari."</string>
+<string name="character_settings_swing_lock_screen_help_message">Scuturaţi telefonul pentru a bloca ecranul</string>
+<string name="global_single_hand_title_v2">Ecran Micro util. cu o singură mână</string>
+<string name="products_version">Nr. model</string>
+<string name="wifi_display_summary_on">"Activat"</string>
+<string name="multiwindow_divide_settings_summary">Finaliz. sarcinile pe tel. deschizând două ferestre</string>
+<string name="startup_time_enabled">Pornire programată</string>
+<string name="wifi_setup_title_connected_network" msgid="209755856836003839">"Conectat la reţeaua WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="multi_sim_settings_title">Setări multi-sim</string>
+<string name="framework_version">Nr. versiune Android</string>
+<string name="display_effect_of_screen_apply">Aplicare</string>
+<string name="character_settings_float_button_help_message">Deschideţi panoul de comenzi rapide şi aplicaţii făcând clic pe butonul mobil.</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"Utilizaţi <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="wifi_empty_list_wifi_off" msgid="4722299515264875943">"Pt. a vedea reţelele disponibile, activaţi WLAN."</string>
+<string name="mercury_keyboard_title">Tastatură inteligentă</string>
+<string name="data_usage_restrict_background" msgid="6387252645350792955">"Dacă limitaţi datele mobile de fundal, unele aplicaţii şi servicii nu vor funcţiona decât dacă sunteţi conectat(ă) la o reţea WLAN."</string>
+<string name="screensaver_timeout_zero_summary">"Niciodată"</string>
+<string name="still_sleep_ctrl">Hibern.intelig.</string>
+<string name="playersTutorial_stoped">Tutorialul a fost oprit</string>
+<string name="lenovo_exp_title">Acord de partic. la programul Lenovo Experience</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet" msgid="2609163428726042269">"Dacă limitaţi transferul de date mobile în fundal, unele aplicaţii şi servicii nu vor funcţiona decât dacă sunteţi conectat(ă) la o reţea WLAN."\n\n"Această setare afectează toţi utilizatorii de pe această tabletă."</string>
+<string name="set_sms_error">Eroare în abon.sms setat. Abonament inactiv.</string>
+<string name="lockscreen_face_detection_ctrl_description">Ţineţi telefonul la nivelul feţei pentru a-l debloca</string>
+<string name="glove_mode">Fcţ. tact. cu sensib. rid.</string>
+<string name="smart_standby_ctrl_summary">"Atunci când ecranul se aprinde, dacă senzorul detectează că priviţi spre ecran, acesta rămâne aprins; dacă unghiul este prea înclinat sau lumina este insuficientă, nivelul de recunoaştere va fi redus</string>
+<string name="battery_action_wifi" msgid="2272741639606146903">"Setări WLAN"</string>
+<string name="backup_data_summary" msgid="9157861529438245957">"Creaţi o copie de rezervă pentru datele aplicaţiei, parolele WLAN şi pentru alte setări pe serverele Google"</string>
+<string name="black_screen_settings_flash_mode_off">Dezactivat</string>
+<string name="exit">Ieşire</string>
+<string name="gadget_wifi" msgid="5960290421313061434">"WLAN"</string>
+<string name="lockscreen_knock_on_ctrl">Set.lumină la contact</string>
+<string name="gestural_music_summary">Glisaţi pe ecran spre stânga şi dreapta pt. a schimba muzica|Glisaţi în sus şi în jos pt. a regla volumul</string>
+<string name="notificationbar_setings_title">"Centru notificări"</string>
+<string name="unlock_proximity_ctrl">Evitar oprimir la tecla de encendido por error</string>
+<string name="shellt_phone_info_camera">"8milioane"</string>
+<string name="wifi_scan_notify_text_location_off" msgid="6323983741393280935">"Aplicațiile pot căuta rețele în apropiere, chiar dacă rețeaua WLAN este dezactivată. Dacă nu doriți acest lucru, accesați Avansate &gt; Scanare mereu disponibilă."</string>
+<string name="location_neighborhood_level_wifi" msgid="7457348712272184793">"Locaţie stabilită prin WLAN"</string>
+<string name="teos_settings_title">Balans culori afişaj</string>
+<string name="tilt_scroll_control_summary">Când această opţiune este activată, interfaţa care acceptă derularea în poz. înclinată va derula automat spre st./dr. atunci când telefonul este înclinat</string>
+<string name="wifi_setting_sleep_policy_title" msgid="9107237003911220057">"Menţineţi WLAN activat în modul inactiv"</string>
+<string name="location_consent_dialog_title">Consimţ.locaţie</string>
+<string name="devices_info_runMemory">"RAM: 2,0GB.</string>
+<string name="reset_backup_befor_reset_summary">Cop.sig.date importante, de ex.contacte, înainte de reset.</string>
+<string name="wifi_advanced_titlebar" msgid="1627063574532930090">"Setări WLAN avansate"</string>
+<string name="personal_hotspot">"Hotspot"</string>
+<string name="save_power_summary">"Select. aplicaţii pt. aliniere timp de trezire sistem"</string>
+<string name="internal_storage_app">Stocare internă aplicație</string>
+<string name="category_smart">Inteligente</string>
+<string name="show_frame_count_y_coordinate">Coord. Y</string>
+<string name="fast_poweron_next_time">Pornire rapidă data viitoare</string>
+<string name="black_screen_camera_gallery_title"> "Mod Previz." </string>
+<string name="data_usage_tab_slot2">SIM 2</string>
+<string name="data_usage_tab_slot1">SIM 1</string>
+<string name="show_frame_count_ok_button_text">"OK"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen_summary">Atingeţi ecranul de două ori când este dezact. pt. a porni telefonul</string>
+<string name="black_screen_camera_fast_title"> "Mod Cameră" </string>
+<string name="sel_sub_summary">Selectare abonament pt. SIM-1 şi SIM-2</string>
+<string name="character_settings_single_hand_help_message">Desenaţi litera „C” din marg. de sus spre marg. de jos a ecranului pt. a activa ecranul micro operabil cu o mână.</string>
+<string name="wifi_setup_wizard_next">"Înainte"</string>
+<string name="lenovo_exp_content">"Suport doar CN"</string>
+<string name="character_settings_shortcuts_category">Metode comenzi rapide</string>
+<string name="gestural_summary">Gesturile pot fi utilizate pt. a controla de la distanţă telefonul</string>
+<string name="profile_edit_weaken_title">Reducere volum ton</string>
+<string name="character_settings_help_category_title">"Asistenţă"</string>
+<string name="profile_settings">"Sunet"</string>
+<string name="black_screen_settings_shortcut_quick_shots_summary">Faceţi dublu-clic pe butonul Ecran de start cu ecranul dezactivat pt. a alinia imagini</string>
+<string name="global_single_hand_title">Mod cu o singură mână</string>
+<string name="startup_shutdown_time_errmsg">Interv. de timp dintre pornire şi oprire trebuie să depăş. 10 minute, setaţi din nou.</string>
+<string name="still_sleep_ctrl_summary">Telefonul intră automat în starea de repaus dacă este amplasat pe o suprafaţă orizontală</string>
+<string name="enable_schpwr">Activare</string>
+<string name="save_power_wait_message">"Înc. aplicaţii"</string>
+<string name="schpwr_power_on">"activ"</string>
+<string name="reboot_progress">Repornire\u2026</string>
+<string name="recovery_data_title">Recup. date din copie sig.de pe card SD </string>
+<string name="day">"1 zi"</string>
+<string name="multiwindow_settings_summary">Activare fer. mult.</string>
+<string name="service_background_processes_ram">"Aplicaţie <xliff:g id="MEMORY">%1$s</xliff:g> gratuită"</string>
+<string name="mercury_keyboard_summary">Dimensiunea tastaturii se va modifica în funcţie de unghiul de susţinere a telefonului pentru a facilita utilizarea cu o mână | Ajutor</string>
+<string name="save_power_count">"În total sunt aliniate <xliff:g id="NUMBER">%d</xliff:g> aplicaţii"</string>
+<string name="lockscreen_face_detection_ctrl">Deblocare recunoaştere a feţei</string>
+<string name="fuse_backup_data_description">"Copie sig. la Contacte, Imagini, Mesaje, Aplicaţii şi alte date imp. înainte de a reseta telefonul"</string>
+<string name="settings_header_ringtone_k7">"Setări ton apel"</string>
+<string name="gestural_image_summary">Glisaţi pe ecran spre stânga şi dreapta pt. a comuta între imagini|Glisaţi în sus şi în jos pt. a comuta între efectele speciale</string>
+<string name="wifi_starting" msgid="6716593470710880000">"Se activează WLAN?"</string>
+<string name="memory_info">RAM</string>
+<string name="set_dds_failed">Eroare în abon.de date setat.  Ştergeţi conexiunea de date exist. şi reîncercaţi.</string>
+<string name="device_section_title">Dispozitiv</string>
+<string name="wave_not_screenoff_title">Gest dezact. ecran</string>
+<string name="wifi_setup_eap_not_supported" msgid="595556546597351489">"Nu puteţi configura o conexiune WLAN EAP în timpul instalării. După instalare, puteţi face acest lucru în Setări &gt; Reţele wireless."</string>
+<string name="gestural_phone">Preluare prin gesturi</string>
+<string name="lock_title" product="tablet">"Securizarea telefonului"</string>
+<string name="character_settings_pocket_mode_help_message">Volumul tonului de apel este mărit automat când telefonul este în buzunar.</string>
+<string name="global_action_meeting">"Vibraţii"</string>
+<string name="wifi_tether_checkbox_text" msgid="6961605862058056788">"Hotspot WLAN portabil"</string>
+<string name="unlock_set_unlock_speech_title">Deblocare vocală</string>
+<string name="slide_unlock_help">Când ecr. e dezact., glis. spre st. sau dr. în partea inf. a ecr. pt. debloc. Ac. caract. va afecta consumul de energie în standby.</string>
+<string name="character_settings_intelligent_category">Control inteligent</string>
+<string name="black_screen_settings_broswer_summary">Desenaţi litera „e” pe ecran</string>
+<string name="incoming_call_ringer_title1">"Ton apel primit (1)"</string>
+<string name="incoming_call_ringer_title2">"Ton apel primit (2)"</string>
+<string name="safety_information">Informații de securitate</string>
+<string name="color_light_hasopen">Activ</string>
+<string name="nfc_beam_transmit">Transm. Android</string>
+<string name="wifi_empty_list_wifi_on" msgid="3354911729026237372">"Se caută reţele WLAN…"</string>
+<string name="multiwindow_smart_settings">Fer. mult. intelig.</string>
+<string name="display_effect_of_screen_contrast_item0">Rece</string>
+<string name="display_effect_of_screen_contrast_item1">"Prestabilit"</string>
+<string name="black_screen_settings_category_shortcut">Operare comenzi rapide ecr. negru</string>
+<string name="black_screen_settings_music">Debl. muzică</string>
+<string name="unlock_proximity_ctrl_summary">Fol.senzorul de proximitate pt. a evita operaţii accidentale când aveţi tel. în buzunar.</string>
+<string name="display_effect_of_screen_contrast_item2">Cald</string>
+<string name="memory_video_usage">"Videoclipuri"</string>
+<string name="timing_startup_and_shutdown_settings_title">Pornire şi oprire progr.</string>
+<string name="mercury_keyboard_help">La utilizarea tastaturii, aceasta se va modifica în funcţie de unghiul în care susţineţi telefonul pentru a facilita operaţiunea cu o singură mână. Glisaţi cu degetul pe ecran când interfaţa tastaturii este orizontală pentru a activa tastatura Mercury.</string>
+<string name="wifi_wps_setup_title" msgid="6034518116333042484">"Configurare protejată WLAN"</string>
+<string name="restriction_wifi_config_title" msgid="8889556384136994814">"Rețele WLAN și mobile"</string>
+<string name="other_wallpaper">Altă img.fundal</string>
+<string name="show_dev_countdown">Sunteţi la câţiva paşi de a deveni dezvoltator.</string>
+<string name="os_version">Nr. versiune sistem</string>
+<string name="show_frame_count_title">Acces. tutorialul pt. începători</string>
+<string name="ringtone_picker_more_ringtones_title">"Mai multe tonuri de apel &gt;&gt;&gt;"</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"Apăs. tasta volum sau sus/jos pentru a comuta ecranul pe | Ajutor"</string>
+<string name="crypt_keeper_encrypt_summary" product="default" msgid="514138079795442371">"Necesită un cod PIN numeric sau o parolă de decriptare a telefonului la fiecare pornire a acestuia"</string>
+<string name="category_single_hand">Cu o singură mână</string>
+<string name="black_screen_settings_shortcut_quick_shots">Fotografiere extrem de rapidă</string>
+<string name="black_screen_settings_normal">Debloc. normală</string>
+<string name="userguide_title">"Ghid iniţ."</string>
+<string name="black_screen_settings_summary_app_selected">Debloc. <xliff:g id="app">%s</xliff:g></string>
+<string name="character_settings_help_title">Exploraţi operarea ecranului negru</string>
+<string name="wifi_setup_title_editing_network" msgid="7304321031985059969">"Conectaţi-vă la reţeaua WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="never_timeout">Niciodată în aştept.</string>
+<string name="screensaver_settings_disabled_prompt" msgid="3857507943322777651">"Pentru a controla ceea ce se întâmplă când telefonul este andocat şi/sau în modul inactiv, activaţi Daydream."</string>
+<string name="subscription_02_title">SIM 2</string>
+<string name="category_gesture">Gest</string>
+<string name="accessibility_script_injection_allowed">Permis</string>
+<string name="airbuse_phone_info_camera">"Faţă 300.000, Spate 5milioane"</string>
+<string name="character_settings_call_voice_category">Apeluri şi voce</string>
+<string name="lock_title" product="default">Asigurare telefon</string>
+<string name="devices_info_memory">"Memorie：<xliff:g>%1$s</xliff:g>(lib.)  4 GB(total)"</string>
+<string name="wifi_wps_onstart_pin" msgid="8067502591043979939">"Introduceţi codul PIN <xliff:g id="NUMBER">%1$s</xliff:g> pe routerul WLAN. Finalizarea configurării poate dura până la două minute."</string>
+<string name="enable_traces_summary_all">"Toate monitorizările activate în prezent"</string>
+<string name="every_day">fiecare zi</string>
+<string name="voice_wakeup_title">Trezire vocală</string>
+<string name="side_key_backlight_help">Apăsaţi tasta de volum pentru a activa retroiluminarea.</string>
+<string name="set_voice_error">Eroare în abon.voce setat. Abonament inactiv.</string>
+<string name="data_usage_enable_mobile_statistics_dialog">Prin activ. acestei caract., consumul de energie va fi mare în reţelele de date rapide, precum LTE...</string>
+<string name="ota_title">Actualizare sistem</string>
+<string name="memory_image_usage">"Fotografii"</string>
+<string name="hardware_version">Versiunea hardware</string>
+<string-array name="contrast">
+        <item>Implicit</item>
+        <item>Ridicat</item>
+    </string-array>
+<string name="crypt_keeper_desc" product="default" msgid="7663118199519229502">"Puteţi să criptaţi conturi, setări, aplicaţii descărcate şi datele acestora, fişiere media şi alte tipuri de fişiere. După criptarea telefonului, trebuie să introduceţi un cod PIN numeric sau o parolă pentru a-l decripta de fiecare dată când îl porniţi. Nu puteţi decripta telefonul decât prin resetarea configurării din fabrică, ceea ce va şterge toate datele de pe acesta."\n\n"Criptarea poate dura cel puţin o oră. Trebuie să începeţi cu o baterie încărcată şi să ţineţi telefonul conectat până la finalizarea criptării. Întreruperea procesului de criptare poate duce la pierderea tuturor datelor sau a unor părţi din acestea."</string>
+<string name="china_telcom_push_summary">Serviciu de apelare gratuită China Telecom</string>
+<string name="color_light_missed_call">Apeluri pierdute</string>
+<string name="devices_info_products_version">"Model: Lenovo K910"</string>
+<string name="usb_mtp_summary" msgid="4617321473211391236">"Vă permite să transferaţi fişiere media pe Windows sau utilizând aplicaţia Transfer de fişiere Android pe Mac (disponibil la www.android.com/filetransfer)"</string>
+<string name="what_lenovoid_cando_title"> "Asocierea trece peste ce pot să fac eu? "</string>
+<string name="k6kk_phone_info_cpu">"Snapdragon 800 2,2GHz"</string>
+<string name="smart_answer_incommingcall_summary">La primirea unui apel, utilizatorul poate răspunde cu un gest specific</string>
+<string name="gadget_state_template" msgid="5156935629902649932">"<xliff:g id="ID_1">%1$s</xliff:g> <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+<string name="k6kk_phone_info_camera">"Faţă 5milioane, Spate 13milioane"</string>
+<string name="wifi_setup_title" msgid="661074868726906436">"Configurare WLAN"</string>
+<string name="system_shortcutbar_title">"Bară com.rapide sistem"</string>
+<string name="call_ring_pocket_enable_title">"Mod Buzunar"</string>
+<string name="schpwr_shutdown_message_second">"Dispozitivul se va opri în <xliff:g id="second">%s</xliff:g> secunde"</string>
+<string name="smart_rotete_cbox_summary">Inteligente</string>
+<string name="gestural_gesture">Control prin gesturi</string>
+<string name="black_screen_settings_quick_shots_three">trei imagini</string>
+<string name="smart_call_answer_settings_summary">Răspunde autom. la apel primit când dispozitivul este dus la ureche</string>
+<string name="wifi_wps_onstart_pbc" msgid="7204827509934892103">"Apăsaţi butonul Configurare protejată WLAN de pe router. Acesta poate apărea ca „WPS” sau poate conţine acest simbol:"</string>
+<string name="crypt_keeper_final_desc" product="default" msgid="5682944380460921880">"Operaţia de criptare este ireversibilă şi întreruperea ei va duce la pierderea datelor. Criptarea durează cel puţin o oră, timp în care telefonul se va reporni de mai multe ori."</string>
+<string name="wifi_quick_toggle_summary" msgid="1047950931623694366">"Activaţi WLAN"</string>
+<string name="k6kk_phone_info_screen">"Rezoluţie: 1080*1920, Dim.: 5,5 inci"</string>
+<string name="swing_lock_help">Scuturaţi telefonul pentru a bloca ecranul</string>
+<string name="software_version">Nr. versiune software</string>
+<string name="header_category_lock_unlock">CARACT. ECRAN</string>
+<string name="gestural_gesture_summary">Glisarea cu degetul în stânga\\dreapta\\sus\\jos fără a atinge ecranul are acelaşi efect ca glisarea cu atingerea ecranului. Această funcţie nu poate fi utilizată în interfeţele pentru fişiere de muzică, video sau browsere.</string>
+<string name="black_screen_settings_quick_shots_six">şase imagini</string>
+<string name="wlan_share">"Partaj. WLAN"</string>
+<string name="bottom_shortcutbar_title">"Bară com.rapide infer."</string>
+<string name="smart_calling_summary">În interfaţa de detalii de contact sau de conversaţii prin mesaje, duceţi telefonul la ureche pentru a apela automat contactul</string>
+<string name="usage_type_data_wifi_send" msgid="7178327382353096029">"Date WLAN trimise"</string>
+<string name="double_click_menu_enabled_title">"Clic lung pe tasta MENIU pt.act.voce"</string>
+<string name="glove_mode_summary">Când fcţ. tact. cu sensib. rid. e activată, se acceptă ating. ecranului cu mănuşi</string>
+<string name="gestural_v2">Gesturi 3D</string>
+<string name="double_click_home_enabled_title">"Dublu-clic pe tasta Ecr.start pt.act.voce"</string>
+<string name="backup_data_section_title">Cop.sig.date</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"<xliff:g id="NUM">%1$d</xliff:g> (de) monitorizări activate în prezent"</string>
+<string name="show_frame_count_summary">Afiş.nr.cadre când e activ.</string>
+<string name="wifi_quick_toggle_title" msgid="874495178395350104">"WLAN"</string>
+<string name="reset_backup_befor_reset_title">Copie sig. date înainte de reset.</string>
+<string name="restriction_wifi_config_summary" msgid="70888791513065244">"Permiteți modificarea setărilor pentru rețele WLAN și mobile"</string>
+<string name="reboot">"Reporniţi"</string>
+<string name="bluetooth_on_time" msgid="6157799524996162271">"Timp de funcţionare WLAN"</string>
+<string name="quicksettings">"set.rapide"</string>
+<string name="color_light_demo">Demo cu LED</string>
+<string name="sim_settings_title">Setări SIM</string>
+<string name="hours"><xliff:g id="hours">%s</xliff:g> ore</string>
+<string name="save_power_title">"Aliniere oră de trezire sistem"</string>
+<string name="header_category_call_message">Apel şi mesaj</string>
+<string name="show_hw_overdraw">"Nivel suprapunere GPU"</string>
+<string name="display_effect_of_screen_hue_title">Nuanţă</string>
+<string name="whatis_lenovoid_summary"> "folosiţi tel.mobil ca un cont de acces Lenovo, deveniţi parte a Asocierii. "</string>
+<string name="data_usage_menu_show_wifi" msgid="8266875319417201085">"Afişaţi utilizarea WLAN"</string>
+<string name="master_clear_desc" product="default" msgid="9165016501623540228">"Această acţiune va şterge toate datele din "<b>"stocarea internă"</b>" a telefonului dvs., inclusiv:"\n\n<li>"Contul dvs. Google;"</li>\n<li>"datele şi setările sistemului şi ale aplicaţiilor;"</li>\n<li>"aplicaţiile descărcate."</li></string>
+<string name="data_summary">Sel. abonament pt. apel date</string>
+<string name="savepower_all_title">Toate</string>
+<string name="black_screen_settings_flash_mode_auto">Automat</string>
+<string name="wifi_setting_frequency_band_title" msgid="7493768705046080060">"Bandă de frecvenţă WLAN"</string>
+<string name="hide_recent_settings">trag. în jos pt. a afişa set. recente</string>
+<string name="showing_color_light">Afişare culori LED</string>
+<string name="reset_skip_backup_summary">Sel. această opţ. pt. elem. care au fost copiate de sig. sau care nu necesită cop. de sig.</string>
+<string name="wifi_stopping" msgid="244864762599017659">"Se dezactivează WLAN..."</string>
+<string name="wifi_wps_connected" msgid="5754399645462924103">"Conectat la reţeaua WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="global_action_outdoors">"Exterior"</string>
+<string name="schpwr_shutdown_message">"Dispozitivul se va opri în <xliff:g id="seconds">%s</xliff:g> secunde"</string>
+<string name="overturn_lock_ctrl_summary">"Întoarceţi tel. pt. bloc. ecran"</string>
+<string name="schedule_power_on_off_time">Oră</string>
+<string name="show_screen_frame_count">Afişare nr. cadre ecran</string>
+<string name="timing_startup_head_text">Activ</string>
+<string name="wifi_setting_summary">La introd.loc.aplicaţiei conect. şi cu date GPRS disp.，legaţi locaţia</string>
+<string name="unsupported_headset_warning" product="default">
+       "Ataşament incompatibil"
+    </string>
+<string name="overturn_lock_ctrl">"Întoarceţi pt.bloc.ecran"</string>
+<string name="restart_confirm_question">Doriţi să reporniţi?</string>
+<string name="multiwindow_divide_settings">Diviz. ecr. pt. fer. mult.</string>
+<string name="backup_data_to_sdcard_title">Copiere sig. date pe card SD</string>
+<string name="data_title">Apel date</string>
+<string name="sim_not_available">Card SIM indisponibil</string>
+<string name="preference_status_open">"Activat"</string>
+<string-array name="saturation">
+        <item>Redus</item>
+        <item>Implicit</item>
+        <item>Luminos</item>
+    </string-array>
+<string name="multiwindow_smart_settings_summary">Dacă primiţi un mes. în timp ce vizion. un fiş. video pe ecr. compl. cu orientare pe orizontală, rotiţi tel. la orient. portret pt. a afişa automat fer. mult. pt. sarcini mult.</string>
+<string name="user_you_section">"Dvs."</string>
+<string name="backup_data_to_sdcard_summary">Copie sig. date tel. pe card SD</string>
+<string name="airbuse_phone_info_runMemory">"1,0GB"</string>
+<string name="whatis_lenovoid_title"> "Asocierea trece ce este? "</string>
+<string name="wifi_setup_description_connected" msgid="5235991893829582459">"Atingeţi "<b>"Înainte"</b>" pentru a continua configurarea."\n\n"Atingeţi "<b>"Înapoi"</b>" pentru a vă conecta la o altă reţea WLAN."</string>
+<string name="black_screen_face_recognization_title"> "Mod recunoaştere facială" </string>
+<string name="minute">"1 minut"</string>
+<string name="unlock_settings_title">"Debloc."</string>
+<string name="schedule_power_off_set">Setare programare întrerupere alimentare</string>
+<string name="location_mode_battery_saving_description" msgid="1728668969743485109">"Utilizează rețelele WLAN și mobile pentru determinarea locației"</string>
+<string name="black_screen_handler_title"> "Gesturi pe un ecran negru" </string>
+<string name="wide_touch_float_button_summary">Acces com.rapide la o atingere</string>
+<string name="black_screen_settings_camera_summary">Desenaţi litera „c” pe ecran</string>
+<string name="share_music_a2dp_headphones_control_title">Control partajare muzică</string>
+<string name="location_consent_dialog_message">Lasă serv. de localiz. să colect. date anonime de locaţie. Unele date pot fi stocate pe disp. dvs. Colect. se poate face şi când nu rulează aplicaţii.</string>
+<string name="phone_car_mode_title">"Mod Maşină"</string>
+<string name="minutes">"<xliff:g id="minutes">%s</xliff:g> minute"</string>
+<string name="global_action_silence">"Dezact. sunet"</string>
+<string name="wifi_display_summary_off" msgid="2445210133184740611">"dezactivată"</string>
+<string name="usergudie_button_text">"Introd.setări iniţializ."</string>
+<string name="color_light_hasclose">Dezact.</string>
+<string name="backup_recovery_dialog_message">Opriţi copie sig. sau recup. date aplicaţie？</string>
+<string name="ringtone_and_sound_settings">"Ton de apel şi sunet"</string>
+<string name="charge_stream_min">Fluxul de încărcare curent este 1.500 mA </string>
+<string name="k6kk_phone_info_runMemory">"2,0GB"</string>
+<string name="gestural_broswer">Control prin gesturi browser</string>
+<string name="black_screen_time_service_title"> "Mod Clop.voce" </string>
+<string name="playertutorial_title">Ghid începători</string>
+<string name="dtmf_settings_title">"Tastatură"</string>
+<string name="status_wifi_mac_address" msgid="33109409206264790">"Adresă MAC WLAN"</string>
+<string name="timing_shutdown_head_text">"Opriţi alimentarea"</string>
+<string name="black_screen_settings_vedio_summary">Desenaţi litera „v” pe ecran</string>
+<string name="black_screen_time_show_title"> "Mod Afişare" </string>
+<string name="subs_settings">Stare SIMS</string>
+<string name="weather_live_wallpaper">Img.fundal vreme în timp real</string>
+<string name="data_usage_menu_restrict_systembgdata">"Permit. date fundal sistem"</string>
+<string name="gestural_image">Control prin gesturi imagini</string>
+<string name="location_settings_title" msgid="4483843407328665068">"Acces la locaţie"</string>
+<string name="phone_info_unset">Parametru telefon nesetat</string>
+<string name="wifi_menu_p2p" msgid="2575893749303670353">"WLAN Direct"</string>
+<string name="wide_touch_float_button">Ecran tactil lat</string>
+<string name="wifi_empty_list_user_restricted" msgid="8280257225419947565">"Nu aveți permisiunea să modificați rețeaua WLAN."</string>
+<string name="airbuse_phone_info_cpu">"Qualcomm MSM8612  4*1,2GHz"</string>
+<string name="schpwr_power_off">"dezact."</string>
+<string name="fuse_backup_data_to_cloud_title">Copiere sig. date în cloud</string>
+<string name="double_click_menu_enabled_description">"Clic lung pe (tasta MENIU) pt. activare serv. voce"</string>
+<string name="display_effect_of_screen_sharpen_item0">"Prestabilit"</string>
+<string name="enable_traces_dialog_title">"Select. monitoriz. activ."</string>
+<string name="display_effect_of_screen_sharpen_item1">"Clarificare"</string>
+<string name="backup_data_description">"Creaţi copii de rezervă pentru contacte şi pentru alt date importante înainte de resetarea telefonului"</string>
+<string name="all_setings_title">"Setări sistem"</string>
+<string name="wifi_tether_failed_subtext" msgid="2654888578056042315">"Eroare de hotspot WLAN portabil"</string>
+<string name="enable_traces_summary_none">"În prezent, nu există monitorizări activate"</string>
+<string name="black_screen_settings_camera">Debloc. cameră video</string>
+<string name="call_ring_pocket_enable_summary">"Creşte volumul tonului de apel când dispozitivul este în buzunar sau în geantă"</string>
+<string name="wifi_display_summary_disabled" msgid="5318394806146587849">"Dezactivat"</string>
+<string name="data_usage_enable_mobile_statistics">Statistici date</string>
+<string name="touch_free_phone">Apel gratuit </string>
+<string name="double_click_home_enabled_description">"Clic lung pe (tasta MENIU) pt. activare serv. voce"</string>
+<string name="black_screen_settings_quick_shots_eight">opt imagini</string>
+<string name="black_screen_settings_vedio">Deblocare video</string>
+<string name="backup_data_to_device_summary">Transf. date pe alt disp. prin SHAREit</string>
+<string name="disable_schpwr">Dezactivare</string>
+<string name="fuse_backup_data_to_cloud_summary">Copie sig. date tel. în cloud</string>
+<string name="lll_pbtn_alert">"Menţ. apăsat but. de pornire <xliff:g id="COUNT_DOWN_TIME">%1$s</xliff:g> pt. a opri disp..."</string>
+<string name="profile_edit_pocket_help">"Creşte volumul tonului de apel când dispozitivul este în buzunar sau în geantă"</string>
+<string name="monotype_preference_title">Stil font</string>
+<string name="call_ring_weaken_enable_title">Red. volumul tonului</string>
+<string name="subscription_01_title">SIM 1</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> zile"</string>
+<string name="wifi_switch_summary">Reţelele WLAN la care a fost conectat telefonul vor fi recunoscute şi se vor conecta automat la reţeaua recunoscută disponibilă în reţeaua de acoperire dacă accesaţi internetul printr-o conexiune de date pentru a păstra consumul de date.</string>
+<string name="airplane_open_confirm">"Mod Avion"</string>
+<string name="smart_standby_ctrl">"Standby intelig."</string>
+<string name="display_effect_of_screen_sharpen_title">Claritate</string>
+<string name="devices_info_camera">"Cameră ：Faţă 5milioane, Spate 13milioane"</string>
+<string name="close_home_landscape_title">Caracteristică de dezactivare a butonului Ecran de start când ecranul este orizontal</string>
+<string name="schedule_power_on_off_set">Planificare pornire/oprire</string>
+<string name="flip_screen_control_title">Rabataţi telefonul pt. a-l controla</string>
+<string name="display_effect_of_screen_cancel">"Anulaţi"</string>
+<string name="devices_info_screen">"Ecran: 1080*1920   5,5 inci"</string>
+<string name="character_settings_side_key_backlight_screen_help_message">Apăsaţi tasta de volum pentru a activa retroiluminarea.</string>
+<string name="poweron_nosim">SIM negăsit</string>
+<string name="shellt_phone_info_screen">"Rezoluţie: 720P, Dim.: 6,0 inci"</string>
+<string name="location_mode_high_accuracy_description" msgid="6418936349431602808">"Utilizează GPS-ul și rețelele WLAN și mobile pentru determinarea locației"</string>
+<string name="track_frame_time_summary">"Măsurare timp redare în adb shell dumpsys gfxinfo"</string>
+<string name="font_settings_title">"Setări font"</string>
+<string name="voice_wakeup_summary">Nu se poate trezi sist. prin com. voc.</string>
+<string name="smart_answer_incommingcall_title">Răsp. intelig.</string>
+<string name="wifi_required_info_text" msgid="9014073093293520112">"Pentru a finaliza configurarea, este necesar ca tableta să aibă acces la WLAN. După configurare, puteţi opta să utilizaţi datele mobile sau WLAN."</string>
+<string name="gestural_ebook">Control prin gesturi cărţi electronice</string>
+<string name="character_settings_black_screen_help_message">Deblocare conveţională: glis. spre st. sau dr. în partea inf. a ecr. pt. debloc. Pt. a accesa aplicaţia: debloc. camera şi desenaţi litera „C” pe ecran. Ac. caract. va afecta consumul de energie în standby.</string>
+<string name="charge_stream_max">Fluxul de încărcare curent este 2.000 mA </string>
+<string name="power_off">Confirmare oprire</string>
+<string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"Pentru a îmbunătăți precizia locației, precum și pentru alte scopuri, <xliff:g id="APP_NAME">%1$s</xliff:g> solicită permisiunea să activeze scanarea rețelelor, chiar și atunci când rețeaua WLAN este dezactivată.\n\nPermiteți acest lucru pentru toate aplicațiile care solicită scanarea?"</string>
+<string name="global_single_hand_summary">Operare comodă cu o singură mână</string>
+<string name="set_data_subscription_progress">Setare abonament date în curs</string>
+<string name="color_light">Notif. cu LED</string>
+<string name="knock_light_title">Dublă atingere pt. trezire ecran</string>
+<string name="show_frame_count_x_coordinate">Coord. X</string>
+<string name="wifi_tether_configure_subtext" msgid="1927454307836232128">"Hotspot WLAN portabil <xliff:g id="NETWORK_SSID">%1$s</xliff:g><xliff:g id="NETWORK_SECURITY">%2$s</xliff:g>"</string>
+<string name="service_foreground_processes_ram">"Aplicaţie <xliff:g id="MEMORY">%1$s</xliff:g> utilizată"</string>
+<string name="tilt_scroll_control_title">Derulare încl.</string>
+<string name="roaming_time_settings_zone">Fus orar recomandat</string>
+<string name="volume_title">"Volum"</string>
+<string name="black_screen_settings_summary">Puteţi dezact. când ecranul este negru şi lansa rapid aplicaţii</string>
+<string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"Nu există un cod PIN sau o parolă pentru blocarea ecranului"</string>
+<string name="wifi_setup_wizard_skip">"Omiteţi"</string>
+<string name="hour">1 Oră</string>
+<string name="black_screen_settings_flash_mode">Bliţ</string>
+<string name="lock_intro_message" product="default">Protejaţi tel. de acces neautoriz. prin crearea unui model personal de debloc. ecran. Trageţi cu deg. pt. a conecta cel puţin patru pct. în orice ordine pe ecr. următor.
+        \n\nGata de start? Ating. Urm.
+    </string>
+<string name="gestural">Control prin gesturi</string>
+<string name="preference_status_unknown">Necunoscut</string>
+<string name="simple_settings">Ghid începători</string>
+<string name="startup_confirm_auto_shutdown">Mobilul se va opri în %s secundă(e).</string>
+<string name="A_gps_summary"> utiliz. date asist. pentru a accelera timpul fix de localiz. cu GPS</string>
+<string name="safety_information_content">Dacă doriţi să faceţi un upgrade al sistemului telefonului, contactaţi reţeaua oficială de service post-vânzare Lenovo sau utilizaţi funcţia de upgrade de pe telefonul dvs. Lenovo. În caz contrar, dispozitivul se poate avaria sau se pot pierde date, iar funcţia de securitate a sistemului se poate distruge ducând la riscuri de securitate.</string>
+<string name="color_light_other_summary">Altele</string>
+<string name="incoming_call_ringer_title">"Ton alertă apel"</string>
+<string name="unlock_set_unlock_speechpwd_title">"Fol. parolă vocală şi model pt. protecţie"</string>
+<string name="crypt_keeper_dialog_need_password_message" msgid="4071395977297369642">"Trebuie să setaţi un cod PIN sau o parolă pentru blocarea ecranului înainte de a începe criptarea."</string>
+<string name="accessibility_script_injection_button_disallow">"Nu permiteţi"</string>
+<string name="character_settings_mercury_keyboard_help_message">La utilizarea tastaturii, aceasta se va modifica în funcţie de unghiul în care susţineţi telefonul pentru a facilita operaţiunea cu o singură mână. Glisaţi cu degetul pe ecran când interfaţa tastaturii este orizontală pentru a activa tastatura Mercury.</string>
+<string name="startup_confirm_airplane_turn_off">Ieşire din modul Avion?</string>
+<string name="wifi_access_points" msgid="2664629396767022441">"Reţele WLAN"</string>
+<string name="header_category_personalcustom">Personalizare</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"Atingând OK veţi opri <xliff:g id="SERVICE">%1$s</xliff:g>."</string>
+<string name="unlock_set_unlock_speechnormal_title">"Debl. voc. rapidă"</string>
+<string name="headset_play_mms_enabled_title">"Cască redare MMS"</string>
+<string name="black_screen_notification_title"> "Mod alertă vibr. la mesaje necitite" </string>
+<string name="set_dds_error">Eroare în abon.de date setat.</string>
+<string name="shutdown_time">Oprire la</string>
+<string-array name="alarm_set">
+        <item>Această pornire e setată peste mai puţin de 1 minut.</item>
+        <item>Ac.porn.e set. peste mai puţin de <xliff:g id="DAYS">%1$s</xliff:g>.</item>
+        <item>Ac.porn.e set. peste mai puţin de <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Această pornire e setată peste <xliff:g id="DAYS">%1$s</xliff:g> şi <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Ac.porn.e set. peste mai puţin de <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Această pornire e setată peste <xliff:g id="DAYS">%1$s</xliff:g> şi <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Această pornire e setată peste <xliff:g id="HOURS">%2$s</xliff:g> şi <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Această pornire e setată peste <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> şi <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Această oprire e setată peste mai puţin de 1 minut.</item>
+        <item>Ac.opr.e set. peste mai puţin de <xliff:g id="DAYS">%1$s</xliff:g>.</item>
+        <item>Ac.opr.e set. peste mai puţin de <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Această oprire e setată peste <xliff:g id="DAYS">%1$s</xliff:g> şi <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Ac.opr.e set. peste mai puţin de <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Această oprire e setată peste <xliff:g id="DAYS">%1$s</xliff:g> şi <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Această oprire e setată peste <xliff:g id="HOURS">%2$s</xliff:g> şi <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Această oprire e setată peste <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> şi <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+    </string-array>
+<string name="camera_info">Cameră video</string>
+<string name="startup_auto_shutdown_title">Oprire automată</string>
+<string name="nfc_not_inservice">Adaptor NFC nefuncţional!</string>
+<string name="black_screen_settings_quick_shots_nums">Fotografii rapide</string>
+<string name="i_know_it">Ştiu</string>
+<string name="fuse_recovery_data_from_cloud_summary">Alegeţi datele din copia sig. din cloud</string>
+<string name="accessibility_script_injection_button_allow">"Permiteţi"</string>
+<string name="quicksettings_summary">Bun venit la utiliz. tel. Lenovo, începeţi cu config. rapidă! Puteţi\n config indiv. în "Config. sistem".</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl">"Lumină fundal tastă vol."</string>
+<string name="backup_data">"Creare copie de rezervă a datelor"</string>
+<string name="fuse_recovery_data_from_cloud_title">Restaur. date din cloud</string>
+<string name="shellt_phone_info_cpu">"Qualcomm MSM8926  4*1,2GHz"</string>
+<string name="still_sleep_title">Încă hibern.</string>
+<string name="usb_ptp_summary" msgid="7673397474756664929">"Vă permite să transferaţi fotografii utilizând software-ul camerei foto şi să transferaţi fişiere de pe computere care nu acceptă MTP"</string>
+<string name="color_light_other">Altele</string>
+<string name="black_screen_settings_broswer">Debloc. browserul?</string>
+<string name="schedule_power_on_off_repeat">Repetare</string>
+<string name="display_effect_of_screen_saturation_item1">"Prestabilit"</string>
+<string name="show_frame_count_cancel_button_text">"Anulaţi"</string>
+<string name="display_effect_of_screen_saturation_item0">Redus</string>
+<string name="display_effect_of_screen_saturation_item2">Iluminado</string>
+<string name="wifi_connect_failed_message" product="default" msgid="3894921379368046855">"Telefonul nu s-a putut conecta la această reţea WLAN."</string>
+<string name="processor_info">Procesor</string>
+<string name="data_usage_metered_wifi" msgid="4151511616349458705">"Reţele WLAN"</string>
+<string name="shutdown_alarm_confirm">"Alarma te va trezi la <xliff:g id="ALARM_TIME">%1$s</xliff:g>."</string>
+<string name="wave_wakeup_title">Gest trezire</string>
+<string name="voice_summary">Sel. abonament pt. Apel voce</string>
+<string name="wifi_tether_configure_ap_text" msgid="61237027772641155">"Configuraţi hotspotul WLAN"</string>
+<string name="black_screen_settings_normal_summary">Puteţi glisa în partea inf. a ecranului de la st. la dr. pt. deblocare</string>
+<string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Toate datele utilizatorului</xliff:g> (incl. muzică, imagini şi alte date) din <xliff:g>mem. internă</xliff:g> vor fi şterse. Faceţi o copie sig. înainte de a reseta tel."</string>
+<string name="wifi_p2p_settings_title" msgid="400503541488064638">"WLAN Direct"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen">Atingeţi pt. a ilumina ecranul</string>
+<string name="flip_screen_control_summary">Rabataţi telefonul pt. a activa sau dezact. ecranul</string>
+<string name="wifi_setup_title_connecting_network" msgid="3747859666621319757">"Se efectuează conectarea la reţeaua WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>..."</string>
+<string name="screen_info">Ecran</string>
+<string name="startup_time">Pornire la</string>
+<string name="keyboard_lights_title">Atingere buton lumină</string>
+<string name="wifi_poor_network_detection_summary" msgid="2466956369738047669">"Nu utilizaţi o reţea WLAN, cu excepţia cazului în care aceasta are o conexiune la internet adecvată"</string>
+<string name="muti_window_summary">Se pot afişa simultan ferestre pentru mai multe sarcini, care pot rula pe acelaşi ecran</string>
+<string name="credentials_configure_lock_screen_hint" msgid="6757119179588664966">"Trebuie să setaţi un cod PIN sau o parolă pentru blocarea ecranului înainte de a putea utiliza spaţiul de stocare a certificatelor."</string>
+<string name="shellt_phone_info_runMemory">"1,0GB"</string>
+<string name="roaming_time_settings_time_display">Program afişare timp</string>
+<string name="header_category_other">"Altele"</string>
+<string name="data_usage_metered_wifi_disabled" msgid="7566012564261138417">"Pentru a selecta hotspoturi mobile, activaţi WLAN."</string>
+<string name="recovery_data_section_title">Recuperare date</string>
+<string name="gestural_ebook_summary">Glisaţi pe ecran spre stânga şi dreapta pt. a controla întoarcerea paginilor cărţii electronice</string>
+<string name="auto_shutdown_interrupted">Oprire program. întreruptă</string>
+<string name="start_camera_gesture_summary">Pornire rapidă cameră prin gest</string>
+<string name="wifi_connect_failed_message" product="tablet" msgid="6904081070290941807">"Tableta nu s-a putut conecta la această reţea WLAN."</string>
+<string name="phone_car_mode_summary">"Setări mod Maşină"</string>
+<string name="data_connect_settings_title">Conexiune date</string>
+<string name="still_sleep_summary">Dacă tel. este inactiv, va intra în hibernare</string>
+<string name="theme_settings_title">"Teme"</string>
+<string name="smart_rotete_cbox_title">Rotire ecran</string>
+<string name="recovery_data_from_device_summary">Luaţi date de pe alt disp. prin SHAREit</string>
+<string name="voice_call_way_title">"Mod Apel voce"</string>
+<string name="gestural_music">Control prin gesturi muzică</string>
+<string name="color_light_unread_mms">Mesaje necitite</string>
+<string name="stop_color_light">stop</string>
+<string name="save_power_wait_title">"Aşteptaţi"</string>
+<string name="black_screen_settings">Deblocare ecran negru</string>
+<string name="savepower_black_title">"Lista neagră"</string>
+<string name="set_dds_success">Setare abon.date reuşită</string>
+<string name="multiwindow_summary">"suport ferestre multimedia"</string>
+<string name="lock_intro_message" product="tablet">Protejaţi tableta de acces neaut. prin crearea unui model personal de debloc. ecran. Trageţi cu deg. pt. a con. punctele în orice ordine pe ecranul următor.  Trebuie să con. cel puţin patru puncte.
+        \n\nGata de start? Ating. Urm.
+    </string>
+<string name="show_dialog">Nu doresc să mai fiu întrebat</string>
+<string name="close_home_landscape_summary">Rotiţi telefonul în poz. orizontală pt. a dezactiva butonul Ecran de start</string>
+<string name="airbuse_phone_info_screen">"Rezoluţie: qHD960*540, Dim.: 6,0 inci"</string>
+<string name="shutdown_time_enabled">Oprire programată</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> poate colecta tot textul pe care îl introduceţi, cu excepţia parolelor. Aceasta include date personale, cum ar fi numerele cardurilor de credit. Serviciul poate colecta şi date despre interacţiunile dvs. cu telefonul."</string>
+<string name="black_screen_settings_select_app">Selectaţi aplicaţia pe care doriţi să o setaţi</string>
+<string name="incoming_mms_ringer_title">Ton alertă mesaj</string>
+<string name="no_sim_info">Info card SIM indisponib.\nMeniul nu poate fi accesat</string>
+<string name="wifi_settings" msgid="1277428034634973011">"WLAN"</string>
+<string-array name="hue">
+        <item>Rece</item>
+        <item>Implicit</item>
+        <item>Cald</item>
+    </string-array>
+<string name="wifi_suspend_optimizations" msgid="387215679583759376">"Optimizare WLAN"</string>
+<string name="wifi_on_time" msgid="6310209835617490616">"Timp de funcţionare WLAN"</string>
+<string name="recovery_data_summary">Atingeţi pt a accesa copie sig. date card SD</string>
+<string-array name="sharpen">
+        <item>Implicit</item>
+        <item>Claritate</item>
+    </string-array>
+<string name="wifi_menu_wps_pin" msgid="6426448256268695933">"Introduceţi PIN WPS"</string>
+<string name="poweron_emergencycallonly">"Numai apeluri de urgenţă"</string>
+<string name="data_usage_disable_mobile_statistics_dialog">Prin dezact. acestei caract., colectarea statisticilor de util. a datelor va fi dezact.</string>
+<string name="wifi_switch_settings_title">Asociere a locului WLAN</string>
+<string name="schedule_power_on_off_settings_title">Planificare pornire/oprire</string>
+<string name="gestural_broswer_summary">Glisaţi în sus şi în jos pt. a parcurge paginile de browser</string>
+<string name="wifi_scan_notify_text_location_on" msgid="8135076005488914200">"Pentru a îmbunătăți precizia locației, dar și în alte scopuri, Google și alte aplicații pot căuta rețele în apropiere, chiar dacă rețeaua WLAN este dezactivată. Dacă nu doriți acest lucru, accesați Avansate &gt; Scanare mereu disponibilă."</string>
+<string name="gestural_vedio_summary">Glisaţi pe ecran spre stânga şi dreapta pt. a controla redarea video|Glisaţi în sus şi în jos pt. a regla volumul</string>
+<string name="lenovo_recent_settings">Setări recente</string>
+<string name="no_ftp_app">Aplicaţiile nu acceptă FTP</string>
+<string name="accessibility_toggle_script_injection_preference_title">"Sporiţi accesibilitatea web"</string>
+<string name="phone_info">Informaţii tel.</string>
+<string name="sel_sub_title">Config. abonamente </string>
+<string name="accessibility_script_injection_disallowed">Nepermis</string>
+<string name="start_camera_gesture_title">Cameră prin gesturi</string>
+<string name="rotate_type_choose_cancel">"Anulaţi"</string>
+<string name="lockscreen_knock_on_ctrl_summary">Dublu-clic pe ecran luminează tel.</string>
+<string name="airplane_open_confirm_message">Sigur activaţi modul avion?</string>
+<string name="data_usage_restrict_background_multiuser" product="default" msgid="8025473178302056174">"Dacă limitaţi transferul de date mobile în fundal, unele aplicaţii şi servicii nu vor funcţiona decât dacă sunteţi conectat(ă) la o reţea WLAN."\n\n"Această setare afectează toţi utilizatorii de pe acest telefon."</string>
+<string name="savepower_white_title">"Lista albă"</string>
+<string name="lenovoID_registered_title">"Acord de util. tel. mobil ca ID de cont Lenovo (parolă Lenovo)"</string>
+<string name="mannual">Acces. tutorialul pt. începători</string>
+<string name="header_category_personalcustom_k7">"Personalizat"</string>
+<string name="china_telcom_push_title">China Telecom Yi Push</string>
+<string name="location_network_based" msgid="7472814266821714527">"Localizare prin WLAN şi mobil"</string>
+<string name="header_category_singlehand_settings">"Set. o singură mână"</string>
+<string name="devices_info_buildNumber">"Nr. versiune: <xliff:g>%1$s</xliff:g>"</string>
+<string name="location_improve_allow">Servicii localizare îmb. prin WLAN şi/sau reţele mobile</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"Opriţi <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="schedule_power_on_set">Setare programare pornire alimentare</string>
+<string name="lockscreen_shake_unlock_ctrl">Blocare prin scuturare</string>
+<string name="call_ring_weaken_enable_summary">Reduce automat volumul tonului de apel când s-a ridicat telefonul | Ajutor</string>
+<string name="wifi_popup_0">Doresc să fiu notificat când există opţiunile de conectare la WLAN sau prin date 3G.</string>
+<string name="wifi_popup_2">Dezactivaţi funcţia WLAN de asociere a locaţiei.</string>
+<string name="wifi_popup_1">Conectaţi automat la reţeaua WLAN disponibilă dacă telefonul este conectat la reţeaua de date 3G.</string>
+<string name="double_click_muti_window_title">Ferestre Multimedia</string>
+<string name="roaming_settings_title">Setări roaming</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"Doriţi ca aplicaţiile să instaleze scripturi de la Google, care să facă mai accesibil conţinutul web al acestora?"</string>
+<string name="enter_bright_mode_warning" product="default"> "Sunet deschis, apeluri mai clare" </string>
+<string name="character_setings_title">"Setări funcţie"</string>
+<string name="backup_recovery_data_summary">Copie sig. sau recup date aplicaţie pe tel.</string>
+<string name="wifi_settings_title" msgid="4351120897298124250">"WLAN"</string>
+<string name="security_settings_title">"Securitatea şi blocarea ecranului"</string>
+<string name="black_screen_settings_flash_mode_on">Activat</string>
+<string name="black_screen_settings_quick_shots_one">o imagine</string>
+<string name="leave_bright_mode_warning" product="default"> "Funcţia a fost dezactivată" </string>
+<string name="black_screen_settings_music_summary">Desenaţi litera „m” pe ecran</string>
+<string name="quicksettings_title">Config. rapidă</string>
+<string name="summary_keyboard_lights">Control Intelig.</string>
+<string name="backup_recovery_data_title">Copie sig. sau recup date aplicaţie</string>
+<string name="poweron_nouim">UIM negăsit</string>
+<string name="wifi_suspend_optimizations_summary" msgid="7774946457510541054">"Reduceţi la minimum utilizarea bateriei când reţeaua WLAN este pornită"</string>
+<string name="gestural_vedio">Control prin gesturi clip video </string>
+<string name="gadget_toggle_wifi" msgid="2382963973155082629">"Se actualizează setarea WLAN"</string>
+<string name="backup_data_recovery_section_title">Copie sig. şi recup. date</string>
+<string name="share_music_a2dp_headphones_control_summary">Comut. partajare muzică la disp. A2dp</string>
+<string name="memory_os_size">Dimensiune ocupată SO</string>
+<string name="revert">"Reveniţi"</string>
+<string name="usage_type_data_wifi_recv" msgid="7822328607564241372">"Date WLAN primite"</string>
+<string name="double_click_dock_enabled_title">"Dublu ANDOCARE zonă pict. activ. voce"</string>
+<string name="color_light_battery">Baterie</string>
+<string name="internal_version">Nr. versiune internă</string>
+<string name="preference_status_close">Dezactivat</string>
+<string name="apn_call_number">Nr. tel. PPP</string>
+<string name="sound_settings_title">"Sunet"</string>
+<string name="set_priority_sub_error">Eroare în abon.prioritar setat. Abonament inactiv.</string>
+<string name="common_setings_title">"Setări obişnuite"</string>
+<string name="colorLight_settings">setări_culoareLumină</string>
+<string name="sms_summary">Selectare abonament pt. trimitere SMS</string>
+<string name="devices_info_firmwareVersion">"Versiune Android: <xliff:g>%1$s</xliff:g>"</string>
+<string name="wifi_settings_category" msgid="2810363951104753710">"Setări WLAN"</string>
+<string name="show_hw_overdraw_summary">"Max. – min.: albastru, verde, roşu deschis, roşu."</string>
+<string name="show_recent_settings">trage în sus pt. ascund. setări</string>
+<string name="global_action_restart">"Reporniţi"</string>
+<string name="color_light_call">Apelare</string>
+    <string name="eap_sim_aka_airplanemode">Vă rugăm să opriți modul Avion pentru a folosi EAP-SIM/AKA</string>
+    <string name="wifi_ap_bandwidth_chart_title">Viteză de date în timp real</string>
+    <string name="single_hand_title">Microecran pentru utilizare cu o singură mână</string>
+    <string name="pch_warning_message">Rata de transmisie a datelor va scădea.</string>
+    <string name="dlg_error_unmount_usb_text" product="default">"Nu se poate demonta cardul SD. Încercaţi din nou mai târziu."</string>
+    <string name="move_success">Mutată! Partea aplicaţiei nu poate fi mutată pe cartela implicită de memorie</string>
+    <string name="AGPS_NOTIFY_ONLY">Notificare solicitare locaţie</string>
+    <string name="agps_str_deny">REFUZARE</string>
+    <string name="privacy_backup_userdata_category_title">Copiere de rezervă date</string>
+    <string name="usb_ums_without_external_sd_summary">„Nu a fost detectat niciun card de memorie extern, iar cel integrat nu\ acceptă modul pentru discul U, astfel că nu poate fi utilizat”</string>
+    <string name="privacy_category_title_cloud">"Cloud"</string>
+    <string name="wifi_backup_category_title">Copie de siguranţă WLAN</string>
+    <string name="display_effect_of_screen_reset">"Resetaţi"</string>
+    <string name="double_click_tip">Faceţi dublu clic aici</string>
+    <string name="ipo_title">Repornire rapidă</string>
+    <string name="authdlg_message">\'%1$s\' cere permisiunea de conectare la %2$s.</string>
+    <string name="lockdown_vpn_already_connected">Întotdeauna prin VPN a fost activată pentru această conexiune.</string>
+    <string name="usb_connect_as_cdrom_category">"Conectaţi-vă ca CD-ROM"</string>
+    <string name="wifi_ap_max_connection_title">Număr maxim conexiuni</string>
+    <string name="launch_main">Lansaţi aplicaţia prin activitatea principală</string>
+    <string name="usbsetting_help_content">1. Stocare în masă USB: vă permite să transferaţi fişiere între calculator şi spaţiul de stocare USB şi SD Android.\n\n 2. MTP: vă permite să gestionaţi simultan fişiere de pe telefon şi calculator. Notă: se recomandă WIN7 sau o versiune ulterioară. Dacă utilizaţi XP, instalaţi mai întâi driverele. \n\n3. PTP: vă permite să transferaţi fotografiile în calculator fără suport MTP. Notă: se recomandă WIN7 sau o versiune ulterioară. Dacă utilizaţi XP, instalaţi mai întâi driverele. \n\n4. Depanare USB: vă permite să copiaţi date între calculator şi dispozitiv, să instalaţi aplicaţii pe dispozitiv fără notificare şi să citiţi date din jurnal. Această opţiune este destinată numai pentru dezvoltare. \n\n5. Furnizare acces prin USB: vă permite să partajaţi conexiunea la internet 3G cu PC-ul. Se pot aplica taxe pentru date.</string>
+    <string name="title_lcd_invert">Inversare culori LCD</string>
+    <string name="test_area">ZONĂ DE TESTARE:</string>
+    <string name="wfd_change_resolution_menu_title">Schimbare rezoluţie</string>
+    <string name="smart_scene_summary">"Mod Scenă necesar pentru comutarea la modul inteligent"</string>
+    <string name="lenovo_system_update">"Actualizare sistem"</string>
+    <string name="wifi_ap_reset_OOB_title">Reiniţializaţi identificatorul SSID, securitatea şi parola de reţea la setările implicite (configurare din cutie pentru WPS )</string>
+    <string name="mouse_primary_button_title">Comutați butoanele principale și secundare</string>
+    <string name="wide_touch_summary">Acces com.rapide la o atingere</string>
+    <string name="try_swing_lock_result_longer">încercaţi din nou şi scuturaţi la distanţă mai mare</string>
+    <string name="bluetooth_ask_enablement_ext">Aplicaţia <xliff:g>%1$s</xliff:g> solicită să activeze Bluetooth.</string>
+    <string name="wifi_ap_reset_OOB">Reiniţializare OOB</string>
+    <string name="side_key_backlight_title">"Lumină fundal tastă vol."</string>
+    <string name="privacy_restore_userdata_summary">Alegeţi datele de restaurare din spaţiul de stocare</string>
+    <string name="swing_lock">Blocare prin scuturare</string>
+    <string name="default_name">"Prestabilit"</string>
+    <string name="gesture_rotete_cbox_summary">Gest</string>
+    <string name="usb_sharing_title">Internet prin USB</string>
+    <string name="wifi_restore_category_title">Restaurare WLAN</string>
+    <string name="landscape_launcher_none">Niciuna</string>
+    <string name="drm_reset_toast_msg">Licențele au fost șterse cu succes.</string>
+    <string name="ringtone_settings">Tonuri de apel și volume</string>
+    <string name="network_synchronization_enable_confirm">Sincronizarea reţelei necesită o conexiune de date wireless pentru a obţine datele tip asistent, ce pot genera costuri suplimentare. Sigur doriţi să porniţi sincronizarea reţelei?</string>
+    <string name="usb_charge_title">Numai încărcare</string>
+    <string name="runningapp_stop_dlg_title">Opriţi serviciul?</string>
+    <string name="sim_remain">(Rămas: <xliff:g id="remains">%d</xliff:g>)</string>
+    <string name="lockscreen_style_default_desc">„Acces rapid la aplicaţii, din ecranul de blocare”</string>
+    <string name="pin_scroll_summary">La derularea până la capătul superior al unei liste, întrerupeţi puţin derularea şi eliberaţi lista, iar aceasta va fi fixată pentru o operare mai bună.</string>
+    <string name="AGPS_DEFAULT_STRING">Şir implicit A-GPS</string>
+    <string name="vpn_lockdown_savelogin_error">Opţiunea Întotdeauna prin VPN necesită salvarea informaţiilor de conectare.</string>
+    <string name="smart_call_answer_title">Răspuns inteligent</string>
+    <string name="sim_slot">Slot SIM</string>
+    <string name="stop_select_app">"Opriţi aplicaţia selectată?"</string>
+    <string name="wifi_ap_client_block_title">"Blocaţi"</string>
+    <string name="usb_sharing_summary">Partajare Internet la PC Windows prin cablu USB</string>
+    <string name="current_suffix">„(Curent)”</string>
+    <string name="wifi_backup">Copie de siguranţă configuraţie WLAN</string>
+    <string name="agps_profile_select_Title">Profil SUPL</string>
+    <string name="usb_tether">Furnizare acces prin USB</string>
+    <string name="single_hand_summary">Utilizare cu o singură mână a telefonului</string>
+    <string name="smart_scene_title">Det. intel. scenă</string>
+    <string name="cpu_dtm_summary">Limitaţi performanţa maximă a procesorului pentru a conserva durata de funcţionare a acumulatorului şi pentru a reduce temperatura dispozitivului.</string>
+    <string name="dlg_confirm_unmount_usb_title" product="default">"Demontaţi cardul SD?"</string>
+    <string name="battery_percent">Procent Baterie</string>
+    <string name="server_lenovo_exp_dialogmsg">Dacă părăsiţi programul Lenovo Enhanced Experience, este posibil ca anumite aplicaţii să nu funcţioneze corect, iar funcţionarea produsului şi experienţa de utilizare să fie afectate. Chiar doriţi să părăsiţi?</string>
+    <string name="apn_port_warning">Valoarea portului trebuie să fie cuprinsă între 1 şi 65535!</string>
+    <string name="agps_str_allow">PERMITERE</string>
+    <string name="tethered_ipv4v6">(IPv6 disponibil)</string>
+    <string name="autopop_warning_title">Nu doriţi să se afişeze data viitoare?</string>
+    <string name="prevent_misoperation_title">Mod de evitare apelare în buzunar</string>
+    <string name="default_soft_setting">Setări implicite software</string>
+    <string name="lockscreen_style_set">Setare ecran de blocare</string>
+    <string name="wifi_backup_ok">Copiere de siguranţă reuşită!</string>
+    <string name="wifi_backup_failed">Copiere de siguranţă nereuşită.</string>
+    <string name="dlg_default_write_disk0_change_msg">"Dacă selectaţi spaţiul de stocare SD, aplicaţiile instalate în spaţiul de stocare intern nu pot fi utilizate, iar dispozitivul va reporni. Sigur modificaţi spaţiul de stocare SD?"</string>
+    <string name="MobileNetwork_SIM2_Active">SIM este activ</string>
+    <string name="eap_sim_slot_0">Sim Slot 0</string>
+    <string name="smart_standby_ctrl_description">"Atunci când ecranul se aprinde, dacă senzorul detectează că priviţi spre ecran, acesta rămâne aprins; dacă unghiul este prea înclinat sau lumina este insuficientă, nivelul de recunoaştere va fi redus"</string>
+    <string name="eap_sim_slot_1">Sim Slot 1</string>
+    <string name="auto_rotete_cbox_summary">"Automat"</string>
+    <string name="wifi_restore_ok">Restaurare reuşită!</string>
+    <string name="auto_time_off">"dezactivat"</string>
+    <string name="passpoint_certificate">Certificat</string>
+    <string name="audio_profile_error">Eroare</string>
+    <string name="dlg_mount_external_sd_summary" product="default">Dacă montaţi cartela SD, este posibil ca unele aplicaţii pe care le utilizaţi să se oprească.</string>
+    <string name="wifi_channel">Canal preferat</string>
+    <string name="agps_str_verify">Verificare</string>
+    <string name="personal_hotsport_title">"Hotspot"</string>
+    <string name="bluetooth_stop_search_for_devices">Oprire căutare</string>
+    <string name="phone_model_number">„Model telefon”</string>
+    <string name="akp_installer_settings_title">Instalare APK</string>
+    <string name="authdlg_service_pbap">acest tel. pentru a descărca contacte</string>
+    <string name="wifi_security_wapi_certificate">Certificat WAPI</string>
+    <string name="gps_time_sync_attention_gps_off">Pentru a utiliza ora furnizată de funcţia GPS, trebuie să activaţi funcţia GPS mai întâi. Obţinerea fixării GPS va dura maximum 1 minut. În plus, este posibil ca funcţia GPS să nu reuşească să furnizeze ora din cauza semnalului ambiental slab.\n\nSigur activaţi funcţia GPS şi aşteptaţi ora furnizată de funcţia GPS?</string>
+    <string name="launch_activitie">Lansare</string>
+    <string name="sd_eject_usbstorage_summary" product="default">"Demontaţi stocarea USB internă"</string>
+    <string name="smart_call_answer_summary">Răspunde automat la apelurile primite când dispozitivul este ridicat la ureche</string>
+    <string name="tethering_apn_settings_summary">Configurare APN pentru cuplare</string>
+    <string name="hdmi_settings">Setări HDMI</string>
+    <string name="try_swing_lock_result_harder">încercaţi din nou şi scuturaţi mai tare dispozitivul mobil</string>
+    <string name="usb_ums_with_external_sd_summary">„XP recomandat. Utilizaţi cardul de memorie extern, nu pe cel integrat, ca disc U pentru copierea fişierelor. ”</string>
+    <string name="gemini_data_connection_progress_message">"Vă rugăm așteptați..."</string>
+    <string name="display_effect_of_screen_toast_title">Dacă nu bifaţi butonul \"Aplicare\", configuraţia va fi restaurată după reiniţializare </string>
+    <string name="privacy_category_title_sd">"Card SD"</string>
+    <string name="privacy_backup_userdata_text">Cop. sig. SMS, Contacte şi Jurn. apeluri pt. stoc.?</string>
+    <string name="mobile">Conexión de datos</string>
+    <string name="choose_soft_place">Selectaţi locaţia de instalare a software-ului</string>
+    <string name="display_smart_standby">Mod de veghe inteligent</string>
+    <string name="ims_toggle_summary">Furnizare servicii de subsisteme IP multimedia </string>
+    <string name="bluetooth_ask_establish_connection_ext">"Aplicaţia <xliff:g>%1$s</xliff:g> solicită să comunice cu <xliff:g>%2$s</xliff:g> prin Bluetooth."</string>
+    <string name="wifi_advanced_ipv6_address_title">Adresă IPv6</string>
+    <string name="clear_motion_summary">Utilitarul de îmbunătăţire a fluenţei video</string>
+    <string name="rcse_settings_title">Setări de alăturare</string>
+    <string name="voice_ui_title">Comandă vocală</string>
+    <string name="bluetooth_ftp_profile_summary_use_for">Folosire pentru transfer fișiere</string>
+    <string name="select_memory">Disc de scriere implicit</string>
+    <string name="usb_ums_summary">"Este recomandat sistemul de operare XP. Acesta vă permite să transferaţi fişiere între computer şi stocarea USB a sistemului Android."</string>
+    <string name="clear_cache_msg">Golită. S-a eliberat <xliff:g>%1$s</xliff:g> de memorie.</string>
+    <string name="data_usage_more_settings">Mai multe setări</string>
+    <string name="dlg_confirm_unmount_usb_text" product="default">"Dacă demontaţi cardul SD, unele aplicaţii utilizate în acel moment se vor opri şi pot fi indisponibile până la remontarea cardului SD."</string>
+    <string name="cpu_dtm_title">Mod de economisire al procesorului</string>
+    <string name="display_effect_of_screen_dialog_ok">OK</string>
+    <string name="smart_roll_summary">Glisaţi marginea ecranului pentru a modifica aspectul şi pentru a întoarce ecranul pe cealaltă parte. Pentru a reveni la aspectul original, nu trebuie decât să glisaţi din nou marginea ecranului</string>
+    <string name="light_settings">Setări notificare LED</string>
+    <string name="agps_str_notify">Notificare</string>
+    <string name="unmount_usb_inform_text" product="default">"Cardul SD va fi demontat."</string>
+    <string name="agps_OK">"OK"</string>
+    <string name="hotknot_explained_description">Se permite schimbul de date atunci când ecranul atinge un alt dispozitiv</string>
+    <string name="wifi_restore_title">Restaurare configuraţie WLAN</string>
+    <string name="security_not_set">Caracteristicile de securitate nu sunt setate</string>
+    <string name="bluetooth_ask_establish_connection">"O aplicaţie solicită să comunice cu <xliff:g>%1$s</xliff:g> prin Bluetooth."</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">"Aplicaţia <xliff:g>%1$s</xliff:g> solicită să activeze Bluetooth şi să comunice cu <xliff:g>%2$s</xliff:g> prin Bluetooth."</string>
+    <string name="sd_eject_usbstorage" product="default">"Demontaţi stocarea USB"</string>
+    <string name="swing_lock_summary">Scuturare rapidă tel. într-o direcţie pt. blocare ecran | Ajutor</string>
+    <string name="usb_tether_type_title">Tip tethering USB</string>
+    <string name="gesture_series_title">Operare ecran negru</string>
+    <string name="header_category_system_and_key">Funcţionare comandă rapidă</string>
+    <string name="wifi_ap_client_ip_label">Adresă IP:</string>
+    <string name="wifi_ap_title">Statistici</string>
+    <string name="gemini_sim_management_title">Gestiune SIM</string>
+    <string name="try_it">Încercaţi</string>
+    <string name="AGPS_NOTIFY_PRIVACY">Solicitare locaţie (confidenţialitate)</string>
+    <string name="pch_call_prefer_summary_on">Preferinţă apel</string>
+    <string name="wifi_hotspot_suspend_optimizations">Optimizare hotspot WLAN</string>
+    <string name="network_synchronization_enable_allow">Continuaţi</string>
+    <string name="wifi_ipv4_address">Adresă IPv4</string>
+    <string name="autopop_warning_message">Dacă debifaţi acest element, această fereastră nu va mai apărea data următoare când conectaţi telefonul la calculator. Puteţi accesa această fereastră făcând clic pe notificarea de sistem. </string>
+    <string name="launch_error">"Imposibil de lansat aplicaţia!"</string>
+    <string name="wifi_no_cert_for_wapi">Imposibil de găsit certificare pentru AP-ul în curs de conectare</string>
+    <string name="custom_theme_name">Nou [%1$s]</string>
+    <string name="wifi_tethering_title">Hotspot WLAN</string>
+    <string name="passpoint_config_credential_type">Tip acreditiv</string>
+    <string name="smart_roll_title">Rotire inteligentă</string>
+    <string name="tethered_ipv6_title">Setări hotspot şi tethering</string>
+    <string name="display_effect_of_screen_soft">Redus</string>
+    <string name="wifi_ap_connected_title">Utilizatori conectaţi</string>
+    <string name="tvout_settings">Ieşire TV</string>
+    <string name="side_key_backlight_summary">"Apăs. tasta volum sau sus/jos pentru a comuta ecranul pe | Ajutor"</string>
+    <string name="authdlg_service_ftp">acest tel.pt.transf.fişiere</string>
+    <string name="loading">"Se încarcă..."</string>
+    <string name="profile_edit_pocket_title">"Mod Buzunar"</string>
+    <string name="display_effect_of_screen_warm">Cald</string>
+    <string name="display_effect_of_screen_default">"Prestabilit"</string>
+    <string name="wifi_restore_summary">Restaurare configuraţie WLAN (de ex. cont/parolă) din LeCloud</string>
+    <string name="stop_all_app">"Oprire totală"</string>
+    <string name="sd_insert_usb_summary" product="default">"Inser. stoc. USB pt. montare"</string>
+    <string name="dlg_mount_external_sd_title" product="default">Montaţi cartela SD?</string>
+    <string name="credentials_none">Aceste acreditări nu există</string>
+    <string name="privacy_backup_userdata_summary">Creaţi o copie de rezervă a datelor în spaţiul de stocare</string>
+    <string name="mtk_thememanager_title">Teme</string>
+    <string name="wifi_ap_bandwidth_enable">Se permite limitarea lăţimii de bandă</string>
+    <string name="passpoint_supported">Acceptat</string>
+    <string name="screen_timeout_CU">inactivare</string>
+    <string name="vpn_delete">Confirmaţi ştergerea?</string>
+    <string name="privacy_backup_userdata_summary_cloud">Realizaţi copii de siguranţă ale datelor în cloud</string>
+    <string name="bluetooth_advanced_settings">Setări avansate</string>
+    <string name="gemini_default_sim_never">Oprit</string>
+    <string name="bluetooth_profile_ftp">Transfer fișiere</string>
+    <string name="try_swing_lock_info">scuturaţi dispozitivul mobil, încercaţi să-l blocaţi</string>
+    <string name="network_synchronization_enable_deny">"Anulaţi"</string>
+    <string name="sim_enter_pin_hints">(Introduceţi 4-8 cifre)</string>
+    <string name="ipo_summary_on">Dezactivare repornire rapidă</string>
+    <string name="authorizaion_failed_error">Autorizare eşuată. Con. la disp. la dist. imposibilă.</string>
+    <string name="ipo_summary_off">Activare repornire rapidă</string>
+    <string name="display_settings_scences_title">Scene</string>
+    <string name="runningapp_stop_dlg_text" product="tablet">Dacă opriţi acest serviciu, este posibil ca anumite funcţii ale tabletei să nu mai funcţioneze corect până la oprirea şi repornirea acesteia.</string>
+    <string name="usbsetting_usbmassstorage_wait">Aşteptaţi...</string>
+    <string name="wifi_WEP_transmit_key">Transmitere cheie</string>
+    <string name="move_to_sdcard">Mutare în cardul de memorie implicit</string>
+    <string name="gps_time_sync_attention_gps_on">Durează maxim 1 minut pentru a obţine localizarea GPS. În plus, este posibil ca GPS să nu poată furniza durata, din cauza semnalului slab.\n\nSunteţi sigur(ă) că doriţi să utilizaţi durata furnizată de GPS?</string>
+    <string name="bluetooth_turning_on_failed">Activare bluetooth nereuşită</string>
+    <string name="wifi_tether_wps_connect_title">Conectare WPS</string>
+    <string name="tether_title">"Hotspot"</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Cerere localizare (Refuz dacă niciun răspuns)</string>
+    <string name="authdlg_auto_reply">Nu întreba din nou</string>
+    <string name="move_tomemory_success">Mutată!</string>
+    <string name="eap_sim_aka_no_sim_slot_selected">Trebuie să selectați un slot sim pentru a folosi EAP-SIM/AKA</string>
+    <string name="passpoint_summary">Conectare automată la punctele de acces pentru care este activat passpoint</string>
+    <string name="usb_ums_title">"Dsipozitiv de stocare USB"</string>
+    <string name="usb_bicr_summary">Se afişează un CD-ROM virtual care conţine software util.</string>
+    <string name="authdlg_service_map">acest tel. pentru a accesa mes.</string>
+    <string name="server_lenovo_exp_ok">"OK"</string>
+    <string name="slide_unlock_title">Deblocare ecran negru</string>
+    <string name="authdlg_service_spp">portul Bluetooth serial pe acest tel.</string>
+    <string name="display_effect_of_screen_dialog_title">Are efect după repornirea ecranului!</string>
+    <string name="move_select">Doriţi să mutaţi aplicaţia selectată? Anumite părţi nu pot fi mutate pe cartela de memorie internă.</string>
+    <string name="wifi_restore_failed">Restaurare nereuşită.</string>
+    <string name="landscape_launcher_title">Program de lansare vedere</string>
+    <string name="usb_sharing_info_title">Internet direct</string>
+    <string name="clear_cache">Golire memorie cache utilizând o singură tastă</string>
+    <string name="authdlg_service_default">acest tel.</string>
+    <string name="wifi_tether_auto_disable_title">Menţinere hotspot WLAN activat</string>
+    <string name="wifi_backup_summary">Copiere de siguranţă configuraţie WLAN (de ex. cont/parolă) din LeCloud</string>
+    <string name="storage_phone">Spaţiu de stocare încorporat</string>
+    <string name="NI_Request_ID">ID al celui care cere</string>
+    <string name="passpoint_config_eap_method">Metodă EAP</string>
+    <string name="wifi_ap_wps_mode_title">Mod WPS</string>
+    <string name="authdlg_title">Solicitare autorizare Bluetooth</string>
+    <string name="usb_bicr_title">CD-ROM încorporat</string>
+    <string name="double_click_title">Viteză dublu clic</string>
+    <string name="pin_scroll_title">Derulare la lista de fixare</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="wifi_backup_title">Copie de siguranţă WLAN</string>
+    <string name="eap_sim_aka_no_sim_error">Trebuie să introduceți o cartelă sim pentru a folosi EAP-SIM/AKA</string>
+    <string name="wifi_wps_fail_error">Configurarea unei reţele WLAN protejate a eşuat, reîncercaţi.</string>
+    <string name="bluetooth_ftp_profile_summary_connected">"Conectat la transfer fișiere"</string>
+    <string name="privacy_backup_userdata_title_cloud">Copiere de siguranţă în cloud</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">Reduceţi utilizarea bateriei atunci când hotspotul WLAN este activat</string>
+    <string name="privacy_restore_userdata_category_title">Restaurare date</string>
+    <string name="gesture_series_summary">Puteţi dezact. când ecranul este negru şi lansa rapid aplicaţii</string>
+    <string name="auto_popup">Nu doresc să se afişeze</string>
+    <string name="MobileNetwork_SIM1_Active">SIM1 este activ</string>
+    <string name="move_app_to_where">"Mutaţi pe "<xliff:g id="location">%s</xliff:g>
+  </string>
+    <string name="launch_main_label">Lansare aplicaţie</string>
+    <string name="akp_installer_settings_summary">Instalaţi fişierul APK de pe cartela SD</string>
+    <string name="tv_system_title">Sistem TV</string>
+    <string name="NI_Request_ClientName">Nume client</string>
+    <string name="profile_edit_pocket_summary">"Creşte volumul tonului de apel când dispozitivul este în buzunar sau în geantă"</string>
+    <string name="profile_edit_weaken_summary">Reduce automat volumul tonului de apel când s-a ridicat telefonul | Ajutor</string>
+    <string name="privacy_restore_userdata_summary_cloud">Alegeţi datele restaurate din cloud</string>
+    <string name="display_effect_of_screen_cool">Rece</string>
+    <string name="lock_screen_notifications_title">Notificări ecran de blocare</string>
+    <string name="header_category_call_and_msg">Apel şi mesaje</string>
+    <string name="wifi_ap_client_details_title">Detalii</string>
+    <string name="server_lenovo_exp_title">Sunteţi de acord să participaţi la programul Lenovo Experience</string>
+    <string name="header_category_lock_and_screen">Ecran de blocare şi ecran</string>
+    <string name="passpoint_append_summary">(prin Passpoint)</string>
+    <string name="lock_screen_style_title">Stil ecran de blocare</string>
+    <string name="privacy_restore_userdata_title_cloud">Restaurare din cloud</string>
+    <string name="app_privacy_settings">Setări de confidenţialitate aplicaţie</string>
+    <string name="drm_reset_dialog_msg">Această operație va șterge toate licențele din acest dispozitiv. Continuați?</string>
+    <string name="wapi_as_certificate">Certificat ASE</string>
+    <string name="erase_external_storage_description_fuse">"Ştergeţi toate datele de pe cardul SD, cum ar fi muzica sau fotografiile"</string>
+    <string name="wifi_tether_auto_channel_width_text">20/40 MHz automat.</string>
+    <string name="bluetooth_security_confirm">"Cerere de permisiune Bluetooth"</string>
+    <string name="slide_unlock_summary">Glis. spre st. sau dr. în partea inf. a ecr. pt. debloc. | Ajutor</string>
+    <string name="wifi_tether_auto_channel_text">"Automat"</string>
+    <string name="usb_charge_summary">Opriţi toate funcţiile USB. Vă permite să acceleraţi încărcarea USB şi să scădeţi consumul de energie.</string>
+    <string name="long_menu_active_voice_summary">Când ecranul este aprins, apăsaţi lung tasta meniu pentru a activa funcţia voce</string>
+    <string name="wifi_ap_time_duration">Durată: 
+        <xliff:g id="time">%1$s</xliff:g> 
+    </string>
+    <string name="wifi_ap_client_mac_label">Adresă MAC:</string>
+    <string name="wifi_advanced_ipv4_address_title">Adresă IPv4</string>
+    <string name="hdmi_video_resolution">Rezoluţie video</string>
+    <string name="tethered_ipv4">(IPv6 indisponibil)</string>
+    <string name="soft_permission">Gestionare permisiuni</string>
+    <string name="authdlg_service_dun">serv. conec. la reţea dial-up pe acest tel.</string>
+    <string name="privacy_backup_userdata_title">Creare copie de rezervă spaţiu de stocare</string>
+    <string name="prevent_misoperation_summary">Utilizaţi senzorul de proximitate pentru a evita operaţiunile accidentale când telefonul este în buzunar</string>
+    <string name="tethered_ipv6">(Numai IPv6 available)</string>
+    <string name="wifi_ipv6_address">Adresă IPv6</string>
+    <string name="wifi_ap_bandwidth_title">Utilizare lăţime de bandă</string>
+    <string name="tethering_apn_settings_title">Setări APN</string>
+    <string name="erase_external_storage_fuse">"Ştergeţi cardul SD"</string>
+    <string name="server_lenovo_exp_summery">Colectaţi date pentru a îmbunătăţi produsele şi serviciile noastre</string>
+    <string name="usbsetting_usbmassstorage_close">Scoatere dispozitiv de stocare USB</string>
+    <string name="wifi_ap_no_connected">0 utilizatori conectaţi</string>
+    <string name="wifi_channel_width">Lăţime de bandă canal</string>
+    <string name="dlg_default_write_disk1_change_msg">"Dacă selectaţi spaţiul de stocare intern, aplicaţiile instalate în spaţiul de stocare SD nu pot fi utilizate, iar dispozitivul va reporni. Sigur modificaţi spaţiul de stocare intern?"</string>
+    <string name="wifi_ap_bandwidth_chart_summary">Măsurată de telefon, contorizarea vitezei de date a operatorului dvs. poate să difere.</string>
+    <string name="usbsetting_help_title">"Ajutor"</string>
+    <string name="bluetooth_remote_device">disp. bluetooth</string>
+    <string name="long_menu_active_voice">Activare voce prin tastă meniu</string>
+    <string name="mouse_primary_button_dialog_title">Comutați butonul principal</string>
+    <string name="authdlg_service_decline">Refuz</string>
+    <string name="move_select_short">"Se aplică selecţia pentru mutare?"</string>
+    <string name="display_effect_of_screen_bright">Iluminado</string>
+    <string name="wifi_tether_wps_pin_error">PIN nevalid</string>
+    <string name="auto_time_on">"Utilizare asistenţă reţea"</string>
+    <string name="usb_sharing_info_step_1">"1. Deschideţi conexiunile de reţea de pe PC-ul Windows."</string>
+    <string name="button_brightness">Retroiluminare butoane meniu</string>
+    <string name="display_default">Afişare</string>
+    <string name="pch_toggle_title">Mod preferinţă transfer GPRS</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Cerere localizare (Permitere dacă niciun răspuns)</string>
+    <string name="usb_sharing_info_step_3">"3. Faceţi clic pe fila de partajare şi selectaţi opţiunea \'Se permite altor utilizatori ai reţelei să se conecteze prin intermediul conexiunii la internet a acestui computer\' (alegeţi reţeaua nou adăugată, care reprezintă reţeaua internet USB, dacă apare \'Conexiune reţea rezidenţială\')."</string>
+    <string name="wifi_ap_wps_pin_title">Tastaţi codul PIN de la client</string>
+    <string name="usb_sharing_info_step_2">"2. Faceţi clic dreapta pe conexiunea pe care doriţi să o partajaţi şi apoi faceţi clic pe proprietăţi."</string>
+    <string name="runningapp_stop_dlg_text" product="default">Dacă opriţi acest serviciu, este posibil ca anumite funcţii ale telefonului să nu mai funcţioneze corect până la oprirea şi repornirea acestuia.</string>
+    <string name="wifi_tether_wps_connect_summary">Mod de configurare protejată WLAN selectat pentru continuare</string>
+    <string name="wizard_title">Ghid începători</string>
+    <string name="location_settings_label">Mod Inginer localizare</string>
+    <string name="sim_status_title">Stare SIM</string>
+    <string name="auto_rotate_type">"Rotire automată a ecranului"</string>
+    <string name="wifi_hex_password">Parolă hexadecimală.</string>
+    <string name="pch_data_prefer_summary_off">Preferinţă date</string>
+    <string name="wifi_WEP_secury_key">Cheie de securitate</string>
+    <string name="passpoint_username_pw">Nume utilizator/Parolă</string>
+    <string name="dlg_default_write_disk_change_msg">Scrierea implicită pe disc s-a modificat. Trebuie să reporniţi acum!</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off" msgid="1225626898926363100">"Pentru a vedea gadgeturi, activați ecranul wireless."</string>
+    <string name="drm_settings_title">Reinițializare DRM</string>
+    <string name="notification_settings_title">Centru de notificări</string>
+    <string name="wifi_ap_client_unblock_title">Deblocare</string>
+    <string name="authdlg_service_opp">acest tel.</string>
+    <string name="display_personalize">Personalizare</string>
+    <string name="usb_tethering_select_version">Selectare versiune sistem PC</string>
+    <string name="drm_settings_summary">ștergere toate licențele DRM</string>
+    <string name="hdmi_settings_summary">Faceţi clic pentru a configura HDMI</string>
+    <string name="wifi_ap_no_blocked">0 utilizatori blocaţi</string>
+    <string name="smart_rotate_type">Rotire inteligentă ecran</string>
+    <string name="wifi_tether_setting_title">Setări de bază</string>
+    <string name="master_clear_error">"Deschideţi SYNCit"</string>
+    <string name="tvout_settings_summary">Setări ieşire TV</string>
+    <string name="try_swing_lock_result_ok">metoda dvs. este corectă</string>
+    <string name="wifi_ap_wps_dialog_title">Conectare WPS</string>
+    <string name="authdlg_service_accept">Autorizare</string>
+    <string name="dialog_title_button_brightness">Retroiluminare butoane meniu</string>
+    <string name="move_to_phone">Mutare în telefon</string>
+    <string name="usbsetting_usbmassstorage_open">Conectare la dispozitiv de stocare USB</string>
+    <string name="wide_touch_title">Atingere largă</string>
+    <string name="wifi_ap_blocked_title">Utilizatori blocaţi</string>
+    <string name="gesture_rotate_type">Rotire ecran prin gesturi</string>
+    <string name="sd_mount_usbstorage" product="default">"Montaţi stocarea USB"</string>
+    <string name="vpn_delete_title">"Ştergeţi"</string>
+    <string name="wifi_ap_total_data">Total date utilizate:
+        <xliff:g id="time">%1$s</xliff:g>
+    </string>
+    <string name="unlock_set_unlock_mode_voice_weak">Deblocare vocală</string>
+    <string name="audio_profile_settings_title_lap">Profiluri audio</string>
+    <string name="storage_path0">Spaţiu de stocare USB</string>
+    <string name="uninstall_select">Dezinstalaţi aplicaţia selectată?</string>
+    <string name="storage_path1">Spaţiu de stocare SD</string>
+    <string name="install_local">"Locaţie de instalare software"</string>
+    <string name="server_lenovo_exp_cancel">"Anulaţi"</string>
+    <string name="hdmi_auto">"AUTOM."</string>
+    <string name="server_lenovo_exp_dlg_title">Avertisment</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">"O aplicaţie solicită să activeze Bluetooth şi să comunice cu <xliff:g>%1$s</xliff:g> prin Bluetooth."</string>
+    <string name="lock_screen_notifications_summary">Afişare notificări pe ecranul de blocare</string>
+    <string name="wapi_user_certificate">Certificat utilizator</string>
+    <string name="privacy_restore_userdata_title">Restaurare din spaţiul de stocare</string>
+
+    <string name="global_action_general">"Standard"</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="hdmi_audio_toggler">Audio</string>
+    <string name="hdmi_video_toggler">Video</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="hdmi_audio_toggler">Audio</string>
+    <string name="hdmi_video_toggler">Video</string>
+    <string name="dlg_error_unmount_usb_title" product="default">Eroare</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="display_effect_of_screen_contrast_title">Contrast</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="show_password_summary">Eroare</string>
+    <string name="status_imei_slot1">IMEI(Slot1)</string>
+    <string name="status_imei_slot2">IMEI(Slot2)</string>
+    <string name="summary_lcd_invert">Eroare</string>
+    <string name="system_time_am">AM</string>
+    <string name="system_time_pm">PM</string>
+    <string name="display_effect_of_screen_contrast_title">Contrast</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="show_password_summary">Eroare</string>
+
+    <string name="power_settings">Manager de energie</string>
+    <string name="multiwindow_settings">Fer. mult.</string>
+    <string name="night_mode_summary">Acest mod este potrivit pentru navigarea pe timpul nopţii, aşadar, este posibil ca unele butoane să nu poată fi atinse în unele aplicaţii.</string>
+    <string name="long_press_back_finish_title">Apăsaţi lung Înapoi pentru a ieşi</string>
+    <string name="night_mode">Protejarea ochilor noaptea</string>
+    <string name="long_press_back_finish_summary">Apăsaţi lung Înapoi pentru a ieşi din programul curent</string>
+    <string name="change_settings_to_all_settings">Comutare la Setări</string>
+    <string name="touch_free_phone_dial">Apelare fără atingere</string>
+    <string name="tilt_slide_summary">Înclinaţi spre stânga/dreapta pt. a naviga prin glisare</string>
+    <string name="change_settings_to_recent">Comutaţi la Setări recente</string>
+    <string name="touch_free_phone_answer">Preluare apel fără atingere</string>
+    <string name="recent_settings_empty">Nicio setare de sistem efectuată recent</string>
+    <string name="recent_settings">Setări recente</string>
+    <string name="tilt_slide_title">Glisaţi prin înclinare</string>
+    <string name="display_effect_type_hue_cool">Culoare rece</string>
+    <string name="display_effect_buttom_text_cancel">Revocare</string>
+    <string name="display_effect_mode_default_summary">Setări implicite din fabrică pentru culori optime.</string>
+    <string name="display_effect_mode_auto_summary">Comută automat modul pe baza aplicaţiei de browser şi a mediului.</string>
+    <string name="display_effect_type_hue">Ton</string>
+    <string name="display_effect_mode_default_title">Mod Implicit</string>
+    <string name="display_effect_mode_comfirtable_title">Mod Confort</string>
+    <string name="display_effect_type_hue_default">Normală</string>
+    <string name="display_effect_type_contrast_sharp">Clară</string>
+    <string name="display_effect_mode_comfirtable_summary">Vă protejează ochii şi este potrivit atunci când navigaţi prin telefon pe perioade lungi.</string>
+    <string name="display_effect_type_hue_warm">Culoare caldă</string>
+    <string name="display_effect_type_saturation">Saturație</string>
+    <string name="display_effect_mode_auto_title">Mod Automat</string>
+    <string name="display_effect_mode_ultra_bright_summary">Efect de afişare super luminos. Acest mod va afecta alimentarea când dispozitivul este în standby.</string>
+    <string name="display_effect_type_saturation_default">Normală</string>
+    <string name="display_effect_smart_brightness_title">Mod Inteligent pentru lumina puternică</string>
+    <string name="display_effect_buttom_text_apply">Aplicare</string>
+    <string name="display_effect_mode_ultra_bright_title">Mod Super luminos</string>
+    <string name="display_effect_category_title_commom_mode">Mod Comun</string>
+    <string name="display_effect_mode_outdoor_title">Mod Lumină puternică</string>
+    <string name="display_effect_type_contrast_default">Normală</string>
+    <string name="display_effect_type_saturation_bright">Luminos</string>
+    <string name="display_effect_mode_outdoor_summary">Se utilizează în exterior, în condiţii de lumină puternică. Îmbunătăţeşte vizibilitatea în exterior. Acest mod va afecta funcţiile standby. Utilizatorii obişnuiţi trebuie să fie atenţi!</string>
+    <string name="display_effect_category_title_smart">Inteligent</string>
+    <string name="display_effect_mode_custom_title">Personalizare</string>
+    <string name="display_effect_mode_custom_summary">Setaţi manual valoarea fiecărui parametru.</string>
+    <string name="display_effect_smart_brightness_summary">Tehnologia inteligentă apreciază când telefonul este într-un mediu cu lumină puternică şi activează modul Lumină puternică. Acest mod îmbunătăţeşte vizibilitatea în exterior, în medii cu lumină puternică.</string>
+<string name="device_info" msgid="3191876744469364173">"Informaţii dispozitiv"</string>
+
+    <string name="display_effect_type_contrast_soft">"Pastel"</string>
+    <string name="display_effect_type_contrast">Contrast</string>
+    <string name="display_effect_type_saturation_soft">"Pastel"</string>
+<string name="pocket_mode_title">"Mod Buzunar"</string>
+<string name="pocket_mode_summary">"Creşte volumul tonului de apel când dispozitivul este în buzunar sau în geantă"</string>
+<string name="pocket_mode_help">"Creşte volumul tonului de apel când dispozitivul este în buzunar sau în geantă"</string>
+<string name="ringtone_weaken_title">Reducere volum ton</string>
+<string name="ringtone_weaken_summary">Reduce automat volumul tonului de apel când s-a ridicat telefonul | Ajutor</string>
+<string name="ringtone_weaken_help">Volumul tonului de apel este redus la ridicarea telefonului.</string>
+<string name="gesture_topspeed_snap_title">Fotografiere extrem de rapidă</string>
+<string name="gesture_topspeed_snap_summary">Faceţi dublu-clic pe butonul Ecran de start cu ecranul dezactivat pt. a alinia imagini</string>
+<string name="gesture_light_up_screen_title">"Atingeţi de două ori pentru a activa/dezactiva ecranul"</string>
+<string name="gesture_light_up_screen_summary">"Atingeţi de două ori oriunde pe ecran pentru a-l activa în timp ce este oprit; atingeţi de două ori oriunde pe ecranul blocat pentru a pune dispozitivul în modul de repaus"</string>
+<string name="usb_detail_message">Utilizaţi computerul pentru a vă gestiona telefonul. Vizitaţi http://sj.lenovo.com pentru a obţine software-ul oficial Lenovo.</string>
+<string name="bluetooth_confirm_device_pair">Pentru asociere cu:</string>
+<string name="wifi_ap_less">Verif. să av. rec. bună</string>
+<string name="usb_adb_summary">Porniţi modul de depanare. Utilizaţi computerul pentru a vă gestiona telefonul. Se recomandă utilizarea software-ului oficial.</string>
+<string name="wifi_ap_more">Verif. toate pct. de acces</string>
+<string name="bluetooth_confirm_passkey_show">Asiguraţi-vă că afişează această cheie de acces:</string>
+<string name="usb_adb_title">Depanare USB (ADB)</string>
+<string name="wifi_wapi_cert_install">Instal. certificat WAPI</string>
+<string name="location_agps_pref_apn_title">Apl. preferat</string>
+<string name="location_agps_roaming_help">Avertizare：Sel. TOATE REŢELELE pt. a deschide AGPS, risc pierd. tarife tel. în roaming！</string>
+<string name="wifi_wapi_cert_install_button">Instalare</string>
+<string name="wifi_wapi_cert_create_subdir">Creaţi un folder</string>
+<string name="wifi_wapi_cert_mgmt_user_dont_exist">Introd. numele certif. de utilizator</string>
+<string name="wifi_wapi_user_cert">Certificat utiliz.</string>
+<string name="location_agps_apn_summary">Sel. tip apl preferat</string>
+<string name="location_agps_apn_choose_dialog_title">Tipuri Apl</string>
+<string name="location_agps_si_mode_dialog_title">Metodă AGPS</string>
+<string name="wifi_wapi_cert_mgmt_subdir_exist">Introd. alt nume de folder, acesta există deja</string>
+<string name="location_agps_pref_reset_type_title">Tip resetare preferat</string>
+<string name="wifi_wapi_as_cert">Certificat AS</string>
+<string name="supl_not_set">"&lt;Nesetat&gt;"</string>
+<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introd. numele folderului pe care doriţi să-l creaţi!</string>
+<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Formatul certif. de utiliz. e greşit! Instal. certif. de utiliz. corect</string>
+<string name="location_agps_si_mode">Mod AGPS SI</string>
+<string name="location_agps_reset_type_summary">Sel. tip resetare preferat</string>
+<string name="location_agps_supl_settings">Setări SUPL</string>
+<string name="wifi_wapi_cert_mgmt_subdir_create_fail">Creare folder eşuată</string>
+<string name="wifi_wapi_cert_mgmt_as_dont_exist">Cardul SD nu are certificatul AS, verificaţi-l!</string>
+<string name="invalid_network_mode">Mod reţea nevalid</string>
+<string name="location_agps_si_mode_summary">Sel. metoda AGPS preferată</string>
+<string name="location_agps_reset_type">Reset.tipuri</string>
+<string name="not_support_choose">Slotul 2 nu acceptă alegerea modului reţea</string>
+<string name="location_agps_supl_server_addr">Adresă serverul</string>
+<string name="location_agps_pref_si_title">Mod preferat</string>
+<string name="location_agps_def_reset_type">FIERBINTE</string>
+<string name="wifi_wapi_cert_uninstall">Dezinstal. certificat WAPI</string>
+<string name="location_agps_def_network_mode">ECRAN START</string>
+<string name="wifi_wapi_cert_mgmt_as_name_is_empty">Introd. numele certif. AS</string>
+<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Formatul de certif AS este greşit! Instal. certif. AS corect</string>
+<string name="location_agps_apn_type">Tipuri Apl</string>
+<string name="location_agps_register_network_type">Tip acces reţea</string>
+<string name="wifi_wapi_cert_uninstall_button">Dezinstalare</string>
+<string name="location_agps_supl_server_port">Port server</string>
+<string name="location_agps_register_network_type_summary">Sel. accesare reţea pt. a activa AGPS...</string>
+<string name="location_agps_params_settings_title">Setări AGPS</string>
+<string name="wifi_wapi_cert_mgmt_titlebar">Management certificat WAPI</string>
+<string name="wifi_wapi_cert_cancel_button">"Anulaţi"</string>
+<string name="wifi_wapi_cert_delet_subdir">Sel. un certif.adecvat</string>
+<string name="wifi_wapi_cert_mgmt_user_name_is_empty">Introd. numele certif. de utilizator</string>
+<string name="location_agps_pref_network_title">Reţea pref.</string>
+<string name="location_agps_register_network_type_dialog_title">Select. reţea</string>
+<string name="smart_standby_enable_title">"Standby intelig."</string>
+<string name="smart_standby_enable_summary">"Atunci când ecranul se aprinde, dacă senzorul detectează că priviţi spre ecran, acesta rămâne aprins; dacă unghiul este prea înclinat sau lumina este insuficientă, nivelul de recunoaştere va fi redus</string>
+<string name="phone_storage_info">Memorie telefon</string>
+    <string name="usb_detail_title">Obţineţi software-ul oficial Lenovo</string>
+    <string name="processor_unit_info">Nuclee</string>
+    <string name="night_mode_tip_secure_button">Dezactivaţi modul de citire noaptea, apoi faceţi clic din nou</string>
+    <string name="location_agps_reset_type_choose_dialog_title">Toate tipurile de porniri</string>
+    <string name="wide_touch_help">Deschideţi panoul de comenzi rapide şi aplicaţii făcând clic pe butonul mobil.</string>
+    <string name="lenovo_cloud">Serviciul Cloud</string>
+    <string name="zone_auto_summaryOn_not_row">"Utilizare fus orar furnizat de reţea. Această caracteristică depinde de furnizorul de servicii şi nu este acceptat în unele ţări"</string>
+    <string name="zone_auto_summaryOff_not_row">"Utilizare fus orar furnizat de reţea. Această caracteristică depinde de furnizorul de servicii şi nu este acceptat în unele ţări"</string>
+    <string name="location_agps_settings_title">SetăriAGPS</string>
+    <string name="night_mode_notification_title">Mod de citire noaptea activat</string>
+    <string name="night_mode_notification_text">Faceţi clic pt. a dezactiva modul de citire noaptea</string>
+<string name="wifi_account_share">@string/wlan_share</string>
+<string name="wifi_status_test">Stare WLAN</string>
+<string name="wifi_signal_strong_title">"Amplificare semnal WLAN"</string>
+<string name="wifi_signal_strong_summary">"Amplifică automat semnalul pentru a asigura o conexiune mai bună atunci când semnalul conexiunii este slab." </string>
+    <string name="do_not_distube">"Mod Nu deranjaţi"</string>
+    <string name="gesture_light_up_off_screen_title">"Atingeţi de două ori pentru a activa/dezactiva ecranul"</string>
+
+    <string name="StorageDialog_summary">Detectează dacă aţi ieşit din spaţiul de stocare extern. Sistemul va comuta la spaţiul de stocare încorporat şi va reporni. Confirmaţi repornirea? \n\n Dacă aţi reintrat în spaţiul de stocare extern, nu trebuie să reporniţi!</string>
+    <string name="StorageDialog_comfirm">Repornire</string>
+    <string name="StorageDialog_title">Atenţie</string>
+    <string name="dlg_default_write_disk_encrypted_msg">Pentru a vă proteja mai bine confidențialitatea, stocarea primară trebuie să fie întotdeauna setată la stocare încorporată atunci când telefonul este criptat.</string>
+</resources>

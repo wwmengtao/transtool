@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project Licensed under the 
+	Apache License, Version 2.0 (the "License"); you may not use this file except 
+	in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 
+	Unless required by applicable law or agreed to in writing, software distributed 
+	under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES 
+	OR CONDITIONS OF ANY KIND, either express or implied. See the License for 
+	the specific language governing permissions and limitations under the License. --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+	<string name="yes" msgid="4676390750360727396">"ใช่"</string>
+	<string name="no">"ไม่มี"</string>
+	<string name="silent_mode_title" msgid="3181479108593217704">"โหมดปิดเสียง"</string>
+	<string name="ringtone_title" msgid="5379026328015343686">"เสียงแจ้งเตือน"</string>
+	<string name="ringtone_summary">ไม่มีบัญชี </string>
+	<string name="all_volume_title" msgid="4296957391257836961">"ระดับเสียง"</string>
+	<string name="musicfx_title" msgid="3415566786340790345">"เอฟเฟกต์เสียง"</string>
+	<string name="ring_volume_title">ระดับเสียง</string>
+	<string name="vibrate_in_silent_title" msgid="3897968069156767036">"สั่นเตือนในโหมดปิดเสียง"</string>
+	<string name="vibrate_title" msgid="6045820877942801599">"สั่นเตือน"</string>
+
+	<string name="sound_settings_title" msgid="8735891486683305886">"เสียง"</string>
+	<string name="silent_mode_summary" msgid="3309650676072917899">"โหมดปิดเสียงยกเว้นสื่อและเสียงเตือน"</string>
+	<string name="silent_mode_incl_alarm_summary" msgid="2088830834182228458">"โหมดปิดเสียงสำหรับเสียงที่ไม่ใช่มัลติมีเดียทั้งหมด"</string>
+	<string name="ring_volume_summary">"ตั้งระดับเสียงสำหรับริงโทน, ข้อความ และการแจ้งเตือน"</string>
+	<string name="vibrate_in_silent_summary" msgid="3312600513070076281">"ให้มีการสั่นเตือนระหว่างโหมดปิดเสียง"</string>
+	<string name="vibrate_summary" msgid="7378130397830790458">"การสั่นเตือนสำหรับการรับสายและการแจ้งเตือน"</string>
+	<string name="notification_sound_title" msgid="312032901303146002">"การแจ้งเตือนเริ่มต้น"</string>
+	<string name="notification_pulse_title" msgid="1247988024534030629">"ไฟบอกสถานะกะพริบสำหรับการแจ้งเตือน"</string>
+	<string name="incoming_call_volume_title" msgid="8073714801365904099">"เสียงเรียกเข้า"</string>
+	<string name="notification_volume_title" msgid="2012640760341080408">"การแจ้งเตือน"</string>
+	<string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"ใช้ระดับเสียงของสายเรียกเข้าเป็นระดับเสียงการแจ้งเตือน"</string>
+	<string name="notification_sound_summary">ไม่มีบัญชี </string>
+	<string name="notification_pulse_summary" msgid="6899220780534617152">"ไฟบอกสถานะที่แทร็กบอลจะกะพริบเมื่อได้รับการแจ้งเตือนใหม่"</string>
+	<string name="notification_sound_dialog_title" msgid="9052854168612951170">"เลือกเสียงสำหรับการแจ้งเตือน"</string>
+	<string name="media_volume_title" msgid="3576565767317118106">"สื่อ"</string>
+	<string name="media_volume_summary" msgid="5363248930648849974">"ตั้งระดับเสียงสำหรับเพลงและวิดีโอ"</string>
+	<string name="alarm_volume_title" msgid="2285597478377758706">"เสียงเตือน"</string>
+	<string name="dtmf_tone_enable_title">ทัชโทนแผงปุ่มกด</string>
+	<string name="sound_effects_enable_title">เสียงสัมผัส</string>
+	<string name="lock_sounds_enable_title" msgid="450098505659399520">"เสียงการล็อคหน้าจอ"</string>
+	<string name="haptic_feedback_enable_title" msgid="2438293710530828760">"สั่นเมื่อแตะ"</string>
+	<string name="audio_record_proc_title" msgid="4271091199976457534">"ลดเสียงรบกวน"</string>
+	<string name="volume_media_description" msgid="7949355934788807863">"เพลง วิดีโอ เกม และสื่ออื่นๆ"</string>
+	<string name="volume_ring_description">ริงโทนและข้อความ</string>
+	<string name="volume_notification_description" msgid="5810902320215328321">"การแจ้งเตือน"</string>
+	<string name="volume_alarm_description" msgid="8322615148532654841">"เสียงเตือน"</string>
+	<string name="dtmf_tone_enable_summary_on">เล่นเสียงเมื่อใช้แผงปุ่มกด</string>
+	<string name="dtmf_tone_enable_summary_off">เล่นเสียงเมื่อใช้แผงปุ่มกด</string>
+	<string name="sound_effects_enable_summary_on">เล่นเสียงเมื่อทำการเลือกหน้าจอ</string>
+	<string name="sound_effects_enable_summary_off">เล่นเสียงเมื่อทำการเลือกหน้าจอ</string>
+	<string name="lock_sounds_enable_summary_on" msgid="145741024028391473">"เล่นเสียงเมื่อล็อคและปลดล็อคหน้าจอ"</string>
+	<string name="lock_sounds_enable_summary_off" msgid="8481243116223542804">"เล่นเสียงเมื่อล็อคและปลดล็อคหน้าจอ"</string>
+	<string name="haptic_feedback_enable_summary_on" msgid="1875779656524793053">"สั่นเตือนเมื่อกดซอฟต์คีย์และมีการสลับระหว่าง UI บางอย่าง"</string>
+	<string name="haptic_feedback_enable_summary_off" msgid="7287885436963105314">"สั่นเตือนเมื่อกดซอฟต์คีย์และมีการสลับระหว่าง UI บางอย่าง"</string>
+	<string name="audio_record_proc_summary" msgid="8113628457499616498">"ลดเสียงรบกวนเบื้องหลังเมื่อพูดหรือบันทึกเสียง"</string>
+
+	<string name="Ringtone_profile_title">การตั้งค่าเสียงแจ้งเตือน</string>
+	<string name="Ringtone_profile_summary">ตั้งเสียงแจ้งเตือนสำหรับสายเรียกเข้าและการแจ้งเตือนข้อความ</string>
+
+
+	<string name="turn_cr_title">"การตั้งค่าเสียงเพลงรอสาย"</string>
+	<string name="turn_cr_on">"รับบริการเสียงเพลงรอสาย"</string>
+	<string name="turn_cr_off">"ปิดการตั้งค่าเสียงเพลงรอสาย"</string>
+	<string name="turn_cr_title_ongoing">"กำลังรับข้อความการตั้งค่าเสียงเพลงรอสาย"</string>
+	<string name="turn_cr_title_success">"รับข้อความการตั้งค่าเสียงเพลงรอสายสำเร็จ"</string>
+	<string name="turn_cr_title_fail">"รับข้อความการตั้งค่าเสียงเพลงรอสายไม่สำเร็จ"</string>
+	<string name="turn_cr_sms_fail">"ส่งข้อความการตั้งค่าเสียงเพลงรอสายไม่สำเร็จ"</string>
+	
+	<!-- Profile Settings -->
+	<string name="profile_select_label">การตั้งค่าโปรไฟล์</string>
+	<string name="profile_options_label">การตั้งค่าโปรไฟล์ที่ปรับให้เป็นแบบส่วนตัว</string>
+	<string name="general_profile_title">ทั่วไป</string>
+	<string name="silence_profile_title">ปิดเสียง</string>
+	<string name="meeting_profile_title">สั่นเตือน</string>
+	<string name="outdoors_profile_title">กลางแจ้ง</string>
+	<string name="general_profile_summary">การตั้งค่าชนิดเสียงเรียก,ริงโทน,ฯลฯ ในโปรไฟล์ทั่วไป</string>
+	<string name="meeting_profile_summary">การตั้งค่าการตอบสนองด้วยการสั่นในโปรไฟล์สั่น</string>
+	<string name="silence_profile_summary">การตั้งค่าการตอบสนองด้วยการสั่นในโปรไฟล์เงียบ</string>
+	<string name="outdoors_profile_summary">การตั้งค่าชนิดเสียงเรียก,ริงโทน,ฯลฯ ในโปรไฟล์กลางแจ้ง</string>
+	<string name="sum_profile_settings">เปลี่ยนการตั้งค่าโปรไฟล์และการตั้งค่าโปรไฟล์ที่ปรับให้เป็นแบบส่วนตัว</string>
+
+	<string name="set_profile_title">การตั้งค่าที่ปรับให้เป็นแบบส่วนตัว</string>
+	<string name="call_ringtone_title">เสียงสายเรียกเข้า</string>
+	<string name="call_ringtone_summary">ตั้งเสียงสายเรียกเข้า</string>
+	<string name="message_sound_title">เสียงแจ้งเตือนข้อความ</string>
+	<string name="message_sound_summary">ตั้งเสียงแจ้งเตือนสำหรับข้อความ MMS และการแจ้งเตือน</string>
+	<string name="mail_sound_title">เสียงแจ้งเตือนสำหรับเมลเข้า</string>
+	<string name="mail_sound_summary">ตั้งเสียงแจ้งเตือนสำหรับเมลเข้า</string>
+	<string name="alarm_alert_title">เสียงแจ้งเตือนกำหนดเวลา</string>
+	<string name="alarm_alert_summary">ตั้งเสียงแจ้งเตือนกำหนดเวลา</string>
+	<string name="push_sound_title">เสียงแจ้งเตือนสำหรับพุชเซอร์วิส</string>
+	<string name="push_sound_summary">ตั้งเสียงแจ้งเตือนสำหรับพุชเซอร์วิส</string>
+	<string name="push_mail_ringtone_switch_title">พุชเซอร์วิสและการแจ้งเตือนเมล</string>
+	<string name="push_mail_ringtone_switch_summary_on">เปิดการแจ้งเตือนด้วยเสียงเตือนแล้ว</string>
+	<string name="push_mail_ringtone_switch_summary_off">ปิดการแจ้งเตือนด้วยเสียงเตือน</string>
+
+	<string name="startup_sound_title">การเล่นเสียงแบบเลโนโว</string>
+	<string name="startup_sound_summary_on">ควบคุมว่าจะเล่นเสียงเปิด/ปิดเครื่องหรือไม่</string>
+	<string name="startup_sound_summary_off">ควบคุมว่าจะเล่นเสียงเปิด/ปิดเครื่องหรือไม่</string>
+
+	<string name="remind_title">โหมดการแจ้งเตือน</string>
+	<string name="remind_summary">ตั้งค่าโหมดการแจ้งเตือนทั่วไป</string>
+	<string name="profile_settings">แก้ไขโปรไฟล์</string>
+	<string name="progress_title">แก้ไขโปรไฟล์</string>
+	<string name="progress_message">โปรดรอสักครู่...</string>
+
+	<!-- Mini -->
+	<string name="volume">"ระดับเสียง"</string>
+	<string name="ringtone_settings_title">สายเรียกเข้า</string>
+	<string name="feedback_title" msgid="1480844520622721141">"ระบบ"</string>
+	<string name="threeg_call_sound_title">ริงโทน</string>
+	<string name="threeg_message_sound_title">เสียงแจ้งเตือนข้อความ</string>
+	<string name="twog_call_sound_title">ริงโทน</string>
+	<string name="twog_message_sound_title">เสียงแจ้งเตือนข้อความ</string>
+	<string name="threeg_unable">SIM การ์ด 1 ไม่พร้อมใช้งาน</string>
+	<string name="twog_unable">SIM การ์ด 2 ไม่พร้อมใช้งาน</string>
+  
+    <string name="convention" msgid="1488759370067953996">"ผลิตภัณฑ์"</string>
+    <string name="cate_call_ringtone">สายเรียกเข้า</string>
+    <string name="cate_message_ringtone">ข้อความ</string>
+    
+     <string name="pocket_mode_title">โหมดเก็บไว้ในกระเป๋า</string>
+     <string name="pocket_mode_summary">ระดับเสียงแจ้งเตือนจะลดลงอัตโนมัติเมื่อหยิบโทรศัพท์ขึ้นมา</string>
+
+    <string name="set_default_phone_ringtone">"ตั้งค่าริงโทนสายเริ่มต้นของคุณ"</string>
+    <string name="set_default_message_ringtone">ตั้งค่าริงโทนข้อความเริ่มต้นของคุณ</string>
+    <string name="message">ข้อความ</string>
+    <string name="sim_message_one">เสียงแจ้งเตือนข้อความ</string>
+    <string name="sim_call_one">เสียงเรียกเข้า (SIM 1)</string>
+    <string name="sim_call_two">เสียงเรียกเข้า (SIM 2)</string>
+    <string name="audio_profile_add">เพิ่ม</string>
+    <string name="audio_profile_rename">เปลี่ยนชื่อ</string>
+    <string name="audio_profile_enable">เปิดทำงาน</string>
+    <string name="audio_profile_delete">ลบ</string>
+    <string name="audio_profile_message_delete">โปรไฟล์ <xliff:g id="profile">%s</xliff:g> จะถูกลบ</string>
+    <string name="audio_profile_message_name_error">ชื่อที่ป้อนมีอยู่แล้ว</string>
+    <string name="audio_profile_message_rename">โปรดป้อนชื่อโปรไฟล์ใหม่</string>
+    <string name="audio_profile_error">"ข้อผิดพลาด"</string>
+    <string name="profile_category_custom_title">โปรไฟล์ที่กำหนดโดยผู้ใช้</string>
+    <string name="audio_profile_message_reset">การตั้งค่าโปรไฟล์เสียงทั้งหมดจะถูกรีเซ็ตกลับเป็นค่าเริ่มต้น</string>
+    <string name="audio_profile_reset">รีเซ็ต</string>
+    <string name="audio_profile_message_name_length_wrong">ชื่อต้องประกอบด้วยตัวอักษรอย่างน้อยหนึ่งตัว</string>
+    <string name="profile_category_checked_title">การตั้งค่าโปรไฟล์</string>
+    <string name="sim_message_sim_one">เสียงแจ้งเตือนข้อความ (SIM 1)</string>
+    <string name="set_default_notification_ringtone">ตั้งค่าเสียงเริ่มต้นการแจ้งการเตือน</string>
+    <string name="volume_alarm_mute">"ปิดเสียงนาฬิกาปลุก"</string>
+    <string name="sim_call">เสียงแจ้งเตือน</string>
+    <string name="audio_profile_message_overflow">คุณเพิ่มโปรไฟล์ที่ปรับแต่งเองได้เพียง 4 โปรไฟล์เท่านั้น</string>
+    <string name="volume_notification_mute">"ปิดเสียงการแจ้งเตือน"</string>
+    <string name="volume_ring_mute">"ปิดเสียงเสียงเข้าและการแจ้งเตือน"</string>
+    <string name="ringtone_and_sound_settings">"เสียงเรียกเข้าและเสียง"</string>
+    <string name="volume_media_mute">"ปิดเสียงดนตรีและสื่ออื่นๆ"</string>
+    <string name="sim_message_sim_two">เสียงแจ้งเตือนข้อความ (SIM 2)</string>
+</resources>

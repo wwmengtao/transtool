@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"WLAN Signal Boost"</string>
+    <string name="dlg_msg">"Very weak WLAN signal detected. WLAN signal boost has been automatically activated for a better network connection. You can also configure the function settings in System Settings - WLAN."</string>
+    <string name="dlg_ok">"OK"</string>
+    <string name="dlg_no">"no"</string>   
+</resources>

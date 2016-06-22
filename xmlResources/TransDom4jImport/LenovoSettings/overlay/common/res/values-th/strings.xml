@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="profile_edit_weaken_help">ระดับเสียงแจ้งเตือนจะลดลงเมื่อรับ\nโทรศัพท์</string>
+<string name="smart_calling_title">สายสมาร์ท</string>
+<string name="character_settings_gestural_hand_category">มือเดียวและท่าทาง</string>
+<string name="select_subscription">เลือกการสมัครใช้งาน</string>
+<string name="wifi_scan_always_available_summary">ให้บริการตำแหน่งของ Google และแอ็พอื่นสแกนหาเครือข่ายได้ แม้ในขณะปิด WLAN</string>
+<string name="whatis_lenovoid_cando_summary"> การเข้าถึงแบบไม่จำกัดสู่การเชื่อมต่อสำหรับแอ็พพลิเคชันและบริการบนระบบคลาวด์ต่างๆ บัตรใบเดียวในมือ ยกเลิกการบล็อค </string>
+<string name="enable_traces_title" msgid="7448835465859512430">"เปิดใช้งานร่องรอย"</string>
+<string name="wifi_setup_wizard_title" msgid="8242230950011819054">"เลือก WLAN"</string>
+<string name="schpwr_time_invalid">ควรตั้งค่าช่วงเวลาระหว่างการเปิด/ปิดอย่างน้อย %d นาที</string>
+<string name="multiwindow_title">MultiWindow</string>
+<string name="lockscreen_shake_unlock_ctrl_summary">เขย่าโทรศัพท์อย่างรวดเร็วในทิศทางเดียวเพื่อล็อคหน้าจอ | วิธีใช้</string>
+<string name="show_frame_count_size">ขนาด</string>
+<string name="character_settings_phone_call_ring_weaken_help_message">ระดับเสียงแจ้งเตือนจะลดลงเมื่อรับโทรศัพท์</string>
+<string name="gestural_phone_summary">เลื่อนหน้าจอไปทางซ้ายและขวาเพื่อรับสาย | กดหน้าจอขึ้นค้างไว้เพื่อวางสาย</string>
+<string name="teos_settings">แสดงความสมดุลย์สี</string>
+<string name="display_effect_of_screen_saturation_title">ความสดของสี</string>
+<string name="lock_wallpaper">ล็อคภาพพื้นหลัง</string>
+<string name="done">เสร็จ</string>
+<string name="version_info">ข้อมูลเวอร์ชัน</string>
+<string name="desktop_wallpaper">ภาพพื้นหลังเดสก์ท็อป</string>
+<string name="devices_info_cpu">"CPU：fore-core 2.2GHz"</string>
+<string name="backup_data_to_device_title">สร้างแบ็คอัพที่อุปกรณ์อื่น</string>
+<string name="smart_call_answer_settings_title">รับสายแบบสมาร์ท</string>
+<string name="reset_skip_backup_title">ข้ามการสำรองข้อมูล</string>
+<string name="recovery_data_from_device_title">กู้ข้อมูลคืนจากอุปกรณ์อื่น</string>
+<string name="roaming_time_settings_category">การตั้งค่าการโรมมิ่งระหว่างประเทศ</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> สามารถเก็บรวบรวมข้อความทั้งหมดที่คุณพิมพ์ไว้ได้ยกเว้นรหัสผ่าน โดยรวมถึงข้อมูลส่วนบุคคลต่างๆ เช่น หมายเลขบัตรเครดิต และยังสามารถเก็บข้อมูลเกี่ยวกับการโต้ตอบระหว่างคุณกับแท็บเล็ตได้ด้วย"</string>
+<string name="header_category_shortcut_key">ปุ่มทางลัด</string>
+<string name="multi_sim_settings_summary">ตั้งค่าการตั้งค่าหลาย SIM สำหรับการใช้เสียง ข้อมูล และ SMS</string>
+<string name="voice_title">เสียง/USSD/MMI</string>
+<string name="never">"ไม่เคย"</string>
+<string name="data_usage_metered_body" msgid="4959032833706695848">"เลือกเครือข่าย WLAN ที่เป็นฮอตสปอตเคลื่อนที่ สามารถจำกัดแอปพลิเคชันจากการใช้เครือข่ายเหล่านี้ได้เมื่ออยู่ในพื้นหลัง นอกจากนี้ แอปพลิเคชันอาจแจ้งเตือนก่อนที่จะใช้เครือข่ายเหล่านี้ในการดาวน์โหลดไฟล์ขนาดใหญ่"</string>
+<string name="character_settings_swing_lock_screen_help_message">เขย่าโทรศัพท์อย่างรวดเร็วในทิศทางเดียวเพื่อล็อคหน้าจอ</string>
+<string name="global_single_hand_title_v2">หน้าจอเล็ก</string>
+<string name="products_version">หมายเลขโมเดล</string>
+<string name="wifi_display_summary_on" msgid="3695429596604962531">"เปิด"</string>
+<string name="multiwindow_divide_settings_summary">ทำงานต่างๆ บนมือถือให้เสร็จได้ด้วยการเปิดสองหน้าต่าง</string>
+<string name="startup_time_enabled">กำหนดเวลาเปิดเครื่องแล้ว</string>
+<string name="wifi_setup_title_connected_network" msgid="1608788657122010919">"เชื่อมต่อกับเครือข่าย WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g> แล้ว"</string>
+<string name="multi_sim_settings_title">การตั้งค่าหลาย SIM</string>
+<string name="framework_version">หมายเลขเวอร์ชัน Android</string>
+<string name="display_effect_of_screen_apply">นำไปใช้</string>
+<string name="character_settings_float_button_help_message">เปิดแผงควบคุมทางลัดและแอ็พโดยการคลิกปุ่มลอย</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"ใช้ <xliff:g id="SERVICE">%1$s</xliff:g> หรือไม่"</string>
+<string name="wifi_empty_list_wifi_off" msgid="8056223875951079463">"หากต้องการดูเครือข่ายที่ใช้ได้ ให้เปิด WLAN"</string>
+<!-- [QC8916 z2/sisley][FRIESIAN-5824][LQA][TH][hujj2]Wrong translation and layout issue in Shake Lock and Smart Dialer. -->
+<string name="mercury_keyboard_title">แป้นโทรอัจฉริยะ</string>
+<string name="data_usage_restrict_background" msgid="8447934953579275363">"หากคุณจำกัดข้อมูลแบ็กกราวด์บนมือถือ แอปพลิเคชันและบริการบางอย่างจะไม่ทำงานจนกว่าคุณจะเชื่อมต่อกับเครือข่าย WLAN"</string>
+<string name="screensaver_timeout_zero_summary">"ไม่ต้อง"</string>
+<string name="still_sleep_ctrl">นิ่งเฉยก่อนสลีป</string>
+<string name="playersTutorial_stoped">หยุดแอ็พ PlayersTutorial แล้ว</string>
+<string name="lenovo_exp_title">ยินดีเข้าร่วม Lenovo Experience Program</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet" msgid="2609163428726042269">"หากคุณจำกัดข้อมูลพื้นหลังของมือถือ แอปพลิเคชันและบริการบางอย่างจะไม่ทำงานเว้นแต่คุณจะเชื่อมต่อกับเครือข่าย WLAN"\n\n"การตั้งค่านี้ส่งผลต่อผู้ใช้แท็บเล็ตนี้ทุกราย"</string>
+<string name="set_sms_error">ข้อผิดพลาดในการตั้งค่าการสมัครใช้งาน SMS ไม่ได้เปิดใช้งานการสมัครใช้งาน</string>
+<string name="lockscreen_face_detection_ctrl_description">ปลดล็อคการตรวจจับใบหน้าโดยกล้อง ，ความแตกต่างจะต่ำถ้าแสงไม่เพียงพอ</string>
+<string name="glove_mode">ระบบสัมผัสความไวสูง</string>
+<string name="smart_standby_ctrl_summary">"เมื่อหน้าจอเปิดขึ้น ก็จะเปิดต่อไปเรื่อยๆ หากตรวจจับดวงตาที่จ้องมาที่หน้าจอได้ หากหน้าจอกับดวงตาทำมุมเอียงเกินไปหรือแสงไม่เพียงพอ อัตราการตรวจจับจะลดลง"</string>
+<string name="battery_action_wifi" msgid="8181553479021841207">"การตั้งค่า WLAN"</string>
+<string name="backup_data_summary" msgid="9157861529438245957">"สำรองข้อมูลแอปพลิเคชัน รหัสผ่าน WLAN และการตั้งค่าอื่นๆ ไปยังเซิร์ฟเวอร์ Google"</string>
+<string name="black_screen_settings_flash_mode_off">ปิด</string>
+<string name="exit">ออก</string>
+<string name="gadget_wifi" msgid="4712584536500629417">"WLAN"</string>
+<string name="lockscreen_knock_on_ctrl">ตั้งค่าแสงไฟ</string>
+<string name="gestural_music_summary">เลื่อนหน้าจอไปทางซ้ายและขวาเพื่อเปลี่ยนเพลง | เลื่อนหน้าจอขึ้นและลงเพื่อปรับระดับเสียง</string>
+<string name="notificationbar_setings_title">"การตั้งค่าแถบการแจ้งเตือน"</string>
+<string name="unlock_proximity_ctrl">หลีกเลี่ยงการสัมผัสปุ่มเพาเวอร์โดยไม่ตั้งใจ</string>
+<string name="shellt_phone_info_camera">"8 ล้าน"</string>
+<string name="wifi_scan_notify_text_location_off">แอ็พอาจสแกนหาเครือข่ายใกล้เคียงแม้ว่า WLAN จะปิดอยู่ก็ตาม หากคุณไม่ต้องการสแกน ให้ไปที่ ขั้นสูง &gt; ใช้งานการสแกนอยู่เสมอ</string>
+<string name="location_neighborhood_level_wifi" msgid="4234820941954812210">"ตำแหน่งที่กำหนดโดย WLAN"</string>
+<string name="teos_settings_title">แสดงความสมดุลย์สี</string>
+<string name="tilt_scroll_control_summary">เมื่อตัวเลือกนี้เปิดอยู่ ส่วนติดต่อที่สนับสนุนการเลื่อนหน้าจอด้วยการเอียงจะเลื่อนไปทางซ้าย/ขวาโดยอัตโนมัติเมื่อโทรศัพท์เอียง</string>
+<string name="wifi_setting_sleep_policy_title" msgid="5149574280392680092">"เปิด WLAN ระหว่างที่อยู่ในโหมดสลีป"</string>
+<string name="location_consent_dialog_title">การยอมรับตำแหน่ง</string>
+<string name="devices_info_runMemory">"RAM: 2.0GB</string>
+<string name="reset_backup_befor_reset_summary">สำรองข้อมูลที่สำคัญ เช่น ผู้ติดต่อ ก่อนรีเซ็ต</string>
+<string name="wifi_advanced_titlebar" msgid="4485841401774142908">"WLAN ขั้นสูง"</string>
+<string name="personal_hotspot">"ฮอตสปอต"</string>
+<string name="save_power_summary">"เลือกแอ็พพลิเคชันสำหรับการจัดเรียงเวลาเริ่มต้นระบบ"</string>
+<string msgid="1584700623164275282" name="internal_storage_app">"พื้นที่หน่วยความจำสำหรับแอ๊พภายใน"</string>
+<string name="category_smart">สมาร์ท</string>
+<string name="show_frame_count_y_coordinate">พิกัด Y</string>
+<string name="fast_poweron_next_time">การเริ่มต้นระบบแบบรวดเร็วในครั้งถัดไป</string>
+<string name="black_screen_camera_gallery_title"> "โหมดการดูตัวอย่าง" </string>
+<string name="data_usage_tab_slot2">ช่องที่ 2</string>
+<string name="data_usage_tab_slot1">ช่องที่ 1</string>
+<string name="show_frame_count_ok_button_text">ตกลง</string>
+<string name="black_screen_settings_shortcut_wakeup_screen_summary">แตะสองครั้งบนหน้าจอเมื่อหน้าจอปิดอยู่เพื่อปลุกโทรศัพท์</string>
+<string name="black_screen_camera_fast_title"> "โหมดกล้อง" </string>
+<string name="sel_sub_summary">เลือกการสมัครใช้งานสำหรับ SIM-1 และ SIM-2</string>
+<string name="character_settings_single_hand_help_message">วาดตัว "C" จากขอบด้านบนของหน้าลงไปยังขอบล่างเพื่อเปิด หน้าจอเล็ก แบบมือเดียว</string>
+<string name="wifi_setup_wizard_next">ถัดไป </string>
+<string name="lenovo_exp_content">สนับสนุน CN เท่านั้น</string>
+<string name="character_settings_shortcuts_category">วิธีทางลัด</string>
+<string name="gestural_summary">สามารถใช้ท่าทางเพื่อควบคุมโทรศัพท์ระยะไกลได้</string>
+<string name="profile_edit_weaken_title">ระดับเสียงริงโทนที่เบาลง</string>
+<string name="character_settings_help_category_title">"ความช่วยเหลือ"</string>
+<string name="profile_settings">การตั้งค่าโปรไฟล์</string>
+<string name="black_screen_settings_shortcut_quick_shots_summary">คลิ๊กที่ปุ่มโฮมสองครั้งเพื่อจับภาพเมื่อล็อกหน้าจอ</string>
+<string name="global_single_hand_title">โหมดมือเดียว</string>
+<string name="startup_shutdown_time_errmsg">ช่วงเวลาระหว่างการเปิดและปิดเครื่องต้องมากกว่า 10 นาที โปรดตั้งค่าอีกครั้ง</string>
+<string name="system_time_am">ก่อนเที่ยง</string>
+<string name="still_sleep_ctrl_summary">โทรศัพท์จะเข้าสู่สถานะสลีปโดยอัตโนมัติหากวางโทรศัพท์ในแนวนอน</string>
+<string name="enable_schpwr">เปิดทำงาน</string>
+<string name="save_power_wait_message">"กำลังโหลดแอ็พ"</string>
+<string name="schpwr_power_on">"เปิด"</string>
+<string name="reboot_progress">รีสตาร์ท\u2026</string>
+<string name="recovery_data_title">กู้คืนข้อมูลจากการสำรองการ์ด SD </string>
+<string name="day">1 วัน</string>
+<string name="multiwindow_settings_summary">เปิดใช้งานหลายหน้าต่าง</string>
+<string msgid="6844156253576174488" name="service_background_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> แอ๊พพร้อมใช้งาน"</string>
+<!-- [QC8916 z2/sisley][FRIESIAN-5824][LQA][TH][hujj2]Wrong translation and layout issue in Shake Lock and Smart Dialer. -->
+<string name="mercury_keyboard_summary">แผงปุ่มโทรจะเปลี่ยนตามทิศทางการเอียงของผู้ใช้ 
+วิธีใช้</string>
+<string name="save_power_count">"มีการจัดเรียงแอ็พพลิเคชันรวม <xliff:g id="NUMBER">%d</xliff:g> แอ็พพลิเคชัน"</string>
+<string name="lockscreen_face_detection_ctrl">ตั้งค่าปลดล็อคการตรวจจับใบหน้า </string>
+<string name="fuse_backup_data_description">"สำรองข้อมูลผู้ติดต่อ รูปภาพ ข้อความ แอ็พพลิเคชัน และข้อมูลที่สำคัญอื่นๆ ก่อนรีเซ็ตโทรศัพท์ของคุณ"</string>
+<string name="settings_header_ringtone_k7">การตั้งค่าเสียงแจ้งเตือน</string>
+<string name="gestural_image_summary">เลื่อนหน้าจอไปทางซ้ายและขวาเพื่อสลับระหว่างภาพต่างๆ | เลื่อนหน้าจอขึ้นและลงเพื่อสลับระหว่างเอฟเฟกต์พิเศษต่างๆ</string>
+<string name="wifi_starting" msgid="6716593470710880000">"กำลังเปิด WLAN..."</string>
+<string name="memory_info">หน่วยความจำที่กำลังใช้งาน</string>
+<string name="set_dds_failed">ข้อผิดพลาดในการตั้งค่าสมัครใช้งานข้อมูล  ล้างการเชื่อมต่อข้อมูลที่มีอยู่ แล้วลองอีกครั้ง</string>
+<string name="device_section_title">อุปกรณ์</string>
+<string name="wave_not_screenoff_title">โบกมือไม่ปิดหน้าจอ</string>
+<string name="wifi_setup_eap_not_supported" msgid="1955087534276570962">"คุณไม่สามารถกำหนดค่าการเชื่อมต่อ EAP WLAN ในขณะตั้งค่าได้ หลังจากการตั้งค่า คุณสามารถกำหนดค่าการเชื่อมต่อนี้ได้ในการตั้งค่า &gt; ระบบไร้สายและเครือข่าย"</string>
+<string name="gestural_phone">การตอบด้วยท่าทาง</string>
+<string name="lock_title" product="tablet">"การป้องกันโทรศัพท์ของคุณ"</string>
+<string name="character_settings_pocket_mode_help_message">ใส่โทรศัพท์ของคุณลงบนกระเป๋าหรือซองหนังพร้อมเลือก\nโหมดกระเป๋า เสียงโทรเข้าจะถูกปรับให้ดังสุดโดย\nอัตโนมัติ </string>
+<string name="global_action_meeting">"การสั่นเตือน"</string>
+<string name="wifi_tether_checkbox_text" msgid="1847167643625779136">"WLAN ฮอตสปอตแบบพกพา"</string>
+<string name="unlock_set_unlock_speech_title">ปลดล็อคด้วยเสียง</string>
+<string name="slide_unlock_help">เมื่อหน้าจอปิดอยู่ ให้เลื่อนจากทางซ้ายไปทางขวาที่ด้านล่างของหน้าจอเพื่อปลดล็อค</string>
+<string name="character_settings_intelligent_category">สมาร์ทคอนโทรล</string>
+<string name="black_screen_settings_broswer_summary">วาดตัว "e" บนหน้าจอ</string>
+<string name="incoming_call_ringer_title1">"เสียงสายเรียกเข้า (1)"</string>
+<string name="incoming_call_ringer_title2">"เสียงสายเรียกเข้า (2)"</string>
+<string name="safety_information">ข้อมูลเกี่ยวกับความปลอดภัย</string>
+<string name="color_light_hasopen">เปิดแล้ว</string>
+<string name="nfc_beam_transmit">การส่งแบบ Android</string>
+<string name="wifi_empty_list_wifi_on" msgid="8746108031587976356">"กำลังค้นหาเครือข่าย WLAN…"</string>
+<string name="multiwindow_smart_settings">การทำงานแบบหลายหน้าต่างอัจฉริยะ</string>
+<string name="display_effect_of_screen_contrast_item0">โทนเย็น</string>
+<string name="display_effect_of_screen_contrast_item1">ค่าเริ่มต้น</string>
+<string name="black_screen_settings_category_shortcut">การทำงานของทางลัดหน้าจอดำ</string>
+<string name="black_screen_settings_music">ปลดล็อคไปยังเพลง</string>
+<string name="unlock_proximity_ctrl_summary">เมื่อมือถืออยู่ในกระเป๋า, ปิดหน้าจอโดยอัตโนมัติเมื่อสัมผัสปุ่มเพาเวอร์โดยไม่ตั้งใจ</string>
+<string name="display_effect_of_screen_contrast_item2">โทนร้อน</string>
+<string name="memory_video_usage">"วิดีโอ"</string>
+<string name="timing_startup_and_shutdown_settings_title">กำหนดเวลาเปิด/ปิด</string>
+<string name="mercury_keyboard_help">แผงปุ่มโทรจะเปลี่ยนตามทิศทางการเอียงของผู้ใช้</string>
+<string name="wifi_wps_setup_title" msgid="6034518116333042484">"การตั้งค่าการป้องกัน WLAN"</string>
+<string name="restriction_wifi_config_title" msgid="8889556384136994814">"WLAN และมือถือ"</string>
+<string name="other_wallpaper">ภาพพื้นหลังอื่นๆ</string>
+<string name="show_dev_countdown">คุณเกือบจะได้เป็นนักพัฒนาแล้ว</string>
+<string name="os_version">หมายเลขเวอร์ชันระบบ</string>
+<string name="show_frame_count_title">เข้าสู่สาธิตการใช้งานสำหรับผู้เริ่มต้น</string>
+<string name="ringtone_picker_more_ringtones_title">"เสียงแจ้งเตือนเพิ่มเติม &gt;&gt;&gt;"</string>
+<!-- [QC8916 z2/sisley][FRIESIAN-5824][LQA][TH][hujj2]Wrong translation and layout issue in Shake Lock and Smart Dialer. -->
+<string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"กดปุ่มด้านข้างเพื่อเปิดแสงโทรศัพท์ ความช่วยเหลือ"</string>
+<string name="crypt_keeper_encrypt_summary" product="default" msgid="514138079795442371">"จำเป็นต้องใช้ PIN หรือรหัสผ่านที่เป็นตัวเลขเพื่อถอดรหัสโทรศัพท์ของคุณทุกครั้งที่คุณเปิดเครื่อง"</string>
+<string name="category_single_hand">มือเดียว</string>
+<string name="black_screen_settings_shortcut_quick_shots">จับภาพด่วน</string>
+<string name="black_screen_settings_normal">การปลดล็อคปกติ</string>
+<string name="userguide_title">"คำแนะนำการบูต"</string>
+<string name="black_screen_settings_summary_app_selected">ปลดล็อค <xliff:g id="app">%s</xliff:g></string>
+<string name="character_settings_help_title">สำรวจการทำงานของหน้าจอดำ</string>
+<string name="wifi_setup_title_editing_network" msgid="6020614644556717979">"เชื่อมต่อกับเครือข่าย WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="never_timeout">ไม่สแตนด์บาย</string>
+<string name="screensaver_settings_disabled_prompt" msgid="3857507943322777651">"หากต้องการควบคุมสิ่งที่จะเกิดขึ้นเมื่อโทรศัพท์วางอยู่บนแท่นชาร์จและ/หรืออยู่ในโหมดสลีป ให้เปิด Daydream เอาไว้"</string>
+<string name="subscription_02_title">SIM 2</string>
+<string name="category_gesture">เจสเจอร์</string>
+<string name="accessibility_script_injection_allowed" msgid="7624804397748427621">"อนุญาต"</string>
+<string name="airbuse_phone_info_camera">"กล้อง: ด้านหน้า 3 แสน, ด้านหลัง 5 ล้าน"</string>
+<string name="character_settings_call_voice_category">การโทรและเสียง</string>
+<string name="lock_title" product="default">รักษาความปลอดภัยโทรศัพท์ของคุณ</string>
+<string name="devices_info_memory">"หน่วยความจำ：<xliff:g>%1$s</xliff:g>(ว่าง) 4 GB (ทั้งหมด)"</string>
+<string name="wifi_wps_onstart_pin" msgid="223344506445335358">"ป้อน PIN <xliff:g id="NUMBER">%1$s</xliff:g> บนเราเตอร์ WLAN ของคุณ การตั้งค่าอาจใช้เวลาถึงสองนาทีจึงจะเสร็จสิ้น"</string>
+<string name="enable_traces_summary_all" msgid="3950139649125158247">"ร่องรอยทั้งหมดที่เปิดใช้งานในขณะนี้"</string>
+<string name="every_day">ทุกวัน</string>
+<string name="voice_wakeup_title">ปลุกด้วยเสียง</string>
+<string name="side_key_backlight_help">กดปุ่มปรับระดับเสียงเพื่อเปิดแบ็คไลท์</string>
+<string name="set_voice_error">ข้อผิดพลาดในการตั้งค่าการสมัครใช้งานเสียง ไม่ได้เปิดใช้งานการสมัครใช้งาน</string>
+<string name="data_usage_enable_mobile_statistics_dialog">การเปิดใช้งานคุณลักษณะนี้ การบริโภคพลังงานจะอยู่ในระดับสูงกับเครือข่ายอัตราข้อมูลในปริมาณมาก เช่น LTE...</string>
+<string name="ota_title">การอัพเดทระบบ</string>
+<string name="memory_image_usage">"ภาพ"</string>
+<string name="hardware_version">เวอร์ชันของฮาร์ดแวร์</string>
+<string-array name="contrast"> 
+         
+         
+    <item>ค่าเริ่มต้น</item>
+        <item>สูง</item>
+    </string-array>
+<string name="crypt_keeper_desc" product="default" msgid="7663118199519229502">"คุณสามารถเข้ารหัสบัญชีการตั้งค่าแอปพลิเคชันที่ดาว์นโหลดมาและข้อมูล สื่อ และไฟล์อื่นๆ ของแอปพลิเคชันนั้นได้เมื่อคุณเข้ารหัสโทรศัพท์แล้ว คุณจะต้องพิมพ์รหัส 
+PINหรือรหัสผ่านที่เป็นตัวเลขเพื่อถอดรหัสในแต่ละครั้งที่คุณเปิดเครื่องคุณไม่สามารถถอดรหัส โทรศัพท์ได้เว้นแต่จะรีเซ็ตข้อมูลเป็นค่าเริ่มต้น ซึ่งจะเป็นการลบข้อมูลทั้งหมด "\n\n"การเข้ารหัสใช้เวลาอย่างน้อยหนึ่งชั่วโมงคุณต้องเริ่มต้นด้วยการใช้แบตเตอรี่ที่ชาร์จไฟแล้ว 
+และเสียบปลั๊กโทรศัพท์ไว้จนกว่าการเข้ารหัสจะเสร็จสมบูรณ์หากมีการขัดจังหวะกระบวนการเข้ารหัสคุณจะสูญเสียข้อมูลบางส่วนหรือทั้งหมดไป "</string>
+<string name="china_telcom_push_summary">บริการแจ้งเตือนฟรีจาก China Telecom</string>
+<string name="color_light_missed_call">สายที่ไม่ได้รับ</string>
+<string name="devices_info_products_version">"โมเดล: Lenovo K910"</string>
+<string name="usb_mtp_summary" msgid="4617321473211391236">"ช่วยให้คุณถ่ายโอนไฟล์สื่อบน Windows ได้ หรือใช้ Android File Transfer สำหรับ Mac (ดูที่ www.android.com/filetransfer)"</string>
+<string name="what_lenovoid_cando_title"> Pass การเชื่อมต่อ ฉันทำอะไรได้บ้าง </string>
+<string name="k6kk_phone_info_cpu">"fore-core 2.2GHz"</string>
+<string name="smart_answer_incommingcall_summary">เมื่อมีสายเรียกเข้า ผู้ใช้สามารถรับสายได้ด้วยท่าทางเฉพาะ</string>
+<string name="gadget_state_template" msgid="5156935629902649932">"<xliff:g id="ID_1">%1$s</xliff:g> <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+<string name="k6kk_phone_info_camera">"กล้อง: ด้านหน้า 5 ล้าน, ด้านหลัง 13 ล้าน"</string>
+<string name="wifi_setup_title" msgid="2970260757780025029">"ตั้งค่า WLAN"</string>
+<string name="system_shortcutbar_title">"แถบทางลัดระบบ"</string>
+<string name="call_ring_pocket_enable_title">โหมดกระเป๋า</string>
+<string name="schpwr_shutdown_message_second">"อุปกรณ์จะปิดตัวใน <xliff:g id="second">%s</xliff:g> วินาที"</string>
+<string name="smart_rotete_cbox_summary">สมาร์ท</string>
+<string name="gestural_gesture">การควบคุมด้วยท่าทาง</string>
+<string name="black_screen_settings_quick_shots_three">3 รูป</string>
+<string name="smart_call_answer_settings_summary">รับสายเมื่อยกโทรศัพท์ขึ้นใกล้หู</string>
+<string name="wifi_wps_onstart_pbc" msgid="7204827509934892103">"กดปุ่ม \"การตั้งค่า WLAN แบบปลอดภัย\" บนเราเตอร์ของคุณ ปุ่มนี้อาจถูกเรียกว่า \"WPS\" หรือมีสัญลักษณ์นี้อยู่ด้วย:"</string>
+<string name="crypt_keeper_final_desc" product="default" msgid="5682944380460921880">"การเข้ารหัสนี้ไม่สามารถย้อนกลับได้และข้อมูลจะสูญหายหากการดำเนินการหยุดชะงัก การเข้ารหัสจะใช้เวลาอย่างน้อยหนึ่งชั่วโมง โดยในระหว่างนั้น โทรศัพท์จะรีสตาร์ทหลายครั้ง"</string>
+<string name="wifi_quick_toggle_summary" msgid="2696547080481267642">"เปิด WLAN"</string>
+<string name="k6kk_phone_info_screen">"ความละเอียด: 1080*1920, ขนาด: 5.5 นิ้ว"</string>
+<!-- [QC8916 z2/sisley][FRIESIAN-5823][LQA][TH][hujj2]A word Lock in Change Lock is wrong spelling -->
+<string name="swing_lock_help">เขย่าโทรศัพท์เพื่อล็อกหน้าจอ</string>
+<string name="software_version">หมายเลขเวอร์ชันซอฟต์แวร์</string>
+<string name="header_category_lock_unlock">การล็อคและหน้าจอ</string>
+<string name="gestural_gesture_summary">การปัดไปทางซ้าย\\ขวา\\ขึ้น\\ลงโดยไม่ให้นิ้วของคุณสัมผัสหน้าจอจะให้ผลเดียวกับการปัดขณะสัมผัสหน้าจอ ฟังก์ชันนี้ไม่ทำงานในส่วนติดต่อของเพลง วิดีโอ หรือเบราเซอร์</string>
+<string name="black_screen_settings_quick_shots_six">6 รูป</string>
+<string name="show_frame_count_bit">บิต</string>
+<string name="wlan_share">"การแชร์ WLAN"</string>
+<string name="bottom_shortcutbar_title">"แถบทางลัดด้านล่าง"</string>
+<string name="smart_calling_summary">ในหน้ารายละเอียดผู้ติดต่อหรือหน้ารับส่งข้อความ สามารถยกโทรศัพท์ขึ้นมาแนบหูเพื่อโทรหาคนนั้นโดยอัตโนมัติได้</string>
+<string name="usage_type_data_wifi_send" msgid="7178327382353096029">"ข้อมูล WLAN ที่ส่ง"</string>
+<string name="double_click_menu_enabled_title">กดค้างปุ่มเมนูเพื่อเปิดใช้งานเสียง</string>
+<string name="glove_mode_summary">เมื่อเปิดใช้งานระบบสัมผัสความไวสูง ระบบจะรองรับการแตะหน้าจอเมื่อใส่ถุงมือ</string>
+<string name="gestural_v2">ท่าทางแบบ 3D</string>
+<string name="double_click_home_enabled_title">"ดับเบิลคลิกที่ปุ่ม โฮม เปิดทำงานการสั่งด้วยเสียง "</string>
+<string name="backup_data_section_title">สำรองข้อมูล</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"เปิดใช้งานร่องรอย <xliff:g id="NUM">%1$d</xliff:g> รายการอยู่ในขณะนี้"</string>
+<string name="show_frame_count_summary">แสดงการนับจำนวนเฟรมเมื่อเปิดใช้งาน</string>
+<string name="wifi_quick_toggle_title" msgid="8850161330437693895">"WLAN"</string>
+<string name="reset_backup_befor_reset_title">สำรองข้อมูลก่อนรีเซ็ต</string>
+<string name="restriction_wifi_config_summary" msgid="70888791513065244">"อนุญาตให้แก้ไขการตั้งค่า WLAN และมือถือ"</string>
+<string name="reboot">"รีสตาร์ท"</string>
+<string name="bluetooth_on_time" msgid="3056108148042308690">"เวลาเปิดใช้ WLAN"</string>
+<string name="quicksettings">"ตั้งค่าด่วน"</string>
+<string name="color_light_demo">ตัวอย่างแสงสี</string>
+<string name="sim_settings_title">การตั้งค่า SIM</string>
+<string name="hours"><xliff:g id="hours">%s</xliff:g> ชั่วโมง</string>
+<string name="save_power_title">"การจัดเรียงเวลาเริ่มต้นระบบ"</string>
+<string name="header_category_call_message">การโทรและข้อความ</string>
+<string name="show_hw_overdraw" msgid="1136884304711318251">"แสดงการใช้ GPU มากเกินไป"</string>
+<string name="display_effect_of_screen_hue_title">เฉดสี</string>
+<string name="whatis_lenovoid_summary"> ใช้โทรศัพท์มือถือของคุณเป็นบัญชี Lenovo Pass เป็นสมาชิกของการเชื่อมต่อ </string>
+<string name="data_usage_menu_show_wifi" msgid="5056401102877964564">"แสดงการใช้ WLAN"</string>
+<string name="master_clear_desc" product="default" msgid="9165016501623540228">"การดำเนินการนี้จะลบข้อมูลทั้งหมดออกจาก"<b>"ที่จัดเก็บข้อมูลภายใน"</b>"ของโทรศัพท์ของคุณ ซึ่งประกอบด้วย"\n\n<li>"บัญชี Google ของคุณ"</li>\n<li>"ข้อมูลและการตั้งค่าของระบบและแอปพลิเคชัน"</li>\n<li>"แอปพลิเคชันที่ดาวน์โหลด"</li></string>
+<string name="data_summary">เลือกการสมัครใช้งานสำหรับการโทรผ่านข้อมูล</string>
+<string name="savepower_all_title">"ทั้งหมด"</string>
+<string name="black_screen_settings_flash_mode_auto">อัตโนมัติ</string>
+<string name="wifi_setting_frequency_band_title" msgid="3655327399028584656">"ย่านความถี่ WLAN"</string>
+<string name="hide_recent_settings">ดึงลงเพื่อแสดงการตั้งค่าล่าสุด</string>
+<string name="showing_color_light">การแสดงแสงสี </string>
+<string name="system_time_pm">หลังเที่ยง</string>
+<string name="reset_skip_backup_summary">เลือกตัวเลือกนี้สำหรับรายการที่สำรองข้อมูลแล้วหรือไม่จำเป็นต้องสำรองข้อมูล</string>
+<string name="wifi_stopping" msgid="244864762599017659">"กำลังปิด WLAN..."</string>
+<string name="wifi_wps_connected" msgid="7153432445748931183">"เชื่อมต่อกับเครือข่าย WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g> แล้ว"</string>
+<string name="global_action_outdoors">"กลางแจ้ง"</string>
+<string name="schpwr_shutdown_message">"อุปกรณ์จะปิดตัวใน <xliff:g id="seconds">%s</xliff:g> วินาที"</string>
+<string name="overturn_lock_ctrl_summary">"คว่ำโทรศัพท์เพื่อล็อคหน้าจอ"</string>
+<string name="schedule_power_on_off_time">เวลา</string>
+<string name="show_screen_frame_count">แสดงการนับจำนวนเฟรมบนหน้าจอ</string>
+<string name="timing_startup_head_text">"เปิด"</string>
+<string name="wifi_setting_summary">เมื่อเข้าสู่บริเวณจุดเชื่อมต่อที่เชื่อมต่อไว้และมีข้อมูล GPRS อยู่，จะทำการเชื่อมตำแหน่ง</string>
+<string name="unsupported_headset_warning" product="default">
+       "เอกสารแนบที่ไม่รองรับ"
+    </string>
+<string name="overturn_lock_ctrl">"คว่ำเพื่อล็อคหน้าจอ"</string>
+<string name="restart_confirm_question">คุณต้องการรีสตาร์ทหรือไม่</string>
+<string name="multiwindow_divide_settings">หลายหน้าต่างแบบแบ่งหน้าจอ</string>
+<string name="backup_data_to_sdcard_title">สำรองข้อมูลไปยังการ์ด SD</string>
+<string name="data_title">การโทรผ่านข้อมูล</string>
+<string name="sim_not_available">SIM การ์ดไม่พร้อมใช้งาน</string>
+<string name="preference_status_open">เปิด</string>
+<string-array name="saturation"> 
+         
+         
+         
+    <item>นุ่ม</item>
+        <item>ค่าเริ่มต้น</item>
+        <item>สดใส</item>
+    </string-array>
+<string name="multiwindow_smart_settings_summary">หากคุณได้รับข้อความขณะดูวิดีโอแบบเต็มหน้าจอในแนวนอน ให้หมุนโทรศัพท์กลับมาเป็นแนวตั้งเพื่อแสดงหลายหน้าต่างให้ทำงานหลายอย่างพร้อมกันได้</string>
+<string name="user_you_section" msgid="6247838798859425408">"คุณ"</string>
+<string name="backup_data_to_sdcard_summary">สำรองข้อมูลโทรศัพท์ไปยังการ์ด SD</string>
+<string name="whatis_lenovoid_title"> Pass การเชื่อมต่อคืออะไร </string>
+<string name="wifi_setup_description_connected" msgid="5235991893829582459">"แตะ "<b>"ถัดไป"</b>" เพื่อตั้งค่าต่อไป"\n\n"แตะ "<b>"ย้อนกลับ"</b>" เพื่อเชื่อมต่อกับเครือข่าย WLAN อื่น"</string>
+<string name="black_screen_face_recognization_title"> "โหมดจดจำหน้าตา" </string>
+<string name="minute">1 นาที</string>
+<string name="unlock_settings_title">"ปลดล็อค"</string>
+<string name="schedule_power_off_set">"ตั้งค่าตารางเวลาปิดเครื่อง"</string>
+<string name="location_mode_battery_saving_description" msgid="1728668969743485109">"ใช้ WLAN และเครือข่ายมือถือเพื่อหาตำแหน่ง"</string>
+<string name="black_screen_handler_title"> "ท่าทางบนหน้าจอดำ" </string>
+<string name="wide_touch_float_button_summary">แตะที่ปุ่มลอยเพื่อเปิด สัมผัส กว้าง</string>
+<string name="black_screen_settings_camera_summary">วาดตัว "c" บนหน้าจอ</string>
+<string name="share_music_a2dp_headphones_control_title">ตัวควบคุมการแชร์เพลง</string>
+<string name="location_consent_dialog_message">อนุญาตให้บริการตำแหน่งรวบรวมข้อมูล\nตำแหน่งที่ไม่เปิดเผย อาจมีการจัดเก็บข้อมูลบางอย่างไว้ใน\nอุปกรณ์ของคุณ อาจมีการรวบรวมข้อมูลแม้ว่าไม่ได้ใช้งาน\nแอ็พก็ตาม</string>
+<string name="phone_car_mode_title">"โหมดการขับขี่"</string>
+<string name="minutes">"%d นาที"</string>
+<string name="global_action_silence">"ปิดเสียง"</string>
+<string name="wifi_display_summary_off" msgid="2445210133184740611">"ปิด"</string>
+<string name="usergudie_button_text">"เข้าสู่การตั้งค่าการบูต"</string>
+<string name="color_light_hasclose">ปิดแล้ว</string>
+<string name="backup_recovery_dialog_message">หยุดการสำรองข้อมูลหรือการกู้คืนข้อมูลแอ็พหรือไม่</string>
+<string name="ringtone_and_sound_settings">"เสียงเรียกเข้าและเสียง"</string>
+<string name="charge_stream_min">กระแสไฟชาร์จปัจจุบันคือ 1500mA </string>
+<string name="gestural_broswer">เบราเซอร์ควบคุมด้วยท่าทาง</string>
+<string name="black_screen_time_service_title"> "โหมดวอยซ์ไชม์" </string>
+<string name="playertutorial_title">คู่มือผู้ใช้มือใหม่</string>
+<string name="dtmf_settings_title">"ปุ่มโทร"</string>
+<string name="status_wifi_mac_address" msgid="33109409206264790">"ที่อยู่ WLAN Mac"</string>
+<string name="timing_shutdown_head_text">"ปิด"</string>
+<string name="black_screen_settings_vedio_summary">วาดตัว "v" บนหน้าจอ</string>
+<string name="black_screen_time_show_title"> "โหมดแสดง" </string>
+<string name="subs_settings">สถานะ SIMS</string>
+<string name="weather_live_wallpaper">ภาพพื้นหลังสภาพอากาศแบบเคลื่อนไหว</string>
+<string name="data_usage_menu_restrict_systembgdata">"อนุญาตข้อมูลเบื้องหลังของระบบ"</string>
+<string name="gestural_image">รูปภาพควบคุมด้วยท่าทาง</string>
+<string name="location_settings_title" msgid="4483843407328665068">"การเข้าถึงตำแหน่ง"</string>
+<string name="phone_info_unset">ข้อมูลโทรศัพท์ UnSet</string>
+<string name="wifi_menu_p2p" msgid="2575893749303670353">"WLAN โดยตรง"</string>
+<string name="wide_touch_float_button">สัมผัส กว้าง</string>
+<string name="wifi_empty_list_user_restricted">คุณไม่มีสิทธิ์เปลี่ยนเครือข่าย WLAN</string>
+<string name="schpwr_power_off">"ปิด"</string>
+<string name="fuse_backup_data_to_cloud_title">สำรองข้อมูลไปยังระบบคลาวด์</string>
+<string name="double_click_menu_enabled_description">"กดปุ่ม (เมนู) ค้างไว้เพื่อใช้งานบริการเสียง"</string>
+<string name="display_effect_of_screen_sharpen_item0">ค่าเริ่มต้น</string>
+<string name="enable_traces_dialog_title" msgid="5026490474669452929">"เลือกร่องรอยที่เปิดใช้งาน"</string>
+<string name="display_effect_of_screen_sharpen_item1">ปรับความคมชัด</string>
+<string name="global_action_general">"มาตรฐาน"</string>
+<string name="backup_data_description">"สำรองรายชื่อติดต่อและข้อมูลสำคัญอื่นๆ ก่อนที่จะรีเซ็ตโทรศัพท์ของคุณ"</string>
+<string name="all_setings_title">"ระบบ"</string>
+<string name="wifi_tether_failed_subtext" msgid="1484941858530919002">"ข้อผิดพลาดของ WLAN ฮอตสปอตแบบพกพา"</string>
+<string name="enable_traces_summary_none" msgid="1867562808503494163">"ไม่มีร่องรอยที่เปิดใช้งานอยู่ในขณะนี้"</string>
+<string name="black_screen_settings_camera">ปลดล็อคไปยังกล้อง</string>
+<string name="call_ring_pocket_enable_summary">"เพิ่มระดับเสียงแจ้งเตือนเมื่อโทรศัพท์อยู่ในกระเป๋าหรือเคส"</string>
+<string name="wifi_display_summary_disabled" msgid="5318394806146587849">"ปิดใช้งานแล้ว"</string>
+<string name="data_usage_enable_mobile_statistics">สถิติข้อมูล</string>
+<string name="touch_free_phone">โทรฟรี </string>
+<string name="double_click_home_enabled_description">"กดปุ่ม (เมนู) ค้างไว้เพื่อใช้งานบริการเสียง"</string>
+<string name="black_screen_settings_quick_shots_eight">8 รูป</string>
+<string name="black_screen_settings_vedio">ปลดล็อคไปยังวิดีโอ</string>
+<string name="backup_data_to_device_summary">ใส่ข้อมูลลงอุปกรณ์อื่นด้วย SHAREit</string>
+<string name="disable_schpwr">ปิดทำงาน</string>
+<string name="fuse_backup_data_to_cloud_summary">สำรองข้อมูลโทรศัพท์ไปยังระบบคลาวด์</string>
+<string name="lll_pbtn_alert">"กดปุ่มเปิด/ปิด <xliff:g id="COUNT_DOWN_TIME">%1$s</xliff:g> ค้างไว้เพื่อปิดอุปกรณ์..."</string>
+<string name="profile_edit_pocket_help">"เพิ่มระดับเสียงแจ้งเตือนเมื่อโทรศัพท์อยู่ในกระเป๋าหรือเคส"</string>
+<string name="monotype_preference_title">รูปแบบอักษร</string>
+<string name="call_ring_weaken_enable_title">ระดับเสียงริงโทนที่เบาลง</string>
+<string name="subscription_01_title">SIM 1</string>
+<string name="days">"<xliff:g id="days">%s</xliff:g> วัน"</string>
+<string name="wifi_switch_summary">"แนะนำ: บันทึกเครือข่าย WLAN ที่เชื่อมต่อ และในภายหลังหากคุณใช้บริการข้อมูล 3G/2G GPRS ในพื้นที่ให้บริการ คุณจะได้รับการเตือนให้เชื่อมต่อเข้ากับเครือข่าย WLAN นี้ หรือบริการดังกล่าวจะเชื่อมต่อกับเครือข่ายโดยอัตโนมัติ"</string>
+<string name="airplane_open_confirm">โหมดเครื่องบิน</string>
+<string name="smart_standby_ctrl">"สแตนด์บายอัจฉริยะ"</string>
+<string name="display_effect_of_screen_sharpen_title">ความคมชัด</string>
+<string name="devices_info_camera">"กล้อง: ด้านหน้า 2 ล้าน, ด้านหลัง 13 ล้าน"</string>
+<string name="close_home_landscape_title">คุณสมบัติปิดใช้งานปุ่มโฮมเพื่อหน้าจออยู่ในแนวนอน</string>
+<string name="schedule_power_on_off_set">ตั้งการกำหนดเวลาเปิด/ปิด</string>
+<string name="flip_screen_control_title">พลิกโทรศัพท์เพื่อควบคุม</string>
+<string name="display_effect_of_screen_cancel">ยกเลิก</string>
+<string name="devices_info_screen">"Screen: 1080*720   5.0-inch"</string>
+<string name="character_settings_side_key_backlight_screen_help_message">กดปุ่มปรับระดับเสียงเพื่อเปิดแบ็คไลท์</string>
+<string name="poweron_nosim">ไม่พบ SIM</string>
+<string name="shellt_phone_info_screen">"ความละเอียด: 720P, ขนาด: 6.0 นิ้ว"</string>
+<string name="location_mode_high_accuracy_description" msgid="6418936349431602808">"ใช้ GPS, WLAN และเครือข่ายมือถือเพื่อหาตำแหน่ง"</string>
+<string name="track_frame_time_summary" msgid="447577515813970287">"วัดเวลาที่ใช้แสดงผลใน adb shell dumpsys gfxinfo"</string>
+<string name="font_settings_title">"การตั้งค่าแบบอักษร"</string>
+<string name="voice_wakeup_summary">สามารถปลุกระบบได้ด้วยเสียง</string>
+<string name="smart_answer_incommingcall_title">รับสายแบบสมาร์ท</string>
+<string name="wifi_required_info_text" msgid="4080969509965288881">"เพื่อดำเนินการตั้งค่าให้เสร็จสิ้น แท็บเล็ตของคุณต้องเข้าถึง WLAN หลังจากการตั้งค่า คุณจะสามารถสลับระหว่างข้อมูลมือถือและ WLAN ได้"</string>
+<string name="gestural_ebook">e-book ควบคุมด้วยท่าทาง</string>
+<string name="character_settings_black_screen_help_message">การปลดล็อคทั่วไป: เลื่อนไปทางซ้ายหรือขวาที่ด้านล่างของหน้าจอเพื่อปลดล็อค ในการเข้าแอ็พ: ปลดล็อคกล้องแล้ววาดตัว "C" บนหน้าจอ คุณสมบัตินี้จะส่งผลกระทบต่อการใช้พลังงานเมื่อสแตนด์บาย</string>
+<string name="charge_stream_max">กระแสไฟชาร์จปัจจุบันคือ 2000mA </string>
+<string name="power_off">"ปิดเครื่อง"</string>
+<string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"เพื่อปรับปรุงความแม่นยำของตำแหน่ง และเพื่อวัตถุประสงค์อื่น ๆ <xliff:g id="APP_NAME">%1$s</xliff:g> ต้องการเปิดการสแกนเครือข่าย แม้ในขณะที่ไม่มี WLAN \n \n อนุญาตให้ดำเนินการนี้สำหรับแอปทั้งหมดที่ต้องการสแกนหรือไม่"</string>
+<string name="global_single_hand_summary">การทำงานด้วยมือเดียวทั่วไป</string>
+<string name="set_data_subscription_progress">กำลังดำเนินการตั้งค่าการสมัครใช้งานข้อมูล</string>
+<string name="color_light">แสงสี</string>
+<string name="knock_light_title">แตะสองครั้งเพื่อเปิดหน้าจอ</string>
+<string name="show_frame_count_x_coordinate">พิกัด X</string>
+<string name="wifi_tether_configure_subtext" msgid="1927454307836232128">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g><xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> WLAN ฮอตสปอตแบบพกพา"</string>
+<string msgid="7583975676795574276" name="service_foreground_processes_ram">"<xliff:g id="MEMORY">%1$s</xliff:g> แอ๊พใช้งานอยู่"</string>
+<string name="tilt_scroll_control_title">การเลื่อนหน้าจอด้วยการเอียงโทรศัพท์</string>
+<string name="roaming_time_settings_zone">โซนเวลาที่แนะนำ</string>
+<string name="volume_title">"ระดับเสียง"</string>
+<string name="black_screen_settings_summary">สามารถปลดล็อคภายใต้หน้าจอสีดำได้ และเปิดแอ็พอย่างรวดเร็ว</string>
+<string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"ไม่มี PIN หรือรหัสผ่านล็อคหน้าจอ"</string>
+<string name="wifi_setup_wizard_skip">ข้าม</string>
+<string name="hour">1 ชั่วโมง</string>
+<string name="black_screen_settings_flash_mode">แฟลช</string>
+<string name="lock_intro_message" product="default">ป้องกันโทรศัพท์ของคุณจากการใช้งานที่ไม่ได้รับอนุญาตโดยการสร้างรูปแบบการปลดล็อคส่วนตัว เลื่อนนิ้วของคุณเพื่อเชื่อมต่อจุดอย่างน้อยสี่จุดแบบใดก็ได้บนหน้าจอถัดไป
+        \n\nพร้อมที่จะเริ่มหรือยัง แตะ ถัดไป
+    </string>
+<string name="gestural">การควบคุมด้วยท่าทาง</string>
+<string name="preference_status_unknown">ไม่รู้จัก</string>
+<string name="simple_settings">คำแนะนำผู้เริ่มต้นใช้</string>
+<string name="startup_confirm_auto_shutdown">โทรศัพท์มือถือจะปิดลงภายใน %s วินาที</string>
+<string name="A_gps_summary"> ใช้ข้อมูลช่วยเหลือเพื่อเร่งเวลาการกำหนดตำแหน่งด้วย GPS</string>
+<string name="safety_information_content">อัปเกรดระบบของโทรศัพท์โดยบริการหลังการขายอย่างเป็นทางการผ่าน Lenovo หรือฟังก์ชันการอัปเกรดระบบโทรศัพท์มือถือของ Lenovo (OTA) การใช้วิธีอื่นในการอัปเกรดระบบอาจทำให้อุปกรณ์ทำงานผิดพลาดหรือข้อมูลสูญหาย และทำให้ความสามารถในการรักษาความปลอดภัยของระบบถูกทำลายลง ซึ่งทำให้เกิดความเสี่ยงในการรักษาความปลอดภัย Lenovo จะไม่รับผิดชอบการดูแลรักษาอุปกรณ์ที่มีปัญหาจากการอัปเกรดด้วยวิธีอื่น</string>
+<string name="color_light_other_summary">Weixin, QQ, Weibo</string>
+<string name="incoming_call_ringer_title">"ริงโทนสาย"</string>
+<string name="unlock_set_unlock_speechpwd_title">"ใช้รหัสผ่านและรูปแบบด้วยเสียงเพื่อป้องกัน"</string>
+<string name="display_effect_of_screen_contrast_title">ความเข้ม</string>
+<string name="crypt_keeper_dialog_need_password_message" msgid="4071395977297369642">"คุณต้องตั้งค่า PIN หรือรหัสผ่านสำหรับการล็อคหน้าจอก่อนจึงจะเริ่มการเข้ารหัสได้"</string>
+<string name="accessibility_script_injection_button_disallow" msgid="5697152768523270885">"ไม่อนุญาต"</string>
+<string name="character_settings_mercury_keyboard_help_message">เมื่อใช้ปุ่มกด ปุ่มกดจะเปลี่ยนแปลงตามมุมของโทรศัพท์ เพื่อให้ใช้งานด้วยมือเดียวได้อย่างสะดวก ปัดหน้าจอเมื่อส่วนติดต่อแบบปุ่มกดอยู่ในแนวระดับ เพื่อเปิดใช้งานคีย์บอร์ดเมอร์คิวรี่</string>
+<string name="startup_confirm_airplane_turn_off">ออกจากโหมดเครื่องบินหรือไม่</string>
+<string name="wifi_access_points" msgid="7053990007031968609">"เครือข่าย WLAN"</string>
+<string name="header_category_personalcustom">ปรับแต่ง</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"การแตะ \"ตกลง\" จะเป็นการหยุด <xliff:g id="SERVICE">%1$s</xliff:g>"</string>
+<string name="unlock_set_unlock_speechnormal_title">"ปลดล็อคด้วยเสียงด่วน"</string>
+<string name="headset_play_mms_enabled_title">"หูฟังเล่น mms"</string>
+<string name="black_screen_notification_title"> "โหมดแจ้งเตือนข้อความที่ยังไม่ได้อ่านด้วยระบบสั่น" </string>
+<string name="set_dds_error">ข้อผิดพลาดในการตั้งค่าสมัครใช้งานข้อมูล</string>
+<string name="shutdown_time">ปิดเครื่องเวลา</string>
+<string-array name="alarm_set">
+        <item>การเปิดนี้ตั้งค่าไว้น้อยกว่า 1 นาที นับจากตอนนี้</item>
+        <item>การเปิดนี้ตั้งค่าไว้ <xliff:g id="DAYS">%1$s</xliff:g> นับจากตอนนี้</item>
+        <item>การเปิดนี้ตั้งค่าไว้ <xliff:g id="HOURS">%2$s</xliff:g> นับจากตอนนี้</item>
+        <item>การเปิดนี้ตั้งค่าไว้ <xliff:g id="DAYS">%1$s</xliff:g> และ <xliff:g id="HOURS">%2$s</xliff:g> นับจากตอนนี้</item>
+        <item>การเปิดนี้ตั้งค่าไว้ <xliff:g id="MINUTES">%3$s</xliff:g> นับจากตอนนี้</item>
+        <item>การเปิดนี้ตั้งค่าไว้ <xliff:g id="DAYS">%1$s</xliff:g> และ <xliff:g id="MINUTES">%3$s</xliff:g> นับจากตอนนี้</item>
+        <item>การเปิดนี้ตั้งค่าไว้ <xliff:g id="HOURS">%2$s</xliff:g> และ <xliff:g id="MINUTES">%3$s</xliff:g> นับจากตอนนี้</item>
+        <item>การเปิดนี้ตั้งค่าไว้ <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> และ <xliff:g id="MINUTES">%3$s</xliff:g> นับตั้งแต่ตอนนี้</item>
+        <item>การปิดนี้ตั้งค่าไว้น้อยกว่า 1 นาที นับจากตอนนี้</item>
+        <item>การปิดนี้ตั้งค่าไว้ <xliff:g id="DAYS">%1$s</xliff:g> นับจากตอนนี้</item>
+        <item>การปิดนี้ตั้งค่าไว้ <xliff:g id="HOURS">%2$s</xliff:g> นับจากตอนนี้</item>
+        <item>การปิดนี้ตั้งค่าไว้ <xliff:g id="DAYS">%1$s</xliff:g> และ <xliff:g id="HOURS">%2$s</xliff:g> นับจากตอนนี้</item>
+        <item>การปิดนี้ตั้งค่าไว้ <xliff:g id="MINUTES">%3$s</xliff:g> นับจากตอนนี้</item>
+        <item>การปิดนี้ตั้งค่าไว้ <xliff:g id="DAYS">%1$s</xliff:g> และ <xliff:g id="MINUTES">%3$s</xliff:g> นับจากตอนนี้</item>
+        <item>การปิดนี้ตั้งค่าไว้ <xliff:g id="HOURS">%2$s</xliff:g> และ <xliff:g id="MINUTES">%3$s</xliff:g> นับจากตอนนี้</item>
+        <item>การปิดนี้ตั้งค่าไว้ <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> และ <xliff:g id="MINUTES">%3$s</xliff:g>  นับจากตอนนี้</item>
+    </string-array>
+<string name="camera_info">"กล้องถ่ายรูป"</string>
+<string name="startup_auto_shutdown_title">ปิดเครื่องอัตโนมัติ</string>
+<string name="nfc_not_inservice">อะแดปเตอร์ Nfc ไม่เปิดให้บริการ</string>
+<string name="black_screen_settings_quick_shots_nums">การถ่ายภาพอย่างรวดเร็ว</string>
+<string name="i_know_it">ฉันรู้</string>
+<string name="fuse_recovery_data_from_cloud_summary">แตะเพื่อเข้าสู่การสำรองข้อมูลระบบคลาวด์</string>
+<string name="accessibility_script_injection_button_allow" msgid="2201503285877102870">"อนุญาต"</string>
+<string name="quicksettings_summary">ยินดีต้อนรับสู่การใช้โทรศัพท์ Lenovo โปรดเริ่มต้นด้วยการตั้งค่าด่วน คุณอาจ\n ตั้งค่าแต่ละรายการได้ใน \"ตั้งค่าระบบ\"</string>
+<!--[QC8916 z2/sisley][FRIESIAN-5827][LQA][TH][hujj2]Volume key backlight is truncated and should correct translation -->
+<string name="lockscreen_volume_key_lock_unlock_ctrl">"ปรับจอสว่างด้วยปุ่มเสียง"</string>
+<string name="backup_data">"สำรองข้อมูลก่อนที่จะรีเซ็ตโทรศัพท์"</string>
+<string name="fuse_recovery_data_from_cloud_title">กู้คืนข้อมูลจากระบบคลาวด์</string>
+<string name="still_sleep_title">ยังสลีปอยู่</string>
+<string name="usb_ptp_summary" msgid="7673397474756664929">"ช่วยให้คุณถ่ายโอนภาพได้โดยใช้ซอฟต์แวร์กล้องถ่ายรูปและถ่ายโอนไฟล์ใด ๆ บนคอมพิวเตอร์ที่ไม่สนับสนุน MTP"</string>
+<string name="color_light_other">"อื่นๆ"</string>
+<string name="black_screen_settings_broswer">ปลดล็อคไปยังเบราเซอร์</string>
+<string name="schedule_power_on_off_repeat">ซ้ำ</string>
+<string name="display_effect_of_screen_saturation_item1">ค่าเริ่มต้น</string>
+<string name="show_frame_count_cancel_button_text">ยกเลิก</string>
+<string name="display_effect_of_screen_saturation_item0">นุ่ม</string>
+<string name="display_effect_of_screen_saturation_item2">สดใส</string>
+<string name="wifi_connect_failed_message" product="default" msgid="2185803140161396572">"โทรศัพท์ไม่สามารถเชื่อมต่อกับเครือข่าย WLAN นี้"</string>
+<string name="processor_info">ตัวประมวลผล</string>
+<string name="data_usage_metered_wifi" msgid="8540872226614404873">"เครือข่าย WLAN"</string>
+<string name="shutdown_alarm_confirm">"นาฬิกาจะปลุกเวลา <xliff:g id="ALARM_TIME">%1$s</xliff:g>"</string>
+<string name="wave_wakeup_title">โบกมือเพื่อปลุก</string>
+<string name="voice_summary">เลือกการสมัครใช้งานสำหรับการโทรด้วยเสียง</string>
+<string name="wifi_tether_configure_ap_text" msgid="7974681394041609308">"ตั้งค่า WLAN ฮอตสปอต"</string>
+<string name="black_screen_settings_normal_summary">คุณสามารถเลื่อนไปทางซ้ายหรือขวาที่ด้านล่างของหน้าจอเพื่อปลดล็อคได้</string>
+<string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>ข้อมูลผู้ใช้ทั้งหมด</xliff:g> (รวมถึงเพลง รูปภาพ และข้อมูลผู้ใช้อื่นๆ) ใน <xliff:g>หน่วยความจำภายใน</xliff:g> จะถูกลบออก โปรดสำรองข้อมูลของคุณก่อนที่จะรีเซ็ตโทรศัพท์</string>
+<string name="wifi_p2p_settings_title" msgid="400503541488064638">"WLAN โดยตรง"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen">แตะแสงบนหน้าจอ</string>
+<string name="flip_screen_control_summary">พลิกโทรศัพท์เพื่อเปิดหรือปิดหน้าจอ</string>
+<string name="wifi_setup_title_connecting_network" msgid="3747859666621319757">"กำลังเชื่อมต่อกับเครือข่าย WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>..."</string>
+<string name="screen_info">หน้าจอ</string>
+<string name="startup_time">เปิดเครื่องเวลา</string>
+<string name="keyboard_lights_title">ไฟคีย์บอร์ด</string>
+<string name="wifi_poor_network_detection_summary" msgid="7843672905900544785">"อย่าใช้เครือข่าย WLAN หากไม่มีการเชื่อมต่ออินเทอร์เน็ตที่ดีเพียงพอ"</string>
+<string name="muti_window_summary">หน้าต่างมัลติทาสก์จะสนับสนุนการแสดงผลหลายหน้าต่างพร้อมกันในหน้าจอเดียว</string>
+<string name="credentials_configure_lock_screen_hint" msgid="6757119179588664966">"คุณต้องตั้ง PIN หรือรหัสผ่านสำหรับการล็อคหน้าจอก่อนจึง จะสามารถใช้ที่เก็บข้อมูลรับรองได้"</string>
+<string name="roaming_time_settings_time_display">โปรแกรมแสดงเวลา</string>
+<string name="header_category_other">"อื่นๆ"</string>
+<string name="data_usage_metered_wifi_disabled" msgid="5502020778468643732">"หากต้องการเลือกฮอตสปอตเคลื่อนที่ ให้เปิด WLAN"</string>
+<string name="recovery_data_section_title">การกู้คืนข้อมูล</string>
+<string name="gestural_ebook_summary">เลื่อนหน้าจอไปทางซ้ายและขวาเพื่อควบคุมการหมุนหน้า e-book</string>
+<string name="auto_shutdown_interrupted">การปิดเครื่องที่ตั้งเวลาไว้หยุดชะงัก</string>
+<string name="start_camera_gesture_summary">เปิดใช้กล้องอย่างรวดเร็วด้วยท่าทาง</string>
+<string name="wifi_connect_failed_message" product="tablet" msgid="4474691090681670156">"แท็บเล็ตไม่สามารถเชื่อมต่อกับเครือข่าย WLAN นี้"</string>
+<string name="phone_car_mode_summary">"การตั้งค่าโหมดการขับขี่"</string>
+<string name="data_connect_settings_title">การเชื่อมต่อข้อมูล</string>
+<string name="still_sleep_summary">เมื่อโทรศัพท์ของคุณนิ่งเฉย โทรศัพท์จะเข้าสู่โหมดสลีป</string>
+<string name="theme_settings_title">"ธีม"</string>
+<string name="smart_rotete_cbox_title">หมุนหน้าจอ</string>
+<string name="recovery_data_from_device_summary">ดึงข้อมูลจากอุปกรณ์อื่นด้วย SHAREit</string>
+<string name="voice_call_way_title">"วิธีวอยซ์คอลล์"</string>
+<string name="gestural_music">เพลงควบคุมด้วยท่าทาง</string>
+<string name="color_light_unread_mms">MMS ที่ยังไม่ได้อ่าน</string>
+<string name="stop_color_light">หยุด</string>
+<string name="save_power_wait_title">"โปรดรอสักครู่..."</string>
+<string name="black_screen_settings">การปลดล็อคหน้าจอดำ</string>
+<string name="savepower_black_title">"รายชื่อที่ไม่อนุญาต"</string>
+<string name="set_dds_success">ตั้งค่าการสมัครใช้งานข้อมูลสำเร็จ</string>
+<string name="multiwindow_summary">"รองรับหลายหน้าต่าง"</string>
+<string name="lock_intro_message" product="tablet">"ปกป้องแท็บเล็ตของคุณจากการใช้งานที่ไม่ได้รับอนุญาตด้วยการสร้างรูปแบบการปลดล็อคหน้าจอส่วนบุคคล เลื่อนนิ้วเพื่อเชื่อมต่อจุดต่างๆ ในลำดับใดก็ได้บนหน้าจอถัดไป คุณต้องเชื่อมต่อจุดอย่างน้อยสี่จุด"\n\n"เมื่อพร้อมที่จะเริ่มแล้ว ให้แตะ \"ถัดไป\""</string>
+<string name="show_dialog">อย่าเตือนฉัน</string>
+<string name="close_home_landscape_summary">เปิดโทรศัพท์ในแนวนอนเพื่อปิดใช้งานปุ่มโฮม</string>
+<string name="airbuse_phone_info_screen">"ความละเอียด: qHD960*540, ขนาด:" 6.0 นิ้ว"</string>
+<string name="shutdown_time_enabled">กำหนดเวลาปิดเครื่องแล้ว</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"<xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> สามารถเก็บรวบรวมข้อความทั้งหมดที่คุณพิมพ์ไว้ได้ยกเว้นรหัสผ่าน โดยรวมถึงข้อมูลส่วนบุคคลต่างๆ เช่น หมายเลขบัตรเครดิต และยังสามารถเก็บข้อมูลเกี่ยวกับการโต้ตอบระหว่างคุณกับโทรศัพท์ได้ด้วย"</string>
+<string name="black_screen_settings_select_app">เลือกแอ็พที่ต้องการตั้งค่า</string>
+<string name="incoming_mms_ringer_title">"ริงโทนข้อความ"</string>
+<string name="no_sim_info">ข้อมูล SIM การ์ดไม่พร้อมใช้งาน\nไม่สามารถเข้าถึงเมนู</string>
+<string name="wifi_settings" msgid="29722149822540994">"WLAN"</string>
+<string-array name="hue"> 
+         
+         
+         
+    <item>โทนเย็น</item>
+        <item>ค่าเริ่มต้น</item>
+        <item>โทนร้อน</item>
+    </string-array>
+<string name="wifi_suspend_optimizations" msgid="1220174276403689487">"การเพิ่มประสิทธิภาพ WLAN"</string>
+<string name="wifi_on_time" msgid="3208518458663637035">"เวลาเปิดใช้ WLAN"</string>
+<string name="recovery_data_summary">แตะเพื่อเข้าสู่การสำรองข้อมูลการ์ด SD</string>
+<string-array name="sharpen"> 
+         
+         
+    <item>ค่าเริ่มต้น</item>
+        <item>ปรับความคมชัด</item>
+    </string-array>
+<string name="wifi_menu_wps_pin" msgid="6426448256268695933">"ข้อมูล PIN WPS"</string>
+<string name="poweron_emergencycallonly">"โทรฉุกเฉินเท่านั้น"</string>
+<string name="data_usage_disable_mobile_statistics_dialog">เมื่อปิดใช้งานคุณลักษณะนี้ การรวบรวมสถิติการใช้ข้อมูลจะปิด</string>
+<string name="wifi_switch_settings_title">การผูกตำแหน่ง WLAN </string>
+<string name="schedule_power_on_off_settings_title">กำหนดเวลาเปิดและปิด</string>
+<string name="gestural_broswer_summary">เลื่อนหน้าจอขึ้นและลงเพื่อเลื่อนไปในหน้าเบราเซอร์</string>
+<string name="wifi_scan_notify_text_location_on">ในการปรับปรุงความแม่นยำของตำแหน่งและเพื่อจุดประสงค์อื่นๆ Google และแอ็พอื่นๆ อาจสแกนหาเครือข่ายใกล้เคียงแม้ว่า WLAN จะปิดอยู่ก็ตาม หากคุณไม่ต้องการสแกน ให้ไปที่ ขั้นสูง &gt; ใช้งานการสแกนอยู่เสมอ</string>
+<string name="gestural_vedio_summary">เลื่อนหน้าจอไปทางซ้ายและขวาเพื่อควบคุมการเล่นวิดีโอ | เลื่อนขึ้นและลงเพื่อปรับระดับเสียง</string>
+<string name="lenovo_recent_settings">การตั้งค่าปัจจุบัน</string>
+<string name="no_ftp_app">ไม่มีแอ็พที่รองรับ FTP</string>
+<string name="accessibility_toggle_script_injection_preference_title" msgid="7950932054266694403">"การปรับปรุงการเข้าถึงเว็บให้ดีขึ้น"</string>
+<string name="phone_info">ข้อมูลโทรศัพท์</string>
+<string name="sel_sub_title">กำหนดค่าการสมัครใช้งาน </string>
+<string name="accessibility_script_injection_disallowed" msgid="8639525487720429182">"ไม่อนุญาต"</string>
+<string name="start_camera_gesture_title">กล้องจับภาพท่าทาง</string>
+<string name="rotate_type_choose_cancel">ยกเลิก</string>
+<string name="lockscreen_knock_on_ctrl_summary">ดับเบิลคลิกเพื่อเปิดแสงหน้าจอโทรศัพท์</string>
+<string name="airplane_open_confirm_message">แน่ใจหรือไม่ว่าต้องการเปิดใช้งานโหมดใช้งานบนเครื่องบิน</string>
+<string name="data_usage_restrict_background_multiuser" product="default" msgid="8025473178302056174">"หากคุณจำกัดข้อมูลพื้นหลังของมือถือ แอปพลิเคชันและบริการบางอย่างจะไม่ทำงานเว้นแต่คุณจะเชื่อมต่อกับเครือข่าย WLAN"\n\n"การตั้งค่านี้ส่งผลต่อผู้ใช้โทรศัพท์นี้ทุกราย"</string>
+<string name="savepower_white_title">"รายชื่อที่อนุญาต"</string>
+<string name="lenovoID_registered_title">"ตกลงใช้หมายเลขโทรศัพท์มือถือเป็นบัญชี Lenovo ID (Lenovo pass)"</string>
+<string name="mannual">เข้าสู่สาธิตการใช้งานสำหรับผู้เริ่มต้น</string>
+<string name="header_category_personalcustom_k7">ปรับให้เป็นแบบส่วนตัว</string>
+<string name="china_telcom_push_title">การแจ้งเตือน China Telecom Yi</string>
+<string name="location_network_based" msgid="7472814266821714527">"ตำแหน่งผ่าน WLAN และเครือข่ายมือถือ"</string>
+<string name="header_category_singlehand_settings">"การตั้งค่าการใช้งานมือเดียว"</string>
+<string name="devices_info_buildNumber">"หมายเลขบิลด์: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="location_improve_allow">บริการตำแหน่งจะมีประสิทธิภาพมากขึ้นตามเครือข่าย WLAN และ/หรือเครือข่ายโทรศัพท์มือถือ</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"หยุด <xliff:g id="SERVICE">%1$s</xliff:g> หรือไม่"</string>
+<string name="schedule_power_on_set">"ตั้งค่าตารางเวลาเปิดเครื่อง"</string>
+<string name="lockscreen_shake_unlock_ctrl">เขย่าเพื่อล็อคหน้าจอ</string>
+<string name="call_ring_weaken_enable_summary">ทำให้ระดับเสียงริงโทนเบาลงเมื่อโทรศัพท์ถูกหยิบขึ้นมา | ความช่วยเหลือ</string>
+<string name="wifi_popup_0">การผูกแอปที่เชื่อมต่อ\nหน้าต่างถามเมื่อเข้ามายังตำแหน่งนี้</string>
+<string name="wifi_popup_2">อย่าผูกกับตำแหน่ง</string>
+<string name="wifi_popup_1">การผูกแอปที่เชื่อมต่อ\nเปิดทำงานอัตโนมัติเมื่อเข้ามายังตำแหน่งนี้</string>
+<string name="double_click_muti_window_title">MultiWindow</string>
+<string name="roaming_settings_title">การตั้งค่าการโรมมิ่ง</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"คุณต้องการให้แอปพลิเคชันติดตั้งสคริปต์จาก Google เพื่อให้เข้าถึงเนื้อหาเว็บได้มากขึ้นหรือไม่"</string>
+<string name="enter_bright_mode_warning" product="default"> "เปิดเสียง พูดสายได้ชัดขึ้น" </string>
+<string name="character_setings_title">"คุณลักษณะ"</string>
+<string name="backup_recovery_data_summary">สำรองข้อมูลหรือกู้คืนข้อมูลแอปในโทรศัพท์</string>
+<string name="wifi_settings_title" msgid="3103415012485692233">"WLAN"</string>
+<string name="security_settings_title">"ความปลอดภัยและหน้าจอล็อก"</string>
+<string name="black_screen_settings_flash_mode_on">เปิด</string>
+<string name="black_screen_settings_quick_shots_one">1 รูป</string>
+<string name="leave_bright_mode_warning" product="default"> "ฟังก์ชันปิดใช้งานอยู่" </string>
+<string name="black_screen_settings_music_summary">วาดตัว "m" บนหน้าจอ</string>
+<string name="quicksettings_title">ตั้งค่าด่วน</string>
+<string name="summary_keyboard_lights">สมาร์ทคอนโทรล</string>
+<string name="backup_recovery_data_title">สำรองข้อมูลหรือกู้คืนข้อมูลแอป</string>
+<string name="poweron_nouim">ไม่พบ UIM</string>
+<string name="wifi_suspend_optimizations_summary" msgid="4151428966089116856">"ลดการใช้แบตเตอรี่เมื่อ WLAN เปิดอยู่"</string>
+<string name="gestural_vedio">วิดีโอควบคุมด้วยท่าทาง </string>
+<string name="gadget_toggle_wifi" msgid="319262861956544493">"กำลังอัปเดตการตั้งค่า WLAN"</string>
+<string name="backup_data_recovery_section_title">สำรองหรือกู้คืนข้อมูล</string>
+<string name="share_music_a2dp_headphones_control_summary">เมื่อเปิดตัวเลือกนี้ คุณสามารถแชร์เพลงผ่านอุปกรณ์ บลูทูธ และชุดหูฟังแบบมีสายได้</string>
+<string name="memory_os_size">ขนาดสำหรับ OS</string>
+<string name="revert">"เปลี่ยนกลับ"</string>
+<string name="usage_type_data_wifi_recv" msgid="7822328607564241372">"ข้อมูล WLAN ที่ได้รับ"</string>
+<string name="double_click_dock_enabled_title">"ดับเบิลคลิกไอคอนบริเวณด็อก เปิดทำงานเสียง"</string>
+<string name="color_light_battery">แบตเตอรี่</string>
+<string name="internal_version">หมายเลขเวอร์ชันภายใน</string>
+<string name="preference_status_close">ปิด</string>
+<string name="apn_call_number">หมายเลขโทรศัพท์ PPP</string>
+<string name="sound_settings_title">"เสียง"</string>
+<string name="set_priority_sub_error">ข้อผิดพลาดในการตั้งค่าลำดับความสำคัญของการสมัครใช้งาน ไม่ได้เปิดใช้งานการสมัครใช้งาน</string>
+<string name="common_setings_title">"ร่วมกัน"</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="sms_summary">เลือกการสมัครใช้งานเพื่อส่ง SMS</string>
+<string name="devices_info_firmwareVersion">"เวอร์ชัน Android: <xliff:g id="null">%1$s</xliff:g>"</string>
+<string name="wifi_settings_category" msgid="8719175790520448014">"การตั้งค่า WLAN"</string>
+<string name="show_hw_overdraw_summary" msgid="4295714000923082647">"จากดีที่สุดไปหาแย่ที่สุด: ฟ้า เขียว แดงอ่อน แดง"</string>
+<string name="show_recent_settings">ดึงขึ้นเพื่อซ่อนการตั้งค่า</string>
+<string name="global_action_restart">"รีสตาร์ท"</string>
+<string name="color_light_call">"โทร"</string>
+    <string name="eap_sim_aka_airplanemode">โปรดปิดโหมดเครื่องบินเพื่อใช้ EAP-SIM/AKA</string>
+    <string name="wifi_ap_bandwidth_chart_title">ความเร็วของข้อมูลในเวลาจริง</string>
+    <string name="single_hand_title">Micro Screen แบบมือเดียว</string>
+    <string name="pch_warning_message">อัตราการรับส่งข้อมูลจะปฏิเสธ.</string>
+    <string name="dlg_error_unmount_usb_text" product="default">"ไม่สามารถยกเลิกการต่อเชื่อมการ์ด SD ลองอีกครั้งในภายหลัง"</string>
+    <string name="move_success">การย้ายเสร็จสมบูรณ์แล้ว! ไม่สามารถย้ายบางส่วนของแอ็พไปยังการ์ดหน่วยความจำเริ่มต้นได้ การย้ายแอ็พเสร็จสมบูรณ์แล้ว!<xliff:g>%1$s</xliff:g></string>
+    <string name="AGPS_NOTIFY_ONLY">การแจ้งเตือนคำขอสถานที่</string>
+    <string name="agps_str_deny">ปฏิเสธ</string>
+    <string name="privacy_backup_userdata_category_title">สำรองข้อมูล</string>
+    <string name="usb_ums_without_external_sd_summary">"ไม่พบการ์ดหน่วยความจำภายนอก การ์ดหน่วยความจำภายในไม่สนับสนุนโหมด U ดิสก์ จึงไม่สามารถใช้งานได้"</string>
+    <string name="privacy_category_title_cloud">ระบบคลาวด์</string>
+    <string name="wifi_backup_category_title">สำรองข้อมูล WLAN</string>
+    <string name="display_effect_of_screen_reset">รีเซ็ต</string>
+    <string name="double_click_tip">ดับเบิลคลิกที่นี่</string>
+    <string name="ipo_title">บูตด่วน</string>
+    <string name="authdlg_message">\'%1$s\' กำลังขอสิทธิ์ในการเชื่อมต่อกับ %2$s</string>
+    <string name="lockdown_vpn_already_connected">ได้เปิดการออนไลน์บน VPN เสมอสำหรับการเชื่อมต่อแล้ว </string>
+    <string name="usb_connect_as_cdrom_category">"เชื่อมต่อแบบ CD-ROM"</string>
+    <string name="wifi_ap_max_connection_title">การเชื่อมต่อสูงสุด</string>
+    <string name="launch_main">เปิดแอพพลิเคชั่นโดยกิจกรรมหลัก</string>
+    <string name="usbsetting_help_content">1. ที่เก็บข้อมูล USB ：โทรศัพท์เป็น U ดิสก์สำหรับการทำงานกับไฟล์ \n\n
+2. MTP：โทรศัพท์เป็น U ดิสก์สำหรับการทำงานกับไฟล์，ทำงานกับไฟล์ในโทรศัพท์ในเวลาเดียวกัน เมื่อ OS ของคอมพิวเตอร์เป็น XP หรือต่ำกว่า, คุณจำเป็นต้องติดตั้งไดรเวอร์ \n\n
+3. PTP：ใช้ซอฟต์แวร์กล้องเพื่อแปลภาพถ่าย เมื่อ OS ของคอมพิวเตอร์เป็น XP หรือต่ำกว่า, คุณจำเป็นต้องติดตั้งไดรเวอร์ \n\n
+4. USB ดีบัก：เมื่อเชื่อมต่อ, จัดการโทรศัพท์ในคอมพิวเตอร์ด้วยซอฟต์แวร์ เช่น LeHelper , 91 Helper เป็นต้น  \n\n
+5. USB เทเธอริ่ง：เมื่อเชื่อมต่อ, คอมพิวเตอร์สามารถเข้าถึงอินเทอร์เน็ตผ่านโทรศัพท์ของคุณ U ดิสก์ไม่สามารถถูกติดตั้งในขณะที่เชื่อมต่อ </string>
+    <string name="title_lcd_invert">กลับสี LCD</string>
+    <string name="test_area">พื้นที่ทดสอบ:</string>
+    <string name="wfd_change_resolution_menu_title">เปลี่ยนความละเอียด</string>
+    <string name="smart_scene_summary">"จำเป็นต้องมีโหมดถ่ายภาพสำหรับระบบการเปลี่ยนอัจฉริยะ"</string>
+    <string name="lenovo_system_update">"อัพเดทระบบ"</string>
+    <string name="wifi_ap_reset_OOB_title">รีเซต SSID เครือข่าย ความปลอดภัย และรหัสผ่านให้เป็นค่าเริ่มต้น ( การตั้งค่าเริ่มต้นสำหรับ WPS )</string>
+    <string name="mouse_primary_button_title">สลับปุ่มหลักและรอง</string>
+    <string name="wide_touch_summary">แตะที่ปุ่มลอยเพื่อเปิด สัมผัส กว้าง</string>
+    <string name="try_swing_lock_result_longer">เขย่าแรงไม่พอ โปรดลองใหม่อีกครั้ง</string>
+    <string name="bluetooth_ask_enablement_ext">แอ็พ <xliff:g>%1$s</xliff:g> ต้องการเปิด บลูทูธ</string>
+    <string name="wifi_ap_reset_OOB">รีเซต OOB</string>
+<!-- [QC8916 z2 / sisley /sisley-lite][FRIESIAN-5827][LQA][TH][hujj2]translation -->
+    <string name="side_key_backlight_title">"ปรับจอสว่างด้วยปุ่มเสียง"</string>
+    <string name="privacy_restore_userdata_summary">เลือกเรียกคืนข้อมูลจากที่เก็บข้อมูล</string>
+<!-- [QC8916 z2/sisley][FRIESIAN-5823][LQA][TH][hujj2]A word Lock in Change Lock is wrong spelling -->
+    <string name="swing_lock">สั่นล็อก</string>
+    <string name="default_name">"เริ่มต้น"</string>
+    <string name="gesture_rotete_cbox_summary">เจสเจอร์</string>
+    <string name="usb_sharing_title">USB อินเตอร์เน็ต</string>
+    <string name="wifi_restore_category_title">คืนค่า WLAN</string>
+    <string name="landscape_launcher_none">ไม่มี</string>
+    <string name="drm_reset_toast_msg">ลบสิทธิ์การใช้งานสำเร็จแล้ว</string>
+    <string name="ringtone_settings">เสียงเรียกเข้าและเสียง</string>
+    <string name="network_synchronization_enable_confirm">การซิงค์เครือข่ายต้องการการเชื่อมต่อไร้สายเพื่อรับข้อมูลช่วยเหลือที่อาจมีค่าธรรมเนียมเพิ่มเติม คุณต้องการเปิดการซิงค์เครือข่ายหรือไม่</string>
+    <string name="usb_charge_title">ชาร์จเท่านั้น</string>
+    <string name="runningapp_stop_dlg_title">หยุดบริการ?</string>
+    <string name="sim_remain">(เหลือ: <xliff:g id="remains">%d</xliff:g>)</string>
+    <string name="lockscreen_style_default_desc">"การเข้าถึงแอปพลิเคชั่นแบบเร็วในหน้าจอล็อก"</string>
+    <string name="pin_scroll_summary">เมื่อเลื่อนรายการลงมาจากด้านบน ให้หยุดชั่วคราวแล้วปล่อย รายการจะถูกตรึงสำหรับการดำเนินงานที่ดีขึ้น</string>
+    <string name="AGPS_DEFAULT_STRING">สตริงเริ่มต้น A-GPS</string>
+    <string name="vpn_lockdown_savelogin_error">จำเป็นต้องบันทึกข้อมูลการล็อกอินบัญชีหากเปิดใช้ VPN ตลอดเวลา </string>
+    <string name="smart_call_answer_title">รับสายแบบสมาร์ต</string>
+    <string name="sim_slot">ช่อง SIM</string>
+    <string name="stop_select_app">"หยุดที่เลือก?"</string>
+    <string name="wifi_ap_client_block_title">บล็อก</string>
+    <string name="usb_sharing_summary">แชร์อินเตอร์เน็ตของพีซีระบบ Windows ผ่านสาย USB</string>
+    <string name="current_suffix">"(ปัจจุบัน)"</string>
+    <string name="wifi_backup">สำรองการกำหนดค่า WLAN</string>
+    <string name="agps_profile_select_Title">โปรไฟล์ AGPS </string>
+    <string name="usb_tether">USB เทเธอร์</string>
+    <string name="single_hand_summary">ใช้โทรศัพท์ด้วยมือเดียว</string>
+    <string name="smart_scene_title">ฉากแบบสมาร์ท</string>
+    <string name="cpu_dtm_summary">จำกัดประสิทธิภาพสูงสุดของ CPU เพื่อรักษาอายุการใช้งานแบตเตอรี่ และเพื่อลดอุณหภูมิอุปกรณ์ลง.</string>
+    <string name="dlg_confirm_unmount_usb_title" product="default">"ยกเลิกการต่อเชื่อมการ์ด SD หรือไม่"</string>
+    <string name="battery_percent">เปอร์เซ็นต์แบตเตอรี่</string>
+    <string name="server_lenovo_exp_dialogmsg">หากคุณปิด Lenovo Enhanced Experience Program แอ็พบางรายการอาจทำงานผิดปกติ และอาจกระทบต่อการใช้งานและการให้บริการผลิตภัณฑ์ ต้องการปิดหรือไม่</string>
+    <string name="apn_port_warning">ค่าพอร์ตต้องอยู่มีค่า 1-65535!</string>
+    <string name="agps_str_allow">อนุญาต</string>
+    <string name="tethered_ipv4v6">(มี IPv6)</string>
+    <string name="autopop_warning_title">ไม่แสดงขึ้นในครั้งหน้า?</string>
+    <string name="prevent_misoperation_title">โหมดป้องกันโทรออกเมื่ออยู่ในกระเป๋า</string>
+    <string name="default_soft_setting">การตั้งค่าซอฟต์แวร์เริ่มต้น</string>
+    <string name="lockscreen_style_set">"ตั้งค่าหน้าจอล็อค"</string>
+    <string name="wifi_backup_ok">สำรองข้อมูลแล้ว!</string>
+    <string name="wifi_backup_failed">สำรองข้อมูลไม่สำเร็จ</string>
+    <string name="dlg_default_write_disk0_change_msg">"ถ้าคุณเลือกที่เก็บข้อมูล SD, แอปพลิเคชันที่ติดตั้งในที่เก็บข้อมูล USB จะไม่สามารถใช้ได้ และอุปกรณ์จะบูตใหม่, แน่ใจว่าต้องการเปลี่ยนเป็นที่เก็บข้อมูล SD หรือไม่?"</string>
+    <string name="MobileNetwork_SIM2_Active">SIM2 แอกทีฟ</string>
+    <string name="eap_sim_slot_0">ช่อง SIM 1</string>
+    <string name="smart_standby_ctrl_description">เมื่อถึงเวลาดับหน้าจอเพื่อเปิดกล้องด้านหน้า, ทำหน้าจอให้สว่าง เพื่อให้โทรศัพท์ตรวจจับใบหน้าของคุณพบ, ปิดหน้าจอในทางตรงข้าม</string>
+    <string name="eap_sim_slot_1">ช่อง SIM 2</string>
+    <string name="auto_rotete_cbox_summary">อัตโนมัติ</string>
+    <string name="wifi_restore_ok">คืนค่าแล้ว!</string>
+    <string name="auto_time_off">"ปิด"</string>
+    <string name="passpoint_certificate">การรับรอง</string>
+    <string name="audio_profile_error">"ข้อผิดพลาด"</string>
+    <string name="dlg_mount_external_sd_summary" product="default">ถ้าคุณเมาท์ SD การ์ด บางแอพที่กำลังใช้จะหยุดทำงาน</string>
+    <string name="wifi_channel">ช่องที่ต้องการ</string>
+    <string name="agps_str_verify">การตรวจสอบ</string>
+    <string name="personal_hotsport_title">ฮอตสปอต</string>
+    <string name="bluetooth_stop_search_for_devices">หยุดการค้นหา</string>
+    <string name="phone_model_number">"รุ่นโทรศัพท์"</string>
+    <string name="akp_installer_settings_title">ตัวติดตั้งข้อมูลAPK </string>
+    <string name="authdlg_service_pbap">ดาวน์โหลดผู้ติดต่อโทรศัพท์เครื่องนี้</string>
+    <string name="wifi_security_wapi_certificate">"WAPI PSK"</string>
+    <string name="gps_time_sync_attention_gps_off">เพื่อที่จะใช้เวลาที่ได้จาก GPS ขั้นแรกคุณต้องเปิดใช้งาน GPS จากนั้นจะใช้เวลามากสุด 1 นาทีในการรับสัญญาณ GPS นอกจากนี้ GPS อาจไม่สามารถแสดงเวลาได้ เนื่องจากสัญญาณแวดล้อมที่อ่อนกำลัง\n\nคุณต้องการเปิดใช้งาน GPS ขณะนี้และรอเวลาจาก GPS หรือไม่</string>
+    <string name="launch_activitie">เปิด</string>
+    <string name="sd_eject_usbstorage_summary" product="default">"ยกเลิกการต่อเชื่อมที่เก็บข้อมูล USB ภายใน"</string>
+    <string name="smart_call_answer_summary">รับสายเมื่อยกโทรศัพท์ขึ้นใกล้หู</string>
+    <string name="tethering_apn_settings_summary">กำหนดค่า APN สำหรับขอบเขต</string>
+    <string name="hdmi_settings">การตั้งค่า HDMI</string>
+    <string name="try_swing_lock_result_harder">เขย่าแรงไม่พอ โปรดลองใหม่อีกครั้ง</string>
+    <string name="usb_ums_with_external_sd_summary">"แนะนำให้ใช้ XP ให้ใช้การ์ดหน่วยความจำภายนอกเป็น U ดิสก์แทนการ์ดหน่วยความจำภายในเพื่อคัดลอกไฟล์ "</string>
+    <string name="gemini_data_connection_progress_message">โปรดรอ…</string>
+    <string name="display_effect_of_screen_toast_title">เนื่องจากคุณไม่ได้เลือก นำไปใช้ &gt; บันทึก &gt; เอฟเฟกต์หน้าจอ ค่าจะถูกรีเซ็ตหลังจากคุณรีสตาร์ทคอมพิวเตอร์</string>
+    <string name="privacy_category_title_sd">การ์ด SD</string>
+    <string name="privacy_backup_userdata_text">หากต้องการสำรองข้อมูล SMS, การติดต่อ และ บันทึกการโทร ไปยังที่เก็บข้อมูลภายใน</string>
+    <string name="mobile">การเชื่อมต่อข้อมูล</string>
+    <string name="choose_soft_place">โปรดเลือกตำแหน่งการติดตั้งซอฟต์แวร์</string>
+    <string name="display_smart_standby">สมาร์ตสแตนด์บาย</string>
+    <string name="ims_toggle_summary">ให้บริการ IP Multimedia Subsystem </string>
+    <string name="bluetooth_ask_establish_connection_ext">"แอ็พ <xliff:g>%1$s</xliff:g> ต้องการสื่อสารกับ <xliff:g>%2$s</xliff:g> ผ่านทาง บลูทูธ"</string>
+    <string name="wifi_advanced_ipv6_address_title">ที่อยู่ IPv6</string>
+    <string name="clear_motion_summary">ตัวเพิ่มความลื่นไหลวิดีโอ</string>
+    <string name="rcse_settings_title">การตั้งค่า Joyn</string>
+    <string name="voice_ui_title">ควบคุมเสียง</string>
+    <string name="bluetooth_ftp_profile_summary_use_for">"ใช้สำหรับถ่ายโอนไฟล์"</string>
+    <string name="select_memory">ดิสก์การเขียนเริ่มต้น</string>
+    <string name="usb_ums_summary">"แนะนำให้ใช้ XP ทำให้คุณสามารถถ่ายโอนไฟล์ระหว่างคอมพิวเตอร์กับที่เก็บข้อมูล USB ของ Android ของคุณ"</string>
+    <string name="clear_cache_msg">ล้างแล้ว หน่วยความจำว่างลง <xliff:g>%1$s</xliff:g></string>
+    <string name="data_usage_more_settings">การตั้งค่าเพิ่มเติม</string>
+    <string name="dlg_confirm_unmount_usb_text" product="default">"หากคุณยกเลิกการต่อเชื่อมการ์ด SD แอปพลิเคชันบางอย่างที่ใช้อยู่จะหยุดทำงานและอาจใช้งานไม่ได้จนกว่าคุณจะต่อเชื่อมการ์ด SD อีกครั้ง"</string>
+    <string name="cpu_dtm_title">โหมดประหยัดพลังงาน CPU</string>
+    <string name="display_effect_of_screen_dialog_ok">ตกลง</string>
+    <string name="smart_roll_summary">เลื่อน ขอบของหน้าจอเพื่อม้วนเหนือปุ่มต่างๆ</string>
+    <string name="light_settings">การตั้งค่าแสง</string>
+    <string name="agps_str_notify">การแจ้งเตือน</string>
+    <string name="unmount_usb_inform_text" product="default">"ที่เก็บข้อมูล USB จะถูกยกเลิกการต่อเชื่อม"</string>
+    <string name="agps_OK">ตกลง</string>
+    <string name="hotknot_explained_description">อนุญาตการแลกเปลี่ยนข้อมูลเมื่อหน้าจอสัมผัสอีกอุปกรณ์หนึ่ง</string>
+    <string name="wifi_restore_title">คืนค่าการกำหนดค่า WLAN</string>
+    <string name="security_not_set">ไม่ได้ตั้งค่าระบบป้องกัน</string>
+    <string name="bluetooth_ask_establish_connection">"มีแอ็พต้องการสื่อสารกับ <xliff:g>%1$s</xliff:g> ผ่านทาง บลูทูธ"</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">"แอ็พ <xliff:g>%1$s</xliff:g> ต้องการเปิด บลูทูธ และสื่อสารกับ <xliff:g>%2$s</xliff:g> ผ่านทาง บลูทูธ"</string>
+    <string name="sd_eject_usbstorage" product="default">"ยกเลิกการต่อเชื่อมที่เก็บข้อมูล USB"</string>
+<!-- [QC8916 z2/sisley][FRIESIAN-5824][LQA][TH][hujj2]Wrong translation and layout issue in Shake Lock and Smart Dialer. -->
+    <string name="swing_lock_summary">เขย่าโทรศัพท์อย่างรวดเร็วในทิศทางเดียวเพื่อล็อกหน้าจอ วิธีใช้</string>
+    <string name="usb_tether_type_title">ชนิดการแชร์อินเตอร์เน็ตทาง USB</string>
+    <string name="gesture_series_title">การทำงานของหน้าจอดำ</string>
+    <string name="header_category_system_and_key">การใช้งานทางลัด</string>
+    <string name="wifi_ap_client_ip_label">ที่อยู่ IP:</string>
+    <string name="wifi_ap_title">สถิติ</string>
+    <string name="gemini_sim_management_title">การจัดการ SIM</string>
+    <string name="try_it">ลองใช้</string>
+    <string name="AGPS_NOTIFY_PRIVACY">คำขอสถานที่ (ส่วนบุคคล)</string>
+    <string name="pch_call_prefer_summary_on">เลือกใช้สาย</string>
+    <string name="wifi_hotspot_suspend_optimizations">การปรับ WLAN ฮ็อตสป็อตให้ดีที่สุด</string>
+    <string name="network_synchronization_enable_allow">ทำต่อ</string>
+    <string name="wifi_ipv4_address">ที่อยู่ IPv4</string>
+    <string name="autopop_warning_message">ถ้าคุณไม่ได้ทำเครื่องหมายที่รายการนี้ หน้าต่างนี้จะไม่ปรากฏในครั้งหน้าเมื่อคุณเชื่อมต่อโทรศัพท์ของคุณไปยังคอมพิวเตอร์ คุณสามารถเข้ามายังหน้าต่างนี้โดยการคลิก การแจ้งเตือนระบบ </string>
+    <string name="launch_error">ไม่สามารถเปิดแอพพลิเคชั่นได้!</string>
+    <string name="wifi_no_cert_for_wapi">ไม่พบการรับรองสำหรับ AP ที่เชื่อมต่อปัจจุบัน</string>
+    <string name="custom_theme_name">ใหม่ [%1$s]</string>
+    <string name="wifi_tethering_title">WLAN ฮอตสปอต</string>
+    <string name="passpoint_config_credential_type">ชนิดชื่อและรหัสผ่าน</string>
+    <string name="smart_roll_title">สมาร์ตโรลล์</string>
+    <string name="tethered_ipv6_title">การตั้งค่าฮอตสปอต &amp; การแชร์อินเตอร์เน็ต</string>
+    <string name="display_effect_of_screen_soft">นุ่ม</string>
+    <string name="wifi_ap_connected_title">ผู้ใช้ที่มีการเชื่อมต่อ</string>
+    <string name="tvout_settings">TV ออก</string>
+<!-- [QC8916 z2/sisley][FRIESIAN-5824][LQA][TH][hujj2]Wrong translation and layout issue in Shake Lock and Smart Dialer. -->
+    <string name="side_key_backlight_summary">"กดปุ่มด้านข้างเพื่อเปิดแสงโทรศัพท์ ความช่วยเหลือ"</string>
+    <string name="authdlg_service_ftp">ถ่ายโอนข้อมูลโทรศัพท์เครื่องนี้</string>
+    <string name="loading">กำลังโหลด\u2026</string>
+    <string name="profile_edit_pocket_title">โหมดกระเป๋า</string>
+    <string name="display_effect_of_screen_warm">โทนร้อน</string>
+    <string name="display_effect_of_screen_default">"เริ่มต้น"</string>
+    <string name="wifi_restore_summary">คืนค่าการกำหนดค่า WLAN (เช่น บัญชี/รหัสผ่าน) จาก LeCloud</string>
+    <string name="stop_all_app">"หยุดทั้งหมด"</string>
+    <string name="sd_insert_usb_summary" product="default">"ใส่ที่เก็บข้อมูล USB เพื่อต่อเชื่อม"</string>
+    <string name="dlg_mount_external_sd_title" product="default">เมาท์ SD การ์ดหรือไม่</string>
+    <string name="credentials_none">ไม่มีหลักฐานในขณะนี้</string>
+    <string name="privacy_backup_userdata_summary">สำรองข้อมูลของคุณไปยังที่เก็บข้อมูล</string>
+    <string name="mtk_thememanager_title">"ธีม"</string>
+    <string name="wifi_ap_bandwidth_enable">เปิดใช้งานการควบคุมแบนด์วิดท์</string>
+    <string name="passpoint_supported">สนับสนุน</string>
+    <string name="screen_timeout_CU">การหมดเวลาของหน้าจอ</string>
+    <string name="vpn_delete">คุณแน่ใจหรือไม่ว่าต้องการลบ</string>
+    <string name="privacy_backup_userdata_summary_cloud">สำรองข้อมูลโทรศัพท์ไปยังระบบคลาวด์</string>
+    <string name="bluetooth_advanced_settings">การตั้งค่า ขั้นสูง</string>
+    <string name="gemini_default_sim_never">ปิด</string>
+    <string name="bluetooth_profile_ftp">"ถ่ายโอนไฟล์"</string>
+    <string name="try_swing_lock_info">เขย่าโทรศัพท์เพื่อล็อกหน้าจอ</string>
+    <string name="network_synchronization_enable_deny">ยกเลิก</string>
+    <string name="sim_enter_pin_hints">(ใส่ข้อมูลเป็นตัวเลข 4-8 หลัก)</string>
+    <string name="ipo_summary_on">ปิดทำงานการบูตด่วน</string>
+    <string name="authorizaion_failed_error">การรับรองความถูกต้องล้มเหลว ไม่สามารถเชื่อมต่อกับอุปกรณ์ระยะไกลได้</string>
+    <string name="ipo_summary_off">เปิดทำงานการบูตด่วน</string>
+    <string name="display_settings_scences_title">ซีน</string>
+    <string name="runningapp_stop_dlg_text" product="tablet">ถ้าคุณหยุดบริการเหล่านี้, บาง
+        คุณสมบัติของแท็บเล็ตของคุณอาจหยุดทำงานอย่างถูกต้อง จนกระทั่งคุณปิดเครื่อง
+        จากนั้นเปิดเครื่องอีกครั้ง</string>
+    <string name="usbsetting_usbmassstorage_wait">โปรดรอ...</string>
+    <string name="wifi_WEP_transmit_key">"ปุ่มส่ง"</string>
+    <string name="move_to_sdcard">ย้ายไปยังการ์ดหน่วยความจำเริ่มต้น</string>
+    <string name="gps_time_sync_attention_gps_on">การจับตำแหน่ง GPS จะใช้เวลามากสุด 1 นาที นอกจากนี้ GPS อาจไม่สามารถแสดงเวลาได้ เนื่องจากสัญญาณแวดล้อมที่อ่อนกำลัง\n\nคุณต้องการใช้เวลาที่แสดงโดย GPS หรือไม่</string>
+    <string name="bluetooth_turning_on_failed">ไม่สามารถเปิด บลูทูธ ได้</string>
+    <string name="wifi_tether_wps_connect_title">"WPS เชื่อมต่อ"</string>
+    <string name="tether_title">จุดบริการส่วนตัว</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">คำขอสถานที่ (อนุญาต ถ้าไม่รับสาย) </string>
+    <string name="authdlg_auto_reply">ไม่ต้องถามอีก</string>
+    <string name="move_tomemory_success">การย้ายเสร็จสมบูรณ์แล้ว! ย้าย <xliff:g>%1$s</xliff:g> แอ็พเสร็จสมบูรณ์แล้ว!</string>
+    <string name="eap_sim_aka_no_sim_slot_selected">คุณต้องเลือกช่อง SIM เพื่อใช้ EAP-SIM/AKA</string>
+    <string name="passpoint_summary">เชื่อมต่อไปยัง AP ที่เปิดใช้งาน passpoint โดยอัตโนมัติ</string>
+    <string name="usb_ums_title">"ที่เก็บข้อมูล USB"</string>
+    <string name="usb_bicr_summary">แสดงซีดีรอมเสมือนซึ่งมีซอฟต์แวร์ที่มีประโยชน์</string>
+    <string name="authdlg_service_map">เข้าถึงข้อความในโทรศัพท์เครื่องนี้</string>
+    <string name="server_lenovo_exp_ok">ตกลง</string>
+    <string name="slide_unlock_title">การปลดล็อคหน้าจอดำ</string>
+    <string name="authdlg_service_spp">พอร์ตซีเรียล บลูทูธ ในโทรศัพท์นี้</string>
+    <string name="display_effect_of_screen_dialog_title">สีที่เลือกจะแสดงผลอย่างถูกต้องหลังจากหน้าจอสว่าง</string>
+    <string name="move_select">คุณต้องการย้ายแอ็พที่เลือกไว้หรือไม่ ไม่สามารถย้ายบางส่วนของแอ็พไปยังการ์ดหน่วยความจำเริ่มต้นได้</string>
+    <string name="wifi_restore_failed">คืนค่าไม่สำเร็จ</string>
+    <string name="landscape_launcher_title">Launcher แบบแนวนอน</string>
+    <string name="usb_sharing_info_title">ใช้อินเตอร์เน็ตผ่านคอมพิวเตอร์</string>
+    <string name="clear_cache">"ล้างแคช"</string>
+    <string name="authdlg_service_default">โทรศัพท์เครื่องนี้</string>
+    <string name="wifi_tether_auto_disable_title">เปิด WLAN ไว้ตลอด</string>
+    <string name="wifi_backup_summary">คืนค่าการกำหนดค่า WLAN (เช่น บัญชี/รหัสผ่าน) จาก LeCloud</string>
+    <string name="storage_phone">อุปกรณ์จัดเก็บข้อมูล USB</string>
+    <string name="hdmi_audio_toggler">เสียง</string>
+    <string name="NI_Request_ID">ID ผู้ขอ</string>
+    <string name="passpoint_config_eap_method">"วิธีการ EAP"</string>
+    <string name="wifi_ap_wps_mode_title">โหมด WPS</string>
+    <string name="authdlg_title">คำขอการรับรองความถูกต้องของ บลูทูธ</string>
+    <string name="usb_bicr_title">ไม่มีซีดีรอมในตัว</string>
+    <string name="double_click_title">ความเร็วการดับเบิลคลิก</string>
+    <string name="pin_scroll_title">เลื่อนเพื่อตรึงรายการ</string>
+    <string name="wifi_backup_title">สำรองข้อมูล WLAN</string>
+    <string name="eap_sim_aka_no_sim_error">คุณต้องใส่ซิมการ์ดเพื่อใช้ EAP-SIM/AKA</string>
+    <string name="wifi_wps_fail_error">การตั้งค่าการปกป้อง WLAN ล้มเหลว โปรดลองอีกครั้ง</string>
+    <string name="bluetooth_ftp_profile_summary_connected">"เชื่อมต่อไปยังการถ่ายโอนไฟล์"</string>
+    <string name="privacy_backup_userdata_title_cloud">สำรองข้อมูลไปยังระบบคลาวด์</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">ลดการใช้แบตเตอรี่ให้เหลือน้อยที่สุดเมื่อ WLAN ฮ็อตสป็อตเปิด</string>
+    <string name="privacy_restore_userdata_category_title">กู้คืนข้อมูล</string>
+    <string name="gesture_series_summary">สามารถปลดล็อคภายใต้หน้าจอสีดำได้ และเปิดแอ็พอย่างรวดเร็ว</string>
+    <string name="auto_popup">ไม่แสดงขึ้นมา</string>
+    <string name="MobileNetwork_SIM1_Active">SIM1 แอกทีฟ</string>
+    <string name="move_app_to_where">"ย้ายไปยังการ์ด "<xliff:g id="location">%s</xliff:g>
+  </string>
+    <string name="launch_main_label">เปิดแอพพลิเคชั่น</string>
+    <string name="akp_installer_settings_summary">ติดตั้ง APK ของคุณจาก SD การ์ด</string>
+    <string name="tv_system_title">ระบบ TV</string>
+    <string name="NI_Request_ClientName">ชื่อไคลเอ็นต์</string>
+    <string name="profile_edit_pocket_summary">"เพิ่มระดับเสียงแจ้งเตือนเมื่อโทรศัพท์อยู่ในกระเป๋าหรือเคส"</string>
+    <string name="profile_edit_weaken_summary">ทำให้ระดับเสียงริงโทนเบาลงเมื่อโทรศัพท์ถูกหยิบขึ้นมา | ความช่วยเหลือ</string>
+    <string name="privacy_restore_userdata_summary_cloud">เลือกคืนค่าข้อมูลที่สำรองไปยังระบบคลาวด์</string>
+    <string name="display_effect_of_screen_cool">เจ๋ง</string>
+    <string name="lock_screen_notifications_title">การแจ้งเตือนที่หน้าจอล็อก</string>
+    <string name="header_category_call_and_msg">การโทรและการส่งข้อความ</string>
+    <string name="status_imei_slot1">IMEI (สล็อต1)</string>
+    <string name="wifi_ap_client_details_title">รายละเอียด</string>
+    <string name="server_lenovo_exp_title">ยินดีเข้าร่วม Lenovo Experience Program</string>
+    <string name="status_imei_slot2">IMEI (สล็อต2)</string>
+    <string name="header_category_lock_and_screen">หน้าจอเมื่อล็อกและหน้าจอ</string>
+    <string name="passpoint_append_summary">(ผ่าน Passpoint)</string>
+    <string name="lock_screen_style_title">รูปแบบหน้าจอล็อก</string>
+    <string name="privacy_restore_userdata_title_cloud">คืนค่าจากระบบคลาวด์</string>
+    <string name="app_privacy_settings">การตั้งค่าความเป็นส่วนตัวของแอ็พ</string>
+    <string name="drm_reset_dialog_msg">"การทำงานนี้จะลบใบอนุญาตทั้งหมดบนอุปกรณ์นี้ ทำต่อหรือไม่?"</string>
+    <string name="wapi_as_certificate">"ใบรับรอง ASE"</string>
+    <string name="erase_external_storage_description_fuse">"ลบข้อมูลทั้งหมดในการ์ดหน่วยความจำภายใน เช่น เพลงหรือภาพ"</string>
+    <string name="wifi_tether_auto_channel_width_text">อัตโนมัติ 20/40 MHz</string>
+    <string name="bluetooth_security_confirm">"คำขออนุญาตใช้ บลูทูธ"</string>
+    <string name="slide_unlock_summary">เลื่อนไปทางซ้ายหรือขวาที่ด้านล่างของหน้าจอเพื่อปลดล็อก | ความช่วยเหลือ</string>
+    <string name="wifi_tether_auto_channel_text">อัตโนมัติ</string>
+    <string name="usb_charge_summary">หยุดฟังก์ชั่น USB ทั้งหมด ให้คุณเพิ่มความเร็วการชาร์จผ่าน USB และลดการใช้พลังงาน</string>
+    <string name="long_menu_active_voice_summary">เมื่อหน้าจอสว่าง ให้กดปุ่มเมนูค้างไว้ เพื่อเปิดใช้งานฟังก์ชันเสียง</string>
+    <string name="wifi_ap_time_duration">ช่วงเวลา: 
+        <xliff:g id="time">%1$s</xliff:g> 
+    </string>
+    <string name="wifi_ap_client_mac_label">ที่อยู่ MAC:</string>
+    <string name="wifi_advanced_ipv4_address_title">ที่อยู่ IPv4</string>
+    <string name="hdmi_video_resolution">ความละเอียดของภาพ</string>
+    <string name="tethered_ipv4">(ไม่มี IPv6)</string>
+    <string name="soft_permission">การจัดการสิทธิ์</string>
+    <string name="authdlg_service_dun">บริการเครือข่าย Dial-up ในโทรศัพท์</string>
+    <string name="privacy_backup_userdata_title">สำรองข้อมูลไปยังที่เก็บข้อมูล</string>
+    <string name="prevent_misoperation_summary">ใช้พร็อกซิมิตีเซนเซอร์เพื่อหลีกเลี่ยงการใช้งานโดยไม่ได้ตั้งใจเมื่อโทรศัพท์อยู่ในกระเป๋า</string>
+    <string name="tethered_ipv6">(มีเฉพาะ IPv6)</string>
+    <string name="wifi_ipv6_address">ที่อยู่ IPv6</string>
+    <string name="wifi_ap_bandwidth_title">การใช้แบนด์วิดท์</string>
+    <string name="tethering_apn_settings_title">การตั้งค่า APN</string>
+    <string name="erase_external_storage_fuse">การฟอร์แมตการ์ดหน่วยความจำภายใน</string>
+    <string name="server_lenovo_exp_summery">รวบรวมข้อมูลเพื่อปรับปรุงผลิตภัณฑ์และบริการของเรา</string>
+    <string name="usbsetting_usbmassstorage_close">ปิดอุปกรณ์เก็บข้อมูล USB</string>
+    <string name="wifi_ap_no_connected">0 ผู้ใช้ที่มีการเชื่อมต่อ</string>
+    <string name="wifi_channel_width">ความกว้างของช่องสัญญาณ</string>
+    <string name="dlg_default_write_disk1_change_msg">"ถ้าคุณเลือกที่เก็บข้อมูล USB, แอปพลิเคชันที่ติดตั้งในที่เก็บข้อมูล SD จะไม่สามารถใช้ได้ และอุปกรณ์จะบูตใหม่, แน่ใจว่าต้องการเปลี่ยนเป็นที่เก็บข้อมูล USB หรือไม่?"</string>
+    <string name="wifi_ap_bandwidth_chart_summary">วัดโดยโทรศัพท์ของคุณ การคำนวณความเร็ว\ข้อมูลของผู้ให้บริการของคุณอาจแตกต่างไปจากนี้</string>
+    <string name="usbsetting_help_title">วิธีใช้</string>
+    <string name="bluetooth_remote_device">อุปกรณ์บลูทูธ</string>
+    <string name="long_menu_active_voice">การเปิดใช้งานปุ่มเมนูด้วยเสียง</string>
+    <string name="mouse_primary_button_dialog_title">สลับปุ่มหลัก</string>
+    <string name="authdlg_service_decline">ปฏิเสธ</string>
+    <string name="move_select_short">"คูณต้องการย้ายแอ็พที่เลือกไว้หรือไม่"</string>
+    <string name="display_effect_of_screen_bright">สว่าง</string>
+    <string name="hdmi_video_toggler">ภาพ</string>
+    <string name="wifi_tether_wps_pin_error">PIN ไม่ถูกต้อง</string>
+    <string name="auto_time_on">"ใช้เครือข่ายที่สนับสนุน"</string>
+    <string name="usb_sharing_info_step_1">"1. เปิดการเชื่อมต่อเครือข่ายบนพีซีระบบ Windows ของคุณ"</string>
+    <string name="button_brightness">ความสว่างปุ่ม</string>
+    <string name="display_default">"แสดง"</string>
+    <string name="pch_toggle_title">เลือกใช้การโอน GPRS </string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">คำขอสถานที่ (อนุญาต ถ้าไม่รับสาย) </string>
+    <string name="usb_sharing_info_step_3">"3. คลิกที่แท็บการแชร์ แล้วเลือก \'อนุญาตให้ผู้ใช้เครือข่ายคนอื่นเชื่อมต่อผ่านการเชื่อมต่ออินเตอร์เน็ตของคอมพิวเตอร์เครื่องนี้\'(เลือกเครือข่ายที่เพิ่มเข้าไปใหม่ ซึ่งจะแสดงการเชื่อมต่ออินเตอร์เน็ตผ่าน USB ถ้า\'การเชื่อมต่อเครือข่ายภายในบ้าน\' ปรากฏขึ้น)"</string>
+    <string name="wifi_ap_wps_pin_title">พิมพ์ PIN จากไคลเอนต์</string>
+    <string name="usb_sharing_info_step_2">"2. คลิกด้านขวาที่การเชื่อมต่อที่ต้องการแชร์ แล้วจึงคลิกที่คุณสมบัติ"</string>
+    <string name="runningapp_stop_dlg_text" product="default">ถ้าคุณหยุดบริการเหล่านี้, บาง
+        คุณสมบัติของโทรศัพท์ของคุณอาจหยุดทำงานอย่างถูกต้อง จนกระทั่งคุณปิดเครื่อง
+        จากนั้นเปิดเครื่องอีกครั้ง</string>
+    <string name="wifi_tether_wps_connect_summary">ดำเนินการต่อในโหมดการตั้งค่า WLAN แบบมีการป้องกันที่เลือก</string>
+    <string name="wizard_title">คู่มือผู้ใช้มือใหม่</string>
+    <string name="location_settings_label">โหมดวิศวกรตำแหน่ง</string>
+    <string name="sim_status_title">สถานะ SIM</string>
+    <string name="auto_rotate_type">หมุนหน้าจออัตโนมัติ</string>
+    <string name="wifi_hex_password">"รหัสผ่านเลขฐานสิบหก"</string>
+    <string name="pch_data_prefer_summary_off">เลือกใช้ข้อมูล</string>
+    <string name="wifi_WEP_secury_key">"ปุ่มระบบป้องกัน"</string>
+    <string name="passpoint_username_pw">ชื่อผู้ใช้/รหัสผ่าน</string>
+    <string name="dlg_default_write_disk_change_msg">การเขียนดิสก์เริ่มต้นเปลี่ยนแปลง ต้องบูตใหม่เดี๋ยวนี้!</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off" msgid="1225626898926363100">"หากต้องการดูอุปกรณ์ ให้เปิดจอแสดงผลไร้สาย"</string>
+    <string name="drm_settings_title">"DRM รีเซ็ต"</string>
+    <string name="notification_settings_title">การตั้งค่าการแจ้งเตือน</string>
+    <string name="wifi_ap_client_unblock_title">ยกเลิกการบล็อก</string>
+    <string name="authdlg_service_opp">โทรศัพท์เครื่องนี้</string>
+    <string name="display_personalize">ปรับแต่ง</string>
+    <string name="usb_tethering_select_version">เลือกเวอร์ชั่นระบบ PC</string>
+    <string name="drm_settings_summary">"ลบใบอนุญาต DRM ทั้งหมด"</string>
+    <string name="hdmi_settings_summary">คลิกเพื่อตั้งค่า HDMI</string>
+    <string name="wifi_ap_no_blocked">0 ผู้ใช้ที่ถูกบล็อก</string>
+    <string name="smart_rotate_type">หน้าจอหมุนแบบสมาร์ต</string>
+    <string name="wifi_tether_setting_title">การตั้งค่าพื้นฐาน</string>
+    <string name="master_clear_error">SYNCit ถูกปิดใช้งาน โปรดเปิดใช้งาน</string>
+    <string name="tvout_settings_summary">การตั้งค่า TV ออก</string>
+    <string name="try_swing_lock_result_ok">วิธีถูกต้อง คุณอาจใช้ฟังก์ชันนี้</string>
+    <string name="wifi_ap_wps_dialog_title">"WPS เชื่อมต่อ"</string>
+    <string name="authdlg_service_accept">อนุญาต</string>
+    <string name="dialog_title_button_brightness">ความสว่างปุ่ม</string>
+    <string name="move_to_phone">ย้ายไปยังโทรศัพท์</string>
+    <string name="usbsetting_usbmassstorage_open">เปิดอุปกรณ์เก็บข้อมูล USB</string>
+    <string name="wide_touch_title">สัมผัสกว้าง</string>
+    <string name="wifi_ap_blocked_title">ผู้ใช้ที่ถูกบล็อก</string>
+    <string name="gesture_rotate_type">เจสเจอร์หมุนหน้าจอ</string>
+    <string name="sd_mount_usbstorage" product="default">"ต่อเชื่อมที่เก็บข้อมูล USB"</string>
+    <string name="vpn_delete_title">ลบ</string>
+    <string name="wifi_ap_total_data">ข้อมูลที่ใช้ทั้งหมด:
+        <xliff:g id="time">%1$s</xliff:g>
+    </string>
+    <string name="unlock_set_unlock_mode_voice_weak">ปลดล็อกด้วยเสียง</string>
+    <string name="audio_profile_settings_title_lap">โปรไฟล์เสียง</string>
+    <string name="storage_path0">อุปกรณ์จัดเก็บข้อมูล USB</string>
+    <string name="uninstall_select">ถอนการติดตั้งที่เลือก?</string>
+    <string name="storage_path1">ที่เก็บข้อมูล SD</string>
+    <string name="install_local">ตำแหน่งการติดตั้งซอฟต์แวร์</string>
+    <string name="server_lenovo_exp_cancel">ยกเลิก</string>
+    <string name="hdmi_auto">"อัตโนมัติ"</string>
+    <string name="server_lenovo_exp_dlg_title">คำเตือน</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">"มีแอ็พต้องการเปิด บลูทูธ และสื่อสารกับ <xliff:g>%1$s</xliff:g> ผ่านทาง บลูทูธ"</string>
+    <string name="lock_screen_notifications_summary">แสดงการแจ้งเตือนบนหน้าจอล็อก</string>
+    <string name="wapi_user_certificate">"ใบรับรองของผู้ใช้"</string>
+    <string name="privacy_restore_userdata_title">เรียกคืนจากที่เก็บข้อมูล</string>
+
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="dlg_error_unmount_usb_title" product="default">ไม่มีบัญชี </string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">ไม่มีบัญชี </string>
+    <string name="summary_lcd_invert">ไม่มีบัญชี </string>
+    <string name="airbuse_phone_info_cpu">"Qualcomm MSM8612  4*1.2GHz"</string>
+    <string name="airbuse_phone_info_runMemory">"1.0GByte"</string>
+    <string name="shellt_phone_info_cpu">"Qualcomm MSM8926  4*1.2GHz"</string>
+    <string name="shellt_phone_info_runMemory">"1.0GByte"</string>
+    <string name="k6kk_phone_info_runMemory">"2.0GByte"</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">ไม่มีบัญชี </string>
+
+    <string name="power_settings">ระบบจัดการพลังงาน</string>
+    <string name="multiwindow_settings">หลายหน้าต่าง</string>
+    <string name="night_mode_summary">โหมดนี้เหมาะสำหรับการเรียกดูในเวลากลางคืนและบางแอปโดยอาจไม่สามารถแตะบางปุ่มได้</string>
+    <string name="long_press_back_finish_title">กด กลับ ค้างไว้เพื่อออก</string>
+    <string name="night_mode">การป้องกันสายตาในช่วงกลางคืน</string>
+    <string name="long_press_back_finish_summary">กด กลับ ค้างไว้เพื่อออกจากโปรแกรมปัจจุบัน</string>
+    <string name="change_settings_to_all_settings">เปลี่ยนเป็นการตั้งค่า</string>
+    <string name="touch_free_phone_dial">การโทรออกแบบไม่ต้องสัมผัส</string>
+    <string name="tilt_slide_summary">เอียงไปทางซ้าย/ขวาเพื่อเรียกดูแบบสไลด์</string>
+    <string name="change_settings_to_recent">เปลี่ยนเป็นการตั้งค่าเร็วๆ นี้</string>
+    <string name="touch_free_phone_answer">การรับสายแบบไม่ต้องสัมผัส</string>
+    <string name="recent_settings_empty">ไม่มีการตั้งค่าระบบเมื่อเร็วๆ นี้</string>
+    <string name="recent_settings">การตั้งค่าเมื่อเร็วๆ นี้</string>
+    <string name="tilt_slide_title">สไลด์ด้วยการเอียง</string>
+    <string name="display_effect_type_hue_cool">สีโทนเย็น</string>
+    <string name="display_effect_buttom_text_cancel">ยกเลิก</string>
+    <string name="display_effect_mode_default_summary">โหมดเริ่มต้นจากโรงงานเพื่อให้ได้สีที่ดีที่สุด</string>
+    <string name="display_effect_mode_auto_summary">เปลี่ยนโหมดโดยอัตโนมัติตามแอ็พพลิเคชันเบราเซอร์และสภาพแวดล้อม</string>
+    <string name="display_effect_type_hue">เสียง</string>
+    <string name="display_effect_mode_default_title">โหมดเริ่มต้น</string>
+    <string name="display_effect_mode_comfirtable_title">โหมดสบาย</string>
+    <string name="display_effect_type_hue_default">ปกติ</string>
+    <string name="display_effect_type_contrast_sharp">คมชัด</string>
+    <string name="display_effect_mode_comfirtable_summary">ถนอมสายตาและเหม</string>
+    <string name="display_effect_type_hue_warm">สีโทนอุ่น</string>
+    <string name="display_effect_type_saturation">ความสดของสี</string>
+    <string name="display_effect_type_contrast_soft">พาสเทล</string>
+    <string name="display_effect_mode_auto_title">โหมดอัตโนมัติ</string>
+    <string name="display_effect_mode_ultra_bright_summary">เอฟเฟกต์การแสดงผลสว่างพิเศษ โหมดนี้จะส่งผลกระทบต่อการใช้พลังงานขณะสแตนด์บาย</string>
+    <string name="display_effect_type_saturation_default">ปกติ</string>
+    <string name="display_effect_smart_brightness_title">โหมดแสงจ้าอัจฉริยะ</string>
+    <string name="display_effect_buttom_text_apply">นำไปใช้</string>
+    <string name="display_effect_mode_ultra_bright_title">โหมดความสว่างพิเศษ</string>
+    <string name="display_effect_category_title_commom_mode">โหมดทั่วไป</string>
+    <string name="display_effect_mode_outdoor_title">โหมดแสงจ้า</string>
+    <string name="display_effect_type_contrast_default">ปกติ</string>
+    <string name="display_effect_type_saturation_bright">สดใส</string>
+    <string name="display_effect_type_contrast">ความเข้ม</string>
+    <string name="display_effect_mode_outdoor_summary">เหมาะสำหรับใช้งานกลางแจ้งที่มีสภาพแสงจ้า เพิ่มความง่ายในการอ่านเมื่ออยู่กลางแจ้ง โหมดนี้จะส่งผลกระทบต่อฟังก์ชันสแตนด์บาย ผู้ใช้ทั่วไปควรใช้ความระมัดระวัง!</string>
+    <string name="display_effect_mode_custom_title">กำหนดเอง</string>
+    <string name="display_effect_category_title_smart">อัจฉริยะ</string>
+    <string name="display_effect_type_saturation_soft">พาสเทล</string>
+    <string name="display_effect_mode_custom_summary">ตั้งแต่ละพารามิเตอร์และค่าด้วยตนเอง</string>
+    <string name="display_effect_smart_brightness_summary">เทคโนโลยีอัจฉริยะจะตัดสินว่าเมื่อใดที่โทรศัพท์อยู่ในสภาพแวดล้อมแบบแสงจ้า แล้วทำการเริ่มโหมดแสงจ้า โหมดนี้จะช่วยเพิ่มความง่ายในการอ่านเมื่ออยู่กลางแจ้งในสภาพแสงจ้า</string>
+<string name="device_info" msgid="3191876744469364173">"ข้อมูลของเครื่องโทรศัพท์"</string>
+<string name="pocket_mode_title">โหมดกระเป๋า</string>
+<string name="pocket_mode_summary">"เพิ่มระดับเสียงแจ้งเตือนเมื่อโทรศัพท์อยู่ในกระเป๋าหรือเคส"</string>
+<string name="pocket_mode_help">"เพิ่มระดับเสียงแจ้งเตือนเมื่อโทรศัพท์อยู่ในกระเป๋าหรือเคส"</string>
+<string name="ringtone_weaken_title">ลดเสียงเรียกเข้า</string>
+<string name="ringtone_weaken_summary">ทำให้ระดับเสียงริงโทนเบาลงเมื่อโทรศัพท์ถูกหยิบขึ้นมา | ความช่วยเหลือ</string>
+<string name="ringtone_weaken_help">ระดับเสียงเรียกเข้าจะลดลงเมื่อหยิบโทรศัพท์</string>
+<string name="gesture_topspeed_snap_title">จับภาพด่วน</string>
+<string name="gesture_topspeed_snap_summary">คลิ๊กที่ปุ่มโฮมสองครั้งเพื่อจับภาพเมื่อล็อกหน้าจอ</string>
+<string name="gesture_light_up_screen_title">"เพิ่มความสว่างหน้าจอ"</string>
+<string name="gesture_light_up_screen_summary">"คลิ๊กที่หน้าจอสองครั้งเพื่อเพิ่มความสว่างของหน้าจอ"</string>
+<string name="usb_detail_message">ใช้คอมพิวเตอร์เพื่อจัดการโทรศัพท์ของคุณ โปรดไปที่ http://sj.lenovo.com เพื่อรับซอฟต์แวร์ Lenovo ลิขสิทธิ์</string>
+<string name="bluetooth_confirm_device_pair">จับคู่กับ:</string>
+<string name="wifi_ap_less">ตรวจสอบสัญญาณที่ดี</string>
+<string name="usb_adb_summary">เริ่มโหมดการดีบัก ใช้คอมพิวเตอร์เพื่อจัดการโทรศัพท์ของคุณ แนะนำให้ใช้ซอฟต์แวร์ลิขสิทธิ์</string>
+<string name="wifi_ap_more">ตรวจสอบจุดการเชื่อมต่อทั้งหมด</string>
+<string name="bluetooth_confirm_passkey_show">ตรวจสอบให้แน่ใจว่าอุปกรณ์แสดงรหัสผ่านนี้:</string>
+<string name="usb_adb_title">การดีบัก USB (ADB)</string>
+<string name="wifi_wapi_cert_install">ติดตั้งการรับรอง WAPI</string>
+<string name="location_agps_pref_apn_title">apn ที่ต้องการ</string>
+<string name="location_agps_roaming_help">คำเตือน： การเลือกทุกเครือข่ายเพื่อเปิด AGPS อาจทำให้กินแบตเตอรี่ขณะโรมมิ่ง ！</string>
+<string name="wifi_wapi_cert_install_button">ติดตั้ง</string>
+<string name="wifi_wapi_cert_create_subdir">สร้างไดเรกทอรี</string>
+<string name="wifi_wapi_cert_mgmt_user_dont_exist">โปรดป้อนชื่อการรับรองผู้ใช้</string>
+<string name="wifi_wapi_user_cert">การรับรองผู้ใช้</string>
+<string name="location_agps_apn_summary">เลือกชนิด apn ที่ต้องการ</string>
+<string name="location_agps_apn_choose_dialog_title">ชนิดของ Apn</string>
+<string name="location_agps_si_mode_dialog_title">วิธีเปิดใช้ AGPS </string>
+<string name="wifi_wapi_cert_mgmt_subdir_exist">ไม่มีชื่อไดเรกทอรีนี้ โปรดป้อนชื่ออื่น</string>
+<string name="location_agps_pref_reset_type_title">ชนิดการรีเซ็ตที่ต้องการ</string>
+<string name="wifi_wapi_as_cert">การรับรอง AS</string>
+<string name="supl_not_set">"&lt;ไม่ได้ตั้งค่า&gt;"</string>
+<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">โปรดป้อนชื่อไดเรกทอรีที่คุณต้องการจะสร้าง!</string>
+<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">รูปแบบการรับรองผู้ใช้ผิด! โปรดติดตั้งการรับรองผู้ใช้ที่ถูกต้อง</string>
+<string name="location_agps_si_mode">โหมด AGPS SI </string>
+<string name="location_agps_reset_type_summary">เลือกชนิดการรีเซ็ตที่ต้องการ</string>
+<string name="location_agps_supl_settings">การตั้งค่า SUPL </string>
+<string name="wifi_wapi_cert_mgmt_subdir_create_fail">การสร้างไดเรกทอรีล้มเหลว</string>
+<string name="wifi_wapi_cert_mgmt_as_dont_exist">การ์ด SD ไม่มีการรับรอง AS โปรดตรวจสอบ!</string>
+<string name="invalid_network_mode">โหมดเครือข่ายไม่ถูกต้อง</string>
+<string name="location_agps_si_mode_summary">เลือกวิธีเปิดใช้ AGPS ที่ต้องการ</string>
+<string name="location_agps_reset_type">ประเภทของการรีเซ็ต</string>
+<string name="not_support_choose">ช่อง 2 ไม่รองรับโหมดเครือข่ายที่เลือก</string>
+<string name="location_agps_supl_server_addr">เซิร์ฟเวอร์แอดเดรส</string>
+<string name="location_agps_pref_si_title">โหมดที่ต้องการ</string>
+<string name="location_agps_def_reset_type">ร้อน</string>
+<string name="wifi_wapi_cert_uninstall">ถอนการติดตั้งการรับรอง WAPI</string>
+<string name="location_agps_def_network_mode">โฮม</string>
+<string name="wifi_wapi_cert_mgmt_as_name_is_empty">โปรดป้อนเป็นชื่อการรับรอง</string>
+<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">รูปแบบการรับรอง AS ผิด! โปรดติดตั้งสิทธิ์การรับรอง AS</string>
+<string name="location_agps_apn_type">ชนิดของ Apn </string>
+<string name="location_agps_register_network_type">ประเภทการเข้าถึงเครือข่าย</string>
+<string name="wifi_wapi_cert_uninstall_button">ถอนการติดตั้ง</string>
+<string name="location_agps_supl_server_port">เซิร์ฟเวอร์พอร์ต</string>
+<string name="location_agps_register_network_type_summary">เลือกเครือข่ายที่จะเข้าถึงเพื่อใช้ AGPS...</string>
+<string name="location_agps_params_settings_title">การตั้งค่า AGPS</string>
+<string name="wifi_wapi_cert_mgmt_titlebar">การจัดการการรับรอง WAPI</string>
+<string name="wifi_wapi_cert_cancel_button">"ยกเลิก"</string>
+<string name="wifi_wapi_cert_delet_subdir">เลือกการรับรองชุด</string>
+<string name="wifi_wapi_cert_mgmt_user_name_is_empty">โปรดป้อนชื่อการรับรองผู้ใช้</string>
+<string name="location_agps_pref_network_title">เครือข่ายที่ต้องการ</string>
+<string name="location_agps_register_network_type_dialog_title">เลือกเครือข่าย</string>
+<string name="smart_standby_enable_title">"สแตนด์บายอัจฉริยะ"</string>
+<string name="smart_standby_enable_summary">"เมื่อหน้าจอเปิดขึ้น ก็จะเปิดต่อไปเรื่อยๆ หากตรวจจับดวงตาที่จ้องมาที่หน้าจอได้ หากหน้าจอกับดวงตาทำมุมเอียงเกินไปหรือแสงไม่เพียงพอ อัตราการตรวจจับจะลดลง"</string>
+<string name="phone_storage_info">หน่วยความจำในเครื่อง</string>
+    <string name="usb_detail_title">รับซอฟต์แวร์ Lenovo ลิขสิทธิ์</string>
+    <string name="processor_unit_info">คอร์</string>
+    <string name="night_mode_tip_secure_button">ปิดใช้งานโหมดการอ่านในตอนกลางคืนแล้วคลิกอีกครั้ง</string>
+    <string name="location_agps_reset_type_choose_dialog_title">ประเภทของการเริ่มทั้งหมด</string>
+    <string name="wide_touch_help">เปิดปุ่มลัดหรือแอปด้วยการควบคุมการสัมผัส</string>
+    <string name="lenovo_cloud">บริการบนระบบคลาวด์</string>
+    <string name="zone_auto_summaryOn_not_row">"ใช้โซนเวลาที่เครือข่ายกำหนด คุณลักษณะนี้ขึ้นอยู่กับผู้ใช้บริการและไม่ได้รับการสนับสนุนในบางประเทศ"</string>
+    <string name="zone_auto_summaryOff_not_row">"ใช้โซนเวลาที่เครือข่ายกำหนด คุณลักษณะนี้ขึ้นอยู่กับผู้ใช้บริการและไม่ได้รับการสนับสนุนในบางประเทศ"</string>
+    <string name="location_agps_settings_title">การตั้งค่า AGPS</string>
+    <string name="night_mode_notification_title">โหมดการอ่านในตอนกลางคืนเปิดใช้งานอยู่</string>
+    <string name="night_mode_notification_text">คลิกเพื่อปิดใช้งานโหมดการอ่านในตอนกลางคืน</string>
+<string name="wifi_account_share">@string/wlan_share</string>
+<string name="wifi_status_test">สถานะ WLAN</string>
+<string name="wifi_signal_strong_title">"การเร่งสัญญาณ WLAN"</string>
+<string name="wifi_signal_strong_summary">"เร่งสัญญาณโดยอัตโนมัติเพื่อให้ได้การเชื่อมต่อที่ดีขึ้นเมื่อสัญญาณการเชื่อมต่ออ่อน" </string>
+    <string name="do_not_distube">"โหมดห้ามรบกวน"</string>
+    <string name="gesture_light_up_off_screen_title">"แตะสองครั้งเพื่อเปิด/ปิดหน้าจอ"</string>
+
+    <string name="StorageDialog_summary">ตรวจพบว่าคุณได้ถอดที่จัดเก็บภายนอกออก ระบบจะสลับไปใช้ที่จัดเก็บในตัวและรีสตาร์ท ต้องการรีสตาร์ทหรือไม่ \n\n ไม่ต้องรีสตาร์ทหากใส่ที่จัดเก็บภายนอกกลับเข้ามาใหม่แล้ว</string>
+    <string name="StorageDialog_comfirm">รีสตาร์ท</string>
+    <string name="StorageDialog_title">การติดต่อ</string>
+    <string name="dlg_default_write_disk_encrypted_msg">เพื่อปกป้องความเป็นส่วนตัวที่มีประสิทธิภาพยิ่งขึ้น พื้นที่จัดเก็บข้อมูลหลักควรตั้งค่าการจัดเก็บภายในเมื่อโทรศัพท์ถูกเข้ารหัส</string>
+</resources>

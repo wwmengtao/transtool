@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<string name="close">"Đóng"</string>
+<string name="add">Thêm</string>
+<string name="app_browser_title">Ứng dụng nhiều cửa sổ</string>
+<string name="app_name">Nhiều cửa sổ</string>
+    <string name="cancle">"Hủy"</string>
+    <string name="open">"Mở"</string>
+    <string name="confirm">"Xác nhận"</string>
+    <string name="menu_settings">"Cài đặt"</string>
+    <string name="hello_world">Chào thế giới!</string>
+    <string name="authorization_message">Bạn sẽ mở ứng dụng này bằng chức năng Đa cửa sổ?</string>
+    <string name="tips">Kéo để tạo đa cửa sổ</string>
+    <string name="authorization_notication">Thông báo Ủy quyền</string>
+</resources>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="ext_mvno_type_entries">
+        <!-- to avoid translate again for string "None". -->
+        <item>@string/landscape_launcher_none</item>
+        <!-- Do not translate. -->
+        <item>SPN</item>
+        <!-- Do not translate. -->
+        <item>IMSI</item>
+        <!-- Do not translate. -->
+        <item>GID</item>
+        <!-- Do not translate. -->
+        <item>PNN</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>@string/wifi_security_none</item>
+        
+        
+        
+        
+    <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="entries_keyboard_lights">
+        
+        
+    <item>Obično uključeno</item>
+        <item>3 sekunde</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        
+        
+        
+    <item>Automatski</item>
+        <item>WEP ASCII</item>
+        <item>WEP heksadecimalni</item>
+    </string-array>
+    <string-array name="wfd_720p_resolution_entry">
+        
+        
+    <item>720p (60 kadrova u sekundi)</item>
+        <item>﻿720p (30 kadrova u sekundi)</item>
+    </string-array>
+    <string-array name="sim_slot">
+
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+    <item>(nije definisano)</item>
+        <item>Ležište za SIM karticu 1</item>
+        <item>Ležište za SIM karticu 2</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+    <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="tethered_ipv6_entries">
+        
+        
+    <item>IPv4</item>
+        <item>IPv4 i IPv6</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        
+        
+        
+    <item>Pretplata 1</item>
+        <item>Pretplata 2</item>
+        <item>Pitaj</item>
+    </string-array>
+    <string-array name="wpa_security">
+
+        <!-- The WLAN network does not have any security. -->
+        <item>@string/wifi_security_none</item>
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+        <!-- Do not translate. -->
+        
+    <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="mouse_primary_button_titles">
+        
+        
+    <item>Miš za desnoruke</item>
+        <item>Miš za levoruke</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+
+        <!-- Always keep WLAN on when screen turns off. -->
+        
+        <!-- Keep WLAN on when screen turns off and plugged in.  When on battery, go to sleep when screen turns off. -->
+        
+        <!-- Do not keep WLAN on when screen turns off. -->
+        
+    <item>Uvek</item>
+        <item>Isključi ako se ne koristi 5 min</item>
+        <item>Isključi ako se ne koristi 10 min</item>
+    </string-array>
+    <string-array name="wapi_security">
+
+        <!-- The WLAN network does not have any security. -->
+        <item>@string/wifi_security_none</item>
+        <!-- Do not translate. -->
+        
+        
+    <item>WAPI PSK</item>
+        <item>WAPI certifikat</item>
+    </string-array>
+    <string-array name="wfd_1080p_resolution_entry">
+        
+        
+        
+    <item>1080p (30 kadrova u sekundi)</item>
+        <item>720p (60 kadrova u sekundi)</item>
+        <item>720p (30 kadrova u sekundi)</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>@string/wifi_security_none</item>
+        
+        
+        
+        
+        
+        
+    <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI certifikat</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Koristi vreme dobijeno sa mreže</item>
+        <item>Koristi vreme dobijeno preko GPS signala</item>
+        <item>Isključeno</item>
+    </string-array>
+    <string-array name="entries_button_brightness">
+        <item>Otvori</item>
+        <item>3 sekunde</item>
+        <item>Automatski</item>
+        <item>Zatvori</item>
+    </string-array>
+    <string-array name="entries_smart_rotation">
+        <item>Pametno rotiranje ekrana (ekran se rotira u skladu sa pogledom)</item>
+        <item>Automatski rotiraj ekran</item>
+        <item>Zatvoreno</item>
+    </string-array>
+    <string-array name="entries_smart_rotation_nocamera">
+        <item>Rotiranje pokretom</item>
+        <item>Automatsko rotiranje</item>
+        <item>Isključeno</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Preporuke za sistem</item>
+        <item>Instaliraj na telefon</item>
+        <item>Instaliraj na podrazumevanu memorijsku karticu</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_smart">
+        <item>"Uvek"</item>
+        <item>"Samo u toku punjenja"</item>
+        <item>"Nikada (povećava protok podataka)"</item>
+        <item>"Pametno mirovanje (prenos podataka se uključuje/isključuje u zavisnosti od saobraćaja)"</item>
+    </string-array>
+</resources>

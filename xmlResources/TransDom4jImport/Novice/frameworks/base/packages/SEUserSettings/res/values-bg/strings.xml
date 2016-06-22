@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="user_normal_mode">Обща среда</string>
+<string name="user_auto_start_user_summary">Автоматично включване на Безопасна среда във фонов режим при стартиране</string>
+<string name="user_setup_seuser_msg">Безопасна среда е включена. Влизане сега и довършване на настройките?</string>
+<string name="user_restrictions_controlled_by" msgid="3164078767438313899">"Контролирани от <xliff:g id="APP">%1$s</xliff:g>"</string>
+<string name="user_config_apps_for_seuser">Задаване на приложението, което трябва да инсталирате в настоящата среда</string>
+<string name="user_add_seuser_msg">Безопасната среда не е включена още. Да се включи ли сега?</string>
+<string name="user_auto_start_user">Включване на Безопасна среда при стартиране</string>
+<string name="user_setup_button_setup_later" msgid="3068729597269172401">"Не сега"</string>
+<string name="user_need_lockscreen_for_seuser_msg">Трябва да зададете заключване на екрана, за да запазите приложенията и данните в безопасен режим.</string>
+<string name="user_share_data_summary">Споделянето на контакти, текстови съобщения, регистри на обаждания и други данни в двете среди започва след рестартиране</string>
+<string name="app_name" msgid="1626402585530130914">"Настройки"</string>
+<string name="done_button" msgid="1991471253042622230">"Готово"</string>
+<string name="user_share_data">Споделяне на данни</string>
+<string name="user_float_switch_button_summary">Показване на плаващ бутон на екрана за лесно превключване между среди</string>
+<string name="user_security_mode">Безопасна среда</string>
+<string name="user_float_switch_button">Плаващ бутон</string>
+<string name="user_set_lock_button" msgid="8311219392856626841">"Задаване на заключване"</string>
+    <string name="user_guide_title_2">Конфигуриране на настоящия режим </string>
+    <string name="user_guide_title_3">Известия в режим Cross-Mode</string>
+    <string name="user_guide_title_1">Въведение в Безопасен режим</string>
+    <string name="user_guide_title_4">Изолиране на данни и споделяне </string>
+    <string name="user_guide_desc_1">Безопасният режим ви позволява да конфигурирате приложения, акаунти, тапети и пароли за отключване на екрана, различни от тези в настоящия режим. Натиснете иконата \"Безопасен режим\" от лентата за състоянието за бързо превключване между режимите.</string>
+    <string name="user_guide_desc_2">Натиснете и задръжте иконата \"Безопасен режим\" от лентата за състоянието, за да влезете в интерфейса за настройки на настоящия режим. Може да конфигурирате приложението, което трябва да инсталирате в настоящия режим.</string>
+    <string name="user_guide_desc_3">При нормален режим всички известия от приложения в Безопасен режим ще се показват в лентата за състоянието. Върху иконата за известия се появява червена точка, за да може известията да се разграничават от тези в настоящия режим. Превключете между режимите, за да видите известията.</string>
+    <string name="user_guide_desc_4">Данните от приложенията и документите в двата режима са напълно разделени. Съдържанието от SD картата в нормален режим може да бъде видяно в директория OpenUserData при безопасен режим на SD картата, но не и обратното. Регистрите на обажданията, съобщенията и контактите се споделят между двата режима с цел гарантиране на нормалната работа при разговори и съобщения в двата режима.</string>
+    <string name="user_remove_secure_user">Изтриване на безопасна среда</string>
+    <string name="user_privacy_mgt_summary">Ограничаване на достъпа на приложения към контакти, съобщения и регистъра на обажданията.</string>
+    <string name="user_remove_secure_user_reboot_msg">Всички данни, снимки и файлове на приложението в безопасната среда ще бъдат изчистени. Системата се рестартира автоматично за прилагане на промените. Изтриване?</string>
+    <string name="user_bgapp_mgt">Ограничаване на фонови приложения</string>
+    <string name="user_privacy_mgt">Управление на поверителен достъп</string>
+    <string name="user_privacy_mgt_msg">Блокиране на достъпа на приложение до контакти, съобщения и регистъра на обажданията.</string>
+    <string name="user_bgapp_mgt_summary">Блокиране на автоматичното стартиране на приложение и прекратяване на неговите фонови процеси.</string>
+    <string name="user_remove_secure_user_msg">Всички данни, снимки и файлове на приложението в безопасната среда ще бъдат изчистени. Изтриване?</string>
+    <string name="user_bgapp_mgt_msg">Блокиране на автоматичното стартиране на приложение и прекратяване на неговите фонови процеси. Не важи за приложения, които се изпълняват във фонов режим, като имейл и WhatsApp.</string>
+    <string name="user_uninstall_app_for_all_user_msg">Приложението не е инсталирано в други среди и ще бъде напълно изтрито от телефона след деинсталиране. Деинсталиране?</string>
+<string name="help_label">"помощ"</string>
+    <string name="user_uninstall_app_msg">Желаете ли да деинсталирате това приложение под настоящата среда?</string>
+</resources>

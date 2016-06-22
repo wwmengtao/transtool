@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="wifi_enable_summary">當進入使用過的AP範圍，在信號高於2格且有GPRS流量時，打開WLAN</string>
+<string name="confirm_no">否</string>
+<string name="disable_dialog_text">當前已離開綁定的無線網絡的覆蓋範圍，是否關閉WLAN？</string>
+<string name="dialog_text">"當前處於綁定的無線網絡的覆蓋範圍內，是否連接該無線網絡？"</string>
+<string name="wifi_popup_0">綁定連接的AP，下次進入該區域彈出提示</string>
+<string name="disable_show_dialog">不再提醒</string>
+<string name="wifi_popup_2">不綁定WLAN</string>
+<string name="wifi_popup_1">綁定連接的AP，下次進入該區域自動打開</string>
+<string name="wifi_disable_summary">當離開連接AP的位置，提醒關閉WLAN</string>
+<string name="setting_activity">"WLAN位置綁定"</string>
+<string name="confirm_yes">是</string>
+<string name="wifi_popup_tip">彈出提示</string>
+<string name="app_name">"WLAN位置綁定"</string>
+<string name="show_dialog">不再提醒</string>
+<string name="wifi_auto_disable">自動關閉</string>
+<string name="dialog_title">"連接WLAN"</string>
+<string name="wifi_auto_enable">自動連接</string>
+<string name="wifi_setting_summary">綁定連接過的無線網絡，之後在該無線網絡覆蓋範圍內如果檢測到手機卡上網且該無線網絡的信號大於2格，則提醒或自動連接該無線網絡</string>
+<string name="wifi_enable_text">進入網絡範圍處理方式</string>
+<string name="wifi_disable_text">離開網絡範圍處理方式</string>
+<string name="disable_dialog_title">"關閉WLAN"</string>
+</resources>

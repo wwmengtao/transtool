@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+    <string name="app_name">"WLAN share"</string>
+    <string name="dlg_open_wifi_message">WLAN must be activated to enable WLAN share, do you want to activate WLAN?</string>
+    <string name="dlg_open_wifi_message_tel">You can\'t use WLAN share in Airplane mode.</string>
+    <string name="dlg_ok">Confirm</string>
+    <string name="dlg_cancel">Cancel</string>
+    <string name="connect_info_one2one">Supports one-to-one connection only. Please close all other connections before trying again.</string>
+    <string name="socketchannel_busy">Working. Please try again later!</string>
+    <string name="dlg_request_if_send_file">
+	       Do you want to send document: <xliff:g id="id_2">%2$s</xliff:g> to <xliff:g id="id_1">%1$s</xliff:g>?
+    </string>
+    <string name="dlg_request_if_receive_file">Accept </string>
+    <string name="dlg_sdcard_not_mounted_message">Storage device unavailable. Please close USB storage device before trying.</string>
+    <string name="dlg_sent_file_success_notification_message">Document successfully sent. Please view on the recipient’s mobile phone.</string>
+    <string name="dlg_sent_file_confirm_notification_message">Are you sure to cancel current document transmission?</string>
+    <string name="dlg_sent_file_fail_notification_message">Document not sent. Please re-send.</string>
+    <string name="dlg_received_file_success_notification_message">Document successfully received. Please press to view.</string>
+    <string name="dlg_received_file_confirm_notification_message">Are you sure to cancel current document transmission?</string>
+    <string name="dlg_received_file_fail_notification_message">Document not received. Please try again.</string>
+        
+   	<string name="sent_file_dialog">Document successfully sent (document saved under: /WlanShare on recipient\'s mobile phone):</string>
+	<string name="sent_file_fail_dialog">Document not sent!</string>
+   	<string name="received_file_dialog">Document successfully received (saved under:/WlanShare):</string>
+   	<string name="received_file_fail_dialog">Document not received!</string>
+
+    <string name="sending_file_notification">WLAN share: Sending document</string>
+    <string name="receiving_file_notification">WLAN share: Receiving document</string>
+    <string name="sent_file_result_notification">"WLAN share: Sent document"</string>
+    <string name="received_file_result_notification">"WLAN share: Received document"</string>
+    <string name="sent_received_file_result_number_notification">
+        <xliff:g id="successful_number">%1$s</xliff:g> successful, <xliff:g id="unsuccessful_number">%2$s</xliff:g> failed.
+    </string>
+    
+    <string name="help_label">Help</string>
+    <string name="lock_settings_picker_title">Choose screen lock mode</string>
+    <string name="wifi_p2p_failed_rename_message">Unable to rename device.</string>
+    <string name="wifi_p2p_peer_devices">Peer-to-peer device</string>
+    <string name="wifi_p2p_menu_searching">Searching…</string>
+    <string name="wifi_p2p_menu_search">Searching device</string>
+    <string name="wifi_p2p_menu_rename">Rename device</string>
+    <string name="wifi_p2p_failed_connect_message">Unable to connect.</string>
+	<string name="wifi_p2p_disconnect_multiple_message">If you end the connection, all devices will also be disconnected.</string>
+	<string name="wifi_p2p_disconnect_message">If you end the connection, all connections will also end.</string>
+    <string name="wifi_p2p_cancel_connect_message">Do you want to cancel invitation to connect?</string>
+    <string name="wifi_p2p_disconnect_title">Disconnect?</string>
+	<string name="wifi_p2p_cancel_connect_title">Cancel invitation?</string>
+	<string name="dlg_go_to_file_browser_message">Please check the document under Document Manager/WlanShare files!</string>
+	<string name="toast_no_send_files">Please select one or more documents to be shared before connecting!</string>
+	<string name="dlg_close_bt_then_send_file">Please close Bluetooth before sending document!</string>
+	
+   	<string name="open_file_fail_dialog">Cannot open this file type, please install the necessary software!</string>
+   <string name="dlg_airplane_open_message">Please exit airplane mode, then use Wlan Share!</string>
+
+	<!-- Do not translate. file name used for sharing. -->
+    <string name="wlanshare_share_file_name" translate="false">wlanshare_content_share</string>
+    <!-- Do not translate. android:process of this application. -->
+    <string name="process" translate="false"><xliff:g id="x"/></string>
+    <!-- Title for remembered p2p groups -->
+    <string name="wifi_p2p_remembered_groups">Remembered groups</string>
+    <!-- Message text for remembered group deletion-->
+    <string name="wifi_p2p_delete_group_message">Forget this group?</string>
+<string name="wifi_p2p_no_content_message">No Content</string>
+</resources>

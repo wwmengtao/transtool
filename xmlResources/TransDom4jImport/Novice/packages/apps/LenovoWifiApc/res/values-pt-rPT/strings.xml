@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="dlg_ok">"OK"</string>
+    <string name="dlg_no">não</string>
+    <string name="dlg_msg">"Detetado sinal WLAN muito fraco. O amplificador de sinal WLAN foi ativado automaticamente para uma melhor ligação de rede. Também pode configurar as definições de funções em Definições do Sistema - WLAN."</string>
+</resources>

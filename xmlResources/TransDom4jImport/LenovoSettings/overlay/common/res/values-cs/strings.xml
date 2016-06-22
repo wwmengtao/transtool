@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"><string name="profile_edit_weaken_help">Hlasitost vyzváněcího tónu se po uchopení telefonu sníží.</string>
+<string name="smart_calling_title">Chytré volání</string>
+<string name="character_settings_gestural_hand_category">Jednou rukou a gesta</string>
+<string name="select_subscription">Vyberte předplatné</string>
+<string name="wifi_scan_always_available_summary" msgid="7768204638882691453">"Povolit službě určování polohy Google a ostatním aplikacím hledat sítě, i když je síť WLAN vypnutá"</string>
+<string name="whatis_lenovoid_cando_summary"> "Neomezený přístup k přiřazením pro různé aplikace, služby cloud a další služby. Jedna karta v ruce, neblokovaná. "</string>
+<string name="enable_traces_title">"Povolit sledování"</string>
+<string name="wifi_setup_wizard_title" msgid="8242230950011819054">"Vybrat síť WLAN"</string>
+<string name="schpwr_time_invalid">Interval mezi naplánovaným zapnutím/vypnutím musí být alespoň %d minut</string>
+<string name="multiwindow_title">Více oken</string>
+<string name="lockscreen_shake_unlock_ctrl_summary">Rychlým zatřesením telefonem jedním směrem zamknete obrazovku</string>
+<string name="show_frame_count_size">Velikost</string>
+<string name="character_settings_phone_call_ring_weaken_help_message">Hlasitost vyzváněcího tónu se po uchopení telefonu sníží.</string>
+<string name="gestural_phone_summary">Tažením prstu po obrazovce směrem doleva nebo doprava můžete přijímat hovory. | Stisknutím horní části obrazovky hovor ukončíte.</string>
+<string name="teos_settings">Vyvážení barev displeje</string>
+<string name="display_effect_of_screen_saturation_title">"Sytost"</string>
+<string name="lock_wallpaper">Zamknout tapetu</string>
+<string name="done">"Hotovo"</string>
+<string name="version_info">Informace o verzi</string>
+<string name="desktop_wallpaper">Tapeta na ploše</string>
+<string name="devices_info_cpu">"Procesor: čtyřjádrový 2,2 GHz"</string>
+<string name="backup_data_to_device_title">Zálohovat data do jiného zařízení</string>
+<string name="smart_call_answer_settings_title">Chytré zvednutí</string>
+<string name="reset_skip_backup_title">Vynechat zálohu</string>
+<string name="recovery_data_from_device_title">Obnovit data z jiného zařízení</string>
+<string name="roaming_time_settings_category">Nastavení mezinárodního roamingu</string>
+<string name="accessibility_service_security_warning_summary" product="tablet" msgid="8558441850832543571">"Služba <xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> zaznamenává veškerý text, který napíšete, kromě hesel. To zahrnuje osobní údaje, jako jsou čísla platebních karet. Zaznamenává také údaje o interakci s tabletem."</string>
+<string name="header_category_shortcut_key">FUNKCE ZKRATEK</string>
+<string name="multi_sim_settings_summary">Nastavit nastavení více karet SIM pro hlasové služby, data a SMS</string>
+<string name="voice_title">Hlasové služby / USSD / MMI</string>
+<string name="never">"Nikdy"</string>
+<string name="data_usage_metered_body" msgid="4959032833706695848">"Vyberte sítě WLAN, které jsou mobilními hotspoty. Aplikacím na pozadí může být používání těchto sítí zakázáno. Aplikace také mohou před stahováním velkých souborů pomocí těchto sítí zobrazit upozornění."</string>
+<string name="character_settings_swing_lock_screen_help_message">Rychlým zatřesením telefonem jedním směrem zamknete obrazovku</string>
+<string name="global_single_hand_title_v2">Mikroobrazovka jednou rukou</string>
+<string name="products_version">Číslo modelu</string>
+<string name="wifi_display_summary_on">"Zapnuto"</string>
+<string name="multiwindow_divide_settings_summary">Otevřete v telefonu dvě okna a pracujte v obou najednou</string>
+<string name="startup_time_enabled">Naplánované zapnutí</string>
+<string name="wifi_setup_title_connected_network" msgid="1608788657122010919">"Připojeno k síti WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="multi_sim_settings_title">Nastavení více karet SIM</string>
+<string name="framework_version">Číslo verze systému Android</string>
+<string name="display_effect_of_screen_apply">Použít</string>
+<string name="character_settings_float_button_help_message">Klepnutím na plovoucí tlačítko otevřete zástupce a panel aplikací.</string>
+<string name="accessibility_service_security_warning_title" msgid="5421628151509995404">"Použít službu <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="wifi_empty_list_wifi_off" msgid="8056223875951079463">"Chcete-li zobrazit dostupné sítě, zapněte WLAN."</string>
+<string name="mercury_keyboard_title">Chytrý vytáčecí program</string>
+<string name="data_usage_restrict_background" msgid="8447934953579275363">"Pokud omezíte využití mobilních dat na pozadí, některé aplikace a služby nebudou fungovat, dokud se nepřipojíte k síti WLAN."</string>
+<string name="screensaver_timeout_zero_summary">"Nikdy"</string>
+<string name="still_sleep_ctrl">Smart Sleep</string>
+<string name="playersTutorial_stoped">Výukový program byla zastaven</string>
+<string name="lenovo_exp_title">Souhlas s účastí v Lenovo Experience Program</string>
+<string name="data_usage_restrict_background_multiuser" product="tablet" msgid="7132639594296036143">"Pokud omezíte využití mobilních dat na pozadí, některé aplikace a služby nebudou fungovat, dokud se nepřipojíte k síti WLAN.\n\nToto nastavení ovlivní všechny uživatele tohoto tabletu."</string>
+<string name="set_sms_error">Chyba v nastaveném předplatném zpráv SMS. Předplatné není aktivní.</string>
+<string name="lockscreen_face_detection_ctrl_description">Přidržením telefonu u obličeje ho odemknete</string>
+<string name="glove_mode">Velmi citlivý dotyk</string>
+<string name="smart_standby_ctrl_summary">"Obrazovka se rozsvítí, když se na ni podíváte"</string>
+<string name="battery_action_wifi" msgid="8181553479021841207">"Nastavení WLAN"</string>
+<string name="backup_data_summary" msgid="708773323451655666">"Zálohovat data aplikací, hesla sítí WLAN a další nastavení na serverech Google"</string>
+<string name="black_screen_settings_flash_mode_off">Vypnuto</string>
+<string name="exit">Konec</string>
+<string name="gadget_wifi" msgid="4712584536500629417">"WLAN"</string>
+<string name="lockscreen_knock_on_ctrl">Nastavení světla</string>
+<string name="gestural_music_summary">Tažením prstu po obrazovce směrem doleva a doprava můžete přepínat hudbu. | Tažením prstu po obrazovce směrem nahoru a dolů můžete ovládat hlasitost.</string>
+<string name="notificationbar_setings_title">"Centrum oznámení"</string>
+<string name="unlock_proximity_ctrl">Režim zabránění vytáčení v kapse</string>
+<string name="shellt_phone_info_camera">"8 milionů"</string>
+<string name="wifi_scan_notify_text_location_off" msgid="6323983741393280935">"Aplikace mohou vyhledávat sítě v okolí i v případě, že je WLAN vypnuta. Chcete-li nastavení změnit, přejděte do části Pokročilé &gt; Hledání vždy zapnuto."</string>
+<string name="location_neighborhood_level_wifi" msgid="4234820941954812210">"Poloha určená sítí WLAN"</string>
+<string name="teos_settings_title">Vyvážení barev displeje</string>
+<string name="tilt_scroll_control_summary">Je-li tato možnost zapnutá, obrazovka rozhraní podporujícího funkci Tilt Scrolling (pohyb náklonem) se při naklonění telefonu automaticky posune doleva či doprava</string>
+<string name="wifi_setting_sleep_policy_title" msgid="5149574280392680092">"WLAN aktivní i v režimu spánku"</string>
+<string name="location_consent_dialog_title">Souhlas s umístěním</string>
+<string name="devices_info_runMemory">"RAM: 2,0 GB</string>
+<string name="reset_backup_befor_reset_summary">Před resetováním zálohujte důležitá data, například kontakty</string>
+<string name="wifi_advanced_titlebar" msgid="4485841401774142908">"Rozšířené nastavení WLAN"</string>
+<string name="personal_hotspot">"Hotspot"</string>
+<string name="save_power_summary">"Vyberte aplikace pro časové vyrovnání probuzení systému"</string>
+<string name="internal_storage_app">Interní paměťový prostor aplikace</string>
+<string name="show_frame_count_y_coordinate">Souřadnice Y</string>
+<string name="fast_poweron_next_time">Příště rychlé spuštění</string>
+<string name="black_screen_camera_gallery_title"> "Režim náhledu" </string>
+<string name="data_usage_tab_slot2">SIM 2</string>
+<string name="data_usage_tab_slot1">SIM 1</string>
+<string name="show_frame_count_ok_button_text">"OK"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen_summary">Když není telefon aktivní, poklepáním na obrazovku jej probudíte</string>
+<string name="black_screen_camera_fast_title"> "Režim fotoaparátu" </string>
+<string name="sel_sub_summary">Vyberte předplatné pro SIM 1 a SIM 2</string>
+<string name="character_settings_single_hand_help_message">Nakreslete na obrazovku „c“ (od horního okraje k dolnímu), zobrazí se mikroobrazovka jednou rukou.</string>
+<string name="wifi_setup_wizard_next">"Další"</string>
+<string name="lenovo_exp_content">"Pouze podpora CN"</string>
+<string name="character_settings_shortcuts_category">Typy zástupců</string>
+<string name="gestural_summary">Pomocí gest můžete telefon ovládat na dálku</string>
+<string name="profile_edit_weaken_title">Snížit hlasitost tónu</string>
+<string name="character_settings_help_category_title">"Nápověda"</string>
+<string name="profile_settings">"Zvuk"</string>
+<string name="black_screen_settings_shortcut_quick_shots_summary">Poklepáním na tlačítko Domů, když je obrazovka vypnutá, můžete fotit</string>
+<string name="global_single_hand_title">Režim pro jednu ruku</string>
+<string name="startup_shutdown_time_errmsg">Časový interval mezi zapnutím a vypnutím musí být delší než 10 minut, proveďte nastavení znovu.</string>
+<string name="system_time_am">dop.</string>
+<string name="still_sleep_ctrl_summary">Telefon automaticky přejde do stavu spánku, pokud je položen na vodorovné místo</string>
+<string name="enable_schpwr">Aktivovat</string>
+<string name="save_power_wait_message">"Načítání aplikací"</string>
+<string name="schpwr_power_on">"zapnuto"</string>
+<string name="recovery_data_title">Obnovení dat ze zálohy na kartě SD </string>
+<string name="day">"1 den"</string>
+<string name="multiwindow_settings_summary">Povolit více oken</string>
+<string name="service_background_processes_ram"><xliff:g id="MEMORY">%1$s</xliff:g> aplikací dostupných</string>
+<string name="mercury_keyboard_summary">Vytáčecí klávesnice se otočí ve směru k naklonění</string>
+<string name="save_power_count">"Celkem <xliff:g id="NUMBER">%d</xliff:g> vyrovnaných aplikací"</string>
+<string name="lockscreen_face_detection_ctrl">Odemčení rozpoznáním obličeje</string>
+<string name="fuse_backup_data_description">"Zálohovat kontakty, obrázky, zprávy a aplikace před resetováním telefonu"</string>
+<string name="settings_header_ringtone_k7">"Nastavení vyzvánění"</string>
+<string name="gestural_image_summary">Tažením prstu po obrazovce směrem doleva a doprava můžete procházet obrázky. | Tažením prstu po obrazovce směrem nahoru a dolů můžete měnit zvláštní efekty.</string>
+<string name="wifi_starting" msgid="6732377932749942954">"Zapínání WLAN…"</string>
+<string name="memory_info">Paměť RAM</string>
+<string name="set_dds_failed">Chyba v nastaveném předplatném dat.  Smažte veškerá stávající data a zkuste to znovu.</string>
+<string name="device_section_title">Zařízení</string>
+<string name="wave_not_screenoff_title">Nevypínat obrazovku mávnutím</string>
+<string name="wifi_setup_eap_not_supported" msgid="1955087534276570962">"Připojení WLAN EAP nelze nakonfigurovat při instalaci. Můžete to provést po dokončení instalace v části Nastavení &gt; Bezdrátová připojení a sítě."</string>
+<string name="gestural_phone">Odpověď gestem</string>
+<string name="lock_title" product="tablet">"Zabezpečení telefonu"</string>
+<string name="character_settings_pocket_mode_help_message">Automaticky zesílí hlasitost vyzváněcího tónu, když je telefon v kapse</string>
+<string name="global_action_meeting">"Vibrace"</string>
+<string name="wifi_tether_checkbox_text" msgid="1847167643625779136">"Přenosný hotspot WLAN"</string>
+<string name="unlock_set_unlock_speech_title">Odemknout hlasem</string>
+<string name="slide_unlock_help">Po vypnutí obrazovky ji odemkněte přetažením zleva doprava na spodní části obrazovky.</string>
+<string name="character_settings_intelligent_category">Chytré ovládání</string>
+<string name="black_screen_settings_broswer_summary">Nakreslete na obrazovku „e</string>
+<string name="incoming_call_ringer_title1">"Vyzvánění příchozího hovoru (1)"</string>
+<string name="incoming_call_ringer_title2">"Vyzvánění příchozího hovoru (2)"</string>
+<string name="safety_information">Bezpečnostní informace</string>
+<string name="color_light_hasopen">"Zapnout"</string>
+<string name="nfc_beam_transmit">Přenos Android</string>
+<string name="wifi_empty_list_wifi_on" msgid="8746108031587976356">"Vyhledávání sítí WLAN…"</string>
+<string name="multiwindow_smart_settings">Chytrá funkce více oken</string>
+<string name="display_effect_of_screen_contrast_item0">Studené</string>
+<string name="display_effect_of_screen_contrast_item1">"Výchozí"</string>
+<string name="black_screen_settings_category_shortcut">Zkratka pro černou obrazovku</string>
+<string name="black_screen_settings_music">Odemknout pro hudbu</string>
+<string name="unlock_proximity_ctrl_summary">Snímač vzdálenosti se používá k tomu, aby nedocházelo k neúmyslnému použití, když máte telefon v kapse.</string>
+<string name="display_effect_of_screen_contrast_item2">Teplé</string>
+<string name="memory_video_usage">Video</string>
+<string name="timing_startup_and_shutdown_settings_title">Naplánovat zapnutí/vypnutí</string>
+<string name="mercury_keyboard_help">Vytáčecí klávesnice se otočí ve směru naklonění</string>
+<string name="wifi_wps_setup_title" msgid="8207552222481570175">"Chráněné nastavení WLAN"</string>
+<string name="restriction_wifi_config_title" msgid="8889556384136994814">"Sítě WLAN a mobilní sítě"</string>
+<string name="other_wallpaper">Jiná tapeta</string>
+<string name="show_dev_countdown">Nyní vám k práci vývojáře chybí je pár kroků.</string>
+<string name="os_version">Číslo verze systému</string>
+<string name="show_frame_count_title">Vstoupit do výukového programu pro začátečníky</string>
+<string name="ringtone_picker_more_ringtones_title">"Další vyzvánění &gt;&gt;&gt;"</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"Stisknutím klávesy zvýšení či snížení hlasitosti zapnete obrazovku"</string>
+<string name="crypt_keeper_encrypt_summary" product="default" msgid="514138079795442371">"Při každém zapnutí telefonu vyžadovat kód PIN nebo heslo za účelem dešifrování"</string>
+<string name="category_single_hand">Jednou rukou</string>
+<string name="black_screen_settings_shortcut_quick_shots">Mimořádně rychlé focení</string>
+<string name="black_screen_settings_normal">Normální odemknutí</string>
+<string name="userguide_title">"Průvodce spouštěním"</string>
+<string name="black_screen_settings_summary_app_selected">Odemknout <xliff:g id="app">%s</xliff:g></string>
+<string name="character_settings_help_title">Práce s černou obrazovkou</string>
+<string name="wifi_setup_title_editing_network" msgid="6020614644556717979">"Připojení k síti WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="never_timeout">Nikdy nezapínat pohotovostní režim</string>
+<string name="screensaver_settings_disabled_prompt" msgid="3857507943322777651">"Chcete-li nastavit, co se má stát, když se telefon ocitne v doku nebo v režimu spánku, zapněte spořič obrazovky."</string>
+<string name="subscription_02_title">SIM 2</string>
+<string name="category_gesture">Gesto</string>
+<string name="accessibility_script_injection_allowed">Povoleno</string>
+<string name="airbuse_phone_info_camera">"Přední 300 000, zadní 5 milionů"</string>
+<string name="character_settings_call_voice_category">Hovory a hlasové služby</string>
+<string name="lock_title" product="default">Zabezpečení telefonu</string>
+<string name="devices_info_memory">"Paměť: <xliff:g>%1$s</xliff:g> (volných)  4 GB (celkem)"</string>
+<string name="wifi_wps_onstart_pin" msgid="223344506445335358">"Zadejte ve svém směrovači sítě WLAN kód PIN <xliff:g id="NUMBER">%1$s</xliff:g>. Proces nastavení může trvat až dvě minuty."</string>
+<string name="enable_traces_summary_all">"Všechna sledování jsou momentálně povolena."</string>
+<string name="every_day">každý den</string>
+<string name="voice_wakeup_title">Probuzení hlasem</string>
+<string name="side_key_backlight_help">Stisknutím tlačítka hlasitosti zapnete podsvícení.</string>
+<string name="set_voice_error">Chyba v nastaveném předplatném hlasových služeb. Předplatné není aktivní.</string>
+<string name="data_usage_enable_mobile_statistics_dialog">Při povolení této funkce bude při použití sítí s vysokou rychlostí dat (například LTE) docházet k vysoké spotřebě energie...</string>
+<string name="ota_title">Aktualizace systému</string>
+<string name="memory_image_usage">Obrázky</string>
+<string name="hardware_version">Verze hardwaru</string>
+<string-array name="contrast">
+        <item>Výchozí</item>
+        <item>Vysoké</item>
+    </string-array>
+<string name="crypt_keeper_desc" product="default" msgid="7663118199519229502">"Účty, nastavení, stažené aplikace a jejich data, média a jiné soubory můžete zašifrovat. Po zašifrování musíte při každém zapnutí telefonu vložit číselný kód PIN nebo heslo, abyste ho opět dešifrovali. Zašifrování telefonu lze zrušit pouze obnovením továrních dat, při kterém budou vymazána všechna vaše data.\n\nProces zašifrování trvá hodinu i více. Začněte s nabitou baterií a ponechte telefon připojený ke zdroji napájení, dokud nebude šifrování dokončeno. Pokud proces šifrování přerušíte, může dojít ke ztrátě některých nebo všech vašich dat."</string>
+<string name="china_telcom_push_summary">Bezplatná služba push společnosti China Telecom</string>
+<string name="color_light_missed_call">Zmeškané hovory</string>
+<string name="devices_info_products_version">"Model: Lenovo K910"</string>
+<string name="usb_mtp_summary" msgid="4617321473211391236">"Umožňuje přenášet multimediální soubory v systému Windows nebo pomocí aplikace Android File Transfer v systému Mac (další informace na stránce www.android.com/filetransfer)."</string>
+<string name="what_lenovoid_cando_title"> "Přiřazení prochází, co mohu dělat? "</string>
+<string name="k6kk_phone_info_cpu">"Snapdragon 800 2,2 GHz"</string>
+<string name="smart_answer_incommingcall_summary">Jakmile dorazí příchozí hovor, uživatel jej může přijmout určitým gestem</string>
+<string name="gadget_state_template" msgid="5156935629902649932">"<xliff:g id="ID_1">%1$s</xliff:g> <xliff:g id="ID_2">%2$s</xliff:g>"</string>
+<string name="k6kk_phone_info_camera">"Přední 5 milionů, zadní 13 milionů"</string>
+<string name="wifi_setup_title" msgid="2970260757780025029">"Nastavení připojení k síti WLAN"</string>
+<string name="system_shortcutbar_title">"Systémový panel zkratek"</string>
+<string name="call_ring_pocket_enable_title">"Kapesní režim"</string>
+<string name="schpwr_shutdown_message_second">"Zařízení se vypne za <xliff:g id="second">%s</xliff:g> sekundu"</string>
+<string name="gestural_gesture">Funkce Gesture Control</string>
+<string name="black_screen_settings_quick_shots_three">tři snímky</string>
+<string name="smart_call_answer_settings_summary">Automaticky zvedne příchozí hovor, když se zařízení zvedne k uchu</string>
+<string name="wifi_wps_onstart_pbc" msgid="5940801028985255304">"Stiskněte na směrovači tlačítko Chráněné nastavení WLAN. Může být označeno textem „WPS“ nebo tímto symbolem:"</string>
+<string name="crypt_keeper_final_desc" product="default" msgid="5682944380460921880">"Zašifrování je nevratné, a pokud ho přerušíte, budou vaše data ztracena. Šifrování trvá hodinu a více. Během této doby bude telefon několikrát restartován."</string>
+<string name="wifi_quick_toggle_summary" msgid="2696547080481267642">"Zapnout WLAN"</string>
+<string name="k6kk_phone_info_screen">"Rozlišení: 1080*1920, velikost: 5,5 palců</string>
+<string name="swing_lock_help">Rychlým zatřesením telefonem jedním směrem zamknete obrazovku</string>
+<string name="software_version">Číslo verze softwaru</string>
+<string name="header_category_lock_unlock">PRVKY OBRAZOVKY</string>
+<string name="gestural_gesture_summary">Tažení doleva\\doprava\\nahoru\\dolů bez dotyku prstem má stejný účinek jako tažení prstem po obrazovce. Tato funkce není dostupná v rozhraních pro hudbu, video a prohlížeč.</string>
+<string name="black_screen_settings_quick_shots_six">šest snímků</string>
+<string name="wlan_share">"Sdílení přes síť WLAN"</string>
+<string name="bottom_shortcutbar_title">"Dolní panel zkratek"</string>
+<string name="smart_calling_summary">V kontaktních údajích nebo rozhraní konverzace zpráv zvednutím telefonu k uchu zahájíte volání s kontaktem</string>
+<string name="usage_type_data_wifi_send" msgid="7178327382353096029">"Odeslané datové přenosy WLAN"</string>
+<string name="double_click_menu_enabled_title">"Dlouhým klepnutím na klávesu MENU aktivovat hlasové služby"</string>
+<string name="glove_mode_summary">Při povolení velmi citlivého dotyku je podporováno dotýkání obrazovky v rukavicích</string>
+<string name="gestural_v2">3D gesta</string>
+<string name="double_click_home_enabled_title">"Poklepáním na klávesu DOMŮ aktivujte hlas"</string>
+<string name="backup_data_section_title">Zálohování dat</string>
+<string name="enable_traces_summary_num" msgid="8978230237777454269">"Momentálně povolená sledování: <xliff:g id="NUM">%1$d</xliff:g>"</string>
+<string name="show_frame_count_summary">Zobrazit počet snímků, když je k dispozici.</string>
+<string name="wifi_quick_toggle_title" msgid="8850161330437693895">"WLAN"</string>
+<string name="reset_backup_befor_reset_title">Zálohovat data před resetováním</string>
+<string name="restriction_wifi_config_summary" msgid="70888791513065244">"Povolit úpravu nastavení sítí WLAN a mobilních sítí"</string>
+<string name="reboot">"Restartovat"</string>
+<string name="bluetooth_on_time" msgid="3056108148042308690">"Doba provozu modulu WLAN"</string>
+<string name="quicksettings">"rychlá nastavení"</string>
+<string name="color_light_demo">Ukázka LED</string>
+<string name="sim_settings_title">Nastavení duální karty</string>
+<string name="hours">"hod."</string>
+<string name="save_power_title">"Časové vyrovnání probuzení systému"</string>
+<string name="header_category_call_message">Hovor a zpráva</string>
+<string name="show_hw_overdraw">"Zobrazovat překreslení GPU"</string>
+<string name="display_effect_of_screen_hue_title">Odstín</string>
+<string name="whatis_lenovoid_summary"> "použijte svůj mobilní telefon jako heslo účtu Lenovo, staňte se členem Asociace. "</string>
+<string name="data_usage_menu_show_wifi" msgid="5056401102877964564">"Zobrazit využití WLAN"</string>
+<string name="master_clear_desc" product="default" msgid="9165016501623540228">"Tato akce smaže veškerá data z "<b>"interního úložiště"</b>" telefonu, mimo jiné i následující:\n\n"<li>"váš účet Google,"</li>\n<li>"nastavení a data systému a aplikací,"</li>\n<li>"stažené aplikace."</li></string>
+<string name="data_summary">Vybrat předplatné pro datové volání</string>
+<string name="savepower_all_title">"Vše"</string>
+<string name="black_screen_settings_flash_mode_auto">Automaticky</string>
+<string name="wifi_setting_frequency_band_title" msgid="3655327399028584656">"Frekvenční pásmo WLAN"</string>
+<string name="hide_recent_settings">stažením zobrazíte poslední nastavení</string>
+<string name="showing_color_light">Zobrazení barev LED</string>
+<string name="system_time_pm">odp.</string>
+<string name="reset_skip_backup_summary">Vyberte tuto možnost pro zálohované položky nebo položky, které se nemusejí zálohovat</string>
+<string name="wifi_stopping" msgid="8952524572499500804">"Vypínání WLAN…"</string>
+<string name="wifi_wps_connected" msgid="7153432445748931183">"Připojeno k síti WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+<string name="global_action_outdoors">"Venku"</string>
+<string name="schpwr_shutdown_message">"Zařízení se vypne za <xliff:g id="seconds">%s</xliff:g> sekund"</string>
+<string name="overturn_lock_ctrl_summary">"Převrácením telefonu zamknete obrazovku"</string>
+<string name="schedule_power_on_off_time">Čas</string>
+<string name="show_screen_frame_count">Zobrazit počet snímků obrazovky</string>
+<string name="timing_startup_head_text">"Zapnout"</string>
+<string name="wifi_setting_summary">Při vstupu do umístění připojené aplikace a dostupnosti dat GRPS si zapamatovat umístění</string>
+<string name="unsupported_headset_warning" product="default">
+       "Nepodporovaná příloha"
+    </string>
+<string name="overturn_lock_ctrl">"Převrácením zamknete obrazovku"</string>
+<string name="restart_confirm_question">Přejete si restartovat?</string>
+<string name="multiwindow_divide_settings">Rozdělení obrazovky s více okny</string>
+<string name="backup_data_to_sdcard_title">Zálohovat data na kartu SD</string>
+<string name="data_title">Datové volání</string>
+<string name="sim_not_available">Karta SIM není dostupná</string>
+<string name="preference_status_open">"Zapnuto"</string>
+<string-array name="saturation">
+        <item>Měkké</item>
+        <item>Výchozí</item>
+        <item>Jasné</item>
+    </string-array>
+<string name="multiwindow_smart_settings_summary">Pokud dostanete zprávu při sledování videa přes celou obrazovku při orientaci na šířku, otočte telefon do orientace na výšku a automaticky se zobrazí více oken pro multitasking.</string>
+<string name="user_you_section">"Vy"</string>
+<string name="backup_data_to_sdcard_summary">Zálohovat data telefonu na kartu SD</string>
+<string name="airbuse_phone_info_runMemory">"1,0 GB"</string>
+<string name="whatis_lenovoid_title"> "Přiřazení prochází, co je to? "</string>
+<string name="wifi_setup_description_connected" msgid="736032046548460779">"Chcete-li pokračovat v nastavení, klepněte na "<b>"Další"</b>".\n\nChcete-li se připojit k jiné síti WLAN, klepněte na "<b>"Zpět"</b>"."</string>
+<string name="black_screen_face_recognization_title"> "Režim rozpoznání obličeje" </string>
+<string name="minute">"1 minuta"</string>
+<string name="unlock_settings_title">"Odemknout"</string>
+<string name="schedule_power_off_set">Nastavit plán vypnutí</string>
+<string name="location_mode_battery_saving_description" msgid="1728668969743485109">"K určení polohy použít WLAN a mobilní sítě"</string>
+<string name="black_screen_handler_title"> "Gesta na černé obrazovce" </string>
+<string name="wide_touch_float_button_summary">Přístup k jednodotykovým zkratkám</string>
+<string name="black_screen_settings_camera_summary">Nakreslete na obrazovku „c</string>
+<string name="share_music_a2dp_headphones_control_title">Sdílet ovládání hudby</string>
+<string name="location_consent_dialog_message">Povolit vyhledávací službě shromažďovat anonymní data o poloze. Některá data je možné uložit na vašem zařízení. Ke shromažďování může dojít, i když není spuštěná žádná aplikace.</string>
+<string name="phone_car_mode_title">"Režim do automobilu"</string>
+<string name="minutes">"min"</string>
+<string name="global_action_silence">"Ztlumit zvuk"</string>
+<string name="wifi_display_summary_off" msgid="2445210133184740611">"vypnuto"</string>
+<string name="usergudie_button_text">"Zadat nastavení spouštění"</string>
+<string name="color_light_hasclose">Vypnout</string>
+<string name="backup_recovery_dialog_message">Zastavit zálohování nebo obnovování dat aplikace?</string>
+<string msgid="5318394806146587849" name="ringtone_and_sound_settings">"Vyzvánění a zvuk"</string>
+<string name="charge_stream_min">Aktuální proud při nabíjení je 1 500 mA </string>
+<string name="k6kk_phone_info_runMemory">"2,0 GB"</string>
+<string name="gestural_broswer">Prohlížeč s funkcí Gesture Control</string>
+<string name="black_screen_time_service_title"> "Režim hlasového vyzvánění" </string>
+<string name="playertutorial_title">Průvodce</string>
+<string name="dtmf_settings_title">"Číselník"</string>
+<string name="status_wifi_mac_address" msgid="2202206684020765378">"Adresa MAC sítě WLAN"</string>
+<string name="timing_shutdown_head_text">"Vypnout"</string>
+<string name="black_screen_settings_vedio_summary">Nakreslete na obrazovku „v</string>
+<string name="black_screen_time_show_title"> "Režim zobrazení" </string>
+<string name="subs_settings">Stav SIMS</string>
+<string name="weather_live_wallpaper">Tapeta Počasí živě</string>
+<string name="data_usage_menu_restrict_systembgdata">"Povolit data systému na pozadí"</string>
+<string name="gestural_image">Obrázky s funkcí Gesture Control</string>
+<string name="location_settings_title" msgid="1369675479310751735">"Poloha"</string>
+<string name="phone_info_unset">Parametr telefonu není nastaven</string>
+<string name="wifi_menu_p2p" msgid="7619851399250896797">"WLAN Direct"</string>
+<string name="wide_touch_float_button">Široký dotyk</string>
+<string name="wifi_empty_list_user_restricted" msgid="8280257225419947565">"Nemáte oprávnění ke změně sítě WLAN."</string>
+<string name="airbuse_phone_info_cpu">"Qualcomm MSM8612  4*1,2 GHz"</string>
+<string name="schpwr_power_off">"vypnuto"</string>
+<string name="fuse_backup_data_to_cloud_title">Zálohovat data do služby cloud</string>
+<string name="double_click_menu_enabled_description">"Dlouhým klepnutím (na klávesu MENU) aktivovat hlasové služby"</string>
+<string name="display_effect_of_screen_sharpen_item0">"Výchozí"</string>
+<string name="enable_traces_dialog_title">"Vybrat povolená sledování"</string>
+<string name="display_effect_of_screen_sharpen_item1">"Zaostření"</string>
+<string name="global_action_general">Standard</string>
+<string name="backup_data_description">Před resetováním telefonu zálohujte kontakty a jiná důležitá data</string>
+<string name="all_setings_title">Nastavení systému</string>
+<string name="wifi_tether_failed_subtext" msgid="1484941858530919002">"Chyba přenosného hotspotu WLAN"</string>
+<string name="enable_traces_summary_none">"Žádná sledování nejsou momentálně povolena."</string>
+<string name="black_screen_settings_camera">Odemknout pro fotoaparát</string>
+<string name="call_ring_pocket_enable_summary">"Režim Maximalizace hlasitosti vyzvánění v kapse nebo v pouzdře"</string>
+<string name="wifi_display_summary_disabled" msgid="5318394806146587849">"Zakázáno"</string>
+<string name="data_usage_enable_mobile_statistics">Statistika dat</string>
+<string name="touch_free_phone">Bezplatné volání </string>
+<string name="double_click_home_enabled_description">"Dlouhým klepnutím (na klávesu MENU) aktivovat hlasové služby"</string>
+<string name="black_screen_settings_quick_shots_eight">osm snímků</string>
+<string name="black_screen_settings_vedio">Odemknout pro video</string>
+<string name="backup_data_to_device_summary">Přenést data do jiného zařízení pomocí funkce SHAREit</string>
+<string name="disable_schpwr">Deaktivovat</string>
+<string name="fuse_backup_data_to_cloud_summary">Zálohovat data telefonu do služby cloud</string>
+<string name="lll_pbtn_alert">"Podržením tlačítka napájení <xliff:g id="COUNT_DOWN_TIME">%1$s</xliff:g> vypnete zařízení..."</string>
+<string name="profile_edit_pocket_help">"Režim Maximalizace hlasitosti vyzvánění v kapse nebo v pouzdře"</string>
+<string name="monotype_preference_title">Styl písma</string>
+<string name="call_ring_weaken_enable_title">Snížit hlasitost tónu</string>
+<string name="subscription_01_title">SIM 1</string>
+<string name="days">"d."</string>
+<string name="wifi_switch_summary">Sítě WLAN, ke kterým byl telefon někdy připojen, budou rozpoznány a automaticky se připojí k dostupné rozpoznané síti, jestliže přistupujete na internet prostřednictvím datového připojení, aby se omezil datový přenos.</string>
+<string name="airplane_open_confirm">"Režim V letadle"</string>
+<string name="smart_standby_ctrl">"Chytrý pohotovostní režim Smart Standby"</string>
+<string name="display_effect_of_screen_sharpen_title">Ostrost</string>
+<string name="devices_info_camera">"Fotoaparát: Přední 5 milionů, zadní 13 milionů"</string>
+<string name="close_home_landscape_title">Je-li obrazovka ve vodorovné poloze, tlačítko Domů je deaktivováno</string>
+<string name="schedule_power_on_off_set">Nastavit plán zapnutí/vypnutí</string>
+<string name="flip_screen_control_title">Ovládání pomocí otočení obrazovky</string>
+<string name="display_effect_of_screen_cancel">"Zrušit"</string>
+<string name="devices_info_screen">"Obrazovka: 1080*1920   5,5 palce"</string>
+<string name="character_settings_side_key_backlight_screen_help_message">Stisknutím tlačítka hlasitosti zapnete podsvícení.</string>
+<string name="poweron_nosim">Karta SIM nebyla nalezena</string>
+<string name="shellt_phone_info_screen">"Rozlišení: 720P, velikost: 6,0 palců</string>
+<string name="location_mode_high_accuracy_description" msgid="6418936349431602808">"K určení polohy použít GPS, WLAN a mobilní sítě"</string>
+<string name="track_frame_time_summary">"Měřit čas vykreslování v adb shell dumpsys gfxinfo"</string>
+<string name="font_settings_title">"Nastavení písma"</string>
+<string name="voice_wakeup_summary">Je možné probudit systém zvukem hlasu</string>
+<string name="smart_answer_incommingcall_title">Chytré zvednutí</string>
+<string name="wifi_required_info_text" msgid="4080969509965288881">"K dokončení nastavení potřebuje tablet přístup k síti WLAN. Po nastavení můžete přepínat mezi mobilním datovým připojením a sítí WLAN."</string>
+<string name="gestural_ebook">Elektronické knihy s funkcí Gesture Control</string>
+<string name="character_settings_black_screen_help_message">Tradiční odemknutí: telefon odemknete tažením prstu po dolní části obrazovky doleva nebo doprava. Spuštění aplikace: odemkněte pro fotoaparát a nakreslete na obrazovku „C“. Tato funkce ovlivní spotřebu energie v pohotovostním režimu.</string>
+<string name="charge_stream_max">Aktuální proud při nabíjení je 2000mA </string>
+<string name="power_off">"Vypnout"</string>
+<string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"Aplikace <xliff:g id="APP_NAME">%1$s</xliff:g> chce zapnout vyhledávání sítí (kvůli lepšímu určení polohy i kvůli jiným účelům) a hledat sítě i v případě, že je vypnut modul WLAN.\n\nChcete tuto možnost povolit všem aplikacím, které chtějí vyhledávat sítě?"</string>
+<string name="global_single_hand_summary">Praktické operace pro jednu ruku</string>
+<string name="set_data_subscription_progress">Probíhá nastavené předplatné dat</string>
+<string name="color_light">Oznámení LED</string>
+<string name="knock_light_title">Poklepáním probudíte obrazovku</string>
+<string name="show_frame_count_x_coordinate">Souřadnice X</string>
+<string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"Přenosný hotspot WLAN <xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g>"</string>
+<string name="service_foreground_processes_ram">Používá se <xliff:g id="MEMORY">%1$s</xliff:g> aplikací</string>
+<string name="tilt_scroll_control_title">Funkce Tilt Scrolling</string>
+<string name="roaming_time_settings_zone">Doporučené časové pásmo</string>
+<string name="volume_title">"Hlasitost"</string>
+<string name="black_screen_settings_summary">Odemkněte telefon, i když je obrazovka černá, a můžete rychle spouštět aplikace.</string>
+<string name="crypt_keeper_dialog_need_password_title" msgid="4058971800557767">"Chybí heslo nebo kód PIN zámku obrazovky"</string>
+<string name="wifi_setup_wizard_skip">"Přeskočit"</string>
+<string name="hour">1 hod.</string>
+<string name="black_screen_settings_flash_mode">Blesk</string>
+<string name="lock_intro_message" product="default">Chraňte svůj telefon před neoprávněným použitím vytvořením osobního gesta pro odemknutí obrazovky. Na další obrazovce posunutím prstu spojte alespoň čtyři tečky v libovolném pořadí.
+        \n\nJste připraveni začít? Stiskněte možnost Další.
+    </string>
+<string name="gestural">Funkce Gesture Control</string>
+<string name="preference_status_unknown">Neznámé</string>
+<string name="simple_settings">Průvodce pro začátečníky</string>
+<string name="startup_confirm_auto_shutdown">Mobilní telefon se vypne za %s sekund.</string>
+<string name="A_gps_summary"> pomocná data vám umožní urychlit daný čas vyhledání pomocí systému GPS</string>
+<string name="safety_information_content">Jestliže chcete upgradovat systém telefonu, obraťte se na oficiální síť poprodejních služeb Lenovo nebo použijte funkci upgradu systému ve svém telefonu Lenovo. Jinak může dojít k poruše zařízení nebo ztrátě dat, případně ke zničení funkce zabezpečení systému či vzniku rizika zabezpečení.</string>
+<string name="color_light_other_summary">Telefonní číslo a nastavení čekání volání</string>
+<string name="incoming_call_ringer_title">Výstražný tón volání</string>
+<string name="unlock_set_unlock_speechpwd_title">"Chránit hlasovým heslem a gestem"</string>
+<string name="display_effect_of_screen_contrast_title">Kontrast</string>
+<string name="crypt_keeper_dialog_need_password_message" msgid="4071395977297369642">"Před začátkem šifrování musíte nastavit kód PIN nebo heslo zámku obrazovky."</string>
+<string name="accessibility_script_injection_button_disallow">"Nepovolit"</string>
+<string name="character_settings_mercury_keyboard_help_message">Vytáčecí klávesnice se otočí ve směru naklonění</string>
+<string name="startup_confirm_airplane_turn_off">Ukončit režim Letadlo?</string>
+<string name="wifi_access_points" msgid="7053990007031968609">"Sítě WLAN"</string>
+<string name="header_category_personalcustom">Přizpůsobit</string>
+<string name="accessibility_service_disable_warning_summary" msgid="625013894287895398">"Klepnutím na tlačítko OK službu <xliff:g id="SERVICE">%1$s</xliff:g> ukončíte."</string>
+<string name="unlock_set_unlock_speechnormal_title">"Rychlé odemknutí hlasem"</string>
+<string name="headset_play_mms_enabled_title">"Přehrávání zprávy MMS pomocí sluchátek"</string>
+<string name="black_screen_notification_title"> "Režim vibrace nepřečtené zprávy" </string>
+<string name="set_dds_error">Chyba v nastaveném předplatném dat.</string>
+<string name="shutdown_time">Vypnout při</string>
+<string-array name="alarm_set">
+        <item>Zapnout za méně než 1 minutu.</item>
+        <item>Zapnout za <xliff:g id="DAYS">%1$s</xliff:g>.</item>
+        <item>Zapnout za <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Zapnout za <xliff:g id="DAYS">%1$s</xliff:g> a <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Zapnout za <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Zapnout za <xliff:g id="DAYS">%1$s</xliff:g> a <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Zapnout za <xliff:g id="HOURS">%2$s</xliff:g> a <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Zapnout za <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g>, a <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Vypnout za méně než 1 minutu.</item>
+        <item>Vypnout za <xliff:g id="DAYS">%1$s</xliff:g>.</item>
+        <item>Vypnout za <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Vypnout za <xliff:g id="DAYS">%1$s</xliff:g> a <xliff:g id="HOURS">%2$s</xliff:g>.</item>
+        <item>Vypnout za <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Vypnout za <xliff:g id="DAYS">%1$s</xliff:g> a <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Vypnout za <xliff:g id="HOURS">%2$s</xliff:g> a <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+        <item>Vypnout za <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g>, a <xliff:g id="MINUTES">%3$s</xliff:g>.</item>
+    </string-array>
+<string name="camera_info">"Fotoaparát"</string>
+<string name="startup_auto_shutdown_title">Automatické vypnutí</string>
+<string name="nfc_not_inservice">Adaptér NFC není v provozu!</string>
+<string name="black_screen_settings_quick_shots_nums">Rychlé snímky</string>
+<string name="i_know_it">"OK"</string>
+<string name="fuse_recovery_data_from_cloud_summary">Zvolte data pro zálohování ze služby cloud</string>
+<string name="accessibility_script_injection_button_allow">"Povolit"</string>
+<string name="quicksettings_summary">Vítejte při používání telefonu Lenovo. Začněte rychlým nastavením. Nastavení\n můžete provést samostatně v nabídce „Nastavení systému“.</string>
+<string name="lockscreen_volume_key_lock_unlock_ctrl">"Podsvícení klávesy hlasitosti"</string>
+<string name="backup_data">Zálohovat data</string>
+<string name="fuse_recovery_data_from_cloud_title">Obnovit data ze služby cloud</string>
+<string name="shellt_phone_info_cpu">"Qualcomm MSM8926  4*1,2 GHz"</string>
+<string name="still_sleep_title">Stále v režimu spánku</string>
+<string name="usb_ptp_summary" msgid="7673397474756664929">"Umožňuje přenos fotografií pomocí softwaru fotoaparátu a přenos jakýchkoli souborů do počítačů, které nepodporují protokol MTP"</string>
+<string name="color_light_other">"Jiné"</string>
+<string name="black_screen_settings_broswer">Odemknou pro prohlížeč</string>
+<string name="schedule_power_on_off_repeat">Opakovat</string>
+<string name="display_effect_of_screen_saturation_item1">"Výchozí"</string>
+<string name="show_frame_count_cancel_button_text">"Zrušit"</string>
+<string name="display_effect_of_screen_saturation_item0">Měkký</string>
+<string name="display_effect_of_screen_saturation_item2">Jasný</string>
+<string name="wifi_connect_failed_message" product="default" msgid="2185803140161396572">"Telefonu se nepodařilo připojit k této síti WLAN."</string>
+<string name="processor_info">Procesor</string>
+<string name="data_usage_metered_wifi" msgid="8540872226614404873">"Sítě WLAN"</string>
+<string name="shutdown_alarm_confirm">"Budík zazní v <xliff:g id="ALARM_TIME">%1$s</xliff:g>."</string>
+<string name="wave_wakeup_title">Probuzení mávnutím</string>
+<string name="voice_summary">Vybrat předplatné pro hlasové hovory</string>
+<string name="wifi_tether_configure_ap_text" msgid="7974681394041609308">"Nastavit hotspot sítě WLAN"</string>
+<string name="black_screen_settings_normal_summary">Telefon můžete odemknout tažením prstu po dolní části obrazovky směrem zleva doprava</string>
+<string name="fuse_master_clear_desc_erase_storage">"\n\n<xliff:g>Všechna uživatelská data</xliff:g> (například hudba, obrázky a další uživatelská data) v <xliff:g>interním úložišti</xliff:g> budou vymazána. Před resetováním telefonu si zálohujte data."</string>
+<string name="wifi_p2p_settings_title" msgid="5444461191435291082">"WLAN Direct"</string>
+<string name="black_screen_settings_shortcut_wakeup_screen">Klepnutím rozsvítíte obrazovku</string>
+<string name="flip_screen_control_summary">Otočením telefonu zapnete nebo vypnete obrazovku</string>
+<string name="wifi_setup_title_connecting_network" msgid="5572226790101017822">"Připojování k síti WLAN <xliff:g id="NETWORK_NAME">%s</xliff:g>…"</string>
+<string name="screen_info">Plocha</string>
+<string name="startup_time">Zapnout při</string>
+<string name="keyboard_lights_title">Stisknout tlačítko světla</string>
+<string name="wifi_poor_network_detection_summary" msgid="7843672905900544785">"Nepoužívat síť WLAN, pokud nemá dostatečně kvalitní internetové připojení"</string>
+<string name="muti_window_summary">Zobrazí další okno pro vybrané aplikace</string>
+<string name="credentials_configure_lock_screen_hint" msgid="6757119179588664966">"Před použitím úložiště pověření musíte nastavit kód PIN nebo heslo zámku obrazovky."</string>
+<string name="shellt_phone_info_runMemory">"1,0 GB"</string>
+<string name="roaming_time_settings_time_display">Program zobrazení času</string>
+<string name="header_category_other">Ostatní</string>
+<string name="data_usage_metered_wifi_disabled" msgid="5502020778468643732">"Chcete-li vybrat mobilní hotspoty, zapněte WLAN."</string>
+<string name="recovery_data_section_title">Obnovení dat</string>
+<string name="gestural_ebook_summary">Tažením prstu po obrazovce směrem doleva nebo doprava můžete otáčet stránky elektronické knihy.</string>
+<string name="auto_shutdown_interrupted">Načasované vypnutí přerušeno</string>
+<string name="start_camera_gesture_summary">Spustit rychle fotoaparát pomocí gesta</string>
+<string name="wifi_connect_failed_message" product="tablet" msgid="4474691090681670156">"Tabletu se nepodařilo připojit k této síti WLAN."</string>
+<string name="phone_car_mode_summary">"Nastavení režimu do automobilu"</string>
+<string name="data_connect_settings_title">Datové připojení</string>
+<string name="still_sleep_summary">Pokud je telefon v klidu, přejde do režimu spánku</string>
+<string name="theme_settings_title">Centrum témat</string>
+<string name="smart_rotete_cbox_title">Otáčení obrazovky</string>
+<string name="recovery_data_from_device_summary">Stáhnout data z jiného zařízení pomocí funkce SHAREit</string>
+<string name="voice_call_way_title">"Způsob hlasového hovoru"</string>
+<string name="gestural_music">Ovládání hudby pomocí funkce Gesture Control</string>
+<string name="color_light_unread_mms">Nepřečtené zprávy</string>
+<string name="stop_color_light">stop</string>
+<string name="save_power_wait_title">"Čekejte prosím"</string>
+<string name="black_screen_settings">Odemknutí černé obrazovky</string>
+<string name="savepower_black_title">"Seznam blokování"</string>
+<string name="set_dds_success">Nastavení předplatného dat úspěšné</string>
+<string name="multiwindow_summary">"podpora více oken"</string>
+<string name="lock_intro_message" product="tablet">"Tablet můžete chránit před neoprávněným použitím pomocí osobního bezpečnostního gesta pro odemknutí obrazovky. Tečky na následující obrazovce spojte prstem v jakémkoli pořadí. Je potřeba spojit alespoň čtyři tečky. "\n\n"Jakmile budete připraveni začít, dotkněte se tlačítka Další."</string>
+<string name="show_dialog">Neptat se znovu</string>
+<string name="close_home_landscape_summary">Otočením telefonu do vodorovné polohy deaktivujete tlačítko Domů</string>
+<string name="airbuse_phone_info_screen">"Rozlišení: qHD 960*540, velikost: 6,0 palců</string>
+<string name="shutdown_time_enabled">Naplánované vypnutí</string>
+<string name="accessibility_service_security_warning_summary" product="default" msgid="2869015914319424723">"Služba <xliff:g id="ACCESSIBILITY_SERVICE_NAME">%1$s</xliff:g> zaznamenává veškerý text, který napíšete, kromě hesel. To zahrnuje osobní údaje, jako jsou čísla platebních karet. Zaznamenává také údaje o interakci s telefonem."</string>
+<string name="black_screen_settings_select_app">Vyberte aplikaci, kterou chcete nastavit</string>
+<string name="incoming_mms_ringer_title">Výstražný tón zprávy</string>
+<string name="no_sim_info">Nejsou k dispozici informace o kartě SIM.\nNelze přistupovat k nabídce</string>
+<string name="wifi_settings" msgid="29722149822540994">"WLAN"</string>
+<string-array name="hue">
+        <item>Studené</item>
+        <item>Výchozí</item>
+        <item>Teplé</item>
+    </string-array>
+<string name="wifi_suspend_optimizations" msgid="1220174276403689487">"Optimalizace WLAN"</string>
+<string name="wifi_on_time" msgid="3208518458663637035">"Doba provozu WLAN"</string>
+<string name="recovery_data_summary">Klepnutím zadejte zálohování dat na kartu SD</string>
+<string-array name="sharpen">
+        <item>Výchozí</item>
+        <item>Ostré</item>
+    </string-array>
+<string name="wifi_menu_wps_pin" msgid="6426448256268695933">"Zadání kódu WPS PIN"</string>
+<string name="poweron_emergencycallonly">"Pouze tísňová volání"</string>
+<string name="data_usage_disable_mobile_statistics_dialog">Zakázáním této funkce dojde k vypnutí shromažďování statistik o využívání dat.</string>
+<string name="wifi_switch_settings_title">Zapamatování WLAN</string>
+<string name="schedule_power_on_off_settings_title">Naplánovat zapnutí/vypnutí</string>
+<string name="gestural_broswer_summary">Tažením prstu po obrazovce směrem dolů a nahoru můžete procházet stránky prohlížeče</string>
+<string name="wifi_scan_notify_text_location_on" msgid="8135076005488914200">"Za účelem zvýšení přesnosti a k dalším účelům mohou aplikace Google a další aplikace vyhledávat sítě WLAN v okolí, i když je WLAN vypnuta. Chcete-li to zakázat, přejděte do části Pokročilé &gt; Hledání vždy zapnuto."</string>
+<string name="gestural_vedio_summary">Tažením prstu po obrazovce směrem doleva a doprava můžete ovládat přehrávání videa. | Přejetím prstu po obrazovce směrem dolů a nahoru můžete ovládat hlasitost.</string>
+<string name="lenovo_recent_settings">Poslední nastavení</string>
+<string name="no_ftp_app">Žádné aplikace nepodporují FTP</string>
+<string name="accessibility_toggle_script_injection_preference_title">"Usnadnění přístupu k webu"</string>
+<string name="phone_info">Informace telefonu</string>
+<string name="sel_sub_title">Konfigurovat předplatná </string>
+<string name="accessibility_script_injection_disallowed">Nepovoleno</string>
+<string name="start_camera_gesture_title">Ovládat fotoaparát gesty</string>
+<string name="rotate_type_choose_cancel">"Zrušit"</string>
+<string name="lockscreen_knock_on_ctrl_summary">Poklepáním na obrazovku osvětlíte telefon</string>
+<string name="airplane_open_confirm_message">Aktivuje se režim Letadlo</string>
+<string name="data_usage_restrict_background_multiuser" product="default" msgid="2642864376010074543">"Pokud omezíte využití mobilních dat na pozadí, některé aplikace a služby nebudou fungovat, dokud se nepřipojíte k síti WLAN.\n\nToto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
+<string name="savepower_white_title">"Seznam povolení"</string>
+<string name="lenovoID_registered_title">"Souhlas s použitím mobilního telefonního čísla jako ID účtu Lenovo (heslo Lenovo)"</string>
+<string name="mannual">Vstoupit do výukového programu pro začátečníky</string>
+<string name="header_category_personalcustom_k7">"Přizpůsobeno"</string>
+<string name="china_telcom_push_title">China Telecom Yi Push</string>
+<string name="location_network_based" msgid="9134175479520582215">"Poloha WLAN a mobilní sítě"</string>
+<string name="header_category_singlehand_settings">"Nastavení jednou rukou"</string>
+<string name="devices_info_buildNumber">"Číslo sestavení: <xliff:g>%1$s</xliff:g>"</string>
+<string name="location_improve_allow">Vyhledávací služby vylepšené sítí WLAN nebo mobilními sítěmi</string>
+<string name="accessibility_service_disable_warning_title" msgid="3393956845814484859">"Ukončit službu <xliff:g id="SERVICE">%1$s</xliff:g>?"</string>
+<string name="schedule_power_on_set">Nastavit plán zapnutí</string>
+<string name="lockscreen_shake_unlock_ctrl">Potřesením zamkněte</string>
+<string name="call_ring_weaken_enable_summary">Automaticky sníží hlasitost vyzváněcího tónu po uchopení telefonu</string>
+<string name="wifi_popup_0">Upozornit, jestli se připojit k WLAN nebo prostřednictvím dat 3G.</string>
+<string name="wifi_popup_2">Zakázat zapamatování WLAN</string>
+<string name="wifi_popup_1">Automatické připojení</string>
+<string name="double_click_muti_window_title">Více oken</string>
+<string name="roaming_settings_title">Nastavení roamingu</string>
+<string name="accessibility_script_injection_security_warning_summary" msgid="7706858873495386310">"Chcete, aby aplikace nainstalovaly skripty Google, které usnadní přístup k jejich webovému obsahu?"</string>
+<string name="enter_bright_mode_warning" product="default"> "Otevřený zvuk, zřetelnější volání" </string>
+<string name="character_setings_title">Nastavení funkcí</string>
+<string name="backup_recovery_data_summary">Zálohovat nebo obnovit data aplikací v telefonu</string>
+<string name="wifi_settings_title" msgid="3103415012485692233">"WLAN"</string>
+<string name="security_settings_title">"Zabezpečení a zámek obrazovky"</string>
+<string name="black_screen_settings_flash_mode_on">Zapnuto</string>
+<string name="black_screen_settings_quick_shots_one">jeden snímek</string>
+<string name="leave_bright_mode_warning" product="default"> "Funkce byla vypnuta" </string>
+<string name="black_screen_settings_music_summary">Nakreslete na obrazovku „m</string>
+<string name="quicksettings_title">Rychlé nastavení</string>
+<string name="summary_keyboard_lights">SmartControl</string>
+<string name="backup_recovery_data_title">Zálohovat nebo obnovit data aplikací</string>
+<string name="poweron_nouim">Karta UIM nebyla nalezena</string>
+<string name="wifi_suspend_optimizations_summary" msgid="4151428966089116856">"Minimalizovat využívání baterie při zapnuté síti WLAN"</string>
+<string name="gestural_vedio">Video s funkcí Gesture Control </string>
+<string name="gadget_toggle_wifi" msgid="319262861956544493">"Probíhá aktualizace nastavení WLAN"</string>
+<string name="backup_data_recovery_section_title">Zálohování a obnova dat</string>
+<string name="share_music_a2dp_headphones_control_summary">Sdílet hudbu na přepínač zařízení A2dp</string>
+<string name="memory_os_size">Obsazená velikost Os</string>
+<string name="revert">"Vrátit zpět"</string>
+<string name="usage_type_data_wifi_recv" msgid="7822328607564241372">"Přijaté datové přenosy WLAN"</string>
+<string name="double_click_dock_enabled_title">"Aktivní hlas oblasti ikony dvojitého DOKU"</string>
+<string name="color_light_battery">Baterie</string>
+<string name="internal_version">Číslo interní verze</string>
+<string name="preference_status_close">Vypnuto</string>
+<string name="apn_call_number">Telefonní číslo PPP</string>
+<string name="sound_settings_title">"Hlasitosti"</string>
+<string name="set_priority_sub_error">Chyba v nastaveném prioritním předplatném dat. Předplatné není aktivní.</string>
+<string name="common_setings_title">Společná nastavení</string>
+<string name="colorLight_settings">colorLight_settings</string>
+<string name="sms_summary">Vyberte předplatné pro odesílání zpráv SMS</string>
+<string name="devices_info_firmwareVersion">"Verze systému Android: <xliff:g>%1$s</xliff:g>"</string>
+<string name="wifi_settings_category" msgid="8719175790520448014">"Nastavení WLAN"</string>
+<string name="show_hw_overdraw_summary">"Od nejlepšího k nejhoršímu: modrá, zelená, světle červená, červená"</string>
+<string name="show_recent_settings">vytažením skryjete nastavení</string>
+<string name="global_action_restart">"Restartovat"</string>
+<string name="color_light_call">"Volat"</string>
+    <string name="eap_sim_aka_airplanemode">Před používáním EAP-SIM/AKA vypněte režim Letadlo</string>
+    <string name="wifi_ap_bandwidth_chart_title">Rychlost dat v reálném čase</string>
+    <string name="single_hand_title">Mikro obrazovka pro jednu ruku</string>
+    <string name="pch_warning_message">Rychlost přenášení dat se sníží.</string>
+    <string name="dlg_error_unmount_usb_text" product="default">"Kartu SD nelze odpojit. Zkuste to znovu později."</string>
+    <string name="move_success">Přesunutí je hotovo! Některé aplikace není možné přesunout na výchozí paměťovou kartu. <xliff:g>%1$s</xliff:g> aplikací přesunuto úspěšně!</string>
+    <string name="AGPS_NOTIFY_ONLY">Upozornění na požadavek na umístění</string>
+    <string name="agps_str_deny">ODMÍTNOUT</string>
+    <string name="privacy_backup_userdata_category_title">Záloha dat</string>
+    <string name="usb_ums_without_external_sd_summary">"Nebyla detekována žádná externí paměťová karta, vestavěná paměťová karta nepodporuje režim disku U, takže ji nelze použít"</string>
+    <string name="wifi_backup_category_title">Záloha WLAN</string>
+    <string name="display_effect_of_screen_reset">Resetovat</string>
+    <string name="double_click_tip">Poklepejte zde</string>
+    <string name="ipo_title">Rychlé spuštění</string>
+    <string name="authdlg_message">%1$s žádá o povolení k připojení k %2$s.</string>
+    <string name="lockdown_vpn_already_connected">Funkce Vždy na VPN je již aktivována pro připojení.</string>
+    <string name="usb_connect_as_cdrom_category">"Připojit jako CD-ROM"</string>
+    <string name="wifi_ap_max_connection_title">Maximum připojení</string>
+    <string name="launch_main">Spustit aplikaci hlavní aktivitou</string>
+    <string name="usbsetting_help_content">1. Velkokapacitní úložiště USB: Umožní přenést soubor mezi počítačem a úložištěm USB a SD systému Android. \n\n
+2. MTP: Umožní správu souborů z telefonu a počítače zároveň.
+Poznámka: Doporučuje se WIN7 nebo novější. Pokud používáte XP, nainstalujte nejprve ovladače. \n\n
+3. PTP: Umožní přenést fotografie do počítače bez podpory MTP.
+Poznámka: Doporučuje se WIN7 nebo novější. Pokud používáte XP, nainstalujte nejprve ovladače. \n\n
+4. Ladění USB: Umožní kopírovat data mezi počítačem a vaším zařízením, instalovat aplikace na zařízení bez upozornění a číst data protokolů. Je určeno pouze pro účely vývoje. \n\n
+5. USB tethering: Povolí sdílení internetového připojení 3G s počítačem PC. Mohou se účtovat poplatky za data.</string>
+    <string name="title_lcd_invert">Inverze barvy LCD</string>
+    <string name="test_area">TESTOVACÍ PLOCHA:</string>
+    <string name="wfd_change_resolution_menu_title">Změnit rozlišení</string>
+    <string name="smart_scene_summary">"K aktivaci chytrého přepnutí je vyžadován režim scény"</string>
+    <string name="lenovo_system_update">Aktualizace systému</string>
+    <string name="wifi_ap_reset_OOB_title">Obnovit výchozí SSID sítě, zabezpečení a heslo (konfigurace pro WPS při vybalení)</string>
+    <string name="mouse_primary_button_title">Přepínání primárních a sekundárních tlačítek</string>
+    <string name="wide_touch_summary">Přístup k jednodotykovým zkratkám</string>
+    <string name="try_swing_lock_result_longer">Nepřiměřené třesení. Opakujte pokus</string>
+    <string name="bluetooth_ask_enablement_ext">Aplikace <xliff:g>%1$s</xliff:g> chce zapnout Bluetooth.</string>
+    <string name="wifi_ap_reset_OOB">Resetovat OOB</string>
+    <string name="side_key_backlight_title">"Podsvícení klávesy hlasitosti"</string>
+    <string name="privacy_restore_userdata_summary">Obnovit data z úložiště</string>
+    <string name="swing_lock">Potřesením zamkněte</string>
+    <string name="default_name">"Výchozí"</string>
+    <string name="gesture_rotete_cbox_summary">Gesto</string>
+    <string name="wifi_restore_category_title">Obnovení WLAN</string>
+    <string name="landscape_launcher_none">Žádná</string>
+    <string name="drm_reset_toast_msg">Licence byly úspěšně odstraněny.</string>
+    <string name="ringtone_settings">Vyzváněcí tóny a hlasitosti</string>
+    <string name="network_synchronization_enable_confirm">Síťová synchronizace potřebuje bezdrátové datové připojení k získání pomocných dat, která mohou zapříčinit další poplatky. Opravdu chcete zapnout síťovou synchronizaci?</string>
+    <string name="usb_charge_title">Pouze nabíjení</string>
+    <string name="runningapp_stop_dlg_title">Ukončit službu?</string>
+    <string name="sim_remain">(Zbývá: <xliff:g id="remains">%d</xliff:g>)</string>
+    <string name="lockscreen_style_default_desc">"Rychlý přístup k aplikacím na zamykací obrazovce"</string>
+    <string name="pin_scroll_summary">Při listování seznamem zcela nahoru na chvíli zastavte a uvolněte ho – seznam se přichytí kvůli lepšímu ovládání.</string>
+    <string name="AGPS_DEFAULT_STRING">Výchozí řetězec A-GPS</string>
+    <string name="smart_call_answer_title">Chytré zvednutí</string>
+    <string name="vpn_lockdown_savelogin_error">Přihlašovací údaje k účtu je třeba uložit, pokud je VPN vždy zapnutá. </string>
+    <string name="sim_slot">Slot SIM</string>
+    <string name="stop_select_app">Zastavit vybrané?</string>
+    <string name="wifi_ap_client_block_title">"Blokovat"</string>
+    <string name="usb_sharing_summary">Sdílení Windows PC internetu prostřednictvím kabelu USB</string>
+    <string name="current_suffix">"(Aktuální)"</string>
+    <string name="wifi_backup">Záloha konfigurace WLAN</string>
+    <string name="agps_profile_select_Title">Profil SUPL</string>
+    <string name="single_hand_summary">Obsluhujte telefon pouze jednou rukou</string>
+    <string name="smart_scene_title">Chytrá scéna</string>
+    <string name="cpu_dtm_summary">Omezte maximální výkon procesoru pro prodloužení životnosti baterie a snížení teploty zařízení.</string>
+    <string name="dlg_confirm_unmount_usb_title" product="default">"Odpojit kartu SD?"</string>
+    <string name="battery_percent">Procenta baterie</string>
+    <string name="server_lenovo_exp_dialogmsg">Jestliže se Lenovo Experience Program zruší, části aplikace nebudou fungovat správně a může dojít k omezení služeb a využití produktu. Jestliže se Lenovo Experience Program zruší, části aplikace nebudou fungovat správně a může dojít k omezení služeb a využití produktu. Opravdu chcete službu zrušit?</string>
+    <string name="apn_port_warning">Hodnota portu musí být 1-65535!</string>
+    <string name="agps_str_allow">POVOLIT</string>
+    <string name="tethered_ipv4v6">(IPv6 k dispozici)</string>
+    <string name="autopop_warning_title">Nenabízet příště?</string>
+    <string name="prevent_misoperation_title">Režim zabránění vytáčení v kapse</string>
+    <string name="default_soft_setting">Výchozí nastavení softwaru</string>
+    <string name="lockscreen_style_set">Nastavit zamknutou obrazovku</string>
+    <string name="wifi_backup_ok">Záloha OK!</string>
+    <string name="wifi_backup_failed">Záloha se nezdařila.</string>
+    <string name="dlg_default_write_disk0_change_msg">Pokud vyberete úložiště SD, aplikace, které jste nainstalovali do interního úložiště není možné použít a zařízení se restartuje, opravdu chcete změnu na úložiště SD?</string>
+    <string name="MobileNetwork_SIM2_Active">SIM2 je aktivní</string>
+    <string name="eap_sim_slot_0">Slot Sim 0</string>
+    <string name="smart_standby_ctrl_description">Obrazovka se rozsvítí, když se na ni podíváte</string>
+    <string name="eap_sim_slot_1">Slot Sim 1</string>
+    <string name="auto_rotete_cbox_summary">"Automatické"</string>
+    <string name="wifi_restore_ok">Obnova OK!</string>
+    <string name="auto_time_off">Zakázáno</string>
+    <string name="passpoint_certificate">Certifikát</string>
+    <string name="audio_profile_error">Chyba</string>
+    <string name="dlg_mount_external_sd_summary" product="default">Pokud připojíte kartu SD, některé používané aplikace se ukončí.</string>
+    <string name="wifi_channel">Upřednostňovaný kanál</string>
+    <string name="agps_str_verify">Ověření</string>
+    <string name="personal_hotsport_title">"Hotspot"</string>
+    <string name="bluetooth_stop_search_for_devices">Zastavit hledání</string>
+    <string name="phone_model_number">"Model telefonu"</string>
+    <string name="akp_installer_settings_title">Instalátor APK</string>
+    <string name="authdlg_service_pbap">tento telefon pro stahování kontaktů</string>
+    <string name="wifi_security_wapi_certificate">Certifikát WAPI</string>
+    <string name="gps_time_sync_attention_gps_off">Aby bylo možné použít čas poskytnutý systémem GPS, musíte nejdříve aktivovat GPS. Potom bude během max. 1 minuty zaměřen signál GPS. Kromě toho systém GPS nemusí poskytnout čas z důvodu slabého prostorového signálu. \n\nOpravdu chcete nyní aktivovat GPS a vyčkat na čas poskytnutý systémem GPS?</string>
+    <string name="launch_activitie">Spustit</string>
+    <string name="sd_eject_usbstorage_summary" product="default">"Odpojit interní úložiště USB"</string>
+    <string name="smart_call_answer_summary">Automaticky zvedne příchozí hovor, když se zařízení zvedne k uchu</string>
+    <string name="try_swing_lock_result_harder">Nepřiměřené třesení. Opakujte pokus</string>
+    <string name="hdmi_settings">Nastavení HDMI</string>
+    <string name="tethering_apn_settings_summary">Nakonfigurujte APN pro připojení</string>
+    <string name="usb_ums_with_external_sd_summary">"Doporučuje se systém XP. Ke kopírování souborů vezměte externí, nikoli vestavěnou paměťovou kartu. "</string>
+    <string name="gemini_data_connection_progress_message">"Čekejte prosím..."</string>
+    <string name="display_effect_of_screen_toast_title">Pokud nezaškrtnete tlačítko \"Použít\", po restartování dojde k obnovení konfigurace </string>
+    <string name="privacy_category_title_sd">"Karta SD"</string>
+    <string name="privacy_backup_userdata_text">Zálohovat SMS, kontakty nebo záznamy o volání do interního úložiště?</string>
+    <string name="mobile">Datové připojení</string>
+    <string name="choose_soft_place">Vyberte umístění instalace softwaru</string>
+    <string name="display_smart_standby">Chytrý pohotovostní režim</string>
+    <string name="ims_toggle_summary">Poskytování služeb IP subsystému multimédií </string>
+    <string name="bluetooth_ask_establish_connection_ext">Aplikace <xliff:g>%1$s</xliff:g> chce komunikovat s <xliff:g>%2$s</xliff:g> prostřednictvím Bluetooth.</string>
+    <string name="wifi_advanced_ipv6_address_title">Adresa IPv6</string>
+    <string name="clear_motion_summary">Vylepšení plynulosti videa</string>
+    <string name="rcse_settings_title">Nastavení připojení</string>
+    <string name="voice_ui_title">Hlasové ovládání</string>
+    <string name="bluetooth_ftp_profile_summary_use_for">Použít pro přenos souborů</string>
+    <string name="select_memory">Výchozí disk pro zápis</string>
+    <string name="usb_ums_summary">"Doporučujeme XP. Umožňuje přenášet soubory mezi počítačem a úložištěm USB systému Android."</string>
+    <string name="clear_cache_msg">Mazání hotovo, uvolnění <xliff:g>%1$s</xliff:g> paměti.</string>
+    <string name="data_usage_more_settings">Další nastavení</string>
+    <string name="dlg_confirm_unmount_usb_text" product="default">"Pokud odpojíte kartu SD, dojde k zastavení některých používaných aplikací. Tyto aplikace pravděpodobně nebudou k dispozici až do opětovného připojení karty SD."</string>
+    <string name="cpu_dtm_title">Režim snížené spotřeby procesoru</string>
+    <string name="smart_roll_summary">Přetažením po okraji obrazovky listujete mezi tlačítky</string>
+    <string name="light_settings">Kontrolka upozornění</string>
+    <string name="agps_str_notify">Upozornění</string>
+    <string name="unmount_usb_inform_text" product="default">"Karta SD bude odpojena."</string>
+    <string name="agps_OK">"OK"</string>
+    <string name="hotknot_explained_description">Povolit výměnu dat, když se displej dotkne jiného zařízení</string>
+    <string name="wifi_restore_title">Obnovení konfigurace WLAN</string>
+    <string name="security_not_set">Zabezpečení není nastaveno</string>
+    <string name="bluetooth_ask_establish_connection">Aplikace chce komunikovat s <xliff:g>%1$s</xliff:g> prostřednictvím Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection_ext">Aplikace <xliff:g>%1$s</xliff:g> chce zapnout Bluetooth a komunikovat s <xliff:g>%2$s</xliff:g> prostřednictvím Bluetooth.</string>
+    <string name="sd_eject_usbstorage" product="default">"Odpojit úložiště USB"</string>
+    <string name="swing_lock_summary">Rychlým zatřesením telefonem jedním směrem zamknete obrazovku</string>
+    <string name="usb_tether_type_title">Typ sdílení USB</string>
+    <string name="gesture_series_title">Ovládání černé obrazovky</string>
+    <string name="smart_rotete_cbox_summary">Smart</string>
+    <string name="header_category_system_and_key">Funkce zkratek</string>
+    <string name="wifi_ap_client_ip_label">Adresa IP:</string>
+    <string name="wifi_ap_title">Statistika</string>
+    <string name="gemini_sim_management_title">Správa SIM</string>
+    <string name="try_it">Vyzkoušet</string>
+    <string name="AGPS_NOTIFY_PRIVACY">Požadavek na umístění (ochrana osobních údajů)</string>
+    <string name="pch_call_prefer_summary_on">Upřednostnit volání</string>
+    <string name="wifi_hotspot_suspend_optimizations">Optimalizace aktivního bodu WLAN</string>
+    <string name="network_synchronization_enable_allow">Pokračovat</string>
+    <string name="wifi_ipv4_address">Adresa IPv4</string>
+    <string name="autopop_warning_message">Pokud zrušíte zaškrtnutí této položky, nezobrazí se příště při připojení telefonu k počítači toto okno. Do tohoto okna se můžete dostat kliknutím na systémové upozornění. </string>
+    <string name="launch_error">"Nebylo možné spustit aplikaci!"</string>
+    <string name="wifi_no_cert_for_wapi">Nebylo možné najít certifikaci pro aktuálně připojovaný AP</string>
+    <string name="custom_theme_name">Nový [%1$s]</string>
+    <string name="wifi_tethering_title">Aktivní bod WLAN</string>
+    <string name="passpoint_config_credential_type">Typ pověření</string>
+    <string name="smart_roll_title">Chytré listování</string>
+    <string name="tethered_ipv6_title">Nastavení aktivního bodu a sdílení</string>
+    <string name="display_effect_of_screen_soft">Měkký</string>
+    <string name="wifi_ap_connected_title">Připojení uživatelé</string>
+    <string name="tvout_settings">Výstup TV</string>
+    <string name="side_key_backlight_summary">"Stisknutím klávesy zvýšení či snížení hlasitosti zapnete obrazovku"</string>
+    <string name="authdlg_service_ftp">tento telefon pro přenášení souborů</string>
+    <string name="loading">"Načítání..."</string>
+    <string name="profile_edit_pocket_title">"Kapesní režim"</string>
+    <string name="display_effect_of_screen_warm">Teplé</string>
+    <string name="display_effect_of_screen_default">"Výchozí"</string>
+    <string name="wifi_restore_summary">Obnovit konfiguraci WLAN (účet/heslo apod.) z LeCloud</string>
+    <string name="stop_all_app">Zastavit vše</string>
+    <string name="sd_insert_usb_summary" product="default">"Vložte úložiště USB"</string>
+    <string name="dlg_mount_external_sd_title" product="default">Připojit kartu SD?</string>
+    <string name="credentials_none">Žádný důkaz nyní neexistuje</string>
+    <string name="privacy_backup_userdata_summary">Zálohovat data do úložiště</string>
+    <string name="mtk_thememanager_title">Motiv</string>
+    <string name="wifi_ap_bandwidth_enable">Povolit omezení šířky pásma</string>
+    <string name="passpoint_supported">Podporováno</string>
+    <string name="screen_timeout_CU">Časový limit obrazovky</string>
+    <string name="vpn_delete">Opravdu chcete odstranit?</string>
+    <string name="privacy_backup_userdata_summary_cloud">Zálohovat data v telefonu do cloudu</string>
+    <string name="bluetooth_advanced_settings">Pokročilá nastavení</string>
+    <string name="gemini_default_sim_never">Vypnout</string>
+    <string name="bluetooth_profile_ftp">Přenos souboru</string>
+    <string name="try_swing_lock_info">Zatřesení telefonem uzamkne obrazovku</string>
+    <string name="network_synchronization_enable_deny">"Zrušit"</string>
+    <string name="sim_enter_pin_hints">(Zadejte 4 - 8 číslic)</string>
+    <string name="ipo_summary_on">Zakázat rychlé spuštění</string>
+    <string name="authorizaion_failed_error">Autorizace se nezdařila. Nelze se připojit ke vzdálenému zařízení.</string>
+    <string name="ipo_summary_off">Povolit rychlé spuštění</string>
+    <string name="display_settings_scences_title">Scény</string>
+    <string name="runningapp_stop_dlg_text" product="tablet">Jestliže ukončíte tyto služby, některé
+        funkce tabletu mohou přestat fungovat správně, dokud ho nevypnete
+        a znovu nezapnete.</string>
+    <string name="usbsetting_usbmassstorage_wait">Čekejte ...</string>
+    <string name="wifi_WEP_transmit_key">Přenést klíč</string>
+    <string name="move_to_sdcard">Přesunout na výchozí paměťovou kartu</string>
+    <string name="gps_time_sync_attention_gps_on">Vyhledání satelitů GPS bude trvat maximálně 1 minutu. GPS nemusí poskytnout čas kvůli slabému signálu.\n\nOpravdu chcete použít čas poskytnutý systémem GPS?</string>
+    <string name="bluetooth_turning_on_failed">Nepodařilo se otevřít Bluetooth</string>
+    <string name="wifi_tether_wps_connect_title">Připojení WPS</string>
+    <string name="tether_title">"Tethering a přenosný hotspot"</string>
+    <string name="AGPS_NOTIFY_DENY_NO_ANSWER">Požadavek na umístění (odmítnout v případě žádné odpovědi)</string>
+    <string name="move_tomemory_success">Přesunutí je hotovo! <xliff:g>%1$s</xliff:g> aplikací přesunuto úspěšně!</string>
+    <string name="authdlg_auto_reply">Neptat se znovu</string>
+    <string name="eap_sim_aka_no_sim_slot_selected">Aby bylo možné použít EAP-SIM/AKA, musíte vybrat slot SIM</string>
+    <string name="passpoint_summary">Automaticky připojovat k AP s passpoint</string>
+    <string name="usb_ums_title">"Úložiště USB"</string>
+    <string name="usb_bicr_summary">Zobrazí virtuální disk CD-ROM obsahující užitečný software.</string>
+    <string name="authdlg_service_map">tento telefon pro přístup ke zprávám</string>
+    <string name="server_lenovo_exp_ok">"OK"</string>
+    <string name="slide_unlock_title">Přetažením odemknout</string>
+    <string name="authdlg_service_spp">sériový port Bluetooth na tomto telefonu</string>
+    <string name="display_effect_of_screen_dialog_title">Bude v platnosti od dalšího zapnutí obrazovky!</string>
+    <string name="move_select">Chcete přesunou vybrané aplikace? Některé aplikace není možné přesunout na výchozí paměťovou kartu.</string>
+    <string name="wifi_restore_failed">Obnovení se nezdařilo.</string>
+    <string name="landscape_launcher_title">Landscape Launcher</string>
+    <string name="usb_sharing_info_title">Internetové předávání</string>
+    <string name="clear_cache">Vymazat celou mezipaměť</string>
+    <string name="authdlg_service_default">tento telefon</string>
+    <string name="wifi_tether_auto_disable_title">Zachovat aktivní bod WLAN zapnutý</string>
+    <string name="wifi_backup_summary">Zálohovat konfiguraci WLAN (účet/heslo apod.) na LeCloud</string>
+    <string name="storage_phone">Vestavěné úložiště</string>
+    <string name="hdmi_audio_toggler">Zvuk</string>
+    <string name="NI_Request_ID">ID žadatele</string>
+    <string name="passpoint_config_eap_method">Metoda EAP</string>
+    <string name="wifi_ap_wps_mode_title">Režim WPS</string>
+    <string name="authdlg_title">Žádost o autorizaci Bluetooth</string>
+    <string name="usb_bicr_title">Integrovaná jednotka CD-ROM</string>
+    <string name="double_click_title">Rychlost poklepání</string>
+    <string name="pin_scroll_title">Listováním přichytit seznam</string>
+    <string name="wifi_backup_title">Záloha WLAN</string>
+    <string name="eap_sim_aka_no_sim_error">Aby bylo možné použít EAP-SIM/AKA, musíte vložit kartu SIM</string>
+    <string name="wifi_wps_fail_error">WLAN Protected Setup se nezdařilo, opakujte akci.</string>
+    <string name="bluetooth_ftp_profile_summary_connected">"Připojeno k přenosu souborů"</string>
+    <string name="privacy_backup_userdata_title_cloud">Zálohovat do cloudu</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">Minimalizovat využití baterie když je aktivní bod WLAN zapnutý</string>
+    <string name="privacy_restore_userdata_category_title">Obnovit data</string>
+    <string name="gesture_series_summary">Můžete odblokovat stav černé obrazovky, rychlé otevření</string>
+    <string name="auto_popup">Nezobrazovat</string>
+    <string name="MobileNetwork_SIM1_Active">SIM1 je aktivní</string>
+    <string name="move_app_to_where">"Přesunout na "<xliff:g id="location">%s</xliff:g>
+  </string>
+    <string name="launch_main_label">Spustit aplikaci</string>
+    <string name="akp_installer_settings_summary">Nainstalujte APK z karty SD</string>
+    <string name="tv_system_title">Televizní systém</string>
+    <string name="NI_Request_ClientName">Jméno klienta</string>
+    <string name="profile_edit_pocket_summary">"Režim Maximalizace hlasitosti vyzvánění v kapse nebo v pouzdře"</string>
+    <string name="profile_edit_weaken_summary">Automaticky sníží hlasitost vyzváněcího tónu po uchopení telefonu</string>
+    <string name="privacy_restore_userdata_summary_cloud">Zvolením obnovíte data zálohovaná do cloudu</string>
+    <string name="display_effect_of_screen_cool">Studené</string>
+    <string name="lock_screen_notifications_title">Zamknutá obrazovka - oznámení</string>
+    <string name="header_category_call_and_msg">Volání a zpráva</string>
+    <string name="status_imei_slot1">IMEI (Slot 1)</string>
+    <string name="wifi_ap_client_details_title">Podrobnosti</string>
+    <string name="server_lenovo_exp_title">Souhlas s účastí v Lenovo Experience Program</string>
+    <string name="status_imei_slot2">IMEI(Slot1)</string>
+    <string name="header_category_lock_and_screen">Prvky obrazovky</string>
+    <string name="passpoint_append_summary">(prostřednictvím Passpoint)</string>
+    <string name="lock_screen_style_title">Zamknutá obrazovka - styl</string>
+    <string name="privacy_restore_userdata_title_cloud">Obnovit z cloudu</string>
+    <string name="app_privacy_settings">Nastavení soukromí aplikace</string>
+    <string name="drm_reset_dialog_msg">Tato operace odstraní všechny licence v těchto zařízeních. Pokračovat?</string>
+    <string name="wapi_as_certificate">Certifikát ASE</string>
+    <string name="erase_external_storage_description_fuse">Vymazat všechna data na interní paměťové kartě, např. hudbu a obrázky</string>
+    <string name="wifi_tether_auto_channel_width_text">Auto 20/40 MHz</string>
+    <string name="bluetooth_security_confirm">"Požadavek na oprávnění Bluetooth"</string>
+    <string name="slide_unlock_summary">Přetažením na spodní straně obrazovky při vypnuté obrazovce ji odemknete</string>
+    <string name="wifi_tether_auto_channel_text">"Automatické"</string>
+    <string name="usb_charge_summary">Zastaví všechny funkce USB. Umožňuje zrychlit nabíjení USB a snížit spotřebu energie.</string>
+    <string name="long_menu_active_voice_summary">Když obrazovka svítí, dlouhé stisknutí klávesy nabídky aktivuje hlasovou funkci</string>
+    <string name="wifi_ap_time_duration">Doba trvání: 
+        <xliff:g id="time">%1$s</xliff:g> 
+    </string>
+    <string name="wifi_ap_client_mac_label">Adresa MAC:</string>
+    <string name="wifi_advanced_ipv4_address_title">Adresa IPv4</string>
+    <string name="hdmi_video_resolution">Rozlišení videa</string>
+    <string name="tethered_ipv4">(IPv6 není k dispozici)</string>
+    <string name="soft_permission">Správa oprávnění</string>
+    <string name="authdlg_service_dun">služba vytáčené sítě v tomto telefonu</string>
+    <string name="privacy_backup_userdata_title">Zálohovat na úložiště</string>
+    <string name="prevent_misoperation_summary">Snímač vzdálenosti se používá k tomu, aby nedocházelo k neúmyslnému použití, když máte telefon v kapse</string>
+    <string name="tethered_ipv6">(Pouze IPv6 k dispozici)</string>
+    <string name="wifi_ipv6_address">Adresa IPv6</string>
+    <string name="wifi_ap_bandwidth_title">Využití šířky pásma</string>
+    <string name="tethering_apn_settings_title">Nastavení APN</string>
+    <string name="erase_external_storage_fuse">Formátování vestavěné paměťové karty</string>
+    <string name="server_lenovo_exp_summery">Shromažďovat data kvůli zlepšení našeho produktu a služby</string>
+    <string name="usbsetting_usbmassstorage_close">Vysunout úložné zařízení USB</string>
+    <string name="wifi_ap_no_connected">0 připojení uživatelé</string>
+    <string name="wifi_channel_width">Šířka kanálu</string>
+    <string name="dlg_default_write_disk1_change_msg">Pokud vyberete interní úložiště, aplikace nainstalované do úložiště SD není možné použít a zařízení se restartuje, opravdu chcete změnu na interní úložiště?</string>
+    <string name="wifi_ap_bandwidth_chart_summary">Měřeno podle vašeho telefonu, účtování rychlosti dat vašeho poskytovatele se může lišit.</string>
+    <string name="usbsetting_help_title">"Nápověda"</string>
+    <string name="bluetooth_remote_device">Zařízení Bluetooth</string>
+    <string name="long_menu_active_voice">Hlasová aktivace klávesy nabídky</string>
+    <string name="mouse_primary_button_dialog_title">Přepnutí primárního tlačítka</string>
+    <string name="authdlg_service_decline">Odmítnout</string>
+    <string name="move_select_short">Chcete přesunou vybranou aplikaci?</string>
+    <string name="display_effect_of_screen_bright">Jasný</string>
+    <string name="wifi_tether_wps_pin_error">Neplatný PIN</string>
+    <string name="auto_time_on">Použít síťovou podporu</string>
+    <string name="usb_sharing_info_step_1">"1. Otevřete síťová připojení ve vašem Windows PC."</string>
+    <string name="button_brightness">Podsvícení tlačítek nabídky</string>
+    <string name="display_default">Zobrazení</string>
+    <string name="pch_toggle_title">Upřednostňovaný režim přenosu GPRS</string>
+    <string name="AGPS_NOTIFY_ALLOW_NO_ANSWER">Požadavek na umístění (povolit v případě žádné odpovědi)</string>
+    <string name="usb_sharing_info_step_3">"3. Klepněte na kartu Sdílení a vyberte možnost \'Umožnit ostatním uživatelům v síti využívat připojení k Internetu tohoto počítače\'(pokud se zobrazí \'Připojení domácí sítě\', vyberte nově přidanou síť, která představuje USB Internet)."</string>
+    <string name="wifi_ap_wps_pin_title">Zadejte PIN od klienta</string>
+    <string name="usb_sharing_info_step_2">"2. Pravým tlačítkem klepněte na spojení, které chcete sdílet, a potom klepněte na Vlastnosti."</string>
+    <string name="runningapp_stop_dlg_text" product="default">Jestliže ukončíte tyto služby, některé
+        funkce telefonu mohou přestat fungovat správně, dokud ho nevypnete
+        a znovu nezapnete.</string>
+    <string name="wifi_tether_wps_connect_summary">Vybrán režim WLAN Protected Setup pro pokračování</string>
+    <string name="wizard_title">Průvodce</string>
+    <string name="location_settings_label">Technický režim umístění</string>
+    <string name="sim_status_title">Stav SIM</string>
+    <string name="auto_rotate_type">"Autom. otočení obrazovky"</string>
+    <string name="wifi_hex_password">Hexadecimální heslo.</string>
+    <string name="pch_data_prefer_summary_off">Upřednostňovaná data</string>
+    <string name="wifi_WEP_secury_key">Zabezpečovací klíč</string>
+    <string name="passpoint_username_pw">Uživatelské jméno/heslo</string>
+    <string name="dlg_default_write_disk_change_msg">Výchozí disk pro zápis se změnil, je nutný restart!</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">"Chcete-li zobrazit zařízení, zapněte bezdrátový displej."</string>
+    <string name="drm_settings_title">Resetovat DRM</string>
+    <string name="notification_settings_title">Centrum upozornění</string>
+    <string name="wifi_ap_client_unblock_title">Odblokovat</string>
+    <string name="authdlg_service_opp">tento telefon</string>
+    <string name="display_personalize">Přizpůsobit</string>
+    <string name="usb_tethering_select_version">Vyberte verzi PC systému</string>
+    <string name="drm_settings_summary">Odstraní všechny licence DRM</string>
+    <string name="hdmi_settings_summary">Klepnutím nakonfigurujte HDMI</string>
+    <string name="wifi_ap_no_blocked">0 blokovaní uživatelé</string>
+    <string name="smart_rotate_type">Chytré otáčení obrazovky</string>
+    <string name="wifi_tether_setting_title">Základní nastavení</string>
+    <string name="master_clear_error">Lenovo Sync je zakázána. Povolte ji.</string>
+    <string name="tvout_settings_summary">Nastavení výstupu TV</string>
+    <string name="try_swing_lock_result_ok">Metoda správná. Můžete použít tuto funkci</string>
+    <string name="wifi_ap_wps_dialog_title">Připojení WPS</string>
+    <string name="authdlg_service_accept">Autorizovat</string>
+    <string name="dialog_title_button_brightness">Podsvícení tlačítek nabídky</string>
+    <string name="move_to_phone">Přesunout do telefonu</string>
+    <string name="usbsetting_usbmassstorage_open">Připojení k úložnému zařízení USB</string>
+    <string name="wide_touch_title">Široký dotyk</string>
+    <string name="wifi_ap_blocked_title">Blokovaní uživatelé</string>
+    <string name="gesture_rotate_type">Otáčení obrazovky gestem</string>
+    <string name="sd_mount_usbstorage" product="default">"Připojit úložiště USB"</string>
+    <string name="vpn_delete_title">"Smazat"</string>
+    <string name="wifi_ap_total_data">Využitá data celkem:
+        <xliff:g id="time">%1$s</xliff:g>
+    </string>
+    <string name="unlock_set_unlock_mode_voice_weak">Odemknout hlasem</string>
+    <string name="audio_profile_settings_title_lap">Zvukové profily</string>
+    <string name="storage_path0">Úložiště USB</string>
+    <string name="uninstall_select">Odinstalovat vybrané?</string>
+    <string name="storage_path1">Úložiště SD</string>
+    <string name="install_local">Umístění instalace softwaru</string>
+    <string name="server_lenovo_exp_cancel">"Zrušit"</string>
+    <string name="hdmi_auto">"AUTOM."</string>
+    <string name="server_lenovo_exp_dlg_title">Upozornění</string>
+    <string name="bluetooth_ask_enablement_and_establish_connection">Aplikace chce zapnout Bluetooth a komunikovat s <xliff:g>%1$s</xliff:g> prostřednictvím Bluetooth.</string>
+    <string name="lock_screen_notifications_summary">Zobrazovat oznámení na zamknuté obrazovce</string>
+    <string name="wapi_user_certificate">Certifikát uživatele</string>
+    <string name="privacy_restore_userdata_title">Obnovit z úložiště</string>
+
+    <string name="reboot_progress">Restart\u2026</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="hdmi_video_toggler">Video</string>
+    <string name="usb_sharing_title">USB Internet</string>
+    <string name="hdmi_toggler">HDMI</string>
+    <string name="hdmi_video_toggler">Video</string>
+    <string name="dlg_error_unmount_usb_title" product="default">Chyba</string>
+    <string name="display_effect_of_screen_dialog_ok">Ok</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Chyba</string>
+    <string name="privacy_category_title_cloud">Cloud</string>
+    <string name="summary_lcd_invert">Chyba</string>
+    <string name="usb_sharing_title">USB Internet</string>
+    <string name="usb_tether">USB tether</string>
+    <string name="show_frame_count_bit">Bit</string>
+    <string name="status_esn_number">"ESN"</string>
+    <string name="show_password_summary">Chyba</string>
+    <string name="category_smart">Smart</string>
+
+    <string name="power_settings">"Správce napájení"</string>
+    <string name="multiwindow_settings">Více oken</string>
+    <string name="night_mode_summary">Tento režim je vhodný pro používání v noci, může se stát, že v několika aplikacích nebude možné klepnout na některá tlačítka.</string>
+    <string name="long_press_back_finish_title">Ukončíte dlouhým stisknutím tlačítka Zpět</string>
+    <string name="night_mode">Ochrana zraku v noci</string>
+    <string name="long_press_back_finish_summary">Aktuální program ukončíte dlouhým stisknutím tlačítka Zpět</string>
+    <string name="change_settings_to_all_settings">Přepnout na Nastavení</string>
+    <string name="touch_free_phone_dial">Bezkontaktní vytáčení</string>
+    <string name="tilt_slide_summary">Nakloňte doleva/doprava pro procházení prezentací</string>
+    <string name="change_settings_to_recent">Přepnout na poslední nastavení</string>
+    <string name="touch_free_phone_answer">Bezkontaktní odpověď</string>
+    <string name="recent_settings_empty">V nedávné době nebyla změněna žádná systémová nastavení</string>
+    <string name="recent_settings">Poslední nastavení</string>
+    <string name="tilt_slide_title">Posunutí nakloněním</string>
+    <string name="display_effect_type_hue_cool">Chladné barvy</string>
+    <string name="display_effect_buttom_text_cancel">Zrušit</string>
+    <string name="display_effect_mode_default_summary">Výchozí režim z výroby pro optimální barvy.</string>
+    <string name="display_effect_mode_auto_summary">Automaticky přepíná režimy v závislosti na aplikaci prohlížeče a prostředí.</string>
+    <string name="display_effect_type_hue">Tón</string>
+    <string name="display_effect_mode_default_title">Výchozí režim</string>
+    <string name="display_effect_mode_comfirtable_title">Komfortní režim</string>
+    <string name="display_effect_type_hue_default">Normální</string>
+    <string name="display_effect_type_contrast_sharp">Ostré barvy</string>
+    <string name="display_effect_mode_comfirtable_summary">Chrání vaše oči a je vhodný při dlouhodobém čtení webů v telefonu.</string>
+    <string name="display_effect_type_hue_warm">Teplé barvy</string>
+    <string name="display_effect_type_saturation">Sytost</string>
+    <string name="display_effect_type_contrast_soft">Pastelové barvy</string>
+    <string name="display_effect_mode_auto_title">Automatický režim</string>
+    <string name="display_effect_mode_ultra_bright_summary">Efekt superjasného displeje. Tento režim ovlivňuje spotřebu energie v pohotovostním režimu.</string>
+    <string name="display_effect_type_saturation_default">Normální</string>
+    <string name="display_effect_smart_brightness_title">Režim pro přímé světlo Smart</string>
+    <string name="display_effect_buttom_text_apply">Použít</string>
+    <string name="display_effect_mode_ultra_bright_title">Superjasný režim</string>
+    <string name="display_effect_category_title_commom_mode">Běžný režim</string>
+    <string name="display_effect_mode_outdoor_title">Režim pro přímé světlo</string>
+    <string name="display_effect_type_contrast_default">Normální</string>
+    <string name="display_effect_type_saturation_bright">Jasné barvy</string>
+    <string name="display_effect_type_contrast">Kontrast</string>
+    <string name="display_effect_mode_outdoor_summary">Vhodný pro použití venku za přímého slunečního světla. Zvyšuje viditelnost při použití venku. Tento režim ovlivňuje pohotovostní funkce. Běžní uživatelé by měli být obezřetní!</string>
+    <string name="display_effect_mode_custom_title">Vlastní</string>
+    <string name="display_effect_type_saturation_soft">Pastelové barvy</string>
+    <string name="display_effect_mode_custom_summary">Nastavte každou hodnotu parametrů ručně.</string>
+    <string name="display_effect_smart_brightness_summary">Technologie Smart rozpozná, kdy je telefon na přímém světle, a aktivuje režim pro přímé světlo. Tento režim zvyšuje viditelnost při použití venku za přímého světla.</string>
+<string name="device_info" msgid="3191876744469364173">"Informace o zařízení"</string>
+
+    <string name="display_effect_category_title_smart">Smart</string>
+<string name="pocket_mode_title">"Kapesní režim"</string>
+<string name="pocket_mode_summary">"Režim Maximalizace hlasitosti vyzvánění v kapse nebo v pouzdře"</string>
+<string name="pocket_mode_help">"Režim Maximalizace hlasitosti vyzvánění v kapse nebo v pouzdře"</string>
+<string name="ringtone_weaken_title">Snížit hlasitost tónu</string>
+<string name="ringtone_weaken_summary">Automaticky sníží hlasitost vyzváněcího tónu po uchopení telefonu</string>
+<string name="ringtone_weaken_help">Hlasitost vyzváněcího tónu se po uchopení telefonu sníží.</string>
+<string name="gesture_topspeed_snap_title">Mimořádně rychlé focení</string>
+<string name="gesture_topspeed_snap_summary">Poklepáním na tlačítko Domů, když je obrazovka vypnutá, můžete fotit</string>
+<string name="gesture_light_up_screen_title">"Dvojitým kliknutím probuďte/vypněte obrazovku"</string>
+<string name="gesture_light_up_screen_summary">"Dvojitým kliknutím kamkoli na displeji probuďte vypnutou obrazovku, dvojitým kliknutím kamkoli na zamknutou obrazovku nechte zařízení přejít do spánku"</string>
+<string name="usb_detail_message">Spravujte svůj telefon přes počítač. Oficiální software Lenovo naleznete na webové stránce http://sj.lenovo.com.</string>
+<string name="bluetooth_confirm_device_pair">Pro párování s:</string>
+<string name="wifi_ap_less">Odhlásit dobrý příjem</string>
+<string name="usb_adb_summary">Spusťte režim ladění. Spravujte svůj telefon přes počítač. Doporučuje se používat oficiální software.</string>
+<string name="wifi_ap_more">Zobrazit všechny přístupové body</string>
+<string name="bluetooth_confirm_passkey_show">Ujistěte se, že zobrazuje toto heslo:</string>
+<string name="usb_adb_title">Ladění USB (ADB)</string>
+<string name="wifi_wapi_cert_install">Instalovat certifikát WAPI</string>
+<string name="location_agps_pref_apn_title">Upřednostňované APN</string>
+<string name="location_agps_roaming_help">Varování: Volbou VŠECHNY SÍTĚ k otevření AGPS může dojít ke ztrátě telefonních poplatků při roamingu!</string>
+<string name="wifi_wapi_cert_install_button">Instalovat</string>
+<string name="wifi_wapi_cert_create_subdir">Vytvořit adresář</string>
+<string name="wifi_wapi_cert_mgmt_user_dont_exist">Zadejte název uživatelského certifikátu</string>
+<string name="wifi_wapi_user_cert">Uživatelský certifikát</string>
+<string name="location_agps_apn_summary">Zvolte upřednostňovaný typ APN</string>
+<string name="location_agps_apn_choose_dialog_title">Typy APN</string>
+<string name="location_agps_si_mode_dialog_title">Metoda AGPS</string>
+<string name="wifi_wapi_cert_mgmt_subdir_exist">Zadejte jiný název adresáře, tento existuje</string>
+<string name="location_agps_pref_reset_type_title">Upřednostňovaný typ resetování</string>
+<string name="wifi_wapi_as_cert">Certifikát AS</string>
+<string name="supl_not_set">"&lt;Nenastaveno&gt;"</string>
+<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Zadejte název adresáře, který chcete vytvořit.</string>
+<string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Formát uživatelského certifikátu je nesprávný! Nainstalujte správný uživatelský certifikát</string>
+<string name="location_agps_si_mode">Režim AGPS SI</string>
+<string name="location_agps_reset_type_summary">Zvolte upřednostňovaný typ resetování</string>
+<string name="location_agps_supl_settings">Nastavení SUPL</string>
+<string name="wifi_wapi_cert_mgmt_subdir_create_fail">Vytvoření adresáře se nezdařilo</string>
+<string name="wifi_wapi_cert_mgmt_as_dont_exist">Karta SD nemá certifikát AS, zkontrolujte jej prosím.</string>
+<string name="invalid_network_mode">Neplatný režim sítě</string>
+<string name="location_agps_si_mode_summary">Zvolte upřednostňovanou metodu AGPS</string>
+<string name="location_agps_reset_type">Resetovat typy</string>
+<string name="not_support_choose">Slot 2 nepodporuje výběr režimu sítě</string>
+<string name="location_agps_supl_server_addr">Adresa serveru</string>
+<string name="location_agps_pref_si_title">Upřednostňovaný režim</string>
+<string name="location_agps_def_reset_type">HORKÉ</string>
+<string name="wifi_wapi_cert_uninstall">Odinstalovat certifikát WAPI</string>
+<string name="location_agps_def_network_mode">DOMŮ</string>
+<string name="wifi_wapi_cert_mgmt_as_name_is_empty">Zadejte název certifikátu</string>
+<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Formát tohoto certifikátu je nesprávný! Nainstalujte správně jako certifikát</string>
+<string name="location_agps_apn_type">Typy APN</string>
+<string name="location_agps_register_network_type">Typ přístupu k síti</string>
+<string name="wifi_wapi_cert_uninstall_button">Neinstalovat</string>
+<string name="location_agps_supl_server_port">Port serveru</string>
+<string name="location_agps_register_network_type_summary">Zvolte přístupovou síť pro povolení AGPS...</string>
+<string name="location_agps_params_settings_title">Nastavení AGPS</string>
+<string name="wifi_wapi_cert_mgmt_titlebar">Správa certifikátů WAPI</string>
+<string name="wifi_wapi_cert_cancel_button">"Zrušit"</string>
+<string name="wifi_wapi_cert_delet_subdir">Vybrat vhodný certifikát</string>
+<string name="wifi_wapi_cert_mgmt_user_name_is_empty">Zadejte název uživatelského certifikátu</string>
+<string name="location_agps_pref_network_title">Upřednostňovaná síť</string>
+<string name="location_agps_register_network_type_dialog_title">Vybrat síť</string>
+<string name="smart_standby_enable_title">"Chytrý pohotovostní režim Smart Standby"</string>
+<string name="smart_standby_enable_summary">"Obrazovka se rozsvítí, když se na ni podíváte"</string>
+<string name="phone_storage_info">Paměť telefonu</string>
+    <string name="usb_detail_title">Získat oficiální software Lenovo</string>
+    <string name="processor_unit_info">Jádra</string>
+    <string name="night_mode_tip_secure_button">Zakažte režim nočního čtení a poté klepněte znovu</string>
+    <string name="location_agps_reset_type_choose_dialog_title">Všechny typy zahájení</string>
+    <string name="wide_touch_help">Klepnutím na plovoucí tlačítko otevřete zástupce a panel aplikací.</string>
+    <string name="lenovo_cloud">Cloudová služba</string>
+    <string name="zone_auto_summaryOn_not_row">"Použít časové pásmo ze sítě. Tato funkce závisí na poskytovateli služeb a v některých zemích není podporována"</string>
+    <string name="zone_auto_summaryOff_not_row">"Použít časové pásmo ze sítě. Tato funkce závisí na poskytovateli služeb a v některých zemích není podporována"</string>
+    <string name="location_agps_settings_title">NastaveníAGPS</string>
+    <string name="night_mode_notification_title">Režim nočního čtení povolen</string>
+    <string name="night_mode_notification_text">Klepnutím režim nočního čtení zakážete</string>
+<string name="wifi_account_share">@string/wlan_share</string>
+<string name="wifi_status_test">Stav WLAN</string>
+<string name="wifi_signal_strong_title">"Zesílení signálu WLAN"</string>
+<string name="wifi_signal_strong_summary">"Automaticky zesiluje signál, aby bylo v případě slabého signálu dosaženo lepšího připojení."</string>
+    <string name="do_not_distube">"Režim Nerušit"</string>
+    <string name="gesture_light_up_off_screen_title">"Dvojitým kliknutím probuďte/vypněte obrazovku"</string>
+
+    <string name="StorageDialog_summary">Bylo zjištěno vyjmutí externího úložiště, proto se nyní systém přepne na integrované úložiště a restartuje se. Skutečně restartovat? \n\n Pokud jste externí úložiště znovu vložili, není třeba restartovat.</string>
+    <string name="StorageDialog_comfirm">Restartovat</string>
+    <string name="StorageDialog_title">Upozornění</string>
+    <string name="dlg_default_write_disk_encrypted_msg">Pokud chcete lépe chránit své soukromí, primární úložiště by mělo být u šifrovaného telefonu vždy nastaveno na vestavěné úložiště.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="app_name">"WLAN Sinyal Yükseltme"</string>
+<string name="dlg_msg">"Çok zayıf WLAN sinyali algılandı. WLAN Sinyal Yükseltme, daha iyi bir ağ bağlantısı için otomatik olarak etkinleştirildi. Sistem Ayarları-WLAN bölümünde işlev ayarlarını değiştirebilirsiniz."</string>
+<string name="dlg_ok">"Tamam"</string> 
+<string name="dlg_no">"hayır"</string>
+</resources>

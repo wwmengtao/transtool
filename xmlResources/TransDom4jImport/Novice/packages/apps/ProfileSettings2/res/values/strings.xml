@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="yes" msgid="4676390750360727396">Yes"</string>
+    <string name="no" msgid="6731231425810196216">"None"</string>
+    <string name="silent_mode_title" msgid="3181479108593217704">"Mute mode"</string>
+    <string name="ringtone_title" msgid="5379026328015343686">"Ringtone"</string>
+    <string name="ringtone_summary" msgid="2630023412632683493"/>
+    <string name="all_volume_title" msgid="4296957391257836961">"Volume"</string>
+    <string name="musicfx_title" msgid="3415566786340790345">"Music effects"</string>
+    <string name="ring_volume_title">Volumes</string>
+    <string name="vibrate_in_silent_title" msgid="3897968069156767036">"Vibrate when mute"</string>
+    <string name="vibrate_title" msgid="6045820877942801599">"Vibrate"</string>
+    <string name="sound_settings_title" msgid="8735891486683305886">"Sound"</string>
+    <string name="silent_mode_summary" msgid="3309650676072917899">"All sounds are muted except media and clock"</string>
+    <string name="silent_mode_incl_alarm_summary" msgid="2088830834182228458">"Mute all non-multimedia sounds"</string>
+    <string name="ring_volume_summary">"Set volume for call, message and notification alert tones"</string>
+    <string name="vibrate_in_silent_summary" msgid="3312600513070076281">"Permit vibration feedback in mute mode"</string>
+    <string name="vibrate_summary" msgid="7378130397830790458">"Vibrate device for incoming calls and messages"</string>
+    <string name="notification_sound_title" msgid="312032901303146002">"System Notification"</string>
+    <string name="notification_pulse_title" msgid="1247988024534030629">"Indicator light flashes when there is notification"</string>
+    <string name="incoming_call_volume_title" msgid="8073714801365904099">Ringtones</string>
+    <string name="notification_volume_title" msgid="2012640760341080408">"Notification"</string>
+    <string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"Take incoming call volume as notification volume"</string>
+    <string name="notification_sound_summary" msgid="2953599929394109819"/>
+    <string name="notification_pulse_summary" msgid="6899220780534617152">"When new notification is received, the track ball indicator light flashes continuously"</string>
+    <string name="notification_sound_dialog_title" msgid="9052854168612951170">"Select notification ringtone"</string>
+    <string name="media_volume_title" msgid="3576565767317118106">"Media"</string>
+    <string name="media_volume_summary" msgid="5363248930648849974">"Set music and video volume"</string>
+    <string name="alarm_volume_title" msgid="2285597478377758706">"Clock"</string>
+    <string name="dtmf_tone_enable_title">Dialer tone</string>
+    <string name="sound_effects_enable_title">Touch sounds</string>
+    <string name="lock_sounds_enable_title" msgid="450098505659399520">Screen lock sound</string>
+    <string name="haptic_feedback_enable_title">Vibrate on touch</string>
+    <string name="audio_record_proc_title" msgid="4271091199976457534">"Noise reduction"</string>
+    <string name="volume_media_description" msgid="7949355934788807863">"Music, video, game, and other media"</string>
+    <string name="volume_ring_description">Call &amp; Message Alert Tones</string>
+    <string name="volume_notification_description" msgid="5810902320215328321">"Notification"</string>
+    <string name="volume_alarm_description" msgid="8322615148532654841">"Clock"</string>
+    <string name="dtmf_tone_enable_summary_on">Play sound when using dialer</string>
+    <string name="dtmf_tone_enable_summary_off">Play sound when using dialer</string>
+    <string name="sound_effects_enable_summary_on">Play sound when making screen selections</string>
+    <string name="sound_effects_enable_summary_off">Play sound when making screen selections</string>
+    <string name="lock_sounds_enable_summary_on" msgid="145741024028391473">"Play sound when locking and unlocking screen"</string>
+    <string name="lock_sounds_enable_summary_off" msgid="8481243116223542804">"Play sound when locking and unlocking screen"</string>
+    <string name="haptic_feedback_enable_summary_on" msgid="1875779656524793053">"Vibrate when pressing soft keys and on certain UI interactions"</string>
+    <string name="haptic_feedback_enable_summary_off" msgid="7287885436963105314">"Vibrate when pressing soft keys and on certain UI interactions"</string>
+    <string name="audio_record_proc_summary" msgid="8113628457499616498">"Reduce background noise when on a call or recording""</string>
+    <string name="Ringtone_profile_title">Ringtone setup</string>
+    <string name="Ringtone_profile_summary">Set up ringtone and message alert</string>
+    <string name="turn_cr_title">"Polyphonic ringtone"</string>
+    <string name="turn_cr_on">"Get polyphonic ringtone service"</string>
+    <string name="turn_cr_off">"Polyphonic ringtone set to OFF"</string>
+    <string name="turn_cr_title_ongoing">"Getting polyphonic ringtone setup message now"</string>
+    <string name="turn_cr_title_success">"Polyphonic ringtone setup message acquired successfully"</string>
+    <string name="turn_cr_title_fail">"Polyphonic ringtone setup message acquiring failed"</string>
+    <string name="turn_cr_sms_fail">"Polyphonic ringtone setup message sending failed"</string>
+
+    <!-- Profile Settings -->
+    <string name="profile_select_label">Audio profiles</string>
+    <string name="profile_options_label">Profile personalization settings</string>
+    <string name="general_profile_title">General</string>
+    <string name="silence_profile_title">Silent</string>
+    <string name="meeting_profile_title">Vibration</string>
+    <string name="outdoors_profile_title">Outdoor</string>
+    <string name="general_profile_summary">Change system tones, vibration, call &amp; message alert tones</string>
+    <string name="meeting_profile_summary">Switch on/off haptic feedback settings</string>
+    <string name="silence_profile_summary">Switch on/off haptic feedback settings</string>
+    <string name="outdoors_profile_summary">Change system tones, vibration, call &amp; message alert tones</string>
+    <string name="sum_profile_settings">Switch profile settings and profile personalization settings</string>
+    <string name="set_profile_title">Personalization settings</string>
+    <string name="call_ringtone_title">Incoming call Ringer</string>
+    <string name="call_ringtone_summary">Set ringtone for calls</string>
+    <string name="message_sound_title">Message Alert Tone</string>
+    <string name="message_sound_summary">Set ringtone for MMS and SMS</string>
+    <string name="mail_sound_title">Email alert sound</string>
+    <string name="mail_sound_summary">Set up email alert sound</string>
+    <string name="alarm_alert_title">Schedule alert sound</string>
+    <string name="alarm_alert_summary">Set up schedule alert sound</string>
+    <string name="push_sound_title">Push service alert sound</string>
+    <string name="push_sound_summary">Set up push service alert sound</string>
+    <string name="push_mail_ringtone_switch_title">Push service and email alert sound</string>
+    <string name="push_mail_ringtone_switch_summary_on">Ringtone reminder is opened</string>
+    <string name="push_mail_ringtone_switch_summary_off">Ringtone reminder is closed</string>
+    <string name="startup_sound_title">Lenovo Tone</string>
+    <string name="startup_sound_summary_on">Enable Lenovo tone during power on/off</string>
+    <string name="startup_sound_summary_off">Enable Lenovo tone during power on/off</string>
+    <string name="remind_title">Reminder method</string>
+    <string name="remind_summary">Set up overall reminders</string>
+    <string name="profile_settings">Audio profiles</string>
+    <string name="progress_title">Profile settings</string>
+    <string name="progress_message">Please wait…</string>
+
+    <!-- Mini -->
+    <string name="volume">Volume</string>
+    <string name="ringtone_settings_title">Incoming calls</string>
+    <string name="feedback_title">System</string>
+    <string name="threeg_call_sound_title">Ringtone</string>
+    <string name="threeg_message_sound_title">Message alert sound</string>
+    <string name="twog_call_sound_title">Ringtone</string>
+    <string name="twog_message_sound_title">Message alert sound</string>
+    <string name="threeg_unable">SIM Card1 unavailable</string>
+    <string name="twog_unable">SIM Card2 unavailable</string>
+    <string name="convention">General</string>
+    <string name="cate_call_ringtone">Incoming calls</string>
+    <string name="cate_message_ringtone">Messaging</string>
+    <string name="sim_call">Call Alert Tone</string>
+    <string name="sim_call_one">Call Alert Tone (SIM 1)</string>
+    <string name="sim_call_two">Call Alert Tone (SIM 2)</string>
+    <string name="sim_message_one">Message Alert Tone</string>
+    <string name="sim_message_sim_one">Message Alert Tone (SIM 1)</string>
+    <string name="sim_message_sim_two">Message Alert Tone (SIM 2)</string>
+    <string name="set_default_phone_ringtone">"Set your default call alert tone"</string>
+    <string name="set_default_message_ringtone">Set your default message alert tone</string>
+    <string name="message">Messaging</string>
+    <string name="audio_profile_add">Add</string>
+    <string name="audio_profile_reset">Reset</string>
+    <string name="audio_profile_rename">Rename</string>
+    <string name="audio_profile_message_rename">Please input the new profile name</string>
+    <string name="profile_category_custom_title">User defined profiles</string>
+    <string name="profile_category_checked_title">Profiles settings</string>
+    <string name="audio_profile_message_overflow">You are only allowed to add 4 custom profiles</string>
+    <string name="audio_profile_message_name_error">The name input is already existed</string>
+    <string name="audio_profile_message_name_length_wrong">Name must contain at least one character</string>
+    <string name="audio_profile_error">Error</string>
+    <string name="audio_profile_message_reset">All the audio profile settings will be reset to default</string>
+    <string name="audio_profile_delete">Delete</string>
+    <string name="audio_profile_message_delete">Profile <xliff:g id="profile">%s</xliff:g> will be deleted</string>
+    <string name="audio_profile_enable">Enable</string>
+    <string name="volume_media_mute">"Mute music &amp; other media"</string>
+    <string name="volume_ring_mute">"Mute ringtone &amp; notifications"</string>
+    <string name="volume_notification_mute">"Mute notifications"</string>
+    <string name="volume_alarm_mute">"Mute alarms"</string>
+    <string name="ringtone_and_sound_settings">"Ringtone and volumes"</string>
+    <string name="set_default_notification_ringtone">Set default System alert tone</string>
+
+</resources>

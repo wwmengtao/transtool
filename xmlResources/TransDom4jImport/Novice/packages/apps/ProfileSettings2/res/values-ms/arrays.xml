@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string-array name="silent_mode_entries">
+    
+    
+    
+  <item>"Tutup"</item>
+        <item>"Getaran"</item>
+        <item>"Senyap"</item>
+    </string-array>
+</resources>

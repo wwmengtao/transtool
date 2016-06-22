@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"WLAN位置绑定"</string>
+    <string name="setting_activity">"WLAN位置绑定"</string>
+    <string name="dialog_title">"连接WLAN"</string>
+    <string name="dialog_text">"当前处于绑定的无线网络的覆盖范围内，是否连接该无线网络？"</string>
+    <string name="disable_dialog_title">"关闭WLAN"</string>
+    <string name="disable_dialog_text">当前已离开绑定的无线网络的覆盖范围，是否关闭WLAN？</string>
+    <string name="show_dialog">不再提醒</string>
+    <string name="disable_show_dialog">不再提醒</string>  
+    <string name="wifi_enable_text">进入网络范围处理方式</string>
+    <string name="wifi_enable_summary">当进入使用过的AP范围，在信号高于2格且有GPRS流量时，打开WLAN</string>
+    <string name="wifi_disable_text">离开网络范围处理方式</string>
+    <string name="wifi_disable_summary">当离开连接AP的位置，提醒关闭WLAN</string>
+    <string name="wifi_setting_summary">绑定连接过的无线网络，之后在该无线网络覆盖范围内如果如检测到手机卡上网且该无线网络的信号大于2格，则提醒或自动连接该无线网络</string>
+	<string name="wifi_popup_tip">弹出提示</string>
+	<string name="wifi_auto_enable">自动连接</string>
+	<string name="wifi_auto_disable">自动关闭</string>
+	<string name="wifi_popup_0">绑定连接的AP，下次进入该区域弹出提示</string>
+	<string name="wifi_popup_1">绑定连接的AP，下次进入该区域自动打开</string>
+	<string name="wifi_popup_2">不绑定WLAN</string>
+	<string name="confirm_yes">是</string>
+	<string name="confirm_no">否</string>
+</resources>

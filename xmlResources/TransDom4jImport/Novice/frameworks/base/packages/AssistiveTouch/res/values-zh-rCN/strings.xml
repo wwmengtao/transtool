@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">AssistTouch</string>
+    <string name="service_name">assistive touch service</string>
+    <string name="normal_mode">普通环境</string>
+    <string name="security_mode">安全环境</string>
+</resources>

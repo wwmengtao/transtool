@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="silent_mode_entries">
+    
+    
+    
+  <item>Zapri\"</item>
+        <item>"Vibriranje"</item>
+        <item>"Nemo"</item>
+    </string-array>
+</resources>

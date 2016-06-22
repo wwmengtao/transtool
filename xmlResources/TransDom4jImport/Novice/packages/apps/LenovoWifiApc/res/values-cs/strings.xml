@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string name="app_name">"Zesílení signálu WLAN"</string>
+<string name="dlg_msg">"Rozpoznán velmi slabý signál sítě WLAN. Byla automaticky aktivována funkce Zesílení signálu WLAN za účelem zlepšení připojení k síti. Nastavení funkce můžete upravit v části Systémová nastavení – WLAN."</string>
+<string name="dlg_ok">"OK"</string> 
+<string name="dlg_no">"ne"</string>
+</resources>

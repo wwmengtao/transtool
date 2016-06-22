@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general_sync_settings">Genel eşzamanlama ayarları</string>
+    <string name="sync_interval_settings">Eşzamanlama aralık ayarları</string>
+    <string name="try_sso_again">Toplu oturum açmayı tekrar dene</string>
+    <string name="for_syncing">Eşzamanlama için</string>
+</resources>

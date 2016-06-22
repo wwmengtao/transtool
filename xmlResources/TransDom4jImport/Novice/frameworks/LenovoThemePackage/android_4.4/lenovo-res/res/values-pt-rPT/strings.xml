@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+    <string name="storage_sd_card">"Cartão SD"</string>
+    <string name="storage_usb">"Armazenamento USB"</string>
+    <string name="storage_phone">"Armazenamento USB"</string>
+    <string name="storage_external_usb">Armazenamento USB externo</string>
+    <string name="ext_storage_internal_notification_title">Preparando Armazenamento Interno</string>
+    <string name="ext_storage_external_notification_title">Preparando Armazenamento Externo</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Ativar Modo de Avião?</string>
+    <string name="usb_notification_title">Configurações da Conexão USB</string>
+    <string name="usb_notification_content">Selecionar modo de montagem usb e depuração adb.</string>
+    <string name="default_string">"Predefinido"</string>
+    <string name="capital_on">"Activado"</string>
+    <string name="capital_off">"Desactivar"</string>
+    <string name="kg_forgot_password_button_text">Senha esquecida</string>
+    <string name="global_action_reboot">"Reiniciar"</string>
+    <string name="reboot_confirm_title">"Reiniciar"</string>
+    <string name="silent_mode_silent">"Desativar som"</string>
+    <string name="silent_mode_vibrate">Reunião</string>
+    <string name="silent_mode_normal">Geral</string>
+    <string name="silent_mode_outdoor">Ar livre</string>
+    <string name="long_back_exit_info">sair</string>
+    <string name="prevent_misoperation_title">Modo de prevenção contra discagem no bolso</string>
+    <string name="captive_portal_dialog_title">"Iniciar sessão na rede WLAN"</string>
+    <string name="captive_portal_dialog_button">"Iniciar sessão"</string>
+    <string name="volume_icon_description_ringer">Toque</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">"Chamada"</string>
+    <string name="volume_alarm">Alarme</string>
+    <string name="volume_fm">FM</string>
+    <string name="volume_matv">TV Móvel</string>
+    <string name="volume_icon_description_media">"Multimédia"</string>
+    <string name="volume_icon_description_notification">Notificação</string>
+    <string name="turn_on_data">Ligar</string>
+    <string name="keyguard_password_waring_dlg_title">Palavra-passe errada</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">O Bluetooth será desativado quando ativar a exibição sem fios. Deseja continuar?</string>
+    <string name="author">"Google"</string>
+    <string name="app_name">Clássica</string>
+    <string name="reboot_dialog_msg">"Pressione a tecla liga/desliga para desligar depois de <xliff:g id="DELAY">^1</xliff:g> segundos. Continue para pressionar com 2 segundos para reinicializar depois de desligar."</string>
+    <string name="dlg_ipo_confirm_warning">No modo de inicialização rápida, o sistema não está completamente desligado, não conecte o cartão SIM ou o cartão de memória nesse estado porque isso pode danificar o cartão.</string>
+    <string name="dlg_use_ipo_confirm">Inicialização rápida na próxima inicialização</string>
+    <string name="turn_on_mobile_data_warning">Ative a conexão de dados, o telefone móvel irá utilizar alguns dados GPRS. As taxas específicas estão a cargo dos operadores. Tem certeza de que deseja abrir?</string>
+    <string name="turn_off_data">Desativar</string>
+    <string name="prevent_misoperation_message">Não cobrir o topo da tela</string>
+    <string name="reboot_confirm_msg">O gancho do telefone será reinicializado</string>
+    <string name="powerOnWarning_boot_msg">Próximo PowerOn: %1$s</string>
+    <string name="powerOnWarning_alarm_msg">Próximo AlarmClock: %1$s</string>
+    <string name="next_time_no_warning">Não avisar na próxima vez.</string>
+    <string name="prevent_misoperation_quit_hint">Forçar saída: pressione a tecla \"Voltar\" + \"Aumentar Volume\"</string>
+    <string name="keyguard_password_attempts_warning">Tentou desbloquear o telefone incorretamente <xliff:g id="number">%d</xliff:g> vezes.
+       Após mais <xliff:g id="number">%d</xliff:g> tentativas sem êxito,
+       serão respostas as predefinições de origem do telefone, perdendo todos os dados de utilizador.</string>
+    <string name="msg_shutdown_habit_guess">"Desligou recentemente o dispositivo três vezes, durante este período. 
+Pretende aceder às definições de ativação programada?"</string>
+    <string name="not_support_too_long_string">Pesquisa demasiado longa não suportada</string>
+    <string name="keyguard_password_waring_dlg_remind">Introduza lenovo e clique em OK para continuar.</string>
+    <string name="keyguard_password_dlg_input_err">Erros de entrada, tente novamente</string>
+    <string name="captive_portal_dialog_message">É necessário iniciar sessão na rede WLAN atual antes de aceder à Internet. Inicie sessão primeiro</string>
+    <string name="component">ideafriend</string>
+    <string name="description">Tema Snoopy Lenovo PhoneApp</string>
+</resources>

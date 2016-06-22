@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+<srcdir>
+D:\Software\Temp\new
+</srcdir>
+<targetdir>
+D:\Software\Temp\miss
+</targetdir>
+<outdir>
+D:\Software\Temp\reuse
+</outdir>
+<locales>pt-rBR</locales>
+<exclude-path>LenovoThemePackage </exclude-path>
+<exclude-path>  	services </exclude-path>
+<exclude-path>InCallUI</exclude-path>
+</config>
