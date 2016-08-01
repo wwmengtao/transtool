@@ -8,6 +8,7 @@ D:\WorkMaterial\CAJ\Java_Android\Applications\translatetool_UTF8\xmlResources\Se
 <file>facebook_strings.xml</file>
 <file>mtstrings.xml</file>
 <file>strings1.xml</file>
+<file>strings.xml</file>
 </strings.xml>
 <!--files could be merged into arrays.xml-->
 <arrays.xml>

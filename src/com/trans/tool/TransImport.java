@@ -19,6 +19,10 @@ public class TransImport extends TransCommon{
 		}
 	}
 	
+	public TransImport(){
+		
+	}
+	
 	public TransImport(File configFile){
 		ParseConfigFile(configFile);
 	}
@@ -44,7 +48,7 @@ public class TransImport extends TransCommon{
 		myFilenameFilter myfilter = new myFilenameFilter(); 
 		String import_srcFile,import_targetFile;
 		getSrcXmlFiles(new File(srcdir),myfilter);
-		//long startTime = System.currentTimeMillis();  
+		if(null==listofSrcXmlFiles||0==listofSrcXmlFiles.size())return;
 		for(int i=0;i<listofSrcXmlFiles.size();i++)	{
 			import_srcFile=listofSrcXmlFiles.get(i).getAbsolutePath();
 			import_targetFile=import_srcFile.replace(srcdir, targetdir);
@@ -77,6 +81,7 @@ public class TransImport extends TransCommon{
 	*/ 
 	public void getSrcXmlFiles(File srcDir, myFilenameFilter filter) { 
 		File[] files = srcDir.listFiles(); 
+		if(null==files || 0==files.length)return;
 		for (File file : files) { 
 			if(!file.isDirectory()){
 				if(filter.accept(file, file.getAbsolutePath())){

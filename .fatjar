@@ -1,7 +1,7 @@
 #Fat Jar Configuration File
-#Mon May 04 11:37:34 CST 2015
+#Fri Jul 29 19:33:58 CST 2016
 onejar.license.required=false
-manifest.classpath=com.trans.tool.TransSearch com.trans.tool.TransFileFilter com.trans.tool.TransFileMerge com.trans.tool.TransMiss com.trans.tool.TransReuse com.trans.tool.TransImport com.trans.tool.TransInsert  com.trans.tool.TransRmDupli com.trans.tool.TransSrCytoLatin
+manifest.classpath=com.trans.tool.TransSearch com.trans.tool.TransFileFilter com.trans.tool.TransFileMerge com.trans.tool.TransMiss com.trans.tool.TransReuse com.trans.tool.TransImport com.trans.tool.TransInsert  com.trans.tool.TransRmDupli com.trans.tool.TransSrCytoLatin com.trans.tool.TransReorder
 manifest.removesigners=true
 onejar.checkbox=false
 jarname=TranslateTool.jar

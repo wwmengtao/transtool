@@ -18,13 +18,14 @@ import org.dom4j.io.SAXReader;
 import org.dom4j.io.XMLWriter;
 
 public class TransCommon {
-	static boolean isInConsoleEnviroment=true;
+	static boolean isInConsoleEnviroment=false;
 	static String fileName_filter 		="filenameFilter.xml";	
 	//以下文件/目录名称为调试状态下使用
 	static String fileName_miss		="ConfigeFiles\\Dom4j\\missing_translation.xml";
 	static String fileName_reuse		="ConfigeFiles\\Dom4j\\reuse_translation.xml";
 	static String fileName_import 	="ConfigeFiles\\Dom4j\\import_translation.xml";
 	static String fileName_insert 		="ConfigeFiles\\Dom4j\\insertTrans.xml";
+	static String fileName_reorder = "ConfigeFiles\\Dom4j\\reorder_translation.xml";
 	String outFileFormat="\n";
 	String FORMAT_RESOURCE="resources";
 	String Namespace1="xliff",Namespace2="urn:oasis:names:tc:xliff:document:1.2";
@@ -174,6 +175,7 @@ public class TransCommon {
 				OutputFormat of=new OutputFormat("",false);//用于控制节点的输出格式
 				of.setEncoding("utf-8");
 				XMLWriter writer = new XMLWriter(new FileWriter(outFile),of);
+				//writer.setEscapeText(false);//防止字符转义
 				writer.write(doc_outFile);
 				writer.close();
 	    }catch(Exception ex){

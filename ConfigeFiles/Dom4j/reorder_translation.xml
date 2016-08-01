@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+<attrName>
+product
+</attrName>
+<attrValueAbove>
+tablet
+</attrValueAbove>
+<attrValueBelow>
+default
+</attrValueBelow>
+<remainElements>
+true
+</remainElements>
+<srcdir>
+E:\Bat_shell\Python\translation_reorder
+</srcdir>
+</config>
+
